@@ -12,7 +12,7 @@ export default function LoadingCover() {
   useEffect(() => {
     // 确保在客户端渲染时才设置可见性
     if (onLoading) {
-      setIsVisible(true)
+      setIsVisible(false)
     } else {
       setIsVisible(false)
     }
