@@ -316,7 +316,7 @@ const Layout404 = props => {
   const router = useRouter()
   const { locale } = useGlobal()
   useEffect(() => {
-    // 延时3秒如果加载失败就返回首页
+    // 延时6秒如果加载失败就返回首页
     setTimeout(() => {
       if (isBrowser) {
         const article = document.querySelector('#article-wrapper #notion-article')
@@ -326,7 +326,7 @@ const Layout404 = props => {
           })
         }
       }
-    }, 3000)
+    }, 6000)
   })
   return (
     <>
