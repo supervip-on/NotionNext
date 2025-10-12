@@ -8,10 +8,11 @@ import { Layout404 } from '@/themes/hexo'
  * @param {*} props
  * @returns
  */
-// const NoFound = props => {
-//   const theme = siteConfig('THEME', BLOG.THEME, props.NOTION_CONFIG)
-//   return <DynamicLayout theme={theme} layoutName='Layout404' {...props} />
-// }
+/* const NoFound = props => {
+   const theme = siteConfig('THEME', BLOG.THEME, props.NOTION_CONFIG)
+   return <DynamicLayout theme={theme} layoutName='Layout404' {...props} />
+}
+*/ 
 
 const NoFound = props => {
    return <Layout404 {...props} />
