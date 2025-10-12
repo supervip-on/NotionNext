@@ -141,7 +141,8 @@ const LayoutBase = props => {
             </div>
 
             {/* 右侧栏 */}
-            <SideRight {...props} />
+            //<SideRight {...props} />
+            {router.route !== '/404' && <SideRight {...props} />}
           </div>
         </main>
 
