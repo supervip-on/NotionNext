@@ -260,12 +260,34 @@ const LayoutArchive = props => {
  * @param {*} props
  * @returns
  */
-const LayoutSlug = props => {
+/*const LayoutSlug = props => {
   const { post, lock, validPassword } = props
   // 新增：如果没有 post，直接渲染 404 组件 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
   if (!post) {
     return <Layout404 />
-  }
+  }*/
+  const LayoutSlug = props => {
+  const { post, lock, validPassword } = props
+  const router = useRouter()
+  const waiting404 = siteConfig('POST_WAITING_TIME_FOR_404') * 1000
+  useEffect(() => {
+    // 404
+    if (!post) {
+      setTimeout(
+        () => {
+          if (isBrowser) {
+            const article = document.querySelector('#article-wrapper #notion-article')
+            if (!article) {
+              router.push('/404').then(() => {
+                console.warn('找不到页面', router.asPath)
+              })
+            }
+          }
+        },
+        waiting404
+      )
+    }
+  }, [post])
   return (
     <>
       <div className='w-full lg:hover:shadow lg:border rounded-t-xl lg:rounded-xl lg:px-2 lg:py-4 bg-white dark:bg-hexo-black-gray dark:border-black article'>
