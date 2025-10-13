@@ -150,7 +150,11 @@ const SEO = props => {
       <meta property='og:image:alt' content={title} />
       <meta property='og:site_name' content={siteConfig('TITLE')} />
       <meta property='og:type' content={type} />
-
+      {/* 微信 元数据 */}                                     
+      <meta property='weixin:title' content={title} />
+      <meta property='weixin:description' content={description} />
+      <meta property='weixin:image' content={image} />
+                                                             
       {/* Twitter Card 元数据 */}
       <meta name='twitter:card' content='summary_large_image' />
       <meta name='twitter:site' content={siteConfig('TWITTER_SITE', '@NotionNext')} />
