@@ -66,6 +66,7 @@ class MyDocument extends Document {
         </Head>
 
         <body>
+          <img src="/wechat-share.jpg" style={{ visibility: 'hidden', height: 0, width: 0 }} />
           <Main />
           <NextScript />
         </body>
