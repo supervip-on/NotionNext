@@ -48,7 +48,7 @@ const SEO = props => {
   }
   if (meta) {
     url = `${url}/${meta.slug}`
-    image = 'https://aigc.feiqin.eu.org/wechat.jpg'
+    image = 'https://aigc.feiqin.eu.org/wechat.png'
   }
   const TITLE = siteConfig('TITLE')
   const title = meta?.title || TITLE
