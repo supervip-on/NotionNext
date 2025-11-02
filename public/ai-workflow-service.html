@@ -315,8 +315,8 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 0.875rem;
-            color: var(--dark-bg);
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
         }
 
         /* 页脚 */
@@ -572,7 +572,7 @@
                     <div class="contact-label">微信咨询</div>
                     <div class="contact-value">myaigcpro</div>
                     <div class="qrcode">
-                        <canvas id="wechat-qr"></canvas>
+                        <img src="/qrcode.png" alt="微信二维码" style="width: 100%; height: 100%; border-radius: 0.5rem;">
                     </div>
                     <p style="color: var(--text-secondary); font-size: 0.875rem;">扫码添加微信</p>
                 </div>
@@ -580,7 +580,7 @@
                     <div class="contact-label">微信公众号</div>
                     <div class="contact-value">MYAIGC</div>
                     <div class="qrcode">
-                        <canvas id="mp-qr"></canvas>
+                        <img src="/qrcode_myaigc.jpg" alt="微信公众号二维码" style="width: 100%; height: 100%; border-radius: 0.5rem;">
                     </div>
                     <p style="color: var(--text-secondary); font-size: 0.875rem;">扫码关注公众号</p>
                 </div>
@@ -649,42 +649,7 @@
             lastScrollTop = scrollTop;
         });
 
-        // 生成二维码
-        function generateQRCode(canvas, text) {
-            const ctx = canvas.getContext('2d');
-            const size = 150;
-            canvas.width = size;
-            canvas.height = size;
-            
-            // 简单的二维码占位符
-            ctx.fillStyle = '#000';
-            ctx.fillRect(0, 0, size, size);
-            ctx.fillStyle = '#fff';
-            ctx.fillRect(10, 10, size - 20, size - 20);
-            
-            // 绘制一些模拟二维码的图案
-            ctx.fillStyle = '#000';
-            const blockSize = 5;
-            for (let i = 0; i < size; i += blockSize * 2) {
-                for (let j = 0; j < size; j += blockSize * 2) {
-                    if (Math.random() > 0.5) {
-                        ctx.fillRect(i + 15, j + 15, blockSize, blockSize);
-                    }
-                }
-            }
-            
-            // 添加文字
-            ctx.fillStyle = '#fff';
-            ctx.font = '12px Arial';
-            ctx.textAlign = 'center';
-            ctx.fillText(text, size / 2, size - 10);
-        }
-
-        // 生成微信二维码
-        generateQRCode(document.getElementById('wechat-qr'), 'myaigcpro');
         
-        // 生成公众号二维码
-        generateQRCode(document.getElementById('mp-qr'), 'MYAIGC');
 
         // 鼠标跟随效果（可选）
         document.addEventListener('mousemove', (e) => {
