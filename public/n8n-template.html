@@ -494,21 +494,6 @@
 </head>
 
 <body>
-    <!-- 密码验证层 -->
-    <div id="password-overlay" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(13, 17, 23, 0.98);z-index:10000;display:flex;align-items:center;justify-content:center;">
-        <div style="text-align:center;padding:40px;background:rgba(22, 27, 34, 0.9);border-radius:12px;border:1px solid rgba(56, 139, 253, 0.2);max-width:400px;">
-            <h2 style="color:#fff;margin-bottom:10px;">访问验证</h2>
-            <p style="color:#8B949E;margin-bottom:20px;">请输入访问密码以继续</p>
-            <p style="color:#388BFD;margin-bottom:20px;font-size:14px;">关注公众号 "MYAIGC" 回复 "n8n" 获取密码</p>
-            <img src="/wechat.png" style="width:180px;margin:20px 0;border-radius:8px;" alt="微信公众号" />
-            <div style="display:flex;gap:10px;justify-content:center;">
-                <input type="password" id="password-input" placeholder="请输入密码" style="padding:10px;font-size:16px;background:rgba(22, 27, 34, 0.8);border:1px solid rgba(56, 139, 253, 0.3);border-radius:6px;color:#fff;width:200px;" />
-                <button onclick="checkPassword()" style="padding:10px 20px;background:#388BFD;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:16px;">验证</button>
-            </div>
-            <p id="error-message" style="color:#ff5555;margin-top:10px;display:none;">密码错误，请重试</p>
-        </div>
-    </div>
-
     <!-- 导航栏 -->
     <header class="site-header">
         <div class="header-container">
@@ -518,13 +503,14 @@
             <nav class="main-nav">
                 <ul class="nav-list">
                     <li class="nav-item"><a href="/">🏠 首页</a></li>
-                    <li class="nav-item"><a href="/tag/提示词">提示词教程</a></li>
-                    <li class="nav-item"><a href="/tag/LangChain">LangChain教程</a></li>
-                    <li class="nav-item"><a href="/tag/Dify">Dify 教程</a></li>
-                    <li class="nav-item"><a href="/tag/n8n">n8n 教程</a></li>
-                    <li class="nav-item"><a href="/about">关于我</a></li>
+                    <li class="nav-item"><a href="/prompt">提示词教程</a></li>
+                    <li class="nav-item"><a href="/langchain">LangChain教程</a></li>
+                    <li class="nav-item"><a href="/dify">Dify 教程</a></li>
+                    <li class="nav-item"><a href="/n8n">n8n 教程</a></li>
+                    <li class="nav-item"><a href="/about-me">关于我</a></li>
                 </ul>
             </nav>
+            
         </div>
     </header>
     
@@ -851,63 +837,8 @@
             // --- 页面初始加载 ---
             typeWriter(mainTitleEl, 'Workflow Automation Templates', 60);
             
-            // 检查密码验证状态
-            checkPasswordStatus();
-        });
-
-        // 密码验证相关函数
-        function checkPassword() {
-            const password = document.getElementById('password-input').value;
-            const correctPassword = 'n8n2024'; // 设置正确的密码
-            
-            if (password === correctPassword) {
-                // 设置验证状态，24小时有效
-                const expiryTime = new Date().getTime() + (24 * 60 * 60 * 1000);
-                localStorage.setItem('n8n-access', JSON.stringify({
-                    verified: true,
-                    expiry: expiryTime
-                }));
-                
-                // 隐藏密码验证层
-                document.getElementById('password-overlay').style.display = 'none';
-                
-                // 加载 JSON 数据
-                loadJSONData();
-            } else {
-                // 显示错误信息
-                document.getElementById('error-message').style.display = 'block';
-                setTimeout(() => {
-                    document.getElementById('error-message').style.display = 'none';
-                }, 3000);
-            }
-        }
-
-        function checkPasswordStatus() {
-            const accessData = localStorage.getItem('n8n-access');
-            
-            if (accessData) {
-                const data = JSON.parse(accessData);
-                const currentTime = new Date().getTime();
-                
-                // 检查是否在有效期内
-                if (data.verified && data.expiry > currentTime) {
-                    // 已验证且未过期，直接显示内容
-                    document.getElementById('password-overlay').style.display = 'none';
-                    loadJSONData();
-                } else {
-                    // 已过期，清除存储
-                    localStorage.removeItem('n8n-access');
-                }
-            }
-        }
-
-        // 监听回车键提交
-        document.addEventListener('DOMContentLoaded', () => {
-            document.getElementById('password-input').addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') {
-                    checkPassword();
-                }
-            });
+            // 自动加载 JSON 数据
+            loadJSONData();
         });
     </script>
 </body>
