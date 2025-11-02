@@ -606,6 +606,127 @@
             opacity: 1;
             pointer-events: auto;
         }
+
+        /* 下载按钮样式 */
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 15px;
+        }
+
+        .download-btn:hover {
+            background-color: #0077ED;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(10, 132, 255, 0.3);
+        }
+
+        .download-btn:active {
+            transform: translateY(0);
+        }
+
+        .download-btn.downloading {
+            background-color: #6c757d;
+            cursor: not-allowed;
+        }
+
+        .download-btn.downloading::after {
+            content: '';
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border: 2px solid transparent;
+            border-top: 2px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 6px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* 错误弹窗样式 */
+        .error-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 10000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .error-modal.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .error-modal-content {
+            background-color: var(--card-bg-color);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+            max-width: 400px;
+            width: 90%;
+            box-shadow: 0 8px 32px var(--shadow-color-heavy);
+            backdrop-filter: blur(10px);
+            text-align: center;
+            animation: element-fade-in 0.3s ease forwards;
+        }
+
+        .error-modal-content h3 {
+            color: var(--font-color);
+            margin-bottom: 1rem;
+            font-family: 'Source Code Pro', monospace;
+            font-size: 1.3rem;
+        }
+
+        .error-modal-content p {
+            color: var(--font-color-secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+        }
+
+        .error-modal-content .contact-info {
+            color: var(--primary-color);
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+
+        .error-modal-btn {
+            padding: 0.75rem 1.5rem;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .error-modal-btn:hover {
+            background-color: #0077ED;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(10, 132, 255, 0.3);
+        }
     </style>
 </head>
 
@@ -680,6 +801,16 @@
             <p>更多AI资料，请关注公众号：MYAIGC，如需定制 AI 工作流，添加微信：myaigcpro</p>
         </footer>
     </div>
+    </div>
+
+    <!-- 错误提示弹窗 -->
+    <div class="error-modal" id="error-modal">
+        <div class="error-modal-content">
+            <h3>资源不可用</h3>
+            <p>目前资源已下架，请联系客服获取。</p>
+            <div class="contact-info">客服微信：myaigcpro</div>
+            <button class="error-modal-btn" id="error-modal-btn">确定</button>
+        </div>
     </div>
 
     <script>
@@ -887,7 +1018,16 @@
                     const labelsHtml = (workflow.labels || '').split(/[,，]/)
                         .map(label => label.trim() ? `<span class="label">${label.trim()}</span>` : '')
                         .join('');
+                    
+                    // 创建下载按钮
+                    const downloadBtn = document.createElement('button');
+                    downloadBtn.className = 'download-btn';
+                    downloadBtn.innerHTML = '📥 下载模板';
+                    downloadBtn.dataset.workflowName = workflow.name;
+                    downloadBtn.addEventListener('click', () => downloadWorkflow(workflow.name));
+                    
                     card.innerHTML = `<h3>${workflow.name}</h3><div class="labels">${labelsHtml}</div><p>${workflow.description}</p>`;
+                    card.appendChild(downloadBtn);
                     fragment.appendChild(card);
                 });
                 resultsContainer.appendChild(fragment);
@@ -1031,12 +1171,120 @@
                 displayWorkflows(filteredWorkflows);
             }
 
+            // --- 下载功能相关函数 ---
+            
+            // 检查文件是否存在
+            async function checkFileExists(filename) {
+                try {
+                    const response = await fetch(`/workflows/${filename}`, { method: 'HEAD' });
+                    return response.ok;
+                } catch (error) {
+                    console.error('检查文件存在性时出错:', error);
+                    return false;
+                }
+            }
+            
+            // 显示错误弹窗
+            function showErrorModal() {
+                const errorModal = document.getElementById('error-modal');
+                errorModal.classList.add('show');
+            }
+            
+            // 隐藏错误弹窗
+            function hideErrorModal() {
+                const errorModal = document.getElementById('error-modal');
+                errorModal.classList.remove('show');
+            }
+            
+            // 下载工作流文件
+            async function downloadWorkflow(filename) {
+                // 查找对应的下载按钮
+                const downloadBtn = document.querySelector(`[data-workflow-name="${filename}"]`);
+                
+                try {
+                    // 设置下载中状态
+                    if (downloadBtn) {
+                        downloadBtn.classList.add('downloading');
+                        downloadBtn.innerHTML = '准备下载';
+                        downloadBtn.disabled = true;
+                    }
+                    
+                    // 检查文件是否存在
+                    const fileExists = await checkFileExists(filename);
+                    
+                    if (!fileExists) {
+                        // 文件不存在，显示错误弹窗
+                        showErrorModal();
+                        // 恢复按钮状态
+                        if (downloadBtn) {
+                            downloadBtn.classList.remove('downloading');
+                            downloadBtn.innerHTML = '📥 下载模板';
+                            downloadBtn.disabled = false;
+                        }
+                        return;
+                    }
+                    
+                    // 更新下载状态
+                    if (downloadBtn) {
+                        downloadBtn.innerHTML = '下载中';
+                    }
+                    
+                    // 获取文件内容
+                    const response = await fetch(`/workflows/${filename}`);
+                    if (!response.ok) {
+                        throw new Error(`下载失败: ${response.status}`);
+                    }
+                    
+                    const blob = await response.blob();
+                    
+                    // 创建下载链接
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = filename;
+                    document.body.appendChild(a);
+                    a.click();
+                    
+                    // 清理
+                    window.URL.revokeObjectURL(url);
+                    document.body.removeChild(a);
+                    
+                    // 恢复按钮状态
+                    if (downloadBtn) {
+                        downloadBtn.classList.remove('downloading');
+                        downloadBtn.innerHTML = '📥 下载模板';
+                        downloadBtn.disabled = false;
+                    }
+                    
+                } catch (error) {
+                    console.error('下载出错:', error);
+                    // 显示错误弹窗
+                    showErrorModal();
+                    // 恢复按钮状态
+                    if (downloadBtn) {
+                        downloadBtn.classList.remove('downloading');
+                        downloadBtn.innerHTML = '📥 下载模板';
+                        downloadBtn.disabled = false;
+                    }
+                }
+            }
+
             // --- 密码验证事件监听 ---
             passwordSubmit.addEventListener('click', verifyPassword);
             
             passwordInput.addEventListener('keypress', (e) => {
                 if (e.key === 'Enter') {
                     verifyPassword();
+                }
+            });
+            
+            // --- 错误弹窗事件监听 ---
+            document.getElementById('error-modal-btn').addEventListener('click', hideErrorModal);
+            
+            // 点击弹窗背景关闭弹窗
+            document.getElementById('error-modal').addEventListener('click', (e) => {
+                if (e.target.id === 'error-modal') {
+                    hideErrorModal();
                 }
             });
             
