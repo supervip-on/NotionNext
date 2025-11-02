@@ -596,7 +596,7 @@
                 function tryLoadData() {
                     if (pathIndex >= possiblePaths.length) {
                         console.error('所有路径都尝试失败');
-                        subTitleEl.textContent = '数据加载失败，请刷新页面重试';
+                        subTitleEl.textContent = '数据加载失败，请确保通过服务器访问此页面';
                         return;
                     }
                     
@@ -837,64 +837,8 @@
             // --- 页面初始加载 ---
             typeWriter(mainTitleEl, 'Workflow Automation Templates', 60);
             
-            // 检查密码验证状态
-            checkPasswordStatus();
-        });
-
-        // 密码验证相关函数
-        function checkPassword() {
-            const password = document.getElementById('password-input').value;
-            const correctPassword = 'nafno8nasdf20fasd24asdf234nhoinlg@dnsfafdinl#sdfad'; // 设置正确的密码
-            
-            if (password === correctPassword) {
-                // 设置验证状态，24小时有效
-                const expiryTime = new Date().getTime() + (168 * 60 * 60 * 1000);
-                localStorage.setItem('n8n-access', JSON.stringify({
-                    verified: true,
-                    expiry: expiryTime
-                }));
-                
-                // 隐藏密码验证层
-                document.getElementById('password-overlay').style.display = 'none';
-                
-                // 加载 JSON 数据
-                loadJSONData();
-            } else {
-                // 显示错误信息
-                document.getElementById('error-message').style.display = 'block';
-                setTimeout(() => {
-                    document.getElementById('error-message').style.display = 'none';
-                }, 3000);
-            }
-        }
-
-        function checkPasswordStatus() {
-            const accessData = localStorage.getItem('n8n-access');
-            
-            if (accessData) {
-                const data = JSON.parse(accessData);
-                const currentTime = new Date().getTime();
-                
-                // 检查是否在有效期内
-                if (data.verified && data.expiry > currentTime) {
-                    // 已验证且未过期，直接显示内容
-                    document.getElementById('password-overlay').style.display = 'none';
-                    loadJSONData();
-                } else {
-                    // 已过期，清除存储
-                    localStorage.removeItem('n8n-access');
-                }
-            }
-        }
-
-        // 监听回车键提交
-        document.addEventListener('DOMContentLoaded', () => {
-            document.getElementById('password-input').addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') {
-                    checkPassword();
-                }
-            });
-        });
+            // 自动加载 JSON 数据
+            loadJSONData();
         });
     </script>
 </body>
