@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI工作流代写服务 - 顶尖硕博团队一对一全流程服务</title>
+    <meta name="description" content="专业的AI工作流代写服务，由顶尖学府硕博团队提供一对一全流程定制化解决方案">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #6366f1;
+            --secondary-color: #8b5cf6;
+            --accent-color: #ec4899;
+            --dark-bg: #0f172a;
+            --light-bg: #1e293b;
+            --text-primary: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --gradient: linear-gradient(135deg, var(--primary-color), var(--secondary-color), var(--accent-color));
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--dark-bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* 导航栏 */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 1rem 2rem;
+            background: rgba(15, 23, 42, 0.8);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            transition: all 0.3s ease;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-link {
+            color: var(--text-primary);
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+        }
+
+        .nav-link:hover {
+            background: rgba(99, 102, 241, 0.1);
+            border-color: var(--primary-color);
+        }
+
+        /* 英雄区域 */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            padding: 6rem 2rem 2rem;
+            background: radial-gradient(ellipse at top, rgba(99, 102, 241, 0.15), transparent 50%),
+                        radial-gradient(ellipse at bottom, rgba(236, 72, 153, 0.1), transparent 50%);
+        }
+
+        .hero-content {
+            text-align: center;
+            max-width: 800px;
+            z-index: 2;
+            animation: fadeInUp 1s ease;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.2;
+        }
+
+        .hero-subtitle {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            font-weight: 300;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: var(--gradient);
+            color: white;
+            text-decoration: none;
+            border-radius: 0.75rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);
+        }
+
+        /* 服务优势 */
+        .features {
+            padding: 5rem 2rem;
+            background: var(--light-bg);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 3rem;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .feature-card {
+            background: rgba(30, 41, 59, 0.5);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            border-radius: 1rem;
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .feature-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--gradient);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary-color);
+        }
+
+        .feature-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .feature-icon {
+            width: 60px;
+            height: 60px;
+            margin: 0 auto 1.5rem;
+            background: var(--gradient);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+        .feature-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .feature-description {
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* 服务流程 */
+        .process {
+            padding: 5rem 2rem;
+            background: var(--dark-bg);
+        }
+
+        .process-steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .step {
+            text-align: center;
+            position: relative;
+        }
+
+        .step-number {
+            width: 50px;
+            height: 50px;
+            margin: 0 auto 1.5rem;
+            background: var(--gradient);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 1.25rem;
+        }
+
+        .step-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .step-description {
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* 联系方式 */
+        .contact {
+            padding: 5rem 2rem;
+            background: var(--light-bg);
+        }
+
+        .contact-content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .contact-item {
+            background: rgba(30, 41, 59, 0.5);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .contact-item:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary-color);
+        }
+
+        .contact-label {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .contact-value {
+            font-size: 1.25rem;
+            color: var(--primary-color);
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .qrcode {
+            width: 150px;
+            height: 150px;
+            margin: 1rem auto;
+            background: white;
+            border-radius: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.875rem;
+            color: var(--dark-bg);
+        }
+
+        /* 页脚 */
+        footer {
+            padding: 2rem;
+            background: var(--dark-bg);
+            text-align: center;
+            border-top: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .footer-text {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        /* 动画 */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* 背景动画 */
+        .bg-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .bg-animation::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.1) 1px, transparent 1px);
+            background-size: 50px 50px;
+            animation: bgMove 20s linear infinite;
+        }
+
+        @keyframes bgMove {
+            0% {
+                transform: translate(0, 0);
+            }
+            100% {
+                transform: translate(50px, 50px);
+            }
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .nav-container {
+                padding: 0 1rem;
+            }
+
+            .hero {
+                padding: 5rem 1rem 2rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1rem;
+            }
+
+            .features,
+            .process,
+            .contact {
+                padding: 3rem 1rem;
+            }
+
+            .section-title {
+                font-size: 2rem;
+            }
+
+            .features-grid,
+            .process-steps,
+            .contact-info {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+        }
+
+        /* 加载动画 */
+        .loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--dark-bg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            transition: opacity 0.5s ease;
+        }
+
+        .loader.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .loader-circle {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(99, 102, 241, 0.3);
+            border-top: 3px solid var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <!-- 加载动画 -->
+    <div class="loader" id="loader">
+        <div class="loader-circle"></div>
+    </div>
+
+    <!-- 背景动画 -->
+    <div class="bg-animation"></div>
+
+    <!-- 导航栏 -->
+    <nav>
+        <div class="nav-container">
+            <div class="logo">AI工作流代写</div>
+            <a href="/" class="nav-link">返回首页</a>
+        </div>
+    </nav>
+
+    <!-- 英雄区域 -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>专业AI工作流代写服务</h1>
+            <p class="hero-subtitle">顶尖学府硕博团队 · 一对一全流程服务 · 定制化解决方案</p>
+            <a href="#contact" class="cta-button">立即咨询</a>
+        </div>
+    </section>
+
+    <!-- 服务优势 -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title fade-in">核心优势</h2>
+            <div class="features-grid">
+                <div class="feature-card fade-in">
+                    <div class="feature-icon">🎓</div>
+                    <h3 class="feature-title">顶尖学府硕博团队</h3>
+                    <p class="feature-description">汇聚清华、北大、MIT等顶尖高校硕博人才，具备深厚的学术背景和丰富的项目经验</p>
+                </div>
+                <div class="feature-card fade-in">
+                    <div class="feature-icon">🤝</div>
+                    <h3 class="feature-title">一对一全流程服务</h3>
+                    <p class="feature-description">专属顾问全程跟进，从需求分析到方案实施，提供个性化定制服务</p>
+                </div>
+                <div class="feature-card fade-in">
+                    <div class="feature-icon">⚡</div>
+                    <h3 class="feature-title">高效交付</h3>
+                    <p class="feature-description">标准化流程管理，确保项目按时高质量交付，平均交付周期缩短30%</p>
+                </div>
+                <div class="feature-card fade-in">
+                    <div class="feature-icon">🔒</div>
+                    <h3 class="feature-title">严格保密</h3>
+                    <p class="feature-description">签署保密协议，采用多重加密措施，确保客户信息和项目数据绝对安全</p>
+                </div>
+                <div class="feature-card fade-in">
+                    <div class="feature-icon">🚀</div>
+                    <h3 class="feature-title">前沿技术</h3>
+                    <p class="feature-description">紧跟AI技术发展趋势，掌握最新的工作流设计理念和实现方法</p>
+                </div>
+                <div class="feature-card fade-in">
+                    <div class="feature-icon">💎</div>
+                    <h3 class="feature-title">品质保证</h3>
+                    <p class="feature-description">多轮质量检查，完善的售后服务，确保每个工作流都达到最佳效果</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 服务流程 -->
+    <section class="process">
+        <div class="container">
+            <h2 class="section-title fade-in">服务流程</h2>
+            <div class="process-steps">
+                <div class="step fade-in">
+                    <div class="step-number">1</div>
+                    <h3 class="step-title">需求沟通</h3>
+                    <p class="step-description">深入了解您的业务需求和目标场景</p>
+                </div>
+                <div class="step fade-in">
+                    <div class="step-number">2</div>
+                    <h3 class="step-title">方案设计</h3>
+                    <p class="step-description">制定个性化的AI工作流解决方案</p>
+                </div>
+                <div class="step fade-in">
+                    <div class="step-number">3</div>
+                    <h3 class="step-title">开发实施</h3>
+                    <p class="step-description">专业团队高效开发，定期汇报进度</p>
+                </div>
+                <div class="step fade-in">
+                    <div class="step-number">4</div>
+                    <h3 class="step-title">测试优化</h3>
+                    <p class="step-description">全面测试，持续优化，确保最佳性能</p>
+                </div>
+                <div class="step fade-in">
+                    <div class="step-number">5</div>
+                    <h3 class="step-title">交付培训</h3>
+                    <p class="step-description">完整交付文档，提供使用培训</p>
+                </div>
+                <div class="step fade-in">
+                    <div class="step-number">6</div>
+                    <h3 class="step-title">售后支持</h3>
+                    <p class="step-description">长期技术支持，保障稳定运行</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 联系方式 -->
+    <section class="contact" id="contact">
+        <div class="contact-content">
+            <h2 class="section-title fade-in">联系我们</h2>
+            <div class="contact-info">
+                <div class="contact-item fade-in">
+                    <div class="contact-label">微信咨询</div>
+                    <div class="contact-value">myaigcpro</div>
+                    <div class="qrcode">
+                        <canvas id="wechat-qr"></canvas>
+                    </div>
+                    <p style="color: var(--text-secondary); font-size: 0.875rem;">扫码添加微信</p>
+                </div>
+                <div class="contact-item fade-in">
+                    <div class="contact-label">微信公众号</div>
+                    <div class="contact-value">MYAIGC</div>
+                    <div class="qrcode">
+                        <canvas id="mp-qr"></canvas>
+                    </div>
+                    <p style="color: var(--text-secondary); font-size: 0.875rem;">扫码关注公众号</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer>
+        <p class="footer-text">© 2025 AI工作流代写服务. 保留所有权利.</p>
+    </footer>
+
+    <script>
+        // 页面加载完成后隐藏加载动画
+        window.addEventListener('load', function() {
+            setTimeout(() => {
+                document.getElementById('loader').classList.add('hidden');
+            }, 500);
+        });
+
+        // 滚动动画
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, observerOptions);
+
+        // 观察所有需要动画的元素
+        document.querySelectorAll('.fade-in').forEach(el => {
+            observer.observe(el);
+        });
+
+        // 平滑滚动
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // 导航栏滚动效果
+        let lastScrollTop = 0;
+        window.addEventListener('scroll', function() {
+            const nav = document.querySelector('nav');
+            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            
+            if (scrollTop > lastScrollTop && scrollTop > 100) {
+                nav.style.transform = 'translateY(-100%)';
+            } else {
+                nav.style.transform = 'translateY(0)';
+            }
+            
+            lastScrollTop = scrollTop;
+        });
+
+        // 生成二维码
+        function generateQRCode(canvas, text) {
+            const ctx = canvas.getContext('2d');
+            const size = 150;
+            canvas.width = size;
+            canvas.height = size;
+            
+            // 简单的二维码占位符
+            ctx.fillStyle = '#000';
+            ctx.fillRect(0, 0, size, size);
+            ctx.fillStyle = '#fff';
+            ctx.fillRect(10, 10, size - 20, size - 20);
+            
+            // 绘制一些模拟二维码的图案
+            ctx.fillStyle = '#000';
+            const blockSize = 5;
+            for (let i = 0; i < size; i += blockSize * 2) {
+                for (let j = 0; j < size; j += blockSize * 2) {
+                    if (Math.random() > 0.5) {
+                        ctx.fillRect(i + 15, j + 15, blockSize, blockSize);
+                    }
+                }
+            }
+            
+            // 添加文字
+            ctx.fillStyle = '#fff';
+            ctx.font = '12px Arial';
+            ctx.textAlign = 'center';
+            ctx.fillText(text, size / 2, size - 10);
+        }
+
+        // 生成微信二维码
+        generateQRCode(document.getElementById('wechat-qr'), 'myaigcpro');
+        
+        // 生成公众号二维码
+        generateQRCode(document.getElementById('mp-qr'), 'MYAIGC');
+
+        // 鼠标跟随效果（可选）
+        document.addEventListener('mousemove', (e) => {
+            const x = e.clientX / window.innerWidth;
+            const y = e.clientY / window.innerHeight;
+            
+            document.body.style.background = `
+                radial-gradient(circle at ${x * 100}% ${y * 100}%, 
+                rgba(99, 102, 241, 0.1) 0%, 
+                transparent 50%),
+                var(--dark-bg)
+            `;
+        });
+    </script>
+</body>
+</html>
