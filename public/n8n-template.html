@@ -490,12 +490,146 @@
             color: var(--font-color-secondary);
             opacity: 0.7;
         }
+
+        /* 密码验证界面样式 */
+        .password-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: var(--bg-color);
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 1;
+            transition: opacity 0.5s ease;
+        }
+
+        .password-overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .password-container {
+            background-color: var(--card-bg-color);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+            max-width: 400px;
+            width: 90%;
+            box-shadow: 0 8px 32px var(--shadow-color-heavy);
+            backdrop-filter: blur(10px);
+            text-align: center;
+            animation: element-fade-in 0.8s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+        }
+
+        .password-container h2 {
+            color: var(--font-color);
+            margin-bottom: 1rem;
+            font-family: 'Source Code Pro', monospace;
+            font-size: 1.5rem;
+        }
+
+        .password-container p {
+            color: var(--font-color-secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+        }
+
+        .qrcode-container {
+            margin: 1.5rem 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        .qrcode-container img {
+            max-width: 150px;
+            height: auto;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+        }
+
+        .password-input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            background-color: rgba(22, 27, 34, 0.8);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            color: var(--font-color);
+            font-size: 1rem;
+            margin-bottom: 1rem;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+
+        .password-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 2px rgba(56, 139, 253, 0.2);
+        }
+
+        .password-submit {
+            width: 100%;
+            padding: 0.75rem 1.5rem;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .password-submit:hover {
+            background-color: #0077ED;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(10, 132, 255, 0.3);
+        }
+
+        .password-error {
+            color: #ff6b6b;
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+            min-height: 1.2rem;
+        }
+
+        .main-content-wrapper {
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.5s ease;
+        }
+
+        .main-content-wrapper.unlocked {
+            opacity: 1;
+            pointer-events: auto;
+        }
     </style>
 </head>
 
 <body>
-    <!-- 导航栏 -->
-    <header class="site-header">
+    <!-- 密码验证界面 -->
+    <div class="password-overlay" id="password-overlay">
+        <div class="password-container">
+            <h2>访问验证</h2>
+            <p>请关注公众号 <strong>MYAIGC</strong>，回复关键词 <strong>"n8n"</strong> 获取访问密码</p>
+            
+            <div class="qrcode-container">
+                <img src="/public/qrcode_myaigc.jpg" alt="MYAIGC 公众号二维码" onerror="this.onerror=null; this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDE1MCAxNTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNTAiIGhlaWdodD0iMTUwIiBmaWxsPSIjRjVGNUY1Ii8+CjxwYXRoIGQ9Ik03NSAyMEM5OS44NTI4IDIwIDEyMCA0MC4xNDcyIDEyMCA2NUMxMjAgODkuODUyOCA5OS44NTI4IDExMCA3NSAxMTBDNTAuMTQ3MiAxMTAgMzAgODkuODUyOCAzMCA2NUMzMCA0MC4xNDcyIDUwLjE0NzIgMjAgNzUgMjBaIiBzdHJva2U9IiM4Qjk0OUUiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjAgNTBINjBWNjBINjBWNUg2MFoiIGZpbGw9IiM4Qjk0OUUiLz4KPHA+PC9wPgo8L3N2Zz4K';">
+            </div>
+            
+            <input type="password" class="password-input" id="password-input" placeholder="请输入密码">
+            <button class="password-submit" id="password-submit">验证</button>
+            <div class="password-error" id="password-error"></div>
+        </div>
+    </div>
+
+    <!-- 主内容包装器 -->
+    <div class="main-content-wrapper" id="main-content-wrapper">
+        <!-- 导航栏 -->
+        <header class="site-header">
         <div class="header-container">
             <div class="site-brand">
                 <a href="/" class="brand-link">MYAIGC</a>
@@ -546,10 +680,22 @@
             <p>更多AI资料，请关注公众号：MYAIGC，如需定制 AI 工作流，添加微信：myaigcpro</p>
         </footer>
     </div>
+    </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            // --- 密码验证相关变量 ---
+            const CORRECT_PASSWORD = 'N8n@2024!MyAIGC#Templates';
+            const COOKIE_NAME = 'n8n_access_verified';
+            const COOKIE_EXPIRY_DAYS = 7;
+            
             // --- 元素引用 ---
+            const passwordOverlay = document.getElementById('password-overlay');
+            const passwordInput = document.getElementById('password-input');
+            const passwordSubmit = document.getElementById('password-submit');
+            const passwordError = document.getElementById('password-error');
+            const mainContentWrapper = document.getElementById('main-content-wrapper');
+            
             const mainTitleEl = document.getElementById('main-title');
             const subTitleEl = document.getElementById('sub-title');
             const fileInput = document.getElementById('file-input');
@@ -565,6 +711,88 @@
             let currentPage = 1;
             let itemsPerPage = 50;
             let filteredWorkflows = [];
+
+            // --- 密码验证函数 ---
+            
+            // 设置 Cookie
+            function setCookie(name, value, days) {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                const expires = "expires=" + date.toUTCString();
+                document.cookie = name + "=" + value + ";" + expires + ";path=/";
+            }
+            
+            // 获取 Cookie
+            function getCookie(name) {
+                const nameEQ = name + "=";
+                const ca = document.cookie.split(';');
+                for(let i = 0; i < ca.length; i++) {
+                    let c = ca[i];
+                    while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            }
+            
+            // 检查是否已验证
+            function isVerified() {
+                return getCookie(COOKIE_NAME) === 'true';
+            }
+            
+            // 验证密码
+            function verifyPassword() {
+                const enteredPassword = passwordInput.value;
+                
+                if (enteredPassword === CORRECT_PASSWORD) {
+                    // 设置验证状态
+                    setCookie(COOKIE_NAME, 'true', COOKIE_EXPIRY_DAYS);
+                    
+                    // 隐藏验证界面，显示主内容
+                    passwordOverlay.classList.add('hidden');
+                    mainContentWrapper.classList.add('unlocked');
+                    
+                    // 初始化主应用
+                    initializeMainApp();
+                    
+                    return true;
+                } else {
+                    // 显示错误信息
+                    passwordError.textContent = '密码错误，请重新输入';
+                    passwordInput.value = '';
+                    passwordInput.focus();
+                    
+                    // 3秒后清除错误信息
+                    setTimeout(() => {
+                        passwordError.textContent = '';
+                    }, 3000);
+                    
+                    return false;
+                }
+            }
+            
+            // 初始化主应用
+            function initializeMainApp() {
+                // 标题打字机效果
+                typeWriter(mainTitleEl, 'Workflow Automation Templates', 60);
+                
+                // 自动加载 JSON 数据
+                loadJSONData();
+            }
+            
+            // 检查验证状态并初始化
+            function checkVerificationAndInit() {
+                if (isVerified()) {
+                    // 已验证，直接显示主内容
+                    passwordOverlay.classList.add('hidden');
+                    mainContentWrapper.classList.add('unlocked');
+                    initializeMainApp();
+                } else {
+                    // 未验证，显示验证界面
+                    passwordOverlay.classList.remove('hidden');
+                    mainContentWrapper.classList.remove('unlocked');
+                    passwordInput.focus();
+                }
+            }
 
             // --- 函数 ---
 
@@ -803,7 +1031,16 @@
                 displayWorkflows(filteredWorkflows);
             }
 
-            // --- 事件监听 ---
+            // --- 密码验证事件监听 ---
+            passwordSubmit.addEventListener('click', verifyPassword);
+            
+            passwordInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    verifyPassword();
+                }
+            });
+            
+            // --- 主应用事件监听 ---
             filterTagsContainer.addEventListener('click', (e) => {
                 if (e.target.classList.contains('filter-tag')) {
                     const currentActive = filterTagsContainer.querySelector('.active');
@@ -835,10 +1072,8 @@
             });
 
             // --- 页面初始加载 ---
-            typeWriter(mainTitleEl, 'Workflow Automation Templates', 60);
-            
-            // 自动加载 JSON 数据
-            loadJSONData();
+            // 检查验证状态并初始化
+            checkVerificationAndInit();
         });
     </script>
 </body>
