@@ -58,18 +58,91 @@
             }
         }
 
-        body {
+        html, body {
             font-family: 'Noto Sans SC', 'SF Pro SC', 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
             background-color: var(--bg-color);
             color: var(--font-color);
             margin: 0;
             padding: 0;
-            /* Changed padding for full-width background */
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             overflow: hidden;
             /* Hide scrollbars from background element */
+        }
+
+        /* 导航栏样式 */
+        .site-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background-color: #2E2E2E;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            margin: 0;
+            padding: 0;
+        }
+
+        .header-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 45px;
+        }
+
+        .site-brand .brand-link {
+            font-size: 20px;
+            font-weight: 600;
+            color: #FFFFFF;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .site-brand .brand-link:hover {
+            color: #388BFD;
+        }
+
+        .main-nav .nav-list {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            gap: 20px;
+        }
+
+        .main-nav .nav-item a {
+            color: #FFFFFF;
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+            padding: 8px 0;
+        }
+
+        .main-nav .nav-item a:hover {
+            color: #388BFD;
+        }
+
+        
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .main-nav {
+                display: none;
+            }
+            
+            .header-container {
+                padding: 0 15px;
+            }
+            
+            .site-brand .brand-link {
+                font-size: 18px;
+            }
         }
 
         .background-grid {
@@ -91,9 +164,9 @@
             margin: 0 auto;
             position: relative;
             z-index: 1;
-            height: 100vh;
+            height: calc(100vh - 45px);
             overflow-y: auto;
-            padding: 0 2rem;
+            padding: 2rem;
             /* Restore padding here */
         }
 
@@ -421,6 +494,26 @@
 </head>
 
 <body>
+    <!-- 导航栏 -->
+    <header class="site-header">
+        <div class="header-container">
+            <div class="site-brand">
+                <a href="/" class="brand-link">MYAIGC</a>
+            </div>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="/">🏠 首页</a></li>
+                    <li class="nav-item"><a href="/tag/提示词">提示词教程</a></li>
+                    <li class="nav-item"><a href="/tag/LangChain">LangChain教程</a></li>
+                    <li class="nav-item"><a href="/tag/Dify">Dify 教程</a></li>
+                    <li class="nav-item"><a href="/tag/n8n">n8n 教程</a></li>
+                    <li class="nav-item"><a href="/about">关于我</a></li>
+                </ul>
+            </nav>
+            
+        </div>
+    </header>
+    
     <div class="background-grid"></div>
     <div class="container">
         <header>
