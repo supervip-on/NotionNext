@@ -494,7 +494,7 @@
         /* 浮动按钮样式 */
         .floating-cta {
             position: fixed;
-            right: 2rem;
+            right: 1.5rem;
             top: 50%;
             transform: translateY(-50%);
             z-index: 999;
@@ -506,34 +506,58 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            background: linear-gradient(135deg, var(--primary-color), #0077ED);
+            background: linear-gradient(135deg, #6366f1, #8b5cf6, #ec4899);
+            background-size: 200% 200%;
+            animation: gradient-shift 4s ease infinite;
             color: white;
             text-decoration: none;
-            padding: 1rem 0.8rem;
-            border-radius: 2rem;
-            box-shadow: 0 4px 15px rgba(56, 139, 253, 0.3);
+            padding: 0.7rem 0.5rem;
+            border-radius: 1.5rem;
+            box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4),
+                        0 0 30px rgba(99, 102, 241, 0.2),
+                        inset 0 0 20px rgba(255, 255, 255, 0.1);
             transition: all 0.3s ease;
-            min-width: 80px;
-            backdrop-filter: blur(5px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            min-width: 60px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .floating-cta a::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, #6366f1, #8b5cf6, #ec4899, #6366f1);
+            background-size: 400% 400%;
+            border-radius: 1.5rem;
+            z-index: -1;
+            animation: border-flow 3s linear infinite;
+            opacity: 0.7;
         }
 
         .floating-cta a:hover {
-            transform: scale(1.05);
-            box-shadow: 0 8px 25px rgba(56, 139, 253, 0.5);
-            background: linear-gradient(135deg, #0077ED, var(--primary-color));
+            transform: scale(1.08);
+            box-shadow: 0 8px 30px rgba(99, 102, 241, 0.6),
+                        0 0 40px rgba(139, 92, 246, 0.4),
+                        inset 0 0 25px rgba(255, 255, 255, 0.2);
         }
 
         .floating-cta .icon {
-            font-size: 1.5rem;
-            margin-bottom: 0.25rem;
+            font-size: 1.2rem;
+            margin-bottom: 0.2rem;
+            filter: drop-shadow(0 0 3px rgba(255, 255, 255, 0.5));
         }
 
         .floating-cta .text {
-            font-size: 0.75rem;
+            font-size: 0.65rem;
             font-weight: 600;
             text-align: center;
             line-height: 1;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
 
         /* 呼吸灯动画 */
@@ -542,27 +566,58 @@
                 transform: translateY(-50%);
             }
             50% {
-                transform: translateY(-50%) translateY(-5px);
+                transform: translateY(-50%) translateY(-3px);
+            }
+        }
+
+        /* 动态渐变动画 */
+        @keyframes gradient-shift {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        /* 流动边框动画 */
+        @keyframes border-flow {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
             }
         }
 
         /* 响应式设计 */
         @media (max-width: 768px) {
             .floating-cta {
-                right: 1rem;
+                right: 0.8rem;
             }
             
             .floating-cta a {
-                padding: 0.8rem 0.6rem;
-                min-width: 70px;
+                padding: 0.6rem 0.4rem;
+                min-width: 50px;
+                border-radius: 1.2rem;
+            }
+            
+            .floating-cta a::before {
+                border-radius: 1.2rem;
             }
             
             .floating-cta .icon {
-                font-size: 1.2rem;
+                font-size: 1rem;
             }
             
             .floating-cta .text {
-                font-size: 0.65rem;
+                font-size: 0.55rem;
             }
         }
 
