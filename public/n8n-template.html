@@ -491,6 +491,81 @@
             opacity: 0.7;
         }
 
+        /* 浮动按钮样式 */
+        .floating-cta {
+            position: fixed;
+            right: 2rem;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 999;
+            animation: float-breathing 3s ease-in-out infinite;
+        }
+
+        .floating-cta a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--primary-color), #0077ED);
+            color: white;
+            text-decoration: none;
+            padding: 1rem 0.8rem;
+            border-radius: 2rem;
+            box-shadow: 0 4px 15px rgba(56, 139, 253, 0.3);
+            transition: all 0.3s ease;
+            min-width: 80px;
+            backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .floating-cta a:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(56, 139, 253, 0.5);
+            background: linear-gradient(135deg, #0077ED, var(--primary-color));
+        }
+
+        .floating-cta .icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .floating-cta .text {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-align: center;
+            line-height: 1;
+        }
+
+        /* 呼吸灯动画 */
+        @keyframes float-breathing {
+            0%, 100% {
+                transform: translateY(-50%);
+            }
+            50% {
+                transform: translateY(-50%) translateY(-5px);
+            }
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .floating-cta {
+                right: 1rem;
+            }
+            
+            .floating-cta a {
+                padding: 0.8rem 0.6rem;
+                min-width: 70px;
+            }
+            
+            .floating-cta .icon {
+                font-size: 1.2rem;
+            }
+            
+            .floating-cta .text {
+                font-size: 0.65rem;
+            }
+        }
+
         /* 密码验证界面样式 */
         .password-overlay {
             position: fixed;
@@ -801,6 +876,14 @@
             <p>更多AI资料，请关注公众号：MYAIGC，如需定制 AI 工作流，添加微信：myaigcpro</p>
         </footer>
     </div>
+    </div>
+
+    <!-- 浮动按钮 -->
+    <div class="floating-cta">
+        <a href="/ai-workflow-service">
+            <span class="icon">🚀</span>
+            <span class="text">工作流代写</span>
+        </a>
     </div>
 
     <!-- 错误提示弹窗 -->
