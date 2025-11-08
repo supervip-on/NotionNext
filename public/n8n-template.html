@@ -1175,13 +1175,76 @@
             
             // 检查文件是否存在
             async function checkFileExists(filename) {
+                // 先尝试根目录（保持原有性能）
                 try {
                     const response = await fetch(`/workflows/${filename}`, { method: 'HEAD' });
-                    return response.ok;
+                    if (response.ok) {
+                        return { exists: true, path: `/workflows/${filename}` };
+                    }
                 } catch (error) {
-                    console.error('检查文件存在性时出错:', error);
-                    return false;
+                    console.error('检查根目录文件时出错:', error);
                 }
+
+                // 如果根目录没有，搜索子目录
+                const subDirectories = [
+                    '00/00', '00/01', '00/02', '00/03', '00/04', '00/05', '00/06', '00/07', '00/08', '00/09',
+                    '01/00', '01/01', '01/02', '01/03', '01/04',
+                    '02/00', '02/01', '02/02', '02/03', '02/04',
+                    '03/00', '03/01', '03/02', '03/03', '03/04',
+                    '04/00', '04/01', '04/02', '04/03', '04/04',
+                    '05/00', '05/01', '05/02', '05/03', '05/04',
+                    '06/00', '06/01', '06/02', '06/03', '06/04',
+                    '07/00', '07/01', '07/02', '07/03', '07/04',
+                    '08/00', '08/01', '08/02', '08/03', '08/04',
+                    '09/00', '09/01', '09/02', '09/03', '09/04'
+                ];
+
+                // 根据文件名智能判断可能所在的目录
+                let priorityDirs = [];
+                const fileNum = parseInt(filename.split('_')[0]);
+                if (!isNaN(fileNum)) {
+                    // 根据文件名前缀判断目录
+                    if (fileNum < 1000) {
+                        priorityDirs = ['00/00'];
+                    } else if (fileNum < 2000) {
+                        priorityDirs = ['00/01'];
+                    } else if (fileNum < 3000) {
+                        priorityDirs = ['00/02'];
+                    } else if (fileNum < 4000) {
+                        priorityDirs = ['00/03'];
+                    } else if (fileNum < 5000) {
+                        priorityDirs = ['00/04'];
+                    } else if (fileNum < 6000) {
+                        priorityDirs = ['00/05'];
+                    } else if (fileNum < 7000) {
+                        priorityDirs = ['00/06'];
+                    } else if (fileNum < 8000) {
+                        priorityDirs = ['00/07'];
+                    } else if (fileNum < 9000) {
+                        priorityDirs = ['00/08'];
+                    } else if (fileNum < 10000) {
+                        priorityDirs = ['00/09'];
+                    } else if (fileNum < 11000) {
+                        priorityDirs = ['01/00', '01/01', '01/02', '01/03', '01/04'];
+                    }
+                }
+
+                // 合并优先目录和其他目录
+                const searchDirs = [...priorityDirs, ...subDirectories.filter(dir => !priorityDirs.includes(dir))];
+
+                // 搜索文件
+                for (const dir of searchDirs) {
+                    try {
+                        const response = await fetch(`/workflows/${dir}/${filename}`, { method: 'HEAD' });
+                        if (response.ok) {
+                            return { exists: true, path: `/workflows/${dir}/${filename}` };
+                        }
+                    } catch (error) {
+                        // 继续搜索下一个目录
+                    }
+                }
+
+                return { exists: false, path: null };
             }
             
             // 显示错误弹窗
@@ -1210,9 +1273,9 @@
                     }
                     
                     // 检查文件是否存在
-                    const fileExists = await checkFileExists(filename);
+                    const fileResult = await checkFileExists(filename);
                     
-                    if (!fileExists) {
+                    if (!fileResult.exists) {
                         // 文件不存在，显示错误弹窗
                         showErrorModal();
                         // 恢复按钮状态
@@ -1229,8 +1292,8 @@
                         downloadBtn.innerHTML = '下载中';
                     }
                     
-                    // 获取文件内容
-                    const response = await fetch(`/workflows/${filename}`);
+                    // 获取文件内容（使用实际路径）
+                    const response = await fetch(fileResult.path);
                     if (!response.ok) {
                         throw new Error(`下载失败: ${response.status}`);
                     }

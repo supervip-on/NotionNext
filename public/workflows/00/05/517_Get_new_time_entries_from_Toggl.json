@@ -1,0 +1,35 @@
+{
+  "workflow": {
+    "id": "138",
+    "name": "Get new time entries from Toggl",
+    "nodes": [
+      {
+        "name": "Toggl",
+        "type": "n8n-nodes-base.togglTrigger",
+        "position": [
+          650,
+          250
+        ],
+        "parameters": {
+          "pollTimes": {
+            "item": [
+              {}
+            ]
+          }
+        },
+        "credentials": {
+          "togglApi": ""
+        },
+        "typeVersion": 1
+      }
+    ],
+    "active": false,
+    "settings": {},
+    "connections": {},
+    "meta": {
+      "name": "Get new time entries from Toggl",
+      "id": 517,
+      "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    }
+  }
+}
