@@ -158,7 +158,7 @@
         "color": 3,
         "width": 359.1981770749933,
         "height": 98.40143173756314,
-        "content": "\u26a0\ufe0f **Multimodal embedding is not designed analyze medical images for diagnostic features or disease patterns.** Please do not use Multimodal embedding for medical purposes."
+        "content": "⚠️ **Multimodal embedding is not designed analyze medical images for diagnostic features or disease patterns.** Please do not use Multimodal embedding for medical purposes."
       },
       "typeVersion": 1
     },
@@ -522,5 +522,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1463"
 }

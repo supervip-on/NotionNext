@@ -189,7 +189,7 @@
         "options": {
           "responseMode": "lastNode"
         },
-        "initialMessages": "=Hi there! \ud83d\ude4f\n\nYou can ask me anything about Venerable Geshe Kelsang Gyatso's Book - 'How To Transform Your Life'\n\nWhat would you like to know? "
+        "initialMessages": "=Hi there! 🙏\n\nYou can ask me anything about Venerable Geshe Kelsang Gyatso's Book - 'How To Transform Your Life'\n\nWhat would you like to know? "
       },
       "typeVersion": 1.1
     },
@@ -479,5 +479,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1666"
 }

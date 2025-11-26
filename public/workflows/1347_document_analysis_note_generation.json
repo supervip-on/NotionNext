@@ -207,7 +207,7 @@
       "parameters": {
         "mode": "raw",
         "options": {},
-        "jsonOutput": "{\n \"docs\": [\n {\n \"filename\": \"study_guide.md\",\n \"title\": \"Study Guide\",\n \"description\": \"A Study Guide is a consolidated resource designed to aid learning. This guide includes three key elements: * A short answer quiz accompanied by an answer key to test comprehension. * A curated list of long-form essay questions to encourage deeper analysis and synthesis of the material. * A glossary of key terms to reinforce understanding of important concepts.\"\n },\n {\n \"filename\": \"timeline.md\",\n \"title\": \"Timeline\",\n \"description\": \"A Timeline organizes all significant events described in the sources you have uploaded in chronological order. This ordered list makes it easier to understand the sequence of events and their connection to the broader context of your sources. In addition to the list of events, the Timeline also provides a \u201ccast of characters,\u201d which comprises short biographical sketches of all the important people mentioned in your uploaded sources. These short biographies can help you quickly grasp the roles of various individuals involved in the events described by the Timeline.\"\n },\n {\n \"filename\": \"briefing_doc.md\",\n \"title\": \"Briefing Doc\",\n \"description\": \"A Briefing Doc identifies and presents the most important facts and insights from the sources in an easy-to-understand outline format. This format is designed to provide a concise overview of the key takeaways from the uploaded materials.\"\n }\n ]\n}\n"
+        "jsonOutput": "{\n \"docs\": [\n {\n \"filename\": \"study_guide.md\",\n \"title\": \"Study Guide\",\n \"description\": \"A Study Guide is a consolidated resource designed to aid learning. This guide includes three key elements: * A short answer quiz accompanied by an answer key to test comprehension. * A curated list of long-form essay questions to encourage deeper analysis and synthesis of the material. * A glossary of key terms to reinforce understanding of important concepts.\"\n },\n {\n \"filename\": \"timeline.md\",\n \"title\": \"Timeline\",\n \"description\": \"A Timeline organizes all significant events described in the sources you have uploaded in chronological order. This ordered list makes it easier to understand the sequence of events and their connection to the broader context of your sources. In addition to the list of events, the Timeline also provides a “cast of characters,” which comprises short biographical sketches of all the important people mentioned in your uploaded sources. These short biographies can help you quickly grasp the roles of various individuals involved in the events described by the Timeline.\"\n },\n {\n \"filename\": \"briefing_doc.md\",\n \"title\": \"Briefing Doc\",\n \"description\": \"A Briefing Doc identifies and presents the most important facts and insights from the sources in an easy-to-understand outline format. This format is designed to provide a concise overview of the key takeaways from the uploaded materials.\"\n }\n ]\n}\n"
       },
       "executeOnce": true,
       "typeVersion": 3.3
@@ -849,7 +849,7 @@
       "parameters": {
         "width": 172.26820279743384,
         "height": 295.46359440513226,
-        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n### \ud83d\udca1Add your own templates here!\n"
+        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n### 💡Add your own templates here!\n"
       },
       "typeVersion": 1
     }
@@ -1256,5 +1256,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1347"
 }

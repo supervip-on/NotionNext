@@ -114,5 +114,7 @@
   "\"Structured Output Parser1\"": "{",
   "\"ai_outputParser\"": "[",
   "\"Call Perplexity Researcher\"": "{",
-  "\"ai_tool\"": "["
+  "\"ai_tool\"": "[",
+  "id": "2047",
+  "nodes": []
 }

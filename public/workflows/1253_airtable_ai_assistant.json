@@ -108,5 +108,7 @@
   "\"Airtable - Search records\"": "{",
   "\"When chat message received\"": "{",
   "\"If filter description exists\"": "{",
-  "\"OpenAI - Generate search filter\"": "{"
+  "\"OpenAI - Generate search filter\"": "{",
+  "id": "1253",
+  "nodes": []
 }

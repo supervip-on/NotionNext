@@ -420,7 +420,7 @@
         "color": 7,
         "width": 345.33741540309194,
         "height": 398.9629539487597,
-        "content": "### Connect with me or explore this demo \ud83d\udc47\n![QR](https://i.postimg.cc/VNkdCLQh/frame.png#full-width)"
+        "content": "### Connect with me or explore this demo 👇\n![QR](https://i.postimg.cc/VNkdCLQh/frame.png#full-width)"
       },
       "typeVersion": 1
     },
@@ -436,7 +436,7 @@
         "color": 7,
         "width": 411.2946586626259,
         "height": 197.19036476628202,
-        "content": "# Thank you and happy flowgramming \ud83e\udd18\n\n### Max Tkacz | Senior Developer Advocate @ n8n"
+        "content": "# Thank you and happy flowgramming 🤘\n\n### Max Tkacz | Senior Developer Advocate @ n8n"
       },
       "typeVersion": 1
     },
@@ -517,7 +517,7 @@
         "options": {
           "title": "Book an appointment with Max"
         },
-        "initialMessages": "Hi there! \ud83d\udc4b\nI can help you schedule an appointment with Max Tkacz. On which day would you like to meet?"
+        "initialMessages": "Hi there! 👋\nI can help you schedule an appointment with Max Tkacz. On which day would you like to meet?"
       },
       "typeVersion": 1.1
     },
@@ -923,5 +923,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1296"
 }

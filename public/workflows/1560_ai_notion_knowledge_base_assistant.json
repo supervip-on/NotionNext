@@ -273,7 +273,7 @@
         "color": 7,
         "width": 463.90418399676537,
         "height": 318.2958135288425,
-        "content": "### Template set up quickstart video \ud83d\udc47\n[![Video Thumbnail](https://uploads.n8n.io/maxt/notion-db-assistant-embedded-thumb.png#full-width)](https://www.youtube.com/watch?v=ynLZwS2Nhnc)\n"
+        "content": "### Template set up quickstart video 👇\n[![Video Thumbnail](https://uploads.n8n.io/maxt/notion-db-assistant-embedded-thumb.png#full-width)](https://www.youtube.com/watch?v=ynLZwS2Nhnc)\n"
       },
       "typeVersion": 1
     },
@@ -373,5 +373,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1560"
 }

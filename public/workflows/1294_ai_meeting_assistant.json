@@ -537,7 +537,7 @@
       "parameters": {
         "width": 184.0677386144551,
         "height": 299.3566512487305,
-        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ud83d\udea8**Required**\n* Set your calendar event ID here."
+        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🚨**Required**\n* Set your calendar event ID here."
       },
       "typeVersion": 1
     },
@@ -553,7 +553,7 @@
         "color": 5,
         "width": 349.91944442094535,
         "height": 80,
-        "content": "### \ud83d\udca1 Can't find your transcript?\nOnly meetings which own and were recorded and had transcription enabled will be available.\n"
+        "content": "### 💡 Can't find your transcript?\nOnly meetings which own and were recorded and had transcription enabled will be available.\n"
       },
       "typeVersion": 1
     },
@@ -568,7 +568,7 @@
       "parameters": {
         "width": 184.0677386144551,
         "height": 299.3566512487305,
-        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ud83d\udea8**Required**\n* Set your calendar ID here."
+        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🚨**Required**\n* Set your calendar ID here."
       },
       "typeVersion": 1
     }
@@ -758,5 +758,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1294"
 }

@@ -168,7 +168,7 @@
         "messages": {
           "values": [
             {
-              "content": "=Please analyze the following personal email and draft a casual response based solely on its content. Return only the response text without any additional introductions or formatting. The response should include appropriate greetings (e.g., \"Hi\", \"Hallo\", \"Moin\" in German or \"Hi\", \"Hello\" in English) and sign-offs (e.g., \"Gru\u00df\", \"Lieben Gru\u00df\" in German or \"Regards\" in English). Add a thanks if appropriate. Use \"Du\" only if appropriate; if the email contains \"Sie\", maintain the same formality.\n\nSubject: {{ $json.subject }}\nEmail Content: {{ $json.textPlain }}"
+              "content": "=Please analyze the following personal email and draft a casual response based solely on its content. Return only the response text without any additional introductions or formatting. The response should include appropriate greetings (e.g., \"Hi\", \"Hallo\", \"Moin\" in German or \"Hi\", \"Hello\" in English) and sign-offs (e.g., \"Gruß\", \"Lieben Gruß\" in German or \"Regards\" in English). Add a thanks if appropriate. Use \"Du\" only if appropriate; if the email contains \"Sie\", maintain the same formality.\n\nSubject: {{ $json.subject }}\nEmail Content: {{ $json.textPlain }}"
             }
           ]
         }
@@ -319,7 +319,7 @@
       "parameters": {
         "width": 493.9330818092735,
         "height": 695.2489786026621,
-        "content": "## Workflow Description:\nThis n8n workflow automates the drafting of email replies for Fastmail using OpenAI's GPT-4 model. Here\u2019s the overall process:\n\n1. **Email Monitoring**: The workflow continuously monitors a specified IMAP inbox for new, unread emails.\n2. **Email Data Extraction**: When a new email is detected, it extracts relevant details such as the sender, subject, email body, and metadata.\n3. **AI Response Generation**: The extracted email content is sent to OpenAI's GPT-4, which generates a personalized draft response.\n4. **Get Fastmail Session and Mailbox IDs**: Connects to the Fastmail API to retrieve necessary session details and mailbox IDs.\n5. **Draft Identification**: Identifies the \"Drafts\" folder in the mailbox.\n6. **Draft Preparation**: Compiles all the necessary information to create the draft, including the generated response, original email details, and specified recipient.\n7. **Draft Uploading**: Uploads the prepared draft email to the \"Drafts\" folder in the Fastmail mailbox."
+        "content": "## Workflow Description:\nThis n8n workflow automates the drafting of email replies for Fastmail using OpenAI's GPT-4 model. Here’s the overall process:\n\n1. **Email Monitoring**: The workflow continuously monitors a specified IMAP inbox for new, unread emails.\n2. **Email Data Extraction**: When a new email is detected, it extracts relevant details such as the sender, subject, email body, and metadata.\n3. **AI Response Generation**: The extracted email content is sent to OpenAI's GPT-4, which generates a personalized draft response.\n4. **Get Fastmail Session and Mailbox IDs**: Connects to the Fastmail API to retrieve necessary session details and mailbox IDs.\n5. **Draft Identification**: Identifies the \"Drafts\" folder in the mailbox.\n6. **Draft Preparation**: Compiles all the necessary information to create the draft, including the generated response, original email details, and specified recipient.\n7. **Draft Uploading**: Uploads the prepared draft email to the \"Drafts\" folder in the Fastmail mailbox."
       },
       "typeVersion": 1
     },
@@ -430,5 +430,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1826"
 }

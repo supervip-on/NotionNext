@@ -79,7 +79,7 @@
         "color": 3,
         "width": 358.6620209059232,
         "height": 256.5853658536585,
-        "content": "## \ud83d\udcab To setup this template\n\n1. Add your Todoist credentials\n2. Add your OpenAI credentials\n3. Set your project names and add priority"
+        "content": "## 💫 To setup this template\n\n1. Add your Todoist credentials\n2. Add your OpenAI credentials\n3. Set your project names and add priority"
       },
       "typeVersion": 1
     },
@@ -94,7 +94,7 @@
       "parameters": {
         "width": 192.77351916376313,
         "height": 80,
-        "content": " \ud83d\udc46\ud83c\udffd Add your projects and priority here"
+        "content": " 👆🏽 Add your projects and priority here"
       },
       "typeVersion": 1
     },
@@ -109,7 +109,7 @@
       "parameters": {
         "width": 192.77351916376313,
         "height": 80,
-        "content": " \ud83d\udc47\ud83c\udffd Add your Todoist credentials here"
+        "content": " 👇🏽 Add your Todoist credentials here"
       },
       "typeVersion": 1
     },
@@ -124,7 +124,7 @@
       "parameters": {
         "width": 192.77351916376313,
         "height": 80,
-        "content": " \ud83d\udc47\ud83c\udffd Add your Todoist credentials here"
+        "content": " 👇🏽 Add your Todoist credentials here"
       },
       "typeVersion": 1
     },
@@ -139,7 +139,7 @@
       "parameters": {
         "width": 192.77351916376313,
         "height": 80,
-        "content": " \ud83d\udc46\ud83c\udffd Add your OpenAI credentials here"
+        "content": " 👆🏽 Add your OpenAI credentials here"
       },
       "typeVersion": 1
     },
@@ -337,5 +337,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1711"
 }

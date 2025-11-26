@@ -1052,7 +1052,7 @@
     },
     {
       "id": "90178da9-2000-474e-ba93-a02d03ec6a1d",
-      "name": "When clicking \u2018Test workflow\u2019",
+      "name": "When clicking ‘Test workflow’",
       "type": "n8n-nodes-base.manualTrigger",
       "position": [
         -1600,
@@ -1207,7 +1207,7 @@
         "color": 5,
         "width": 1020,
         "height": 580,
-        "content": "## \u2b50\ufe0f Creating Airtable Webhooks\nTo link this workflow with Airtable, you'll have to create webhooks for the Base.\nYou'll only really need to do this this once but if these webhooks are inactive after 7 days, you'll need to create them again.\n\nCheck out the Airtable Developer documentation for more info: [https://airtable.com/developers/web/api/webhooks-overview](https://airtable.com/developers/web/api/webhooks-overview)"
+        "content": "## ⭐️ Creating Airtable Webhooks\nTo link this workflow with Airtable, you'll have to create webhooks for the Base.\nYou'll only really need to do this this once but if these webhooks are inactive after 7 days, you'll need to create them again.\n\nCheck out the Airtable Developer documentation for more info: [https://airtable.com/developers/web/api/webhooks-overview](https://airtable.com/developers/web/api/webhooks-overview)"
       },
       "typeVersion": 1
     }
@@ -1608,7 +1608,7 @@
         []
       ]
     },
-    "When clicking \u2018Test workflow\u2019": {
+    "When clicking ‘Test workflow’": {
       "main": [
         [
           {
@@ -1619,5 +1619,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1260"
 }

@@ -50,7 +50,7 @@
   "\"color\"": "7,",
   "\"width\"": "213.30551928619226,",
   "\"height\"": "332.38559808882246,",
-  "\"content\"": "\"\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n### \ud83d\udea8Configure Your Qdrant Connection\\n* Be sure to enter your endpoint address\"",
+  "\"content\"": "\"\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n### 🚨Configure Your Qdrant Connection\\n* Be sure to enter your endpoint address\"",
   "\"systemMessage\"": "\"=You are a recipe bot for the company, \\\"Hello fresh\\\". You will help the user choose which Hello Fresh recipe to choose from this week's menu. The current week is {{ $now.year }}-W{{ $now.weekNumber }}.\\nDo not recommend any recipes other from the current week's menu. If there are no recipes to recommend, please ask the user to visit the website instead https://hellofresh.com.\"",
   "\"qdrantCollection\"": "{",
   "\"__rl\"": "true,",
@@ -84,5 +84,7 @@
   "\"Extract Available Courses\"": "{",
   "\"When clicking \\\"Test workflow\\\"\"": "{",
   "\"Recursive Character Text Splitter\"": "{",
-  "\"ai_textSplitter\"": "["
+  "\"ai_textSplitter\"": "[",
+  "id": "1626",
+  "nodes": []
 }

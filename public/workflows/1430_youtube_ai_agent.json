@@ -95,7 +95,7 @@
           "value": "FgknOUpOBkpY85NX",
           "cachedResultName": "Youtube parser - tools"
         },
-        "description": "Get channel_id, title and description by handle/username.\nChannel_id is required to find videos and details about this channel.\nIf Youtube link to channel provided - parse handle from there or return channel_id. (e.g. https://www.youtube.com/@example_handle - example_handle)\n\n\nExample Input:\nexample_handle\n\nExample Output:\nid:UCOgz_YflAsYnGbdvzXuKNCA\ntitle:Daniel Simmons\ndescription:Digital Diary \ud83e\udd0e\\n\\n\\nWeekly videos around fashion...",
+        "description": "Get channel_id, title and description by handle/username.\nChannel_id is required to find videos and details about this channel.\nIf Youtube link to channel provided - parse handle from there or return channel_id. (e.g. https://www.youtube.com/@example_handle - example_handle)\n\n\nExample Input:\nexample_handle\n\nExample Output:\nid:UCOgz_YflAsYnGbdvzXuKNCA\ntitle:Daniel Simmons\ndescription:Digital Diary 🤎\\n\\n\\nWeekly videos around fashion...",
         "inputSchema": "{\n \"type\": \"object\",\n \"properties\": {\n \"handle\": {\n \"type\": \"string\",\n \"description\": \"Handle/username of channel\"\n }},\n \"required\": [\"handle\"]\n}",
         "specifyInputSchema": true
       },
@@ -126,7 +126,7 @@
           "value": "FgknOUpOBkpY85NX",
           "cachedResultName": "Youtube parser - tools"
         },
-        "description": "Fetch video details - the full description, title, and publish date of a video using its video_id.\n\nExample input:\nvideo_id:dQw4w9WgXcQ\n\nExample Output:\ntitle:Never Gonna Give You Up\ndescription: \"The official video for \u201cNever Gonna Give You Up\u201d by Rick Astley.\nduration:4 min\nviewCount:154\nlikeCount:6\nthumbnails: urls",
+        "description": "Fetch video details - the full description, title, and publish date of a video using its video_id.\n\nExample input:\nvideo_id:dQw4w9WgXcQ\n\nExample Output:\ntitle:Never Gonna Give You Up\ndescription: \"The official video for “Never Gonna Give You Up” by Rick Astley.\nduration:4 min\nviewCount:154\nlikeCount:6\nthumbnails: urls",
         "inputSchema": "{\n \"type\": \"object\",\n \"properties\": {\n \"video_id\": {\n \"type\": \"string\",\n \"description\": \"The ID of the video to fetch details for\"\n }\n },\n \"required\": [\"video_id\"]\n}",
         "specifyInputSchema": true
       },
@@ -1190,5 +1190,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1430"
 }

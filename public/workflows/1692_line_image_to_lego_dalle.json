@@ -71,7 +71,7 @@
         0
       ],
       "parameters": {
-        "text": "Creating the DALL\u00b7E 3 prompt to transform this kind of image into a isometric LEGO image (Only provide me with a prompt).",
+        "text": "Creating the DALL·E 3 prompt to transform this kind of image into a isometric LEGO image (Only provide me with a prompt).",
         "modelId": {
           "__rl": true,
           "mode": "list",
@@ -165,5 +165,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1692"
 }

@@ -96,7 +96,7 @@
             },
             {
               "name": "text",
-              "stringValue": "=Apr\u00e8s, on a fait la sieste, Camille a travaill\u00e9 pour French Today et j\u2019ai \u00e9tudi\u00e9 un peu, et puis Camille a propos\u00e9 de suivre une visite guid\u00e9e de l\u2019Abbaye de Beauport qui commen\u00e7ait \u00e0 17 heures. On a march\u00e9 environ vingt minutes, et je m\u2019arr\u00eatais souvent pour prendre des photos : la baie de Paimpol est si jolie ! Mais Camille m\u2019a dit : \u00ab D\u00e9p\u00eache-toi Sunny\u202f! La visite guid\u00e9e commence dans cinq minutes. \u00bb Donc, j\u2019ai boug\u00e9 mes fesses et on est arriv\u00e9es \u00e0 l\u2019abbaye"
+              "stringValue": "=Après, on a fait la sieste, Camille a travaillé pour French Today et j’ai étudié un peu, et puis Camille a proposé de suivre une visite guidée de l’Abbaye de Beauport qui commençait à 17 heures. On a marché environ vingt minutes, et je m’arrêtais souvent pour prendre des photos : la baie de Paimpol est si jolie ! Mais Camille m’a dit : « Dépêche-toi Sunny ! La visite guidée commence dans cinq minutes. » Donc, j’ai bougé mes fesses et on est arrivées à l’abbaye"
             }
           ]
         },
@@ -227,7 +227,7 @@
         "color": 7,
         "width": 192.21792012722693,
         "height": 418.3754668433847,
-        "content": "2] Get your ElevenLabs API key (click your name in the bottom-left of [ElevenLabs](https://elevenlabs.io/voice-lab) and choose \u2018profile\u2019)\n\nIn this node, create a new header auth cred. Set the name to `xi-api-key` and the value to your API key"
+        "content": "2] Get your ElevenLabs API key (click your name in the bottom-left of [ElevenLabs](https://elevenlabs.io/voice-lab) and choose ‘profile’)\n\nIn this node, create a new header auth cred. Set the name to `xi-api-key` and the value to your API key"
       },
       "typeVersion": 1
     },
@@ -348,5 +348,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1694"
 }

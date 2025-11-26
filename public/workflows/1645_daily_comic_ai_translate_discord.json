@@ -43,7 +43,7 @@
         380
       ],
       "parameters": {
-        "text": "Please write the original language and Korean together. \n\nEXAMPLE)\nCalvin: \"YOU'VE NEVER HAD AN OBLIGATION, AN ASSIGNMENT, OR A DEADLINE IN ALL YOUR LIFE! YOU HAVE NO RESPONSIBILITIES AT ALL! IT MUST BE NICE!\" (\ub108\ub294 \ud3c9\uc0dd \ud55c \ubc88\ub3c4 \uc758\ubb34, \uacfc\uc81c, \ud639\uc740 \ub9c8\uac10\uc77c \uc5c6\uc5c8\uc796\uc544! \uc804\ud600 \ucc45\uc784\uc774 \uc5c6\ub2e4\ub2c8! \uc815\ub9d0 \uc88b\uaca0\ub2e4!)\nHobbes: \"WIPE THAT INSOLENT SMIRK OFF YOUR FACE!\" (\uadf8 \ubed4\ubed4\ud55c \ubbf8\uc18c\ub97c \uadf8\ub9cc \uc9c0\uc5b4!)\n",
+        "text": "Please write the original language and Korean together. \n\nEXAMPLE)\nCalvin: \"YOU'VE NEVER HAD AN OBLIGATION, AN ASSIGNMENT, OR A DEADLINE IN ALL YOUR LIFE! YOU HAVE NO RESPONSIBILITIES AT ALL! IT MUST BE NICE!\" (너는 평생 한 번도 의무, 과제, 혹은 마감일 없었잖아! 전혀 책임이 없다니! 정말 좋겠다!)\nHobbes: \"WIPE THAT INSOLENT SMIRK OFF YOUR FACE!\" (그 뻔뻔한 미소를 그만 지어!)\n",
         "modelId": {
           "__rl": true,
           "mode": "list",
@@ -244,5 +244,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1645"
 }

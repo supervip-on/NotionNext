@@ -502,7 +502,7 @@
     },
     {
       "id": "477b89f7-00ca-4001-a246-0887bcb553eb",
-      "name": "When clicking \u2018Test workflow\u2019",
+      "name": "When clicking ‘Test workflow’",
       "type": "n8n-nodes-base.manualTrigger",
       "position": [
         -2180,
@@ -986,7 +986,7 @@
         ]
       ]
     },
-    "When clicking \u2018Test workflow\u2019": {
+    "When clicking ‘Test workflow’": {
       "main": [
         [
           {
@@ -997,5 +997,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1729"
 }

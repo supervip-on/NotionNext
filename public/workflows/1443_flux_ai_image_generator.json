@@ -393,7 +393,7 @@
         "color": 7,
         "width": 506.8102696237577,
         "height": 337.24177957113216,
-        "content": "### Watch Set Up Video \ud83d\udc47\n[![Flux Generator](https://uploads.n8n.io/devrel/fluxgenerator.png#full-width)](https://youtu.be/Rv_1jt5WvtY)\n\n"
+        "content": "### Watch Set Up Video 👇\n[![Flux Generator](https://uploads.n8n.io/devrel/fluxgenerator.png#full-width)](https://youtu.be/Rv_1jt5WvtY)\n\n"
       },
       "typeVersion": 1
     },
@@ -712,5 +712,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1443"
 }

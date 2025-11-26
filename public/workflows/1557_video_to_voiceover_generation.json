@@ -83,7 +83,7 @@
     },
     {
       "id": "32a21e1d-1d8b-411e-8281-8d0e68a06889",
-      "name": "When clicking \u2018Test workflow\u2019",
+      "name": "When clicking ‘Test workflow’",
       "type": "n8n-nodes-base.manualTrigger",
       "position": [
         149,
@@ -197,7 +197,7 @@
         "color": 3,
         "width": 418.11627906976724,
         "height": 132.89534883720933,
-        "content": "### \ud83d\udea8 PERFORMANCE WARNING!\nUsing large videos or capturing a large number of frames is really memory intensive and could crash your n8n instance. Be sure you have sufficient memory and to optimise the video beforehand! "
+        "content": "### 🚨 PERFORMANCE WARNING!\nUsing large videos or capturing a large number of frames is really memory intensive and could crash your n8n instance. Be sure you have sufficient memory and to optimise the video beforehand! "
       },
       "typeVersion": 1
     },
@@ -566,7 +566,7 @@
         ]
       ]
     },
-    "When clicking \u2018Test workflow\u2019": {
+    "When clicking ‘Test workflow’": {
       "main": [
         [
           {
@@ -577,5 +577,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1557"
 }

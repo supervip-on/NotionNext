@@ -268,7 +268,7 @@
         "color": 5,
         "width": 388.96199194175017,
         "height": 122.12691731521146,
-        "content": "### \ud83d\ude4b\u200d\u2642\ufe0f Optimise your images!\nAI generated images can get quite large (20mb+) which may hit filesize limits for some services. I've used Cloudinary's optimise API to reduce the file size before sending to BannerBear."
+        "content": "### 🙋‍♂️ Optimise your images!\nAI generated images can get quite large (20mb+) which may hit filesize limits for some services. I've used Cloudinary's optimise API to reduce the file size before sending to BannerBear."
       },
       "typeVersion": 1
     },
@@ -314,7 +314,7 @@
       "parameters": {
         "width": 221.3032167915293,
         "height": 368.5789698912447,
-        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ud83d\udea8**Required**\n* You'll need to create a template in BannerBear.\n* Once you have, map the template variables to fields in this node!"
+        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🚨**Required**\n* You'll need to create a template in BannerBear.\n* Once you have, map the template variables to fields in this node!"
       },
       "typeVersion": 1
     },
@@ -343,7 +343,7 @@
       "parameters": {
         "width": 224.2834786948422,
         "height": 368.5789698912447,
-        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ud83d\udea8**Required**\n* You'll need to change all ids and references to your own Cloudinary instance.\n* Feel free to change this to another service!"
+        "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🚨**Required**\n* You'll need to change all ids and references to your own Cloudinary instance.\n* Feel free to change this to another service!"
       },
       "typeVersion": 1
     },
@@ -361,7 +361,7 @@
             {}
           ]
         },
-        "content": "=\ud83d\udcc5 New Event Alert! {{ $('Set Parameters').item.json.title }} being held at {{ $('Set Parameters').item.json.location }} on the {{ $('Set Parameters').item.json.date }}! Don't miss it!",
+        "content": "=📅 New Event Alert! {{ $('Set Parameters').item.json.title }} being held at {{ $('Set Parameters').item.json.location }} on the {{ $('Set Parameters').item.json.date }}! Don't miss it!",
         "guildId": {
           "__rl": true,
           "mode": "list",
@@ -480,5 +480,6 @@
         ]
       ]
     }
-  }
+  },
+  "id": "1655"
 }
