@@ -192,6 +192,11 @@ const nextConfig = {
         }
 
         return [
+          // 工作流文件处理规则（优先级最高）
+          {
+            source: '/workflows/:path*',
+            destination: '/workflows/:path*'
+          },
           ...langsRewrites,
           // 伪静态重写
           {
