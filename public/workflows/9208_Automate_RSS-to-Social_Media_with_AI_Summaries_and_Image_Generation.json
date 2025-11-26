@@ -2,8 +2,7 @@
   "id": "R84XmkBzgZQgQPbH",
   "meta": {
     "name": "Automate RSS-to-Social Media with AI Summaries and Image Generation",
-    "id": 9208,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9208
   },
   "name": "RSS Publish to FB & Insta",
   "tags": [

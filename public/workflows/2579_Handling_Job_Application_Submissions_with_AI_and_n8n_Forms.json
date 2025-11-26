@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Handling Job Application Submissions with AI and n8n Forms",
-    "id": 2579,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2579
   },
   "nodes": [
     {

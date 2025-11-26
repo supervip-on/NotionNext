@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transcribing Bank Statements To Markdown Using Gemini Vision AI",
-    "id": 2421,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2421
   },
   "nodes": [
     {

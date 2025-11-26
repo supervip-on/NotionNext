@@ -2,8 +2,7 @@
   "id": "pE6f3n6i6GUmSTgE",
   "meta": {
     "name": "Create a Multi-Modal Telegram Support Bot with GPT-4 and Supabase RAG",
-    "id": 5589,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5589
   },
   "name": "Telegram AI Support Chatbot with Multi-Modal Inputs",
   "tags": [

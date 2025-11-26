@@ -2,8 +2,7 @@
   "id": "KDiL56rl4YovAr9v",
   "meta": {
     "name": "Automatically Transfer Shopify Order Data to Structured Airtable Records",
-    "id": 6494,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6494
   },
   "name": "Shopify Order Data",
   "tags": [],

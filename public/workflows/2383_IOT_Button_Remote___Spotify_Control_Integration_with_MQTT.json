@@ -1040,8 +1040,7 @@
   },
   "meta": {
     "name": "IOT Button Remote / Spotify Control Integration with MQTT",
-    "id": 2383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2383
   },
   "id": "2383"
 }

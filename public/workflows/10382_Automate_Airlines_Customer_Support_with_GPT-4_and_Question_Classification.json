@@ -2,8 +2,7 @@
   "id": "cxCJTsyZ4OX5OxaM",
   "meta": {
     "name": "Automate Airlines Customer Support with GPT-4 and Question Classification",
-    "id": 10382,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10382
   },
   "name": "Airlines FAQ Bot",
   "tags": [],

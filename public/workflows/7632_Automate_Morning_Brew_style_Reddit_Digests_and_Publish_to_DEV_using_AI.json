@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Morning Brew–style Reddit Digests and Publish to DEV using AI",
-    "id": 7632,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7632
   },
   "nodes": [
     {

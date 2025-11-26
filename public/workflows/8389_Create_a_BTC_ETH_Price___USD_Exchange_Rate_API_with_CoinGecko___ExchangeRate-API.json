@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a BTC/ETH Price & USD Exchange Rate API with CoinGecko & ExchangeRate-API",
-    "id": 8389,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8389
   },
   "nodes": [
     {

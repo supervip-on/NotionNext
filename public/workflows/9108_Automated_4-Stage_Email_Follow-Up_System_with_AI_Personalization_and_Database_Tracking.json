@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated 4-Stage Email Follow-Up System with AI Personalization and Database Tracking",
-    "id": 9108,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9108
   },
   "nodes": [
     {

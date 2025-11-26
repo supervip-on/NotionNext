@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "E-commerce Product Fine-Tuning With Bright Data and OpenAI",
-    "id": 5199,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5199
   },
   "nodes": [
     {

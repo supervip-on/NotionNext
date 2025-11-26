@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Effortless Task Management: Create Todoist Tasks Directly from Telegram with AI",
-    "id": 3052,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3052
   },
   "nodes": [
     {

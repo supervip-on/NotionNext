@@ -2,8 +2,7 @@
   "id": "P5nDlFKGwnJEGbT8",
   "meta": {
     "name": "Daily Overdue Tasks Report from ClickUp to Gmail for Team Accountability",
-    "id": 7572,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7572
   },
   "name": "Overdue Task Alert ClickUp(BDE)",
   "tags": [],

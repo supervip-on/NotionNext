@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI chatbot that can search the web",
-    "id": 1959,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1959
   },
   "nodes": [
     {

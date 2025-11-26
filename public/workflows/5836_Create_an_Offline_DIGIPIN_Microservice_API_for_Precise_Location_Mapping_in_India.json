@@ -2,8 +2,7 @@
   "id": "OcAQrF91wzWH3rOw",
   "meta": {
     "name": "Create an Offline DIGIPIN Microservice API for Precise Location Mapping in India",
-    "id": 5836,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5836
   },
   "name": "Generate and Decode DIGIPIN",
   "tags": [],

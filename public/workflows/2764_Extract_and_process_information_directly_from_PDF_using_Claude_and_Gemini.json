@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract and process information directly from PDF using Claude and Gemini",
-    "id": 2764,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2764
   },
   "nodes": [
     {

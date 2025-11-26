@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Host Your Own AI Deep Research Agent with n8n, Apify and OpenAI o3",
-    "id": 2878,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2878
   },
   "nodes": [
     {

@@ -533,8 +533,7 @@
   },
   "meta": {
     "name": "Send sales data from Webhook to Mautic",
-    "id": 467,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 467
   },
   "id": "467"
 }

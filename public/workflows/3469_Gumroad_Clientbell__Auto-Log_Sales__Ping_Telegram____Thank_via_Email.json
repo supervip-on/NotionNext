@@ -2,8 +2,7 @@
   "id": "9ZEuKKPxUJqIRHZc",
   "meta": {
     "name": "Gumroad Clientbell: Auto-Log Sales, Ping Telegram, & Thank via Email",
-    "id": 3469,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3469
   },
   "name": "Gumroad Clientbell",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🗲 Serve Custom Websites (HTML Webpages) with Webhooks",
-    "id": 5173,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5173
   },
   "nodes": [
     {

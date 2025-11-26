@@ -2,8 +2,7 @@
   "id": "kwCv7lUv3ddhMm2n",
   "meta": {
     "name": "Monitor Construction Stock & Send Low Inventory Alerts with Google Sheets",
-    "id": 6636,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6636
   },
   "name": "Auto-Monitor Construction Stock & Get Low Inventory Alerts",
   "tags": [],

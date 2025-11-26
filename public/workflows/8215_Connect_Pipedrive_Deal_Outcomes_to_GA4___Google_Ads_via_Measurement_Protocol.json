@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Connect Pipedrive Deal Outcomes to GA4 & Google Ads via Measurement Protocol",
-    "id": 8215,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8215
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Validate website of new companies in Hubspot",
-    "id": 1463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1463
   },
   "nodes": [
     {

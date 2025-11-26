@@ -2,8 +2,7 @@
   "id": "fHfvUjCTdLUoCXBH",
   "meta": {
     "name": "Update Airtable CRM with telli Call Event Data and Appointment Status",
-    "id": 3802,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3802
   },
   "name": "Update Airtable CRM with telli Call Event Data and Appointment Status",
   "tags": [],

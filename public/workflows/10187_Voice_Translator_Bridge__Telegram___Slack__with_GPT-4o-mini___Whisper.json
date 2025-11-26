@@ -609,8 +609,7 @@
   },
   "meta": {
     "name": "Voice Translator Bridge (Telegram → Slack) with GPT-4o-mini + Whisper",
-    "id": 10187,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10187
   },
   "id": "10187"
 }

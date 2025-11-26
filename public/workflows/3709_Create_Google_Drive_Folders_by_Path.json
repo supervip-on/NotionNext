@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Google Drive Folders by Path",
-    "id": 3709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3709
   },
   "nodes": [
     {

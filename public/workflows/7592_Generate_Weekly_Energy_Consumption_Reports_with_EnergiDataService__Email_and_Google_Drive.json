@@ -2,8 +2,7 @@
   "id": "5if9twDNChTpUQFf",
   "meta": {
     "name": "Generate Weekly Energy Consumption Reports with EnergiDataService, Email and Google Drive",
-    "id": 7592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7592
   },
   "name": "Generate Weekly Energy Consumption Reports with API, Email and Google Drive",
   "tags": [],

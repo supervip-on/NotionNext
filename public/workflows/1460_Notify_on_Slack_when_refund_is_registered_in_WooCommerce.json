@@ -129,7 +129,6 @@
   },
   "meta": {
     "name": "Notify on Slack when refund is registered in WooCommerce",
-    "id": 1460,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1460
   }
 }

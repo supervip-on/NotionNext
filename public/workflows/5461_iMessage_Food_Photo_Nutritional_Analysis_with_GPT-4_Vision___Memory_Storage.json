@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "iMessage Food Photo Nutritional Analysis with GPT-4 Vision & Memory Storage",
-    "id": 5461,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5461
   },
   "nodes": [
     {

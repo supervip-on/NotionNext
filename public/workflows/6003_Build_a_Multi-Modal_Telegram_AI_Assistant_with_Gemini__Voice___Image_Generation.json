@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Multi-Modal Telegram AI Assistant with Gemini, Voice & Image Generation",
-    "id": 6003,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6003
   },
   "nodes": [
     {

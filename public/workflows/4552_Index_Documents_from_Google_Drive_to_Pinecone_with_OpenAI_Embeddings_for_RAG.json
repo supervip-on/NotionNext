@@ -2,8 +2,7 @@
   "id": "OceYxCmiuf5W2X4y",
   "meta": {
     "name": "Index Documents from Google Drive to Pinecone with OpenAI Embeddings for RAG",
-    "id": 4552,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4552
   },
   "name": "Bundle RAG Upload",
   "tags": [],

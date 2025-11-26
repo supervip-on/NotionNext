@@ -2,8 +2,7 @@
   "id": "UMVskHQcryGFC3sW",
   "meta": {
     "name": "Extract & Approve Tasks from Telegram to Notion with Gemini AI & Voice Support",
-    "id": 9424,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9424
   },
   "name": "Voice agent for the notion tasks through the telegram",
   "tags": [

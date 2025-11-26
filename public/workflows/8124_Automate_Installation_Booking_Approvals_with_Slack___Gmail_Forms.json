@@ -2,8 +2,7 @@
   "id": "F3ZBYce4AMuybZcF",
   "meta": {
     "name": "Automate Installation Booking Approvals with Slack & Gmail Forms",
-    "id": 8124,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8124
   },
   "name": "Installation Booking Approval Workflow with Slack and Gmail",
   "tags": [],

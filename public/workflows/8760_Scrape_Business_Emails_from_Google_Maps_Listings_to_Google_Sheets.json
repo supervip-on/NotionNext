@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Business Emails from Google Maps Listings to Google Sheets",
-    "id": 8760,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8760
   },
   "nodes": [
     {

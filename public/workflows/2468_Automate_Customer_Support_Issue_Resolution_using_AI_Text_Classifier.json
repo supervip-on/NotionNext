@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Customer Support Issue Resolution using AI Text Classifier",
-    "id": 2468,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2468
   },
   "nodes": [
     {

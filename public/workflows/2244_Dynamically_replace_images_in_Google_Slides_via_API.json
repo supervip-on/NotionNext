@@ -246,8 +246,7 @@
   },
   "meta": {
     "name": "Dynamically replace images in Google Slides via API",
-    "id": 2244,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2244
   },
   "id": "2244"
 }

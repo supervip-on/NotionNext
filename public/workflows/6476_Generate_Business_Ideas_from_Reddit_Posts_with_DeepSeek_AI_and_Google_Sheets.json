@@ -2,8 +2,7 @@
   "id": "J3GaCzsXJ3nCHG3e",
   "meta": {
     "name": "Generate Business Ideas from Reddit Posts with DeepSeek AI and Google Sheets",
-    "id": 6476,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6476
   },
   "name": "Reddit for Business Ideas",
   "tags": [],

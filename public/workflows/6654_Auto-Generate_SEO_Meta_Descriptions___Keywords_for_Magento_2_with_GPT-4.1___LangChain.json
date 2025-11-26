@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate SEO Meta Descriptions & Keywords for Magento 2 with GPT-4.1 & LangChain",
-    "id": 6654,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6654
   },
   "nodes": [
     {

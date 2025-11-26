@@ -2,8 +2,7 @@
   "id": "29TYbvP5Qc5CKZW2",
   "meta": {
     "name": "Generate AI Images via Telegram using Gemini & Pollinations",
-    "id": 6197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6197
   },
   "name": "Free AI Image Generator via Telegram using Gemini API & Pollinations",
   "tags": [],

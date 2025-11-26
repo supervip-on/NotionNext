@@ -47,7 +47,6 @@
   },
   "meta": {
     "name": "Get all the tasks in Flow",
-    "id": 506,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 506
   }
 }

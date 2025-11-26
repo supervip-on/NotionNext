@@ -2,8 +2,7 @@
   "id": "OU7CNqiRY4Kbvq1a",
   "meta": {
     "name": "fetch the public IP addresses of your n8n instance",
-    "id": 4750,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4750
   },
   "name": "fetch-public-IP-address-for-n8n-instance",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Leads from Google Sheets to Instantly Email Campaigns with Data Tables",
-    "id": 9743,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9743
   },
   "nodes": [
     {

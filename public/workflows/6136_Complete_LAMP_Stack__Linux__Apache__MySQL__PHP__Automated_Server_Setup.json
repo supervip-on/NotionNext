@@ -2,8 +2,7 @@
   "id": "w0vALsJ5Y3lwwaGk",
   "meta": {
     "name": "Complete LAMP Stack (Linux, Apache, MySQL, PHP) Automated Server Setup",
-    "id": 6136,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6136
   },
   "name": "Automate Complete LAMP Stack Setup on Linux Server in Just 10 Seconds",
   "tags": [],

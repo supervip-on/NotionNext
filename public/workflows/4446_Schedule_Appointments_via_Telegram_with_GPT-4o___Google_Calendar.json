@@ -2,8 +2,7 @@
   "id": "REDACTED",
   "meta": {
     "name": "Schedule Appointments via Telegram with GPT-4o & Google Calendar",
-    "id": 4446,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4446
   },
   "name": "AI Appointment Scheduler via Telegram & Google Calendar",
   "tags": [],

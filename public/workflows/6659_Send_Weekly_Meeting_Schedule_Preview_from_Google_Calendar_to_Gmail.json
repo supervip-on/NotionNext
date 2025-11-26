@@ -160,8 +160,7 @@
   },
   "meta": {
     "name": "Send Weekly Meeting Schedule Preview from Google Calendar to Gmail",
-    "id": 6659,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6659
   },
   "id": "6659"
 }

@@ -2,8 +2,7 @@
   "id": "CYvmuJVGWyLF2ihX",
   "meta": {
     "name": "Create an eBay Item Feed Service API Gateway for AI Agents",
-    "id": 5568,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5568
   },
   "name": "[eBay] Item Feed Service MCP Server",
   "tags": [],

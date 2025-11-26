@@ -2,8 +2,7 @@
   "id": "cmusYcLEtQLBks00",
   "meta": {
     "name": "Automate Appointment Phone Reminders with Google Calendar and Retell AI",
-    "id": 7545,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7545
   },
   "name": "Appointment Reminder Agent",
   "tags": [],

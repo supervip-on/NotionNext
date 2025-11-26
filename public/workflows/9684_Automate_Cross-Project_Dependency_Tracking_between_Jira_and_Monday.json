@@ -2,8 +2,7 @@
   "id": "hXfojMGA8g8QnEdF",
   "meta": {
     "name": "Automate Cross-Project Dependency Tracking between Jira and Monday",
-    "id": 9684,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9684
   },
   "name": "Automate Cross-Project Dependency Tracking between Jira and Monday.com",
   "tags": [],

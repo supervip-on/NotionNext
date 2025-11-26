@@ -2,8 +2,7 @@
   "id": "jAML9xW28lOdsObH",
   "meta": {
     "name": "Daily meetings summarization with Gemini AI",
-    "id": 2789,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2789
   },
   "name": "Daily meetings summarization with Gemini AI",
   "tags": [],

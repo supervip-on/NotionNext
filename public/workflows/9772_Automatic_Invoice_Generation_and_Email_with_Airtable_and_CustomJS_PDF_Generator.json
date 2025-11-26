@@ -2,8 +2,7 @@
   "id": "fB4si9amQw4D2TK2",
   "meta": {
     "name": "Automatic Invoice Generation and Email with Airtable and CustomJS PDF Generator",
-    "id": 9772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9772
   },
   "name": "Google Spreadsheet -> Invoice Generation -> Email",
   "tags": [],

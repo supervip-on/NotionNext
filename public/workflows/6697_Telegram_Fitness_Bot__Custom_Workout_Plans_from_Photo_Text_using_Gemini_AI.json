@@ -2,8 +2,7 @@
   "id": "dXjwabXNOMFFDqHz",
   "meta": {
     "name": "Telegram Fitness Bot: Custom Workout Plans from Photo/Text using Gemini AI",
-    "id": 6697,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6697
   },
   "name": "Ai Workout Planner-Upload",
   "tags": [],

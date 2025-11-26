@@ -2,8 +2,7 @@
   "id": "2ko7gxYzw5Uy6lFh",
   "meta": {
     "name": "Create Stripe Invoices from Airtable Orders with Google Sheets Logging",
-    "id": 8950,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8950
   },
   "name": "Airtable Order to Stripe Invoice (B2B/Manual Capture)",
   "tags": [],

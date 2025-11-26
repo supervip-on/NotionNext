@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Get all leads from Zoho CRM",
-    "id": 552,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 552
   },
   "id": "552"
 }

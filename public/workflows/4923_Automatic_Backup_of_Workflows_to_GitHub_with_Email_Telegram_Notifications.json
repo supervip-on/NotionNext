@@ -2,8 +2,7 @@
   "id": "CoZQfRWF6W1aefv3",
   "meta": {
     "name": "Automatic Backup of Workflows to GitHub with Email/Telegram Notifications",
-    "id": 4923,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4923
   },
   "name": "n8n BackupButler v3",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "sNOCfwePN66wsyU7",
   "meta": {
     "name": "Generate random mock data with no code and zero dependencies",
-    "id": 1802,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1802
   },
   "name": "Random Data Generator",
   "tags": [],

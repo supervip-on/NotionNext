@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "✉️ Automated Email Sorting & Drafting for Customer Support - with AI 🤖",
-    "id": 4279,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4279
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transforming Emails into Podcasts ",
-    "id": 2219,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2219
   },
   "nodes": [
     {

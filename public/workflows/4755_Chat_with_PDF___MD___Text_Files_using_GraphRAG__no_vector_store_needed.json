@@ -2,8 +2,7 @@
   "id": "EQVZKxcCDzTNXLRp",
   "meta": {
     "name": "Chat with PDF / MD / Text Files using GraphRAG (no vector store needed)",
-    "id": 4755,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4755
   },
   "name": "Chat with PDF / MD / Text Files using GraphRAG (no vector store needed)",
   "tags": [

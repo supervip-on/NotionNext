@@ -34,7 +34,6 @@
   },
   "meta": {
     "name": "Receive updates when an email is bounced or opened",
-    "id": 660,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 660
   }
 }

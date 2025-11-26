@@ -2,8 +2,7 @@
   "id": "KWFLpcJytH7qjheD",
   "meta": {
     "name": "Convert 3-View Drawings to 360° Videos with GPT-4o-Image and Kling API",
-    "id": 3716,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3716
   },
   "name": "(Not published) Three-View Orthographic Projection to Dynamic Video Conversion",
   "tags": [],

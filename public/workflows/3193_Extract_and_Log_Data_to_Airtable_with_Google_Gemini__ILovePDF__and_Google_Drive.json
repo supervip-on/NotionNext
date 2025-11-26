@@ -2,8 +2,7 @@
   "id": "xCvhjjsaL9hxq1Vd",
   "meta": {
     "name": "Extract and Log Data to Airtable with Google Gemini, ILovePDF, and Google Drive",
-    "id": 3193,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3193
   },
   "name": "PDF share version",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "ASCZ9YZJvNkHsxOF",
   "meta": {
     "name": "Create SEO Outlines from Top Google Results with SerpAPI and GPT-4o",
-    "id": 9056,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9056
   },
   "name": "SEO optimized outline generator using SerpAPI & AI",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "KqhdMBHIyAaE7p7v",
   "meta": {
     "name": "Automated Workflow Backups from Self-Hosted n8n to Google Drive with Version History",
-    "id": 5802,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5802
   },
   "name": "n8n Backup Workflow",
   "tags": [],

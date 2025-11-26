@@ -590,8 +590,7 @@
   },
   "meta": {
     "name": "Automated UPSC Current Affairs Digest from The Hindu to Google Sheets with Gemini AI",
-    "id": 9872,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9872
   },
   "id": "9872"
 }

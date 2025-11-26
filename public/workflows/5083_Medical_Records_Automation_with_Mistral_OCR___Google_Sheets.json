@@ -2,8 +2,7 @@
   "id": "rLpjED4GqjXQcQvP",
   "meta": {
     "name": "Medical Records Automation with Mistral OCR & Google Sheets",
-    "id": 5083,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5083
   },
   "name": "Medical Records OCR Automation V1",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "10161",
   "meta": {
     "name": "Automated Referral Reward System with Email Verification and Visual Coupons",
-    "id": 10161,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10161
   },
   "name": "Verified Referral Reward Notification",
   "tags": [],

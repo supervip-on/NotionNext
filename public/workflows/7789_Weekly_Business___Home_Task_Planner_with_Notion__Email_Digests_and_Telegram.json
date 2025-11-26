@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly Business & Home Task Planner with Notion, Email Digests and Telegram",
-    "id": 7789,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7789
   },
   "name": "Household & Business Weekly Rhythm Planner (v1)",
   "nodes": [

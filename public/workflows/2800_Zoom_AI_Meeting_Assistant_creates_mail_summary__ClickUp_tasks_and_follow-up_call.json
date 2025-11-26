@@ -2,8 +2,7 @@
   "id": "jhNsy4dPQYw9QDaa",
   "meta": {
     "name": "Zoom AI Meeting Assistant creates mail summary, ClickUp tasks and follow-up call",
-    "id": 2800,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2800
   },
   "name": "Zoom AI Meeting Assistant",
   "tags": [],

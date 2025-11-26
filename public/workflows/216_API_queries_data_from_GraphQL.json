@@ -100,8 +100,7 @@
   },
   "meta": {
     "name": "API queries data from GraphQL",
-    "id": 216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 216
   },
   "id": "216"
 }

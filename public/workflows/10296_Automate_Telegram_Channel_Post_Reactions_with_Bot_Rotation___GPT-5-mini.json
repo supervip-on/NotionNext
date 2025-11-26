@@ -2,8 +2,7 @@
   "id": "RsybQdZr1cZ42ZUS",
   "meta": {
     "name": "Automate Telegram Channel Post Reactions with Bot Rotation & GPT-5-mini",
-    "id": 10296,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10296
   },
   "name": "Automate reactions for Telegram Channel Posts using bots",
   "tags": [],

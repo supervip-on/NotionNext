@@ -2,8 +2,7 @@
   "id": "d0e1NBA4VBYDxN8n",
   "meta": {
     "name": "Telegram Bot for Finding Top-Rated Restaurants with Google Maps via SerpAPI",
-    "id": 6107,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6107
   },
   "name": "MS_BEST_RESTURANTS",
   "tags": [],

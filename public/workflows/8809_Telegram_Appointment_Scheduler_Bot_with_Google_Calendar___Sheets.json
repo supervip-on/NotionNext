@@ -2,8 +2,7 @@
   "id": "5JULEkgK2wDftVHr",
   "meta": {
     "name": "Telegram Appointment Scheduler Bot with Google Calendar & Sheets",
-    "id": 8809,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8809
   },
   "name": "My workflow",
   "tags": [],

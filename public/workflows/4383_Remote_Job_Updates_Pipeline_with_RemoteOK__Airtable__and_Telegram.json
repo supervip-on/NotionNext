@@ -2,8 +2,7 @@
   "id": "Eb8GkcZLfJN6XglR",
   "meta": {
     "name": "Remote Job Updates Pipeline with RemoteOK, Airtable, and Telegram",
-    "id": 4383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4383
   },
   "name": "RemoteOK news fetch",
   "tags": [],

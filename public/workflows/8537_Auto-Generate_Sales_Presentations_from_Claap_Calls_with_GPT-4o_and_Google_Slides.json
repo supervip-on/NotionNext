@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate Sales Presentations from Claap Calls with GPT-4o and Google Slides",
-    "id": 8537,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8537
   },
   "nodes": [
     {

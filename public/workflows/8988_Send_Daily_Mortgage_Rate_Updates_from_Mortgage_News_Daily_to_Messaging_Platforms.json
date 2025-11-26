@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Daily Mortgage Rate Updates from Mortgage News Daily to Messaging Platforms",
-    "id": 8988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8988
   },
   "nodes": [
     {

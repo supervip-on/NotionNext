@@ -2,8 +2,7 @@
   "id": "pmJUJj7FAnrOS6Jc",
   "meta": {
     "name": "Send Webflow form submissions to Slack dynamically",
-    "id": 2055,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2055
   },
   "name": "Send Slack message from Webflow form submission",
   "tags": [

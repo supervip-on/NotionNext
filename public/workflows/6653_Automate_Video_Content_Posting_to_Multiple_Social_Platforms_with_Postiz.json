@@ -2,8 +2,7 @@
   "id": "gvEg50E2MD9C3fop",
   "meta": {
     "name": "Automate Video Content Posting to Multiple Social Platforms with Postiz",
-    "id": 6653,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6653
   },
   "name": "Postiz scheduler for n8n",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "YybYYc430rmZWJPJ",
   "meta": {
     "name": "Error Handling System with PostgreSQL Logging and Rate-Limited Notifications",
-    "id": 3882,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3882
   },
   "name": "Log errors and avoid sending too many emails",
   "tags": [

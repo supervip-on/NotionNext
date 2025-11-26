@@ -2,8 +2,7 @@
   "id": "f3BtfIEQ7lWiXBWQ",
   "meta": {
     "name": "Connect Airtable Contacts to telli for Automated AI Voice Call Scheduling",
-    "id": 3803,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3803
   },
   "name": "Connect Airtable Contacts to telli for Automated AI Voice Call Scheduling",
   "tags": [],

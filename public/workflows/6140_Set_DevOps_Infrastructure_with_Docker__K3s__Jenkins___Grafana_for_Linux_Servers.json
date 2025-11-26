@@ -2,8 +2,7 @@
   "id": "7p3d4ltVk0ICrNbX",
   "meta": {
     "name": "Set DevOps Infrastructure with Docker, K3s, Jenkins & Grafana for Linux Servers",
-    "id": 6140,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6140
   },
   "name": "Automate Full DevOps Infrastructure Setup on Linux Server in Just 10 Seconds",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Multi-Format Research Paper Summaries with GPT-4 and PDF Vector",
-    "id": 7359,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7359
   },
   "nodes": [
     {

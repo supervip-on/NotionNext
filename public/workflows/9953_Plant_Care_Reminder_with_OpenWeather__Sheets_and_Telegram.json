@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Plant Care Reminder with OpenWeather, Sheets and Telegram",
-    "id": 9953,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9953
   },
   "nodes": [
     {

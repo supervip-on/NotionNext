@@ -2,8 +2,7 @@
   "id": "h81ddl7uooV3eLBq",
   "meta": {
     "name": "Evaluate Hybrid Search for Legal Question-Answering using Qdrant & BM25/mxbai",
-    "id": 7946,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7946
   },
   "name": "Hybrid Search with Qdrant & n8n, Legal AI: Retrieval",
   "tags": [],

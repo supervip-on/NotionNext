@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Social Media Ad Images for FB/IG/Pinterest with Google Gemini Imagen",
-    "id": 9374,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9374
   },
   "nodes": [
     {

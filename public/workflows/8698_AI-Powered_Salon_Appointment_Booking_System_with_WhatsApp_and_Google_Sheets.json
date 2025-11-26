@@ -2,8 +2,7 @@
   "id": "OuMVyHH0IcL51eRb",
   "meta": {
     "name": "AI-Powered Salon Appointment Booking System with WhatsApp and Google Sheets",
-    "id": 8698,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8698
   },
   "name": "n8n-salon-appointment-booking-agent",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Close Tickets Faster 🛠️ Zammad Tool MCP Server 💪 all 20 operations",
-    "id": 5058,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5058
   },
   "nodes": [
     {

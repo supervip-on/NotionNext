@@ -2,8 +2,7 @@
   "id": "lD64El4ZjpXClZfJ",
   "meta": {
     "name": "WhatsApp Expense Tracker with Multi-Input (Text, Image & Audio)",
-    "id": 5201,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5201
   },
   "name": "WhatsApp Financial Agent: Handles Text, Images & Audio",
   "tags": [],

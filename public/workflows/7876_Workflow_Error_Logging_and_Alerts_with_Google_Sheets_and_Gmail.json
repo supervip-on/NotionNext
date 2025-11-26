@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Workflow Error Logging and Alerts with Google Sheets and Gmail",
-    "id": 7876,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7876
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "m4kRfWIYJxn6PoOx",
   "meta": {
     "name": "Automated Trend Tracking with Bright Data & n8n",
-    "id": 5225,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5225
   },
   "name": "Trend_Tracker_via_Bright_Data",
   "tags": [],

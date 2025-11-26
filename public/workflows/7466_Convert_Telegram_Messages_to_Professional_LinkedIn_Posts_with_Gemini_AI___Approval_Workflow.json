@@ -2,8 +2,7 @@
   "id": "LWCrr5lorPtQRUfI",
   "meta": {
     "name": "Convert Telegram Messages to Professional LinkedIn Posts with Gemini AI & Approval Workflow",
-    "id": 7466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7466
   },
   "name": "Linkedin Automation",
   "tags": [

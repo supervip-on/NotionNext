@@ -2,8 +2,7 @@
   "id": "PieiJJOvbuPki3Mj",
   "meta": {
     "name": "Check Suspicious Links via Telegram with GPT-4 Analysis of VirusTotal & urlscan.io Results",
-    "id": 7926,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7926
   },
   "name": "COPY Malicious URL",
   "tags": [],

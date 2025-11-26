@@ -2,8 +2,7 @@
   "id": "qb3MpiDEyrUkUd1w",
   "meta": {
     "name": "Sync Calendly Bookings to Easy Redmine CRM with Comments and Sales Activities",
-    "id": 8919,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8919
   },
   "name": "Calendly Bookings to Easy Redmine CRM with Comment and Sales Activity",
   "tags": [],

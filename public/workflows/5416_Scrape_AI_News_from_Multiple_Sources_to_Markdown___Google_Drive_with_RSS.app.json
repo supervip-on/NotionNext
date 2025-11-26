@@ -2,8 +2,7 @@
   "id": "ZCioSOYsqo4fnil1",
   "meta": {
     "name": "Scrape AI News from Multiple Sources to Markdown & Google Drive with RSS.app",
-    "id": 5416,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5416
   },
   "name": "The Recap AI - News Scraping Pipeline",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "ZdGZh4qmOqTQe1oq",
   "meta": {
     "name": "Retrieve a Monday.com row and all data in a single node",
-    "id": 2086,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2086
   },
   "name": "MONDAY GET FULL ITEM",
   "tags": [

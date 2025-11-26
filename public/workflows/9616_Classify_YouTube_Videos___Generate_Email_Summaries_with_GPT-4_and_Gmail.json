@@ -2,8 +2,7 @@
   "id": "VQ7jb5c4TZoVOkoA",
   "meta": {
     "name": "Classify YouTube Videos & Generate Email Summaries with GPT-4 and Gmail",
-    "id": 9616,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9616
   },
   "name": "YouTube Trend Detector",
   "tags": [],

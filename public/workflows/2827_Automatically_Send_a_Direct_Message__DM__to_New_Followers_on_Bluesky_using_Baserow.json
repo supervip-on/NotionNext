@@ -2,8 +2,7 @@
   "id": "iL1BabR20UrKFBSs",
   "meta": {
     "name": "Automatically Send a Direct Message (DM) to New Followers on Bluesky using Baserow",
-    "id": 2827,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2827
   },
   "name": "Automatically Send a Direct Message (DM) to New Followers on Bluesky",
   "tags": [

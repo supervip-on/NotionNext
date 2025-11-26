@@ -2,8 +2,7 @@
   "id": "Gl42xEYFxeKPDz3J",
   "meta": {
     "name": "Transcribe & Summarize GoHighLevel Call Recordings",
-    "id": 10255,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10255
   },
   "name": "GHL AI Call Summaries",
   "tags": [

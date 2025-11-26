@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape and summarize webpages with AI",
-    "id": 1951,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1951
   },
   "nodes": [
     {

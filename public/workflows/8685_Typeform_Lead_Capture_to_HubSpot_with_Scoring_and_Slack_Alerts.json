@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Typeform Lead Capture to HubSpot with Scoring and Slack Alerts",
-    "id": 8685,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8685
   },
   "nodes": [
     {

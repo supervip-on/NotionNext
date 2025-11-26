@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Lead Personalization with Google Drive, Apify & AI",
-    "id": 8706,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8706
   },
   "nodes": [
     {

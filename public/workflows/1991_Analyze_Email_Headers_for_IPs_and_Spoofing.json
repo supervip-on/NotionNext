@@ -2,8 +2,7 @@
   "id": "3tJcVzt2OqeyjfnH",
   "meta": {
     "name": "Analyze Email Headers for IPs and Spoofing",
-    "id": 1991,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1991
   },
   "name": "Analyze_email_headers_for_IPs_and_spoofing__3",
   "tags": [

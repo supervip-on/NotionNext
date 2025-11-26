@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated SEO Performance Collection from Google Search Console to NocoDB",
-    "id": 3721,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3721
   },
   "nodes": [
     {

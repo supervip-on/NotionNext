@@ -2,8 +2,7 @@
   "id": "FVAlstK1A75QWcNY",
   "meta": {
     "name": "Classify Developer Questions with GPT-4o from Slack to Notion & Airtable",
-    "id": 10339,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10339
   },
   "name": "Developer Chat Q&A Capture (Slack)",
   "tags": [],

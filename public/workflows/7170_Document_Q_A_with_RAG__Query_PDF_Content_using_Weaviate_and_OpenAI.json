@@ -2,8 +2,7 @@
   "id": "hWxVTNvDEcGofp5O",
   "meta": {
     "name": "Document Q&A with RAG: Query PDF Content using Weaviate and OpenAI",
-    "id": 7170,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7170
   },
   "name": "rag-with-weaviate",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find Reddit Prospects & Generate Personalized Responses with Llama3 AI and Google Sheets",
-    "id": 4068,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4068
   },
   "nodes": [
     {

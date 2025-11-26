@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Forex Factory News Releases with MyFxBook, Telegram & Google Sheets",
-    "id": 8491,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8491
   },
   "nodes": [
     {

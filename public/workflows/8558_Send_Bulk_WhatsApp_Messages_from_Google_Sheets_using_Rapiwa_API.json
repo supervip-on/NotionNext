@@ -2,8 +2,7 @@
   "id": "Z69DQyzbsETSrFnF",
   "meta": {
     "name": "Send Bulk WhatsApp Messages from Google Sheets using Rapiwa API",
-    "id": 8558,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8558
   },
   "name": "Bulk WhatsApp Campaign Automation with Rapiwa API (Unofficial Integration)",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "Vdw4Tf8R4PjaKrhY",
   "meta": {
     "name": "Automated Trending Cryptocurrency Updates from CoinGecko to Telegram",
-    "id": 8271,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8271
   },
   "name": "coingecko-trending-coins",
   "tags": [

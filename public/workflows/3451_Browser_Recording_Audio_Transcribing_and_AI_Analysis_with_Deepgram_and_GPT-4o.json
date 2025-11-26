@@ -2,8 +2,7 @@
   "id": "m4KemnsFjvAYAcWL",
   "meta": {
     "name": "🔊  Browser Recording Audio Transcribing and AI Analysis with Deepgram and GPT-4o",
-    "id": 3451,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3451
   },
   "name": "Transcript Evalu8r V2",
   "nodes": [

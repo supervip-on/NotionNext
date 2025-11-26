@@ -2,8 +2,7 @@
   "id": "AAjX1BuwhyXpo8xP",
   "meta": {
     "name": "Create a Google Analytics Data Report with AI and sent it to E-Mail and Telegram",
-    "id": 2673,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2673
   },
   "name": "Google Analytics: Weekly Report",
   "tags": [],

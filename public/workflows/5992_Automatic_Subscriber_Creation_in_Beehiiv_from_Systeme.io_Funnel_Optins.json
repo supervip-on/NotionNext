@@ -2,8 +2,7 @@
   "id": "FwN3BphNMsHcoKWs",
   "meta": {
     "name": "Automatic Subscriber Creation in Beehiiv from Systeme.io Funnel Optins",
-    "id": 5992,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5992
   },
   "name": "Create new Beehiiv subscribers from new Systeme.io optins (funnel level)",
   "tags": [],

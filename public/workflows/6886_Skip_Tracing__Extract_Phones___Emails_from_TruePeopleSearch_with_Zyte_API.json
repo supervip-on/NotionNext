@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Skip Tracing: Extract Phones & Emails from TruePeopleSearch with Zyte API",
-    "id": 6886,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6886
   },
   "nodes": [
     {

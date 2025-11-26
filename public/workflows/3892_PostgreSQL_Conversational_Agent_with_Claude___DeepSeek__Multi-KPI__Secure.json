@@ -2,8 +2,7 @@
   "id": "Wsw6HdSAFk8y7jxh",
   "meta": {
     "name": "PostgreSQL Conversational Agent with Claude & DeepSeek (Multi-KPI, Secure)",
-    "id": 3892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3892
   },
   "name": "Build your own PostgreSQL MCP server(No visuals)",
   "tags": [],

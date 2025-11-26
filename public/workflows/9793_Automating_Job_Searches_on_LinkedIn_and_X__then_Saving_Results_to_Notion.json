@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automating Job Searches on LinkedIn and X, then Saving Results to Notion",
-    "id": 9793,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9793
   },
   "nodes": [
     {

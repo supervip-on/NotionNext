@@ -52,7 +52,6 @@
   },
   "meta": {
     "name": "Save Typeform survey results to Airtable",
-    "id": 384,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 384
   }
 }

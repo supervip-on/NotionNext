@@ -2,8 +2,7 @@
   "id": "70dLD2GDb2VSXLjF",
   "meta": {
     "name": "Automated WooCommerce Abandoned Cart Recovery with Google Sheets Email Reminders",
-    "id": 6322,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6322
   },
   "name": "WooCommerce Abandoned Cart Recovery",
   "tags": [],

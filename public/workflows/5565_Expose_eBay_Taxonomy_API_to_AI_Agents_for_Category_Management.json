@@ -2,8 +2,7 @@
   "id": "mp0JFexRv53gnOy9",
   "meta": {
     "name": "Expose eBay Taxonomy API to AI Agents for Category Management",
-    "id": 5565,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5565
   },
   "name": "[eBay] Taxonomy API MCP Server",
   "tags": [],

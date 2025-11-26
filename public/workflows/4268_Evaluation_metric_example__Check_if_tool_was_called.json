@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Evaluation metric example: Check if tool was called",
-    "id": 4268,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4268
   },
   "nodes": [
     {

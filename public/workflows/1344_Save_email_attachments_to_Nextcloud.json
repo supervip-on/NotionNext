@@ -69,8 +69,7 @@
   },
   "meta": {
     "name": "Save email attachments to Nextcloud",
-    "id": 1344,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1344
   },
   "id": "1344"
 }

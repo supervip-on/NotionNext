@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Voice Appointment Reminders with Google Calendar GPT ElevenLabs Gmail",
-    "id": 3194,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3194
   },
   "nodes": [
     {

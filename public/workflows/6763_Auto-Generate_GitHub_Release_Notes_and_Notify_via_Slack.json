@@ -2,8 +2,7 @@
   "id": "CK1X6HPPuntaDwNl",
   "meta": {
     "name": "Auto-Generate GitHub Release Notes and Notify via Slack",
-    "id": 6763,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6763
   },
   "name": "Auto‑Generate Release Notes",
   "tags": [],

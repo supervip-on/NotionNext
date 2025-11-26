@@ -2,8 +2,7 @@
   "id": "fvd4uwHNbYcUbqzk",
   "meta": {
     "name": "Daily Import Yesterday's Forex Factory Calendar to Google Sheets with Telegram Alerts",
-    "id": 9357,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9357
   },
   "name": "Daily Import Forex Factory Calendar into Google Sheets & Send in Telegram",
   "tags": [

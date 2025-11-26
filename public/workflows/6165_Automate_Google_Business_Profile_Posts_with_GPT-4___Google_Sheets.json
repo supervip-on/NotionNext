@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Google Business Profile Posts with GPT-4 & Google Sheets",
-    "id": 6165,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6165
   },
   "nodes": [
     {

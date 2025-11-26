@@ -2,8 +2,7 @@
   "id": "IYgbtNpyB4E6Jbxo",
   "meta": {
     "name": "Better Oauth2.0 workflow for Pipedrive CRM with Supabase",
-    "id": 2319,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2319
   },
   "name": "2. Refresh Pipedrive tokens",
   "tags": [],

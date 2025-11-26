@@ -43,8 +43,7 @@
   },
   "meta": {
     "name": "Get all contacts from Keap",
-    "id": 553,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 553
   },
   "id": "553"
 }

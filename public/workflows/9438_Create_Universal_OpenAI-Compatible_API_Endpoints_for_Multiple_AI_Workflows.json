@@ -2,8 +2,7 @@
   "id": "CcsSozcaZmwgTZRJ",
   "meta": {
     "name": "Create Universal OpenAI-Compatible API Endpoints for Multiple AI Workflows",
-    "id": 9438,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9438
   },
   "name": "Create OpenAI-Compatible API For N8n Agents/Workflows",
   "tags": [],

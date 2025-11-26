@@ -2,8 +2,7 @@
   "id": "VhEwspDqzu7ssFVE",
   "meta": {
     "name": "Smart IoT Device Health Monitor with ScrapeGraphAI and Telegram",
-    "id": 6930,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6930
   },
   "name": "My workflow 2",
   "tags": [

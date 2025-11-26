@@ -2,8 +2,7 @@
   "id": "TdUwxmTIJnTwQhJe",
   "meta": {
     "name": "Automated Content & Promo Tweet Scheduler with Gemini AI and Google Sheets",
-    "id": 8435,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8435
   },
   "name": "Twitter Automation",
   "tags": [

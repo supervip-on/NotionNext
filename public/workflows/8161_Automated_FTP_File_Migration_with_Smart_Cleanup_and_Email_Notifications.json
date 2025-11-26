@@ -2,8 +2,7 @@
   "id": "DaJFVETQef5qJMmB",
   "meta": {
     "name": "Automated FTP File Migration with Smart Cleanup and Email Notifications",
-    "id": 8161,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8161
   },
   "name": "My workflow 2",
   "tags": [],

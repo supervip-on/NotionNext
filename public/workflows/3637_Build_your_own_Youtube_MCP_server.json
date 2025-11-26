@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build your own Youtube MCP server",
-    "id": 3637,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3637
   },
   "nodes": [
     {

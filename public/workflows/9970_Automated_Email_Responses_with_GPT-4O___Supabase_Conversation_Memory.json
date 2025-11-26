@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Email Responses with GPT-4O & Supabase Conversation Memory",
-    "id": 9970,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9970
   },
   "nodes": [
     {

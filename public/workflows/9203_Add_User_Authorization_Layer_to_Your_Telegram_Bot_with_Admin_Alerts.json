@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add User Authorization Layer to Your Telegram Bot with Admin Alerts",
-    "id": 9203,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9203
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "fgQgNpXb2YQnLXjA",
   "meta": {
     "name": "ETL: Extract and Parse Revit Model Data to Structured Excel",
-    "id": 7654,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7654
   },
   "name": "n8n_8_Revit_IFC_DWG_Conversation_EXTRACT_Phase_with_Parse_XLSX",
   "tags": [],

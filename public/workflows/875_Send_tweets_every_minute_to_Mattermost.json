@@ -176,7 +176,6 @@
   },
   "meta": {
     "name": "Send tweets every minute to Mattermost",
-    "id": 875,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 875
   }
 }

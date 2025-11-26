@@ -2,8 +2,7 @@
   "id": "Z1UKztds8E5oQSMe",
   "meta": {
     "name": "Estimate Construction Costs from Revit/IFC Models with GPT-4 and Claude",
-    "id": 7652,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7652
   },
   "name": "n8n_6_Construction_Price_Estimation_with_LLM_for_Revt_and_IFC",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "GTBliDoeUtJf5Oz9",
   "meta": {
     "name": "Create Daily Gmail Summaries with Google Gemini AI",
-    "id": 4915,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4915
   },
   "name": "Gmail Daily Summary Scheduler",
   "tags": [],

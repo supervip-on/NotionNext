@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Plivo Tool MCP Server 💪 all 3 operations",
-    "id": 5094,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5094
   },
   "nodes": [
     {

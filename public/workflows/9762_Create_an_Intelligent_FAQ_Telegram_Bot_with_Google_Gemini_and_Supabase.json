@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create an Intelligent FAQ Telegram Bot with Google Gemini and Supabase",
-    "id": 9762,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9762
   },
   "nodes": [
     {

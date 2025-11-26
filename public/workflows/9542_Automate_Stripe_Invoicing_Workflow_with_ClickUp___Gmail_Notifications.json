@@ -2,8 +2,7 @@
   "id": "YAlJiB1cYsqCxewZ",
   "meta": {
     "name": "Automate Stripe Invoicing Workflow with ClickUp & Gmail Notifications",
-    "id": 9542,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9542
   },
   "name": "Automated Stripe Invoicing",
   "tags": [],

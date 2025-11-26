@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Customer feedback sentiment analysis",
-    "id": 1996,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1996
   },
   "nodes": [
     {

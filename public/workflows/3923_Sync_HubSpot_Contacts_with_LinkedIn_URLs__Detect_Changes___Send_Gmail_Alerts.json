@@ -938,8 +938,7 @@
   },
   "meta": {
     "name": "Sync HubSpot Contacts with LinkedIn URLs, Detect Changes & Send Gmail Alerts",
-    "id": 3923,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3923
   },
   "id": "3923"
 }

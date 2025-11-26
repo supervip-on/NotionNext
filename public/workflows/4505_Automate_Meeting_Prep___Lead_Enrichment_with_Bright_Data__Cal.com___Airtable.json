@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Meeting Prep & Lead Enrichment with Bright Data, Cal.com & Airtable",
-    "id": 4505,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4505
   },
   "nodes": [
     {

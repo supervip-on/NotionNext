@@ -2,8 +2,7 @@
   "id": "s2ucjAukkvRz8P1W",
   "meta": {
     "name": "Monitor Flight Price Drops and Send Email Alerts with SerpAPI and Gmail",
-    "id": 6503,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6503
   },
   "name": "Flight Price Drop Indicator",
   "tags": [],

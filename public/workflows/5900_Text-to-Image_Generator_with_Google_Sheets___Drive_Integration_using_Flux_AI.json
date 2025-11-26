@@ -2,8 +2,7 @@
   "id": "GhhQipbYpxeWDukK",
   "meta": {
     "name": "Text-to-Image Generator with Google Sheets & Drive Integration using Flux AI",
-    "id": 5900,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5900
   },
   "name": "Text To Image Flux AI copy",
   "tags": [],

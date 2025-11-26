@@ -2,8 +2,7 @@
   "id": "OjwmaLrXhW4pO5ph",
   "meta": {
     "name": "Asynchronous Bulk Web Scraping with Bright Data & Webhook Notifications",
-    "id": 3866,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3866
   },
   "name": "Structured Bulk Data Extract with Bright Data Web Scraper",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "fZR0Kg8Cnj1moDAL",
   "meta": {
     "name": "Automated Faceless YouTube Video Generator Using Leonardo AI and Creatomate",
-    "id": 2971,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2971
   },
   "name": "GenerateFacelessYoutubeVideo",
   "tags": [

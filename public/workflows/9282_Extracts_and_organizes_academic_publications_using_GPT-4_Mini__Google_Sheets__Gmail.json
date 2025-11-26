@@ -2,8 +2,7 @@
   "id": "RNryWSC0apJGzqyR",
   "meta": {
     "name": "Extracts and organizes academic publications using GPT-4 Mini, Google Sheets, Gmail",
-    "id": 9282,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9282
   },
   "name": "Extract & Organize Academic Publications with GPT-4 Mini, Google Sheets & Gmail",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp Marketing Dashboard with Dynamic Broadcasts from Google Sheets to Meta Templates",
-    "id": 9553,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9553
   },
   "nodes": [
     {

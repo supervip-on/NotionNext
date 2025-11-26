@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Form-Based X/Twitter Poster",
-    "id": 4415,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4415
   },
   "nodes": [
     {

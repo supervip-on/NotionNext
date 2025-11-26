@@ -2,8 +2,7 @@
   "id": "uoTYOXDUavQ2tQew",
   "meta": {
     "name": "Process Resumes from Google Drive to ClickUp using GPT-4o and Google Sheets",
-    "id": 8529,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8529
   },
   "name": "Drive to clickup resume automation",
   "tags": [],

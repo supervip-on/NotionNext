@@ -126,8 +126,7 @@
   },
   "meta": {
     "name": "Send location updates of the ISS to a topic in MQTT",
-    "id": 1069,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1069
   },
   "id": "1069"
 }

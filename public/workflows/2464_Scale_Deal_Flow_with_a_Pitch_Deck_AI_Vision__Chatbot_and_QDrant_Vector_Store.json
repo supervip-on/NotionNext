@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scale Deal Flow with a Pitch Deck AI Vision, Chatbot and QDrant Vector Store",
-    "id": 2464,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2464
   },
   "nodes": [
     {

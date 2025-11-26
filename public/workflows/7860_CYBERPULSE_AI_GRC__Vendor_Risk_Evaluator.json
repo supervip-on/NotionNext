@@ -2,8 +2,7 @@
   "id": "G95QFaRlYK3TExyw",
   "meta": {
     "name": "CYBERPULSE AI GRC: Vendor Risk Evaluator",
-    "id": 7860,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7860
   },
   "name": "GRC Module 3: Vendor Risk Evaluator",
   "tags": [

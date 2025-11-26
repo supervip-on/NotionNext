@@ -2,8 +2,7 @@
   "id": "7vi7pp915Xoh9Ovu",
   "meta": {
     "name": "Automatic Jest Test Generation for GitHub PRs with Dual AI Review",
-    "id": 4013,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4013
   },
   "name": "Automatic Unit Test Creator from Github",
   "tags": [],

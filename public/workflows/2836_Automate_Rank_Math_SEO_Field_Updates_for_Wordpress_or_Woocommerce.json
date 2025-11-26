@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Rank Math SEO Field Updates for Wordpress or Woocommerce",
-    "id": 2836,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2836
   },
   "nodes": [
     {

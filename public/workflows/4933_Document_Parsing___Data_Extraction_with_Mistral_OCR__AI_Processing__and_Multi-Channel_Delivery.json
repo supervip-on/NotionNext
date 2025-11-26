@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Document Parsing & Data Extraction with Mistral OCR, AI Processing, and Multi-Channel Delivery",
-    "id": 4933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4933
   },
   "name": "My workflow 10",
   "nodes": [

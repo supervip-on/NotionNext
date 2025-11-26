@@ -2,8 +2,7 @@
   "id": "dQC8kExvbCrovWf0",
   "meta": {
     "name": "Dynamically switch between LLMs for AI Agents using LangChain Code",
-    "id": 3820,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3820
   },
   "name": "Dynamically switch between LLMs Template",
   "tags": [],

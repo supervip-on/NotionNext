@@ -2,8 +2,7 @@
   "id": "WsksMHrmAQrG32db",
   "meta": {
     "name": "Time logging on Clockify using Slack",
-    "id": 2604,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2604
   },
   "name": "ClockifyBlockiaWorkflow",
   "tags": [

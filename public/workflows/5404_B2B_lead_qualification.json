@@ -2,8 +2,7 @@
   "id": "3TgB8gjUez1uQjJw",
   "meta": {
     "name": "B2B lead qualification",
-    "id": 5404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5404
   },
   "name": "Automate B2B Lead Qualification with Voice Calls (VAPI) and Google Sheets",
   "tags": [],

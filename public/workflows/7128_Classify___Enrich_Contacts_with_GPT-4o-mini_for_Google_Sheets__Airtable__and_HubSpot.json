@@ -669,8 +669,7 @@
   },
   "meta": {
     "name": "Classify & Enrich Contacts with GPT-4o-mini for Google Sheets, Airtable, and HubSpot",
-    "id": 7128,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7128
   },
   "id": "7128"
 }

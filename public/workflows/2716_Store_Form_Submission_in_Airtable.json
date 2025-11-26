@@ -2,8 +2,7 @@
   "id": "QObDE85a2ArfJkxV",
   "meta": {
     "name": "Store Form Submission in Airtable",
-    "id": 2716,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2716
   },
   "name": "Automated Form Submission Data Storage in Airtable",
   "tags": [

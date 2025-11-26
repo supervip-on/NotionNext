@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Tech News  Report by ApiFlash, Gemini Vision & Sheets to Telegram",
-    "id": 8291,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8291
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "D3gKQ4UE1XR2TC8n",
   "meta": {
     "name": "Qualify Leads with AI Review Analysis using Azure GPT-4o-mini and Google Sheets",
-    "id": 8278,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8278
   },
   "name": "AI lead qualification",
   "tags": [],

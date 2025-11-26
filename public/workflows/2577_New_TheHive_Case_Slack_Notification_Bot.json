@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "New TheHive Case Slack Notification Bot",
-    "id": 2577,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2577
   },
   "nodes": [
     {

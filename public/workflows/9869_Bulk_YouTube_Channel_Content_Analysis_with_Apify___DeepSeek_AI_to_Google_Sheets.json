@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk YouTube Channel Content Analysis with Apify & DeepSeek AI to Google Sheets",
-    "id": 9869,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9869
   },
   "nodes": [
     {

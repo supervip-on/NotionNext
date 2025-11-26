@@ -2,8 +2,7 @@
   "id": "mvgpK03LMiYSiyxH",
   "meta": {
     "name": "AI Agent Web Search using SearchAPI & LLM",
-    "id": 3829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3829
   },
   "name": "SearchApi AI Agent",
   "tags": [],

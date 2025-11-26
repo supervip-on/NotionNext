@@ -2,8 +2,7 @@
   "id": "KntSti9i1ng0o61k",
   "meta": {
     "name": "Process Meeting Transcripts into Notion Notes & Tasks with AI and Google Drive",
-    "id": 9929,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9929
   },
   "name": "Transcript -> Notion -> Tasks",
   "tags": [],

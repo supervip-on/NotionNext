@@ -2,8 +2,7 @@
   "id": "ugi00HVDOW9kN81g",
   "meta": {
     "name": "Sentiment Analysis of Product Reviews using Google Sheets & OpenAI",
-    "id": 6739,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6739
   },
   "name": "Sentiment Analysis of Product Reviews with OpenAI",
   "tags": [],

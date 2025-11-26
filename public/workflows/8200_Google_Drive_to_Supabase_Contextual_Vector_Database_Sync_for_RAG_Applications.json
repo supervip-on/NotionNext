@@ -2,8 +2,7 @@
   "id": "XwFvFryyo4goPzpd",
   "meta": {
     "name": "Google Drive to Supabase Contextual Vector Database Sync for RAG Applications",
-    "id": 8200,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8200
   },
   "name": "Contextual Hybrid RAG AI copy",
   "tags": [

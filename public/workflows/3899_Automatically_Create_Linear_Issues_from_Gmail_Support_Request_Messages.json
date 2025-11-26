@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Create Linear Issues from Gmail Support Request Messages",
-    "id": 3899,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3899
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized Cold Emails from LinkedIn Jobs with GPT-4o and Gmail",
-    "id": 9471,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9471
   },
   "nodes": [
     {

@@ -140,8 +140,7 @@
   },
   "meta": {
     "name": "Generate Text Images from the Free DummyJSON API Using the HTTP Request Node",
-    "id": 2990,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2990
   },
   "id": "2990"
 }

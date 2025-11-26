@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Descriptions for New Google Sheets Entries with GPT-4.1-mini",
-    "id": 7403,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7403
   },
   "nodes": [
     {

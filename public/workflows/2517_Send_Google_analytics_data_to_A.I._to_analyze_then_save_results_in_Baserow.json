@@ -2,8 +2,7 @@
   "id": "K3uf8aY8wipScEay",
   "meta": {
     "name": "Send Google analytics data to A.I. to analyze then save results in Baserow",
-    "id": 2517,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2517
   },
   "name": "Google analytics template",
   "tags": [],

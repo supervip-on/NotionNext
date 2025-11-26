@@ -2,8 +2,7 @@
   "id": "VPtrkEUaljkq5VtD",
   "meta": {
     "name": "Crawl Website Blog Content and Save to Google Sheets with Dumpling AI",
-    "id": 8195,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8195
   },
   "name": "Crawl Website Blog Content and Save to Google Sheets with Dumpling AI",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "Ucu10DYuMwYdLLVk",
   "meta": {
     "name": "Automated Daily Email Analysis & Summary with GPT-4o and Gmail",
-    "id": 4893,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4893
   },
   "name": "Scheduled Daily Email Pulse",
   "tags": [],

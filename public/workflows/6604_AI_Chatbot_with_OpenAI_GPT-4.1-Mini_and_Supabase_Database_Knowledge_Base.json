@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Chatbot with OpenAI GPT-4.1-Mini and Supabase Database Knowledge Base",
-    "id": 6604,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6604
   },
   "nodes": [
     {

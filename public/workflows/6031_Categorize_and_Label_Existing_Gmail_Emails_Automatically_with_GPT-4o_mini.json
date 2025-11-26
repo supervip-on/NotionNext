@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Categorize and Label Existing Gmail Emails Automatically with GPT-4o mini",
-    "id": 6031,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6031
   },
   "nodes": [
     {

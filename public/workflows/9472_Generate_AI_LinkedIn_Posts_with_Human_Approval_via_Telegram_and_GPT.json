@@ -2,8 +2,7 @@
   "id": "oXYAKSV0dFJb8Ms8",
   "meta": {
     "name": "Generate AI LinkedIn Posts with Human Approval via Telegram and GPT",
-    "id": 9472,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9472
   },
   "name": "Human In The Loop",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "jWtAzmLnP037vKY3",
   "meta": {
     "name": "Scrape Upwork Job Listings & Generate Daily Email Reports with Apify & Google Sheets",
-    "id": 6028,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6028
   },
   "name": "Scrape Upwork Job Listings & Generate Daily Email Report with Apify and Google Sheets",
   "tags": [],

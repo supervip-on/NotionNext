@@ -2,8 +2,7 @@
   "id": "Bh88SWMuqHN92zEA",
   "meta": {
     "name": "Generate AI-Powered LinkedIn Posts with Ollama, Image Creation, and Gmail Delivery",
-    "id": 4674,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4674
   },
   "name": "Auto-post generation",
   "tags": [],

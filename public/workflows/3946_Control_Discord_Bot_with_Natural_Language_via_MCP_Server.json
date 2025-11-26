@@ -2,8 +2,7 @@
   "id": "ly8aZhPk5ZI8uB0Y",
   "meta": {
     "name": "Control Discord Bot with Natural Language via MCP Server",
-    "id": 3946,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3946
   },
   "name": "Discord MCP Server",
   "tags": [],

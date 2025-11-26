@@ -2,8 +2,7 @@
   "id": "RWghkZDBJi9mm0Bq",
   "meta": {
     "name": "Extract LinkedIn Profile Data & Generate Follow-ups with Vision AI and Google Forms",
-    "id": 9855,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9855
   },
   "name": "[Template] Building Relationships (param)",
   "tags": [],

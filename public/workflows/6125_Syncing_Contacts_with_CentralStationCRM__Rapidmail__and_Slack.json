@@ -2,8 +2,7 @@
   "id": "Gb148LV3fQumTIib",
   "meta": {
     "name": "Syncing Contacts with CentralStationCRM, Rapidmail, and Slack",
-    "id": 6125,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6125
   },
   "name": "Sync New CentralStationCRM Contacts to Rapidmail with Slack Approval",
   "tags": [],

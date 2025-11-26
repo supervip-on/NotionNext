@@ -2,8 +2,7 @@
   "id": "EFHIQBQltrt7yPxS",
   "meta": {
     "name": "Extract & Process Invoices with Gemini AI, Google Sheets & Gmail Notifications",
-    "id": 8548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8548
   },
   "name": "AI-Powered Invoice Extraction & Automation System",
   "tags": [],

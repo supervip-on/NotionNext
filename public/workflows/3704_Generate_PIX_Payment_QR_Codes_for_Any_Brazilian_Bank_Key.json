@@ -2,8 +2,7 @@
   "id": "q5j8e3kVJcgYfaLc",
   "meta": {
     "name": "🔐 Generate PIX Payment QR Codes for Any Brazilian Bank Key",
-    "id": 3704,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3704
   },
   "name": "PIX QR Code Generator for payments in Brazil",
   "tags": [],

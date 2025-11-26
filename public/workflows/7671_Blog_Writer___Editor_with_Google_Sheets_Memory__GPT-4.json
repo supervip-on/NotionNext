@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Blog Writer & Editor with Google Sheets Memory (GPT-4)",
-    "id": 7671,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7671
   },
   "nodes": [
     {

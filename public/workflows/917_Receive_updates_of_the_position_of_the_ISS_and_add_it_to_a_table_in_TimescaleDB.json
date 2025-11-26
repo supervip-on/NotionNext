@@ -122,8 +122,7 @@
   },
   "meta": {
     "name": "Receive updates of the position of the ISS and add it to a table in TimescaleDB",
-    "id": 917,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 917
   },
   "id": "917"
 }

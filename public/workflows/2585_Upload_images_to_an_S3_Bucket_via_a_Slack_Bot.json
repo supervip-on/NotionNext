@@ -996,8 +996,7 @@
   },
   "meta": {
     "name": "Upload images to an S3 Bucket via a Slack Bot",
-    "id": 2585,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2585
   },
   "id": "2585"
 }

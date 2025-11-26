@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Invoice Data from PDFs with Gemini AI to Google Sheets 📄",
-    "id": 9261,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9261
   },
   "nodes": [
     {

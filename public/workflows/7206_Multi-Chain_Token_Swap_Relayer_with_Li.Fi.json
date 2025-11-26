@@ -2,8 +2,7 @@
   "id": "fVQBtrZ0NyAMHS3D",
   "meta": {
     "name": "Multi-Chain Token Swap Relayer with Li.Fi",
-    "id": 7206,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7206
   },
   "name": "n8n Gateway for 1Shot Gas Station",
   "tags": [],

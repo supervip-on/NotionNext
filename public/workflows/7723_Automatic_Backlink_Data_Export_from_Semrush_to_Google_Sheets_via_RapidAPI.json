@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Backlink Data Export from Semrush to Google Sheets via RapidAPI",
-    "id": 7723,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7723
   },
   "nodes": [
     {

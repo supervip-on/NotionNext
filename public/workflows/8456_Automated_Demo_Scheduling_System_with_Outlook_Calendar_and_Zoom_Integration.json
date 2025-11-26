@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Demo Scheduling System with Outlook Calendar and Zoom Integration",
-    "id": 8456,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8456
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "gwxWo0IhhGanHkLX",
   "meta": {
     "name": "Monitor Blood Bank Stock & Send Low Level Alerts with Google Sheets and WhatsApp",
-    "id": 7253,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7253
   },
   "name": "Monitor Blood Bank Stock & Send Low Blood Group Alerts",
   "tags": [],

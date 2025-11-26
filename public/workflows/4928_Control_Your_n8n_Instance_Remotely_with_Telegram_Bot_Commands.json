@@ -2,8 +2,7 @@
   "id": "oPfjCB6LU7nwNRiu",
   "meta": {
     "name": "Control Your n8n Instance Remotely with Telegram Bot Commands",
-    "id": 4928,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4928
   },
   "name": "Telegram-n8n-Commander",
   "tags": [],

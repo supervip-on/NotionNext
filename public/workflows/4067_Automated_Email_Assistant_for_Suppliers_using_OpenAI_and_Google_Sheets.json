@@ -2,8 +2,7 @@
   "id": "chCFNRonfZBJVoUK",
   "meta": {
     "name": "Automated Email Assistant for Suppliers using OpenAI and Google Sheets",
-    "id": 4067,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4067
   },
   "name": "Personal Assistant",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Human-in-the-Loop Post Designer with Mistral AI, ImageKit, and LinkedIn Publishing",
-    "id": 6204,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6204
   },
   "nodes": [
     {

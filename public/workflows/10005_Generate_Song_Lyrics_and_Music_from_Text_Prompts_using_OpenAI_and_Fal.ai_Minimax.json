@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Song Lyrics and Music from Text Prompts using OpenAI and Fal.ai Minimax",
-    "id": 10005,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10005
   },
   "nodes": [
     {

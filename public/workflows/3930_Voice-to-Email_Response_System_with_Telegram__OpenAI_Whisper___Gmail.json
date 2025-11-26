@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Voice-to-Email Response System with Telegram, OpenAI Whisper & Gmail",
-    "id": 3930,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3930
   },
   "nodes": [
     {

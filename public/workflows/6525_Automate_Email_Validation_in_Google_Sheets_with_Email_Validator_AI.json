@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Email Validation in Google Sheets with Email Validator AI",
-    "id": 6525,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6525
   },
   "nodes": [
     {

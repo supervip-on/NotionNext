@@ -2,8 +2,7 @@
   "id": "rJNvM4vU6SLUeC1d",
   "meta": {
     "name": "Sync Youtube Video URLs with Google Sheets",
-    "id": 3897,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3897
   },
   "name": "Sync Youtube Video Urls with Google Sheets",
   "tags": [],

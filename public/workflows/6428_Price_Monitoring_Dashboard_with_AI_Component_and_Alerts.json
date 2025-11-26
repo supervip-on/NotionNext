@@ -2,8 +2,7 @@
   "id": "CompetitorPriceMonitoring2024",
   "meta": {
     "name": "Price Monitoring Dashboard with AI Component and Alerts",
-    "id": 6428,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6428
   },
   "name": "Competitor Price Monitoring",
   "tags": [

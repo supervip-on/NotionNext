@@ -2,8 +2,7 @@
   "id": "UjlWmUcLcqmqB9a7",
   "meta": {
     "name": "Convert GIF to MP4 with FFmpegAPI",
-    "id": 8321,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8321
   },
   "name": "FFmpegAPI GIF to MP4",
   "tags": [],

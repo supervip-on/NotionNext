@@ -2,8 +2,7 @@
   "id": "QO4Mg23JvVfNCICy",
   "meta": {
     "name": "Automate Lead Qualification with RetellAI Phone Agent, OpenAI GPT & Google Sheet",
-    "id": 3912,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3912
   },
   "name": "Build a Phone Agent to qualify outbound leads and inbound calls with RetellAI -vide",
   "tags": [

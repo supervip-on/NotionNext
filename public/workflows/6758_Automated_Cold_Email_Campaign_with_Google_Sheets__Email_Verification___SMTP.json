@@ -2,8 +2,7 @@
   "id": "0NUf4DsJtFfnyxnp",
   "meta": {
     "name": "Automated Cold Email Campaign with Google Sheets, Email Verification & SMTP",
-    "id": 6758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6758
   },
   "name": "Cold/Warm Email Automation",
   "tags": [],

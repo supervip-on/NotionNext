@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Content Migration from ClickUp Docs to Airtable Records",
-    "id": 9135,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9135
   },
   "nodes": [
     {

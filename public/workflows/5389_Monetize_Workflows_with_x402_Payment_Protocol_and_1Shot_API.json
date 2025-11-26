@@ -2,8 +2,7 @@
   "id": "EfbdYnnqgNACIN81",
   "meta": {
     "name": "Monetize Workflows with x402 Payment Protocol and 1Shot API",
-    "id": 5389,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5389
   },
   "name": "x402 Gateway Template",
   "tags": [

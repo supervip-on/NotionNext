@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Shopify Orders in Google Sheets and Send Discord Notifications",
-    "id": 6750,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6750
   },
   "nodes": [
     {

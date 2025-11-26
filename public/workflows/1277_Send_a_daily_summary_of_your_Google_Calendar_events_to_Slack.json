@@ -368,8 +368,7 @@
   },
   "meta": {
     "name": "Send a daily summary of your Google Calendar events to Slack",
-    "id": 1277,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1277
   },
   "id": "1277"
 }

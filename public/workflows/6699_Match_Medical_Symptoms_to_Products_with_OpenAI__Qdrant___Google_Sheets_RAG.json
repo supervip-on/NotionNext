@@ -2,8 +2,7 @@
   "id": "npjeGNOHqwXLz1AX",
   "meta": {
     "name": "Match Medical Symptoms to Products with OpenAI, Qdrant & Google Sheets RAG",
-    "id": 6699,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6699
   },
   "name": "Product Recommendation RAG",
   "tags": [],

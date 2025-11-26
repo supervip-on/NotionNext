@@ -178,7 +178,6 @@
   },
   "meta": {
     "name": "Create, update and get records in Quick Base",
-    "id": 805,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 805
   }
 }

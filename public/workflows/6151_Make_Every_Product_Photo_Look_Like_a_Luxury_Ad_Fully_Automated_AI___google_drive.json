@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Make Every Product Photo Look Like a Luxury Ad Fully Automated AI + google drive",
-    "id": 6151,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6151
   },
   "nodes": [
     {

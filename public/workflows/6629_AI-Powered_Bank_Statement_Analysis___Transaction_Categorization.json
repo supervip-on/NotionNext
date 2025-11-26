@@ -396,8 +396,7 @@
   "triggerCount": 0,
   "meta": {
     "name": "AI-Powered Bank Statement Analysis & Transaction Categorization",
-    "id": 6629,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6629
   },
   "id": "6629"
 }

@@ -2,8 +2,7 @@
   "id": "wGQOrU5qak5K99FT",
   "meta": {
     "name": "Turn Google Sheets Ideas into AI Videos with GPT-4o and Fal.AI Veo 3",
-    "id": 4881,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4881
   },
   "name": "Google Sheets to Veo 3: Instantly Create Videos with n8n & Fal.AI",
   "tags": [

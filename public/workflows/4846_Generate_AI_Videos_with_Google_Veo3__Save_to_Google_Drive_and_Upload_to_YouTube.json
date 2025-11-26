@@ -2,8 +2,7 @@
   "id": "g1hmK8jw38TOYX7D",
   "meta": {
     "name": "Generate AI Videos with Google Veo3, Save to Google Drive and Upload to YouTube",
-    "id": 4846,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4846
   },
   "name": "Create Video with Google Veo3 and Upload to Youtube",
   "tags": [],

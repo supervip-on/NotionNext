@@ -2,8 +2,7 @@
   "id": "XgDjExGfayp7o7hK",
   "meta": {
     "name": "Connect AI Agents to eBay Deal API with MCP Server",
-    "id": 5564,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5564
   },
   "name": "[eBay] Deal API MCP Server",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ seven Tool MCP Server with both available operations",
-    "id": 5088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5088
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Qualify Real Estate Leads via SMS with GPT-4o, Twilio, and Google Sheets",
-    "id": 6332,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6332
   },
   "nodes": [
     {

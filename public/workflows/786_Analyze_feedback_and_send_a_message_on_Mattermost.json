@@ -127,7 +127,6 @@
   },
   "meta": {
     "name": "Analyze feedback and send a message on Mattermost",
-    "id": 786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 786
   }
 }

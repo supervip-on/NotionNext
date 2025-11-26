@@ -2,8 +2,7 @@
   "id": "7hnka95eVVV7xGyZ",
   "meta": {
     "name": "Analyze Telegram Messages with OpenAI and Send Notifications via Gmail & Telegram",
-    "id": 3306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3306
   },
   "name": "🤖 MCP AGENT > Airbnb, FireCrawl $ Brave",
   "tags": [],

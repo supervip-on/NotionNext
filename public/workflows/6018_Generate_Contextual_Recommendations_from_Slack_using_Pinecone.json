@@ -2,8 +2,7 @@
   "id": "oK6nDjVJjDLtlWYt",
   "meta": {
     "name": "Generate Contextual Recommendations from Slack using Pinecone",
-    "id": 6018,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6018
   },
   "name": "RAG",
   "tags": [],

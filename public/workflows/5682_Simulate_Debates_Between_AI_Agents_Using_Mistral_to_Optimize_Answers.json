@@ -2,8 +2,7 @@
   "id": "8pG71svvcOTxFAYE",
   "meta": {
     "name": "Simulate Debates Between AI Agents Using Mistral to Optimize Answers",
-    "id": 5682,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5682
   },
   "name": "AI Arena - Debate of AI Agents to Optimize Answers and Simulate Scenarios",
   "tags": [

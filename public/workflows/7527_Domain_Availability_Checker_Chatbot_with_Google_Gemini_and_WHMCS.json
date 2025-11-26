@@ -2,8 +2,7 @@
   "id": "ZBWtmHUruuIlVsQ7",
   "meta": {
     "name": "Domain Availability Checker Chatbot with Google Gemini and WHMCS",
-    "id": 7527,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7527
   },
   "name": "Domain Name Availability Check with WHMCS - Template",
   "tags": [],

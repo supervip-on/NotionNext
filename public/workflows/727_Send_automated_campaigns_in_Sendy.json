@@ -85,7 +85,6 @@
   },
   "meta": {
     "name": "Send automated campaigns in Sendy",
-    "id": 727,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 727
   }
 }

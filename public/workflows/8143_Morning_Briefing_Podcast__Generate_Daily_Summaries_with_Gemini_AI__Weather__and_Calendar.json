@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Morning Briefing Podcast: Generate Daily Summaries with Gemini AI, Weather, and Calendar",
-    "id": 8143,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8143
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "1mZD3H0r79bhY71M",
   "meta": {
     "name": "Analyze YouTube Comments Sentiment & Keywords with Gemini AI and Telegram Reporting",
-    "id": 7434,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7434
   },
   "name": "YouTube Comment Sentiment & Keyword Extractor",
   "tags": [],

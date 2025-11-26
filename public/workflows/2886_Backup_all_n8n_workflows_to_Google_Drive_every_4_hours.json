@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Backup all n8n workflows to Google Drive every 4 hours",
-    "id": 2886,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2886
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI content creation and auto WordPress publishing with Pexels API image workflow",
-    "id": 5159,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5159
   },
   "nodes": [
     {

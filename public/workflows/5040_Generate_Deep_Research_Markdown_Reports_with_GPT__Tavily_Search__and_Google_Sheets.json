@@ -2,8 +2,7 @@
   "id": "oIEM1QnxTXuxJK06",
   "meta": {
     "name": "Generate Deep Research Markdown Reports with GPT, Tavily Search, and Google Sheets",
-    "id": 5040,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5040
   },
   "name": "Blog Research Agent",
   "tags": [],

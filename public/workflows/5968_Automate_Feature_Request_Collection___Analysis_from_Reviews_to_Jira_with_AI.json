@@ -2,8 +2,7 @@
   "id": "FAL2gIZB1DbRSWZe",
   "meta": {
     "name": "Automate Feature Request Collection & Analysis from Reviews to Jira with AI",
-    "id": 5968,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5968
   },
   "name": "25 Gather Feature Requests",
   "tags": [],

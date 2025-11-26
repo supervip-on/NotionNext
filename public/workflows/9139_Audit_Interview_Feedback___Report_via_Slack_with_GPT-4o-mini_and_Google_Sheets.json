@@ -2,8 +2,7 @@
   "id": "DZrX6urOE53Tm4jp",
   "meta": {
     "name": "Audit Interview Feedback & Report via Slack with GPT-4o-mini and Google Sheets",
-    "id": 9139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9139
   },
   "name": "Interview Quality Audit",
   "tags": [],

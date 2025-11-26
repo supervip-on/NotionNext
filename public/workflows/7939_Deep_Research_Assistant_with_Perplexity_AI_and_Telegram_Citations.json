@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Deep Research Assistant with Perplexity AI and Telegram Citations",
-    "id": 7939,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7939
   },
   "nodes": [
     {

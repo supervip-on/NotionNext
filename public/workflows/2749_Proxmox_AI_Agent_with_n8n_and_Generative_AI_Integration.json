@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Proxmox AI Agent with n8n and Generative AI Integration",
-    "id": 2749,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2749
   },
   "nodes": [
     {

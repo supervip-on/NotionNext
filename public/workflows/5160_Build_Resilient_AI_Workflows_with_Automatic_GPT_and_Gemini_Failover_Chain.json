@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🤖 Build Resilient AI Workflows with Automatic GPT and Gemini Failover Chain",
-    "id": 5160,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5160
   },
   "nodes": [
     {

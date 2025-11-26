@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Backup n8n Workflows with Versioning and Notion Tracking",
-    "id": 6947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6947
   },
   "nodes": [
     {

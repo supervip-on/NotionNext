@@ -243,8 +243,7 @@
   },
   "meta": {
     "name": "Sync Google Calendar tasks to Trello every day",
-    "id": 1118,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1118
   },
   "id": "1118"
 }

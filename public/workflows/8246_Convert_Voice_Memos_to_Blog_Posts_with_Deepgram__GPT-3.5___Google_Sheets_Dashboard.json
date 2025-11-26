@@ -229,7 +229,6 @@
   },
   "meta": {
     "name": "Convert Voice Memos to Blog Posts with Deepgram, GPT-3.5 & Google Sheets Dashboard",
-    "id": 8246,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8246
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Video Automation Engine - Generate & Publish YT Shorts with Veo-3 or Sora 2",
-    "id": 8429,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8429
   },
   "nodes": [
     {

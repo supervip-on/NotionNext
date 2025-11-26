@@ -2,8 +2,7 @@
   "id": "pexxaVEwqIYmTXud",
   "meta": {
     "name": "Extract & Summarize B2B Leads from Crunchbase with Bright Data, GPT-4o & Google Sheets",
-    "id": 4250,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4250
   },
   "name": "Crunchbase B2B Lead Discovery Pipeline with Bright Data & OpenAI",
   "tags": [

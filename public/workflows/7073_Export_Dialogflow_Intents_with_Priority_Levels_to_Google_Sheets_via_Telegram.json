@@ -2,8 +2,7 @@
   "id": "Y7rM4PEAHjh3zefB",
   "meta": {
     "name": "Export Dialogflow Intents with Priority Levels to Google Sheets via Telegram",
-    "id": 7073,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7073
   },
   "name": "Dialogflow Intent Exporter",
   "tags": [],

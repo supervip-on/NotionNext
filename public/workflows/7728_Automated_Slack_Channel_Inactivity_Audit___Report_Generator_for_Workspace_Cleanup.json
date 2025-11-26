@@ -2,8 +2,7 @@
   "id": "IrGwRuTSulKQNDCO",
   "meta": {
     "name": "Automated Slack Channel Inactivity Audit & Report Generator for Workspace Cleanup",
-    "id": 7728,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7728
   },
   "name": "Automated Slack Channel Audit Workflow with Chatbot and GPT-4.1",
   "tags": [],

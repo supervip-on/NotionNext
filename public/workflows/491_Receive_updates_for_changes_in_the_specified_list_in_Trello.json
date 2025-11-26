@@ -23,7 +23,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for changes in the specified list in Trello",
-    "id": 491,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 491
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Construction Blueprint to Google Sheets Automation with VLM Run and Google Drive",
-    "id": 7956,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7956
   },
   "nodes": [
     {

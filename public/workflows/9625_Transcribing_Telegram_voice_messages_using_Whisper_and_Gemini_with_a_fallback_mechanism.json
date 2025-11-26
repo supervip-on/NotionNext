@@ -2,8 +2,7 @@
   "id": "VSZa9w1RI0u5BNbS",
   "meta": {
     "name": "Transcribing Telegram voice messages using Whisper and Gemini with a fallback mechanism",
-    "id": 9625,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9625
   },
   "name": "Transcribe-Telegram-Template",
   "tags": [],

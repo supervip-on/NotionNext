@@ -2,8 +2,7 @@
   "id": "Zm3vlJ68snvoKOBG",
   "meta": {
     "name": "Monitor and Download Changed Files from Google Drive Automatically",
-    "id": 6193,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6193
   },
   "name": "google drive workflow",
   "tags": [],

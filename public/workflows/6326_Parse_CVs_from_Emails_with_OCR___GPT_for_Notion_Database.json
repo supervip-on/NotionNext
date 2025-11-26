@@ -2,8 +2,7 @@
   "id": "xb8FwafQZg1wepQB",
   "meta": {
     "name": "Parse CVs from Emails with OCR & GPT for Notion Database",
-    "id": 6326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6326
   },
   "name": "CV Parser - Email",
   "tags": [],

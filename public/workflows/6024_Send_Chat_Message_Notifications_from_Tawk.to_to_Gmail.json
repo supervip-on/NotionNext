@@ -2,8 +2,7 @@
   "id": "yDUWltdKzcyL7PJD",
   "meta": {
     "name": "Send Chat Message Notifications from Tawk.to to Gmail",
-    "id": 6024,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6024
   },
   "name": "Tawk.to Chat to Gmail Alert Automation in n8n",
   "tags": [],

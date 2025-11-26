@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated n8n Workflow Backup System with Google Drive and Archiving",
-    "id": 3559,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3559
   },
   "nodes": [
     {

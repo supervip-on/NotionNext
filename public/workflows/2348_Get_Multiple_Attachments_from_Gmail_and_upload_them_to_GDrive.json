@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get Multiple Attachments from Gmail and upload them to GDrive",
-    "id": 2348,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2348
   },
   "nodes": [
     {

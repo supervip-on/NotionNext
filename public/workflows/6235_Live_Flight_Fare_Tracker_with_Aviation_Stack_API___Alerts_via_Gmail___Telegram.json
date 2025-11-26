@@ -2,8 +2,7 @@
   "id": "4vQkJTdJPHnD0XUa",
   "meta": {
     "name": "Live Flight Fare Tracker with Aviation Stack API – Alerts via Gmail & Telegram",
-    "id": 6235,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6235
   },
   "name": "Live Flight Fare Tracker – Instant Price Drop Alerts via SMS & Email",
   "tags": [],

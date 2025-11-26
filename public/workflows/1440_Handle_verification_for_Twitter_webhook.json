@@ -79,8 +79,7 @@
   },
   "meta": {
     "name": "Handle verification for Twitter webhook",
-    "id": 1440,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1440
   },
   "id": "1440"
 }

@@ -2,8 +2,7 @@
   "id": "ggkJA0uoozwG7xjI",
   "meta": {
     "name": "Categorize and Label Incoming Gmail Emails Automatically with GPT-4o mini",
-    "id": 5595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5595
   },
   "name": "Auto-label incoming Gmail emails using AI",
   "tags": [

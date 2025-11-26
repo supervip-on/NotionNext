@@ -123,7 +123,6 @@
   },
   "meta": {
     "name": "Create and update a channel, and send a message on Twist",
-    "id": 826,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 826
   }
 }

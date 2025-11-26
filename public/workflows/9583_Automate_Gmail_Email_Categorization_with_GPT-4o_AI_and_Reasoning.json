@@ -2,8 +2,7 @@
   "id": "YAlJiB1cYsqCxewZ",
   "meta": {
     "name": "Automate Gmail Email Categorization with GPT-4o AI and Reasoning",
-    "id": 9583,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9583
   },
   "name": "AI Email Reasoning Inbox Manager",
   "tags": [

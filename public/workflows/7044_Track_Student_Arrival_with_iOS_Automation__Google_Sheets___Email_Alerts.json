@@ -2,8 +2,7 @@
   "id": "88ia1RcNZ7aDAGZP",
   "meta": {
     "name": "Track Student Arrival with iOS Automation, Google Sheets & Email Alerts",
-    "id": 7044,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7044
   },
   "name": "Geofenced Student Activity Tracker via iOS Automation",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "UG6m2I5WqfBDRROW",
   "meta": {
     "name": "Sync Lead Replies from Google Sheets to GHL CRM & Create ClickUp Follow-up Tasks",
-    "id": 9411,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9411
   },
   "name": "Reply Status Sync to GHL",
   "tags": [],

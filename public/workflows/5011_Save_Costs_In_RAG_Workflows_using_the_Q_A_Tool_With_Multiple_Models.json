@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Save Costs In RAG Workflows using the Q&A Tool With Multiple Models",
-    "id": 5011,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5011
   },
   "nodes": [
     {

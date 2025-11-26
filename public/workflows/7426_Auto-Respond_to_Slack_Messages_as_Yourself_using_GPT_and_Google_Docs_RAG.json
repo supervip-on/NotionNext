@@ -2,8 +2,7 @@
   "id": "7MQLIwQsFOmnQV4n",
   "meta": {
     "name": "Auto-Respond to Slack Messages as Yourself using GPT and Google Docs RAG",
-    "id": 7426,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7426
   },
   "name": "Slack - Let AI Do Your Job",
   "tags": [],

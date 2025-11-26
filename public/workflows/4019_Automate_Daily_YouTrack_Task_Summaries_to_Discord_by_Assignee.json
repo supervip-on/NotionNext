@@ -2,8 +2,7 @@
   "id": "vB3A3Tmh1GZJ4DGF",
   "meta": {
     "name": "Automate Daily YouTrack Task Summaries to Discord by Assignee",
-    "id": 4019,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4019
   },
   "tags": [],
   "nodes": [

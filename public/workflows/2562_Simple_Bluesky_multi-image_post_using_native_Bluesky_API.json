@@ -2,8 +2,7 @@
   "id": "XGFs5jZNCeURd4OT",
   "meta": {
     "name": "Simple Bluesky multi-image post using native Bluesky API",
-    "id": 2562,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2562
   },
   "name": "Publish Image Post to Bluesky",
   "tags": [],

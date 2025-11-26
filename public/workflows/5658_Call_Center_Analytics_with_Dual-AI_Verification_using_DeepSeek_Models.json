@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Call Center Analytics with Dual-AI Verification using DeepSeek Models",
-    "id": 5658,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5658
   },
   "nodes": [
     {

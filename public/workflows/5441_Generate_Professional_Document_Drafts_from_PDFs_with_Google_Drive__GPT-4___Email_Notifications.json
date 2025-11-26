@@ -2,8 +2,7 @@
   "id": "64CHobveljzJ6yLy",
   "meta": {
     "name": "Generate Professional Document Drafts from PDFs with Google Drive, GPT-4 & Email Notifications",
-    "id": 5441,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5441
   },
   "name": "Draft Summary Workflow From PDF",
   "tags": [

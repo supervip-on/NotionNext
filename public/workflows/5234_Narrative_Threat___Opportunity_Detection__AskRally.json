@@ -2,8 +2,7 @@
   "id": "bHmHHEt75JaovVaB",
   "meta": {
     "name": "Narrative Threat / Opportunity Detection (AskRally)",
-    "id": 5234,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5234
   },
   "name": "narrative monitoring",
   "tags": [

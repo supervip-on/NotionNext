@@ -203,7 +203,6 @@
   },
   "meta": {
     "name": "Extract expenses from emails and add to Google Sheets",
-    "id": 1466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1466
   }
 }

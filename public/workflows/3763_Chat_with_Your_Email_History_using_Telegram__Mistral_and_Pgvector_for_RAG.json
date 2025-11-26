@@ -2,8 +2,7 @@
   "id": "LPQsiqt476n7ne7f",
   "meta": {
     "name": "Chat with Your Email History using Telegram, Mistral and Pgvector for RAG",
-    "id": 3763,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3763
   },
   "name": "e-mail Chatbot with both semantic and structured RAG, using Telegram and Pgvector",
   "tags": [],

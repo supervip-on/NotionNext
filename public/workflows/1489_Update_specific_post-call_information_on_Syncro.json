@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Update specific post-call information on Syncro",
-    "id": 1489,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1489
   },
   "nodes": [
     {

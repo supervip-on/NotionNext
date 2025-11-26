@@ -59,8 +59,7 @@
   },
   "meta": {
     "name": "Get email notifications for newly uploaded Google Drive files",
-    "id": 1283,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1283
   },
   "id": "1283"
 }

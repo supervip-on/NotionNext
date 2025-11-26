@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Get all orders in Shopify",
-    "id": 548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 548
   },
   "id": "548"
 }

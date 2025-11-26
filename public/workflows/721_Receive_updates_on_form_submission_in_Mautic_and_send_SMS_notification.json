@@ -55,7 +55,6 @@
   },
   "meta": {
     "name": "Receive updates on form submission in Mautic and send SMS notification",
-    "id": 721,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 721
   }
 }

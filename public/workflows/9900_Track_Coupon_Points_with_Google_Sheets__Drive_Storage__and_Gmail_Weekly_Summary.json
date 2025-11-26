@@ -2,8 +2,7 @@
   "id": "zndFTylPvoppjr5A",
   "meta": {
     "name": "Track Coupon Points with Google Sheets, Drive Storage, and Gmail Weekly Summary",
-    "id": 9900,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9900
   },
   "name": "Simple coupon points tracker with Google Sheets and scheduled email summary",
   "tags": [],

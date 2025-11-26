@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Check Domain Authority Metrics in Bulk and Log to Google Sheets with RapidAPI",
-    "id": 8249,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8249
   },
   "nodes": [
     {

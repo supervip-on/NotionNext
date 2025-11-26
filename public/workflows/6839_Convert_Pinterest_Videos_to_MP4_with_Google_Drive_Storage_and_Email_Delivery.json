@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Pinterest Videos to MP4 with Google Drive Storage and Email Delivery",
-    "id": 6839,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6839
   },
   "nodes": [
     {

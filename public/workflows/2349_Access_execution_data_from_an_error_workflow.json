@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Access execution data from an error workflow",
-    "id": 2349,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2349
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "3RrE9MTfcGIPM4nh",
   "meta": {
     "name": "Generate LinkedIn Posts from Web Pages with GPT-4 and Human Review",
-    "id": 5775,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5775
   },
   "name": "Generate LinkedIn Post from Web Page - text only",
   "tags": [],

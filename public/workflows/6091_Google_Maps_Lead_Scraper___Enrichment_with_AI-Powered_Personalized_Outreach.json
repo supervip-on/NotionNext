@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Google Maps Lead Scraper & Enrichment with AI-Powered Personalized Outreach",
-    "id": 6091,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6091
   },
   "nodes": [
     {

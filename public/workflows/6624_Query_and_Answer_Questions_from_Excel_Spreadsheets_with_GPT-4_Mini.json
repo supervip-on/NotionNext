@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Query and Answer Questions from Excel Spreadsheets with GPT-4 Mini",
-    "id": 6624,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6624
   },
   "nodes": [
     {

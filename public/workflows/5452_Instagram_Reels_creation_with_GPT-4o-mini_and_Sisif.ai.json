@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Instagram Reels creation with GPT-4o-mini and Sisif.ai",
-    "id": 5452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5452
   },
   "nodes": [
     {

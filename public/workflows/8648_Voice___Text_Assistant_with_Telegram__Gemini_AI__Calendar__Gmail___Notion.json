@@ -2,8 +2,7 @@
   "id": "63Dw6h0zoqobTINZ",
   "meta": {
     "name": "Voice & Text Assistant with Telegram, Gemini AI, Calendar, Gmail & Notion",
-    "id": 8648,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8648
   },
   "name": "Personal Telegram AI Assistant bot",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape every url on the web without getting blocked by Anti-Bot technologies with Scrappey",
-    "id": 2299,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2299
   },
   "nodes": [
     {

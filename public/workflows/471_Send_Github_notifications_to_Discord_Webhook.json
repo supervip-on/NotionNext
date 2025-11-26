@@ -170,8 +170,7 @@
   },
   "meta": {
     "name": "Send Github notifications to Discord Webhook",
-    "id": 471,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 471
   },
   "id": "471"
 }

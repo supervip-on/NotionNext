@@ -148,8 +148,7 @@
   },
   "meta": {
     "name": "Get top 5  products on Product Hunt every hour",
-    "id": 1298,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1298
   },
   "id": "1298"
 }

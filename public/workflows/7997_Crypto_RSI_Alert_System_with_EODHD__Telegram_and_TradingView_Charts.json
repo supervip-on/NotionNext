@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Crypto RSI Alert System with EODHD, Telegram and TradingView Charts",
-    "id": 7997,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7997
   },
   "nodes": [
     {

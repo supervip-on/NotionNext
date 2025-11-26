@@ -2,8 +2,7 @@
   "id": "YV9jJYlu5axheX09",
   "meta": {
     "name": "Send Weekly Personalized Pet Health Tips with GPT-4o-mini, Gmail and Google Sheets",
-    "id": 9714,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9714
   },
   "name": "Automate weekly pet health emails with AI, Gmail and Google Sheets",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send AI-Enhanced Economic Calendar Alerts to Telegram with Gemini-2.0-Flash",
-    "id": 5450,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5450
   },
   "nodes": [
     {

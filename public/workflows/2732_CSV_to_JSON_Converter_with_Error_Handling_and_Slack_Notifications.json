@@ -574,8 +574,7 @@
   },
   "meta": {
     "name": "CSV to JSON Converter with Error Handling and Slack Notifications",
-    "id": 2732,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2732
   },
   "id": "2732"
 }

@@ -2,8 +2,7 @@
   "id": "C6V4XKre02PYG6v9",
   "meta": {
     "name": "Multi-Channel AI Appointment Confirmation with GPT-4, ElevenLabs & Twilio",
-    "id": 6163,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6163
   },
   "name": "Appointment Booker [For Sale Version]",
   "tags": [],

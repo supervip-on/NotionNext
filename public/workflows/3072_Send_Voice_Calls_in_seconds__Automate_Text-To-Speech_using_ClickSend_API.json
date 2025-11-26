@@ -2,8 +2,7 @@
   "id": "GrGmuKzZAsCkd4bt",
   "meta": {
     "name": "Send Voice Calls in seconds: Automate Text-To-Speech using ClickSend API",
-    "id": 3072,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3072
   },
   "name": "Send TTS (Text-to-speech) voice calls",
   "tags": [],

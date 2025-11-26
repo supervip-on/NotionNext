@@ -2,8 +2,7 @@
   "id": "MVPlLz3CiQok6rXy",
   "meta": {
     "name": "Merge Multiple PDF Files with CustomJS API",
-    "id": 3873,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3873
   },
   "name": "Merge PDFs",
   "tags": [],

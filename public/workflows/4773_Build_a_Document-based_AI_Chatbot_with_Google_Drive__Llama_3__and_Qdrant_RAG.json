@@ -2,8 +2,7 @@
   "id": "Mj1ghjtbl9gF3Zyv",
   "meta": {
     "name": "Build a Document-based AI Chatbot with Google Drive, Llama 3, and Qdrant RAG",
-    "id": 4773,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4773
   },
   "name": "RAG Pipeline and Chatbot",
   "tags": [],

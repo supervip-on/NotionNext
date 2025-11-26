@@ -2,8 +2,7 @@
   "id": "ZijXs996AMDHxafz",
   "meta": {
     "name": "Background Removal API MCP Server",
-    "id": 5640,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5640
   },
   "name": "Background Removal API MCP Server",
   "tags": [],

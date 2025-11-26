@@ -2,8 +2,7 @@
   "id": "AnwVFKf8Tm5HHiyk",
   "meta": {
     "name": "Sequential Google Sheets Data Processing with Execution Control",
-    "id": 6196,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6196
   },
   "name": "Preventing simultaneous executions for scheduled workflows",
   "tags": [],

@@ -194,8 +194,7 @@
   },
   "meta": {
     "name": "Send Gmail Messages with Custom Aliases and Attachments via API",
-    "id": 5613,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5613
   },
   "id": "5613"
 }

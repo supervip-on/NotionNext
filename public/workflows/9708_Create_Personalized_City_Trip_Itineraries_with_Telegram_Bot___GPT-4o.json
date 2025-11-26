@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Personalized City Trip Itineraries with Telegram Bot & GPT-4o",
-    "id": 9708,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9708
   },
   "nodes": [
     {

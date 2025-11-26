@@ -279,8 +279,7 @@
   },
   "meta": {
     "name": "Turn any RSS feed into email",
-    "id": 2144,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2144
   },
   "id": "2144"
 }

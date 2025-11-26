@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "From Sitemap Crawling to Vector Storage: Creating an Efficient Workflow for RAG",
-    "id": 8707,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8707
   },
   "nodes": [
     {

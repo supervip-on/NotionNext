@@ -2,8 +2,7 @@
   "id": "google-sheets-to-mailchimp",
   "meta": {
     "name": "Auto-Import Contacts from Google Sheets to MailChimp Subscriber Lists",
-    "id": 5812,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5812
   },
   "name": "Google_Sheets_to_MailChimp_Subscriber_Sync",
   "tags": [

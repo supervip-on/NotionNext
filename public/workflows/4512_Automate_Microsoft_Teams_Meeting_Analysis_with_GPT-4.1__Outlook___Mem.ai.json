@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Microsoft Teams Meeting Analysis with GPT-4.1, Outlook & Mem.ai",
-    "id": 4512,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4512
   },
   "nodes": [
     {

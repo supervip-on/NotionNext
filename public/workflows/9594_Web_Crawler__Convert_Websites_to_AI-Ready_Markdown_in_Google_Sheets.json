@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Web Crawler: Convert Websites to AI-Ready Markdown in Google Sheets",
-    "id": 9594,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9594
   },
   "nodes": [
     {

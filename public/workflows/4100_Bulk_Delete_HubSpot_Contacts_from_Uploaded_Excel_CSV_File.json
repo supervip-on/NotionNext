@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk Delete HubSpot Contacts from Uploaded Excel/CSV File",
-    "id": 4100,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4100
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "9R3de4CVLxlzUZuO",
   "meta": {
     "name": "Automate Security Incident Triage with GPT-4o-mini and Gmail Notifications",
-    "id": 7785,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7785
   },
   "name": "Mini SOC Triage",
   "tags": [],

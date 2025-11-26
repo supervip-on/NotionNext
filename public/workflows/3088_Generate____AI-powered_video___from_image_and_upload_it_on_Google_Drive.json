@@ -2,8 +2,7 @@
   "id": "WSYhLeH2uNrR9C20",
   "meta": {
     "name": "Generate 🤖🧠 AI-powered video 🎥 from image and upload it on Google Drive",
-    "id": 3088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3088
   },
   "name": "AI generated video from image",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "a4GTp998ENMMfuqK",
   "meta": {
     "name": "Save new Files received on Telegram to Google Drive",
-    "id": 2102,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2102
   },
   "name": "Save new Files received on Telegram to Google Drive",
   "tags": [],

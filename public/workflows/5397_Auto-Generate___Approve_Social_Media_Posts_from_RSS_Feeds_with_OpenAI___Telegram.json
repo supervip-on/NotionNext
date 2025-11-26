@@ -2,8 +2,7 @@
   "id": "tIMl9fiLyBELBNVi",
   "meta": {
     "name": "Auto-Generate & Approve Social Media Posts from RSS Feeds with OpenAI & Telegram",
-    "id": 5397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5397
   },
   "name": "Social Media Automation Post",
   "tags": [],

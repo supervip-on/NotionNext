@@ -2,8 +2,7 @@
   "id": "RkDlxaIfbpwgxyDO",
   "meta": {
     "name": "Create & Delete AWS RDS Databases via Email Commands with Terraform",
-    "id": 7294,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7294
   },
   "name": "Automate Create and Delete AWS RDS Databases with Email",
   "tags": [],

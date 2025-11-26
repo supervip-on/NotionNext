@@ -2,8 +2,7 @@
   "id": "mV1Dg3cHIDTFuUAG",
   "meta": {
     "name": "Automated Competitor Pricing Monitor with Bright Data MCP & OpenAI",
-    "id": 5948,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5948
   },
   "name": "4 Track Competitor Website Updates",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "rPl99EYLVHLCXg0B",
   "meta": {
     "name": "Automate Performance Review Process with Google Sheets, Calendar, Email & Slack",
-    "id": 10105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10105
   },
   "name": "Performance Review Scheduler & Reminder",
   "tags": [],

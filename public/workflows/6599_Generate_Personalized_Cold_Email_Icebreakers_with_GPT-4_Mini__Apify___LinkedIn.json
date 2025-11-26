@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized Cold Email Icebreakers with GPT-4 Mini, Apify & LinkedIn",
-    "id": 6599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6599
   },
   "nodes": [
     {

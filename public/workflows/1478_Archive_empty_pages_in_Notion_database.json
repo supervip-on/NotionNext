@@ -290,7 +290,6 @@
   },
   "meta": {
     "name": "Archive empty pages in Notion database",
-    "id": 1478,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1478
   }
 }

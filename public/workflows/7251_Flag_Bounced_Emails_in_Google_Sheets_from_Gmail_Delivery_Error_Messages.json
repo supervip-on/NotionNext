@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Flag Bounced Emails in Google Sheets from Gmail Delivery Error Messages",
-    "id": 7251,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7251
   },
   "nodes": [
     {

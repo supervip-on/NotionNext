@@ -2,8 +2,7 @@
   "id": "YU0WAOtF9hea7N32",
   "meta": {
     "name": "Bypass Cloudflare Turnstile for Web Scraping with 2captcha",
-    "id": 7151,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7151
   },
   "name": "Bypass Cloudflare Turnstile for Web Scraping with n8n",
   "tags": [],

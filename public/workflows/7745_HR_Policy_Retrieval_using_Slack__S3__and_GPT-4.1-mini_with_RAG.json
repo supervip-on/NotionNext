@@ -2,8 +2,7 @@
   "id": "iZCUHJ7060rflEUa",
   "meta": {
     "name": "HR Policy Retrieval using Slack, S3, and GPT-4.1-mini with RAG",
-    "id": 7745,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7745
   },
   "name": "HR Chatbot (RAG-system)",
   "tags": [],

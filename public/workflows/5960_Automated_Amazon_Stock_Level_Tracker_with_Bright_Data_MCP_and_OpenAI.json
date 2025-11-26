@@ -2,8 +2,7 @@
   "id": "UtVgRkTTYi8Xt5vH",
   "meta": {
     "name": "Automated Amazon Stock Level Tracker with Bright Data MCP and OpenAI",
-    "id": 5960,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5960
   },
   "name": "17 Track Stock Levels",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "Qj1307oyBx1hZJy5",
   "meta": {
     "name": "SSL Expiry Alert with SSL-Checker.io",
-    "id": 2694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2694
   },
   "name": "SSL Expiry Alert",
   "tags": [

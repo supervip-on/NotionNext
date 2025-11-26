@@ -2,8 +2,7 @@
   "id": "bk0oFjAq1T2Rzn1g",
   "meta": {
     "name": "Track HDFC Credit Card Transactions with Google Sheets and Telegram Notifications",
-    "id": 4128,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4128
   },
   "name": "Credit Card Usage",
   "tags": [],

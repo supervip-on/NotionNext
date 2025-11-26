@@ -2,8 +2,7 @@
   "id": "JRe4TvueoMMH4FVd",
   "meta": {
     "name": "Gmail to Zendesk Ticket Automation with Google Sheets Logging",
-    "id": 8956,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8956
   },
   "name": "Create Zendesk Tickets from Gmail and Log to Google Sheets with Gmail, Zendesk, and Google Sheets",
   "tags": [],

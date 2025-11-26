@@ -54,7 +54,6 @@
   },
   "meta": {
     "name": "Send a message on Mattermost when an order is created in WooCommerce",
-    "id": 848,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 848
   }
 }

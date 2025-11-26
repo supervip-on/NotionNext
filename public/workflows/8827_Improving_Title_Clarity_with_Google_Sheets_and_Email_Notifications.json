@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Improving Title Clarity with Google Sheets and Email Notifications",
-    "id": 8827,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8827
   },
   "nodes": [
     {

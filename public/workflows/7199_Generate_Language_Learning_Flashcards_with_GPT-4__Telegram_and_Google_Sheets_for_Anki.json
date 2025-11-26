@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Language Learning Flashcards with GPT-4, Telegram and Google Sheets for Anki",
-    "id": 7199,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7199
   },
   "nodes": [
     {

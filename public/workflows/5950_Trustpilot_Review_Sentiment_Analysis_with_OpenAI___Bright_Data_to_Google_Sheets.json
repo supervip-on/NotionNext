@@ -2,8 +2,7 @@
   "id": "7xkEgEP44GHwgc2N",
   "meta": {
     "name": "Trustpilot Review Sentiment Analysis with OpenAI & Bright Data to Google Sheets",
-    "id": 5950,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5950
   },
   "name": "7  scrape reviews from trustpilot",
   "tags": [],

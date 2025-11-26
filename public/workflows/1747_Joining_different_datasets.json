@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Joining different datasets",
-    "id": 1747,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1747
   },
   "nodes": [
     {

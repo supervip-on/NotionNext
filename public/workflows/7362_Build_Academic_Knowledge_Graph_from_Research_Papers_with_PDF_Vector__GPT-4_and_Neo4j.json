@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Academic Knowledge Graph from Research Papers with PDF Vector, GPT-4 and Neo4j",
-    "id": 7362,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7362
   },
   "nodes": [
     {

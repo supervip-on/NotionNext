@@ -2,8 +2,7 @@
   "id": "77Kuu8wpw75diETD",
   "meta": {
     "name": "Allow AI Agents to access User & Workitem operations - Kitemaker Tool MCP Server",
-    "id": 5236,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5236
   },
   "name": "Kitemaker Tool MCP Server",
   "tags": [],

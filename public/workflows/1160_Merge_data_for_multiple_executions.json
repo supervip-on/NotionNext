@@ -145,8 +145,7 @@
   },
   "meta": {
     "name": "Merge data for multiple executions",
-    "id": 1160,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1160
   },
   "id": "1160"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send WhatsApp Notifications for Cal.com & Calendly Bookings using Google Gemini",
-    "id": 7375,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7375
   },
   "nodes": [
     {

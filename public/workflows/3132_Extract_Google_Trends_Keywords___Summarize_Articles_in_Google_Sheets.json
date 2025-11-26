@@ -2,8 +2,7 @@
   "id": "Eyh4jc7RK7rCTh4z",
   "meta": {
     "name": "Extract Google Trends Keywords & Summarize Articles in Google Sheets",
-    "id": 3132,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3132
   },
   "name": "My workflow 2",
   "tags": [],

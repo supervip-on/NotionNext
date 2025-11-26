@@ -2,8 +2,7 @@
   "id": "RGhw0UmEtucowCuk",
   "meta": {
     "name": "Automate Email Classification & Summary with Gmail, GPT-4o-mini & Notion",
-    "id": 7276,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7276
   },
   "name": "Auto-Triage Personal Inbox",
   "tags": [],

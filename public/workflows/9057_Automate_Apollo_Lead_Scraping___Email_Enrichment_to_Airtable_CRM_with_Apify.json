@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Apollo Lead Scraping & Email Enrichment to Airtable CRM with Apify",
-    "id": 9057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9057
   },
   "nodes": [
     {

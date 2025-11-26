@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multilingual Voice & Text Telegram Bot with ElevenLabs TTS and LangChain Agents",
-    "id": 5511,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5511
   },
   "nodes": [
     {

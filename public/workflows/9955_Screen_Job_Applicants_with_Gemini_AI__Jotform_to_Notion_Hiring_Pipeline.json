@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Screen Job Applicants with Gemini AI: Jotform to Notion Hiring Pipeline",
-    "id": 9955,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9955
   },
   "nodes": [
     {

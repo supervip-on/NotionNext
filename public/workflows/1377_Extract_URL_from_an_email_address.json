@@ -70,8 +70,7 @@
   },
   "meta": {
     "name": "Extract URL from an email address",
-    "id": 1377,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1377
   },
   "id": "1377"
 }

@@ -2,8 +2,7 @@
   "id": "YSjQ7TVCNY9v1F2A",
   "meta": {
     "name": "Monitor Security Advisories",
-    "id": 1974,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1974
   },
   "name": "Monitor_security_advisories",
   "tags": [

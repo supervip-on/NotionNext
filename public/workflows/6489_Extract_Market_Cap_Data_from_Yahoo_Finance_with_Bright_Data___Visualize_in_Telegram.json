@@ -2,8 +2,7 @@
   "id": "k2FvKOkV5UgBEnCu",
   "meta": {
     "name": "Extract Market Cap Data from Yahoo Finance with Bright Data & Visualize in Telegram",
-    "id": 6489,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6489
   },
   "name": "Financial Insight Automation: Market Cap to Telegram via Bright Data",
   "tags": [],

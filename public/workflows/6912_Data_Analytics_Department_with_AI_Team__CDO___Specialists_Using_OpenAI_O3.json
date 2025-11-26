@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Data Analytics Department with AI Team: CDO & Specialists Using OpenAI O3",
-    "id": 6912,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6912
   },
   "name": "CDO Agent with Data Analytics Team",
   "nodes": [

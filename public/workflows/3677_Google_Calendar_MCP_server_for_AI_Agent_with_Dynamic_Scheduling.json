@@ -2,8 +2,7 @@
   "id": "grxwlyzZb3z4WLAa",
   "meta": {
     "name": "Google Calendar MCP server for AI Agent with Dynamic Scheduling",
-    "id": 3677,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3677
   },
   "name": "MCP_CALENDAR",
   "tags": [],

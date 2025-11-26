@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Telegram Message Processing - Separate Text and Files 💬📁",
-    "id": 9254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9254
   },
   "nodes": [
     {

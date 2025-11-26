@@ -2,8 +2,7 @@
   "id": "twvLZRSedaF7hjy2",
   "meta": {
     "name": "Flow from Reddit to Gmail with Key Features and GPT-4o Mini Usage",
-    "id": 7162,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7162
   },
   "name": "Reddit Daily Hot Posts → Gmail Digest (Multi-Subreddit, AI Summaries)",
   "tags": [],

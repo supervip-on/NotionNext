@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "📂 Automatically Update Stock Portfolio from OneDrive to Excel",
-    "id": 2507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2507
   },
   "nodes": [
     {

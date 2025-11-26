@@ -2,8 +2,7 @@
   "id": "CUShv5juR1lOq54t",
   "meta": {
     "name": "Voice to Podcast Script Generator with OpenAI & Notion via Telegram",
-    "id": 7142,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7142
   },
   "name": "Podcast Note taker",
   "tags": [

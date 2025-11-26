@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Plan Travel Itineraries with Gemini AI, Live Amadeus Flights, and Airbnb Stays",
-    "id": 6652,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6652
   },
   "nodes": [
     {

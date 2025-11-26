@@ -2,8 +2,7 @@
   "id": "9439",
   "meta": {
     "name": "Automated Invoice Processing & Filing with IMAP, AI, Google Drive & DateV",
-    "id": 9439,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9439
   },
   "name": "Bookkeeping GDrive",
   "tags": [],

@@ -393,8 +393,7 @@
   },
   "meta": {
     "name": "Extract YouTube Transcripts via Google Sheets or API Webhook",
-    "id": 8211,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8211
   },
   "id": "8211"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Instagram Videos to Google Drive with Auto-Email Delivery",
-    "id": 6921,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6921
   },
   "nodes": [
     {

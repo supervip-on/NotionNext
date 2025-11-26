@@ -2,8 +2,7 @@
   "id": "17j2efAe10uXRc4p",
   "meta": {
     "name": "Auto-Generate & Publish SEO Articles to WordPress with GPT-4 + Postgres Tracking",
-    "id": 3887,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3887
   },
   "name": "Auto WordPress Blog Generator (GPT + Postgres + WP Media)",
   "tags": [

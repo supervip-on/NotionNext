@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated BTC & ETH Market Analysis Alerts for Discord & Telegram with Gemini AI",
-    "id": 5706,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5706
   },
   "nodes": [
     {

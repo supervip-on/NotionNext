@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp Support Bot with Google Drive RAG, GPT-4.1-mini and Cohere Reranking",
-    "id": 9043,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9043
   },
   "nodes": [
     {

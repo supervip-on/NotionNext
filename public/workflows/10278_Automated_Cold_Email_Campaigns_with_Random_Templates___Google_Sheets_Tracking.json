@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Cold Email Campaigns with Random Templates & Google Sheets Tracking",
-    "id": 10278,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10278
   },
   "nodes": [
     {

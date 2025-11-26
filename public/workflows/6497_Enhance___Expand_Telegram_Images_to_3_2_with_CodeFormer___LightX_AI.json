@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enhance & Expand Telegram Images to 3:2 with CodeFormer & LightX AI",
-    "id": 6497,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6497
   },
   "nodes": [
     {

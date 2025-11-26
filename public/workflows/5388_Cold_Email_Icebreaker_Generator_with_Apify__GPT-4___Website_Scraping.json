@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Cold Email Icebreaker Generator with Apify, GPT-4 & Website Scraping",
-    "id": 5388,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5388
   },
   "name": "My workflow",
   "tags": [

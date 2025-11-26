@@ -2,8 +2,7 @@
   "id": "oRUhVLfKvrxvUSky",
   "meta": {
     "name": "Automated Daily Briefing with Todoist, Google Calendar & GPT-4o via Gmail",
-    "id": 6133,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6133
   },
   "name": "Daily Briefing- Tasks & Events",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Generated LinkedIn Posts with Human Approval using GPT-4, GoToHuman & Blotato",
-    "id": 6827,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6827
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "50mjsFfAXxLpbQ3w",
   "meta": {
     "name": "Predict Next 5-Day Stock Trends with Twelve Data API & Google Sheets",
-    "id": 9771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9771
   },
   "name": "Predict Next 5-Day Stock Trends with Twelve Data API",
   "tags": [],

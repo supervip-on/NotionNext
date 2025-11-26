@@ -2,8 +2,7 @@
   "id": "5mGRqFpu73QguZPC",
   "meta": {
     "name": "Automated Invoice Processing with Telegram, GPT-4o, OCR and SAP Integration",
-    "id": 4849,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4849
   },
   "name": "ocr Telegram - SAP",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "1VFYPRbT3Rm0LI8B",
   "meta": {
     "name": "Paginate Shopify Products with GraphQL Cursor-based Navigation",
-    "id": 5663,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5663
   },
   "name": "Shopify Products by Cursor",
   "tags": [],

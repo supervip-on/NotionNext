@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Forget Trello 🛠️ Wekan (open source) Tool MCP Server 💪 all 24 operations",
-    "id": 5061,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5061
   },
   "nodes": [
     {

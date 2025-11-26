@@ -2,8 +2,7 @@
   "id": "EdXR18SX0sWTrnnA",
   "meta": {
     "name": "Daily Competitor Tweet Summarizer with X API, GPT-5-Nano, and Gmail Delivery",
-    "id": 9355,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9355
   },
   "name": "Tweets Summarizer",
   "tags": [],

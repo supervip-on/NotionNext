@@ -2,8 +2,7 @@
   "id": "EMOh4weW7QKklbyb",
   "meta": {
     "name": "Voice AI Customer Support for WooCommerce using VAPI, GPT-4o & Gemini with RAG",
-    "id": 8488,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8488
   },
   "name": "Build AI Voice Assistent with VAPI",
   "tags": [],

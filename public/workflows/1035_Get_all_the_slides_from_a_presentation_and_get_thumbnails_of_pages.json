@@ -75,8 +75,7 @@
   },
   "meta": {
     "name": "Get all the slides from a presentation and get thumbnails of pages",
-    "id": 1035,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1035
   },
   "id": "1035"
 }

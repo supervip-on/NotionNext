@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate & Post AI Images to Facebook using Gemini & Pollinations AI",
-    "id": 5486,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5486
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🤖 Create Your First AI Agent with Weather & Web Scraping (Starter Kit)",
-    "id": 6035,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6035
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "TEik9cMOxXRNqB3y",
   "meta": {
     "name": "Automated Local Event Monitor with Bright Data MCP and OpenAI Analysis",
-    "id": 5972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5972
   },
   "name": "29  Monitor Local Events",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "6XYqPkPDbHsRoX62",
   "meta": {
     "name": "Automatically update n8n version",
-    "id": 4335,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4335
   },
   "name": "update n8n version",
   "tags": [],

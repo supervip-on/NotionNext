@@ -2,8 +2,7 @@
   "id": "ALTwr1xWxmqGdCtZ",
   "meta": {
     "name": "Scrape any web page into structured JSON data with ScrapeNinja and AI",
-    "id": 2812,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2812
   },
   "name": "ScrapeNinja: AI generated web scraper",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "WORKFLOW_ID_PLACEHOLDER",
   "meta": {
     "name": "Pinterest Keyword-Based Content Scraper with AI Agent & BrightData Automation",
-    "id": 5193,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5193
   },
   "name": "MCP: Pinterest Keyword-Based Content Scraper with AI Agent & BrightData Automation",
   "tags": [],

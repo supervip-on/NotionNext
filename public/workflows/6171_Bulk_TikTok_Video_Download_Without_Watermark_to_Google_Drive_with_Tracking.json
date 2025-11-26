@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk TikTok Video Download Without Watermark to Google Drive with Tracking",
-    "id": 6171,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6171
   },
   "nodes": [
     {

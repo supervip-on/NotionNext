@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Fetch Keyword From Google Sheet and Classify Them Using AI",
-    "id": 2945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2945
   },
   "nodes": [
     {

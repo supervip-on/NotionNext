@@ -2,8 +2,7 @@
   "id": "WAoelkm3KLBC3HS5",
   "meta": {
     "name": "Invoice Verification and Validation with Gmail, Drive, Sheets and OCR AI",
-    "id": 4860,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4860
   },
   "name": "Invoice Process & Validation - n8n Template",
   "tags": [

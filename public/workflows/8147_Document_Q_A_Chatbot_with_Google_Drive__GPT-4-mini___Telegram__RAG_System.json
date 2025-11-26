@@ -2,8 +2,7 @@
   "id": "UZz84VC8pY6FRROm",
   "meta": {
     "name": "Document Q&A Chatbot with Google Drive, GPT-4-mini & Telegram (RAG System)",
-    "id": 8147,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8147
   },
   "name": "Knowledge agent (with Google Drive, Telegram)",
   "tags": [],

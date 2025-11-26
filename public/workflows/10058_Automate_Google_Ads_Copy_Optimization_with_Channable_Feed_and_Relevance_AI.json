@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Google Ads Copy Optimization with Channable Feed and Relevance AI",
-    "id": 10058,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10058
   },
   "nodes": [
     {

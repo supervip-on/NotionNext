@@ -70,8 +70,7 @@
   },
   "meta": {
     "name": "Create an event file and send it as an email attachment",
-    "id": 1083,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1083
   },
   "id": "1083"
 }

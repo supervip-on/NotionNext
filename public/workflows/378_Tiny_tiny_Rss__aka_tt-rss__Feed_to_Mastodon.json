@@ -157,7 +157,6 @@
   },
   "meta": {
     "name": "Tiny tiny Rss (aka tt-rss) Feed to Mastodon",
-    "id": 378,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 378
   }
 }

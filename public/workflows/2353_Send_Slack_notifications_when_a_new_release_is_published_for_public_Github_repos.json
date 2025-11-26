@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Slack notifications when a new release is published for public Github repos",
-    "id": 2353,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2353
   },
   "nodes": [
     {

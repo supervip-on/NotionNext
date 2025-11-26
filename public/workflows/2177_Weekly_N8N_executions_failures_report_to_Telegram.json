@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly N8N executions failures report to Telegram",
-    "id": 2177,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2177
   },
   "nodes": [
     {

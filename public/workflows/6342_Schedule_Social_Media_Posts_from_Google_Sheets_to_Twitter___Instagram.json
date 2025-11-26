@@ -2,8 +2,7 @@
   "id": "oAaE92ALCw2gDlGu",
   "meta": {
     "name": "Schedule Social Media Posts from Google Sheets to Twitter & Instagram",
-    "id": 6342,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6342
   },
   "name": "Social Media Auto-Poster (Google Sheets → Twitter & Instagram)",
   "tags": [],

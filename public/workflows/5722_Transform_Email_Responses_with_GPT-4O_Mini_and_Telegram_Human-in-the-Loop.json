@@ -2,8 +2,7 @@
   "id": "YLSKn2I6JNP4P8CK",
   "meta": {
     "name": "Transform Email Responses with GPT-4O Mini and Telegram Human-in-the-Loop",
-    "id": 5722,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5722
   },
   "name": "My workflow",
   "tags": [],

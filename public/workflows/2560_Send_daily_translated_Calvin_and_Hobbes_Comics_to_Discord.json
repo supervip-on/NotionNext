@@ -247,8 +247,7 @@
   },
   "meta": {
     "name": "Send daily translated Calvin and Hobbes Comics to Discord",
-    "id": 2560,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2560
   },
   "id": "2560"
 }

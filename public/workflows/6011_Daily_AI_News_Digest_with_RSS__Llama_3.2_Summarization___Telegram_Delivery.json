@@ -2,8 +2,7 @@
   "id": "leDF96qh65pW1bug",
   "meta": {
     "name": "Daily AI News Digest with RSS, Llama 3.2 Summarization & Telegram Delivery",
-    "id": 6011,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6011
   },
   "name": "Daily AI News Digest with RSS, Llama 3.2 Summarization & Telegram Delivery",
   "tags": [],

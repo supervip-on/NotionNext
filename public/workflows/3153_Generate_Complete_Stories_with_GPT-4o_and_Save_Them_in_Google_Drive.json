@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Complete Stories with GPT-4o and Save Them in Google Drive",
-    "id": 3153,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3153
   },
   "nodes": [
     {

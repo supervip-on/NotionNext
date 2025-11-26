@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Client Onboarding with Form",
-    "id": 8977,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8977
   },
   "nodes": [
     {

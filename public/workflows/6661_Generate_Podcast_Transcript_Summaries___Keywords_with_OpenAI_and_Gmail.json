@@ -215,8 +215,7 @@
   },
   "meta": {
     "name": "Generate Podcast Transcript Summaries & Keywords with OpenAI and Gmail",
-    "id": 6661,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6661
   },
   "id": "6661"
 }

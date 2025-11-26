@@ -44,8 +44,7 @@
   },
   "meta": {
     "name": "Handle errors from a different workflow",
-    "id": 8,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8
   },
   "id": "8"
 }

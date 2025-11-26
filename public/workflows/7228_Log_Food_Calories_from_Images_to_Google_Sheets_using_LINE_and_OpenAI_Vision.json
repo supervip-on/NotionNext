@@ -2,8 +2,7 @@
   "id": "HzZvyjb6riqHb2FR",
   "meta": {
     "name": "Log Food Calories from Images to Google Sheets using LINE and OpenAI Vision",
-    "id": 7228,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7228
   },
   "name": "export n8n",
   "tags": [],

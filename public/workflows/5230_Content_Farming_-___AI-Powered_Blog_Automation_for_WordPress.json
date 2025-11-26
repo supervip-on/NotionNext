@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Content Farming - : AI-Powered Blog Automation for WordPress",
-    "id": 5230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5230
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "ka67GgNwcbhPfmFh",
   "meta": {
     "name": "Daily Solana News Tracker with GPT-4.1-mini Weekly Summaries in Google Sheets",
-    "id": 9874,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9874
   },
   "name": "Automated Solana News Tracker with AI-Powered Weekly Summaries",
   "tags": [],

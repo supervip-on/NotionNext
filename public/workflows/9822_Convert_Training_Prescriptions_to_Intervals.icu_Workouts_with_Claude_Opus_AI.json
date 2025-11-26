@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Training Prescriptions to Intervals.icu Workouts with Claude Opus AI",
-    "id": 9822,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9822
   },
   "nodes": [
     {

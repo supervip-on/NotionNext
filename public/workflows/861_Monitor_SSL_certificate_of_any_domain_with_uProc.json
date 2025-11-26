@@ -129,7 +129,6 @@
   },
   "meta": {
     "name": "Monitor SSL certificate of any domain with uProc",
-    "id": 861,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 861
   }
 }

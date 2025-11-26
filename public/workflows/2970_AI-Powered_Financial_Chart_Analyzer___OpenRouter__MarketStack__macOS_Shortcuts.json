@@ -2,8 +2,7 @@
   "id": "NFXqNvAllRP8bkeF",
   "meta": {
     "name": "AI-Powered Financial Chart Analyzer | OpenRouter, MarketStack, macOS Shortcuts",
-    "id": 2970,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2970
   },
   "name": "Sell: Process Candlestick Chart Using OpenRouter-ChatGPT, MarketStack, SerpAPI",
   "tags": [

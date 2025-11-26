@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Slack Chatbot with GPT-4o for Automated Responses",
-    "id": 7734,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7734
   },
   "nodes": [
     {

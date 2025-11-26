@@ -2,8 +2,7 @@
   "id": "RoQ9cIHyWJOc3u8Y",
   "meta": {
     "name": "Daily Morning Briefing with Google Calendar, Weather, and News to Slack",
-    "id": 9819,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9819
   },
   "name": "Personal Daily Morning Briefing Automation",
   "tags": [],

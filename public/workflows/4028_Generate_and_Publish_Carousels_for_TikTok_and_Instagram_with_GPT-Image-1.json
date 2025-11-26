@@ -2,8 +2,7 @@
   "id": "LV0b7vUbu5mYPRSc",
   "meta": {
     "name": "Generate and Publish Carousels for TikTok and Instagram with GPT-Image-1",
-    "id": 4028,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4028
   },
   "name": "Generate Tiktok/instagram carousels with gpt-image-1 and autopublish",
   "tags": [],

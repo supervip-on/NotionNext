@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Google Sheets and QuickBooks Expenses Automation Template",
-    "id": 7870,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7870
   },
   "nodes": [
     {

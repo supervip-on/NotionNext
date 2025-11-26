@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Trello Task Tracker with Google Sheets History Log",
-    "id": 7673,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7673
   },
   "nodes": [
     {

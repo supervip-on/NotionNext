@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Meeting Summary & Action Item Tracker with Notion, Slack, and Gmail",
-    "id": 10286,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10286
   },
   "nodes": [
     {

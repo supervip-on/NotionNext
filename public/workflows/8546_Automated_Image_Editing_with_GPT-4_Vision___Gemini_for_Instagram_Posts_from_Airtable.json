@@ -2,8 +2,7 @@
   "id": "p7rsqsusuSDyHGHA",
   "meta": {
     "name": "Automated Image Editing with GPT-4 Vision & Gemini for Instagram Posts from Airtable",
-    "id": 8546,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8546
   },
   "name": "Nano image Gen + social media posting",
   "tags": [

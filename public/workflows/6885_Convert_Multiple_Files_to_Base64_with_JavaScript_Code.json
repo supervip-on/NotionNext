@@ -2,8 +2,7 @@
   "id": "p7W4ZMpMtfFP7HYK",
   "meta": {
     "name": "Convert Multiple Files to Base64 with JavaScript Code",
-    "id": 6885,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6885
   },
   "name": "Base64 Encode Multiple Binary Files with a Code Node",
   "tags": [],

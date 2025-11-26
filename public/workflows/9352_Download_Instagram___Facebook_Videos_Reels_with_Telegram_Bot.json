@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Instagram & Facebook Videos/Reels with Telegram Bot",
-    "id": 9352,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9352
   },
   "nodes": [
     {

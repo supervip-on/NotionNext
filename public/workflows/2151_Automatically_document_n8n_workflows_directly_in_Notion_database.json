@@ -413,8 +413,7 @@
   },
   "meta": {
     "name": "Automatically document n8n workflows directly in Notion database",
-    "id": 2151,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2151
   },
   "id": "2151"
 }

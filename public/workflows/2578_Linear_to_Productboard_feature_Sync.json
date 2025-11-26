@@ -2,8 +2,7 @@
   "id": "WRRD0ixNMkgqkkL4",
   "meta": {
     "name": "Linear to Productboard feature Sync",
-    "id": 2578,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2578
   },
   "name": "Linear to Productboard",
   "tags": [

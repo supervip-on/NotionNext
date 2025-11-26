@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Instagram Visual Analysis with Apify Scraping, OpenAI GPT-5 & Google Sheets",
-    "id": 8068,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8068
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "NPGAfBzz4nv8lTpl",
   "meta": {
     "name": "Summarize emails and save them as notes on sales opportunity in Odoo",
-    "id": 2336,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2336
   },
   "name": "Save New Sales Opportunities",
   "tags": [],

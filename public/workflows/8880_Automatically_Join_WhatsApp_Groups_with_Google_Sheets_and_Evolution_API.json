@@ -2,8 +2,7 @@
   "id": "7XxAeZxBDoMqMdJ6",
   "meta": {
     "name": "Automatically Join WhatsApp Groups with Google Sheets and Evolution API",
-    "id": 8880,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8880
   },
   "name": "Join Whatsapp group",
   "tags": [

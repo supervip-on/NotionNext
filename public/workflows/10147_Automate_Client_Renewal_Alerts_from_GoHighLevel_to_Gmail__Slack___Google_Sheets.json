@@ -2,8 +2,7 @@
   "id": "zAhUYo1pPedFF2vq",
   "meta": {
     "name": "Automate Client Renewal Alerts from GoHighLevel to Gmail, Slack & Google Sheets",
-    "id": 10147,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10147
   },
   "name": "Automate Client Renewal Alerts from GoHighLevel to Gmail and Slack",
   "tags": [],

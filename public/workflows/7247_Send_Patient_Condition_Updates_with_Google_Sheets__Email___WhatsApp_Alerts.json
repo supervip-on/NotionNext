@@ -2,8 +2,7 @@
   "id": "pgQtR2koohYLYz2J",
   "meta": {
     "name": "Send Patient Condition Updates with Google Sheets, Email & WhatsApp Alerts",
-    "id": 7247,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7247
   },
   "name": "Send Daily Patient Condition Updates to Assigned Doctors",
   "tags": [],

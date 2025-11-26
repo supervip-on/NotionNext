@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Documents into Engaging LinkedIn Posts with GPT-4.1 and Email Approval",
-    "id": 4777,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4777
   },
   "nodes": [
     {

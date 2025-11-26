@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Merge Multiple Excel Files into a Single Multi-Sheet File with Summary Page",
-    "id": 8373,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8373
   },
   "nodes": [
     {

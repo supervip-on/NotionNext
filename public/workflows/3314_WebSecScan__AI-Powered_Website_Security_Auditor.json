@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WebSecScan: AI-Powered Website Security Auditor",
-    "id": 3314,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3314
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "7LLcCRXJjlHUoO4h",
   "meta": {
     "name": "When specific event created in Google Calendar, duplicate & rename Google File",
-    "id": 2145,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2145
   },
   "name": "New interview > Create new doc (template n8n)",
   "tags": [],

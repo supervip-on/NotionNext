@@ -2,8 +2,7 @@
   "id": "5qiiLNNCnMfa0ACi",
   "meta": {
     "name": "Auto-Summarize Blog Posts to Social Media with Gemma and Postiz",
-    "id": 9316,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9316
   },
   "name": "Auto-Summarize Blog Posts to Social Media with Gemma and Postiz",
   "tags": [],

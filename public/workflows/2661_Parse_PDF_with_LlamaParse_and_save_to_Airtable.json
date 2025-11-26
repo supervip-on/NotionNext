@@ -600,8 +600,7 @@
   },
   "meta": {
     "name": "Parse PDF with LlamaParse and save to Airtable",
-    "id": 2661,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2661
   },
   "id": "2661"
 }

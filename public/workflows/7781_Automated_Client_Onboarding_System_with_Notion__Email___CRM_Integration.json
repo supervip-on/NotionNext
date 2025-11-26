@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Client Onboarding System with Notion, Email & CRM Integration",
-    "id": 7781,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7781
   },
   "name": "Graceful Client Onboarding Concierge — Pro (General Use, v3)",
   "nodes": [

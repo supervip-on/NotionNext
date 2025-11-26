@@ -2,8 +2,7 @@
   "id": "ATxZ5QYhdJq9mZDO",
   "meta": {
     "name": "Parse DMARC reports, save them in database and notify on DKIM or SPF error",
-    "id": 2369,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2369
   },
   "name": "Parse DMARC reports",
   "tags": [

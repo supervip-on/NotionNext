@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Structured XML System Messages for AI Agents with Claude 4 Sonnet",
-    "id": 6821,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6821
   },
   "nodes": [
     {

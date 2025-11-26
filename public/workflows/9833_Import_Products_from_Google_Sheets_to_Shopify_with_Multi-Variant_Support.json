@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Import Products from Google Sheets to Shopify with Multi-Variant Support",
-    "id": 9833,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9833
   },
   "nodes": [
     {

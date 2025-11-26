@@ -2,8 +2,7 @@
   "id": "dnQK7NOQfUrMALiF",
   "meta": {
     "name": "Track Jura Coffee Machine Data with Webhook API and Google Sheets",
-    "id": 5771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5771
   },
   "name": "JuraAPI",
   "tags": [],

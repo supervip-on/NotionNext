@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Recreate Instagram Reels with Gemini 2.0 Analysis & Minimax Video Generation",
-    "id": 9863,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9863
   },
   "nodes": [
     {

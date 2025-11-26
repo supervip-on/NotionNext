@@ -459,8 +459,7 @@
   },
   "meta": {
     "name": "Automatic Google Cloud Run Auth with JWT Token Management (sub-workflow)",
-    "id": 7569,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7569
   },
   "id": "7569"
 }

@@ -2,8 +2,7 @@
   "id": "ai-personal-assistant-template",
   "meta": {
     "name": "Manage Tasks, Email & Calendar with GPT-4o Personal Assistant on Telegram",
-    "id": 8695,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8695
   },
   "name": "AI Personal Assistant - Task & Email Management",
   "tags": [

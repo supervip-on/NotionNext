@@ -2,8 +2,7 @@
   "id": "9RKrZdyiAYeuGv6W",
   "meta": {
     "name": "Chat with Google Drive Documents using GPT, Pinecone, and RAG",
-    "id": 7979,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7979
   },
   "name": "Talk with your Drive folder RAG",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Financial News Digest with Google Gemini AI to Outlook Email",
-    "id": 4074,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4074
   },
   "nodes": [
     {

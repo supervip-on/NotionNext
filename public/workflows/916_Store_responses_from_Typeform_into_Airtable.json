@@ -115,8 +115,7 @@
   },
   "meta": {
     "name": "Store responses from Typeform into Airtable",
-    "id": 916,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 916
   },
   "id": "916"
 }

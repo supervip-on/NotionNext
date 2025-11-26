@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Web Form Responder with GPT-4o-mini, Outlook Email & Twilio SMS",
-    "id": 6716,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6716
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Squarespace Order Fulfillment Process",
-    "id": 3327,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3327
   },
   "nodes": [
     {

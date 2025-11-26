@@ -2,8 +2,7 @@
   "id": "MCzA5RzvO83kNJi7",
   "meta": {
     "name": "AI Email Analyzer: Process PDFs, Images & Save to Google Drive + Telegram",
-    "id": 3169,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3169
   },
   "name": "AI Email Analyzer: Process PDFs, Images",
   "tags": [],

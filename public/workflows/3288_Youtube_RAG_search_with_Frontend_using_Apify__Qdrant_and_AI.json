@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Youtube RAG search with Frontend using Apify, Qdrant and AI",
-    "id": 3288,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3288
   },
   "nodes": [
     {

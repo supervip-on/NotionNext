@@ -2,8 +2,7 @@
   "id": "aqLL3BAXqQIjeJDt",
   "meta": {
     "name": "AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs",
-    "id": 3121,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3121
   },
   "name": "AI Automated TikTok/Youtube Shorts/Reels Generator",
   "tags": [

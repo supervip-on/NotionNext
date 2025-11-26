@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Feedback Triage: Jotform to Trello, Airtable & Slack with Gemini",
-    "id": 9999,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9999
   },
   "nodes": [
     {

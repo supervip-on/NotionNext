@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Document Compliance Validation with AI and Vector Database",
-    "id": 7662,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7662
   },
   "nodes": [
     {

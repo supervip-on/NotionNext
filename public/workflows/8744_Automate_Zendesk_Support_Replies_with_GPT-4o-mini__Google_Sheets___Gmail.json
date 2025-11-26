@@ -2,8 +2,7 @@
   "id": "BRgkmSQneVUhy8wp",
   "meta": {
     "name": "Automate Zendesk Support Replies with GPT-4o-mini, Google Sheets & Gmail",
-    "id": 8744,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8744
   },
   "name": "Auto-Reply for Common Issues",
   "tags": [],

@@ -1152,8 +1152,7 @@
   },
   "meta": {
     "name": "Make UGC ads from app screen recordings with Gemini, Sora 2, and VideoBGRemover",
-    "id": 9505,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9505
   },
   "id": "9505"
 }

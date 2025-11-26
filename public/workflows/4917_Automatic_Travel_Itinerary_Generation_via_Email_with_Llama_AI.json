@@ -2,8 +2,7 @@
   "id": "UlSHcKupAZfb0FZt",
   "meta": {
     "name": "Automatic Travel Itinerary Generation via Email with Llama AI",
-    "id": 4917,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4917
   },
   "name": "AI Travel Agent",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "CKmCHe6ST5Fn0bDm",
   "meta": {
     "name": "Automate Glassdoor Job Search with Bright Data Scraping & Google Sheets Storage",
-    "id": 4843,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4843
   },
   "name": "Glassdoor Job Finder: Bright Data Scraping + Keyword-Based Automation",
   "tags": [],

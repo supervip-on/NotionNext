@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Self-Hosted Application Updates with Coolify Deployments",
-    "id": 8118,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8118
   },
   "nodes": [
     {

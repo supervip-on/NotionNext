@@ -2,8 +2,7 @@
   "id": "F733EtVzETOmrGEZ",
   "meta": {
     "name": "Automatically Discover & Enrich HubSpot Buying Groups With Surfe and Google Sheets",
-    "id": 7258,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7258
   },
   "name": "N8N FLOW: Enrich Buying Groups",
   "tags": [],

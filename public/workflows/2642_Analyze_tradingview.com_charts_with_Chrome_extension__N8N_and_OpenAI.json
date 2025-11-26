@@ -2,8 +2,7 @@
   "id": "Q8On8rR6BkmPzDUd",
   "meta": {
     "name": "Analyze tradingview.com charts with Chrome extension, N8N and OpenAI",
-    "id": 2642,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2642
   },
   "name": "chrome extension backend with AI",
   "tags": [],

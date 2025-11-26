@@ -2,8 +2,7 @@
   "id": "mchujUnGa9RKf7dO",
   "meta": {
     "name": "Create Dynamic Workflows Programmatically via Webhooks & n8n API",
-    "id": 4544,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4544
   },
   "name": "Create Workflow via Webhook in n8n",
   "tags": [],

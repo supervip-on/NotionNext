@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated PDF Invoice Processing & Approval Flow using OpenAI and Google Sheets",
-    "id": 4452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4452
   },
   "nodes": [
     {

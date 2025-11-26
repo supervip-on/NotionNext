@@ -2,8 +2,7 @@
   "id": "HPVAZGksUMoYkWlX",
   "meta": {
     "name": "Automate School Notice Distribution via WhatsApp, Email and Excel",
-    "id": 7035,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7035
   },
   "name": "School Notice Distribution Workflow via WhatsApp and Email",
   "tags": [],

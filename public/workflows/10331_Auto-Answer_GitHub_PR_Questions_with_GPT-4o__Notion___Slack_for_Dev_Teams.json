@@ -2,8 +2,7 @@
   "id": "ZtkkWwiBICaiGc4g",
   "meta": {
     "name": "Auto-Answer GitHub PR Questions with GPT-4o, Notion & Slack for Dev Teams",
-    "id": 10331,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10331
   },
   "name": "Code Comment-to-FAQ Sync (GitHub)",
   "tags": [],

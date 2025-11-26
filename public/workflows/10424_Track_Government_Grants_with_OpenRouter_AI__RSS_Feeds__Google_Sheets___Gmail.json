@@ -2,8 +2,7 @@
   "id": "Xfowxya7kKDiUr5y",
   "meta": {
     "name": "Track Government Grants with OpenRouter AI, RSS Feeds, Google Sheets & Gmail",
-    "id": 10424,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10424
   },
   "name": "AI-Powered Government Grant Tracker (RSS → AI → Google Sheets → Email)",
   "tags": [],

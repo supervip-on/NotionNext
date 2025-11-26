@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Trello Task Deadline Digests to Slack",
-    "id": 7613,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7613
   },
   "nodes": [
     {

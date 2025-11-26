@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Interactive Russian Language Tutor Bot with GPT-4o and Telegram",
-    "id": 8834,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8834
   },
   "nodes": [
     {

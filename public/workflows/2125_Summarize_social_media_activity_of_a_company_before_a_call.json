@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Summarize social media activity of a company before a call",
-    "id": 2125,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2125
   },
   "nodes": [
     {

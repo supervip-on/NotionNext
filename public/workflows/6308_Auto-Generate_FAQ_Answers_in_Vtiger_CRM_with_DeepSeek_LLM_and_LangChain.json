@@ -2,8 +2,7 @@
   "id": "chYsh0pJpFivekfQ",
   "meta": {
     "name": "Auto-Generate FAQ Answers in Vtiger CRM with DeepSeek LLM and LangChain",
-    "id": 6308,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6308
   },
   "name": "Vtiger CRM answer FAQ by DeepSeek LLM",
   "tags": [],

@@ -146,7 +146,6 @@
   },
   "meta": {
     "name": "Update people through Zulip about open tickets in Zammad",
-    "id": 1575,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1575
   }
 }

@@ -2,8 +2,7 @@
   "id": "yleYtr2zaJKjyMOK",
   "meta": {
     "name": "Gmail Email Classifier with GPT-4 Auto-Generated Draft Replies",
-    "id": 8426,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8426
   },
   "name": "Gmail Email Classifier with GPT-4 Auto-Generated Draft Replies",
   "tags": [

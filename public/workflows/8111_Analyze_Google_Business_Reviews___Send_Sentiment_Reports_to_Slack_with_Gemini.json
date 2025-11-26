@@ -2,8 +2,7 @@
   "id": "peemlQQi9udHOyNH",
   "meta": {
     "name": "Analyze Google Business Reviews & Send Sentiment Reports to Slack with Gemini",
-    "id": 8111,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8111
   },
   "name": "Google review Sentiment analysis workflow",
   "tags": [],

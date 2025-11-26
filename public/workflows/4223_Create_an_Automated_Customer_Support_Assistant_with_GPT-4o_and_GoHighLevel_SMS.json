@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create an Automated Customer Support Assistant with GPT-4o and GoHighLevel SMS",
-    "id": 4223,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4223
   },
   "nodes": [
     {

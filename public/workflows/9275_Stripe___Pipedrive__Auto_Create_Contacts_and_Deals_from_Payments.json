@@ -2,8 +2,7 @@
   "id": "mXqbFVOOlSD6kNIC",
   "meta": {
     "name": "Stripe → Pipedrive: Auto Create Contacts and Deals from Payments",
-    "id": 9275,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9275
   },
   "name": "Stripe → Pipedrive (Automatic Person + Deal Creation)",
   "tags": [

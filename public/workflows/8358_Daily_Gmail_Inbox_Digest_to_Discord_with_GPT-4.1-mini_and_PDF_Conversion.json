@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Gmail Inbox Digest to Discord with GPT-4.1-mini and PDF Conversion",
-    "id": 8358,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8358
   },
   "nodes": [
     {

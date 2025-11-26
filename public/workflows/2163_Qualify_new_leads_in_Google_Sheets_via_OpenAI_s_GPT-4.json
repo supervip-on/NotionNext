@@ -2,8 +2,7 @@
   "id": "8FLJK1NsduFL0Y5P",
   "meta": {
     "name": "Qualify new leads in Google Sheets via OpenAI's GPT-4",
-    "id": 2163,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2163
   },
   "name": "Qualify new leads in Google Sheets via OpenAI's GPT-4",
   "tags": [

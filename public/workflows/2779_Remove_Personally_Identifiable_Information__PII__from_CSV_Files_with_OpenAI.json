@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Remove Personally Identifiable Information (PII) from CSV Files with OpenAI",
-    "id": 2779,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2779
   },
   "nodes": [
     {

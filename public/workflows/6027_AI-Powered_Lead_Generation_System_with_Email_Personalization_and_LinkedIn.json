@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Lead Generation System with Email Personalization and LinkedIn",
-    "id": 6027,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6027
   },
   "nodes": [
     {

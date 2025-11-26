@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Lead Scoring & Enrichment from Mailchimp to HubSpot and Pipedrive with GPT-4o",
-    "id": 8909,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8909
   },
   "name": "LeadFusion - AI Lead Enrichment Workflow",
   "tags": [],

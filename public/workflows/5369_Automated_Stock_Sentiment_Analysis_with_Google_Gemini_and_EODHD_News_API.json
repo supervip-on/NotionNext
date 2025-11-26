@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Stock Sentiment Analysis with Google Gemini and EODHD News API",
-    "id": 5369,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5369
   },
   "name": "Sentiment Analysis Bot",
   "tags": [],

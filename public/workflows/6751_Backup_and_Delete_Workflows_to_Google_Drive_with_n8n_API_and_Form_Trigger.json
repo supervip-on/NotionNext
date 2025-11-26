@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Backup and Delete Workflows to Google Drive with n8n API and Form Trigger",
-    "id": 6751,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6751
   },
   "nodes": [
     {

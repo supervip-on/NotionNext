@@ -2,8 +2,7 @@
   "id": "zmuAW16DkWnYc6pe",
   "meta": {
     "name": "WhatsApp to Chatwoot Message Forwarder with Media Support",
-    "id": 6988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6988
   },
   "name": "Forward messages from evolution api to Chatwoot with media support",
   "tags": [],

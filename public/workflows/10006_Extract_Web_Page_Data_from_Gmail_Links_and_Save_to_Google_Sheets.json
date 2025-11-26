@@ -2,8 +2,7 @@
   "id": "t5hsHZLvrxN168ug",
   "meta": {
     "name": "Extract Web Page Data from Gmail Links and Save to Google Sheets",
-    "id": 10006,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10006
   },
   "name": "Extraindo_Dados_Gmail",
   "tags": [],

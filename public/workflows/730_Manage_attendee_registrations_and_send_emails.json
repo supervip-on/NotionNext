@@ -285,8 +285,7 @@
   },
   "meta": {
     "name": "Manage attendee registrations and send emails",
-    "id": 730,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 730
   },
   "id": "730"
 }

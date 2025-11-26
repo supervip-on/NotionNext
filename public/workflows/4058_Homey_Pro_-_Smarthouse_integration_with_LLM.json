@@ -2,8 +2,7 @@
   "id": "qluGUIax8j7IscCE",
   "meta": {
     "name": "Homey Pro - Smarthouse integration with LLM",
-    "id": 4058,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4058
   },
   "name": "Smarthus_Agent",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Batch Scrape Website URLs from Google Sheets to Google Docs with Firecrawl",
-    "id": 7384,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7384
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "cMccNWyyvptrhRt6",
   "meta": {
     "name": "Convert Baserow rich text markdown field to HTML",
-    "id": 2345,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2345
   },
   "name": "Baserow markdown to html",
   "tags": [],

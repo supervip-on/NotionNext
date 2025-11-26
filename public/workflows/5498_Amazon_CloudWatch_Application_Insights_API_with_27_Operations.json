@@ -2,8 +2,7 @@
   "id": "s0gUueSKjlF1cY61",
   "meta": {
     "name": "Amazon CloudWatch Application Insights API with 27 Operations",
-    "id": 5498,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5498
   },
   "name": "Amazon CloudWatch Application Insights MCP Server",
   "tags": [],

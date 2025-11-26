@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Data from Driver License Uploads with VLM Run, Google Drive and Sheets",
-    "id": 5593,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5593
   },
   "nodes": [
     {

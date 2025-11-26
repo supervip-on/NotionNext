@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Perform, Get Scans 🛠️ urlscan.io Tool MCP Server 💪 all 3 operations",
-    "id": 5065,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5065
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "rhDfPKxHhaIJCUZi",
   "meta": {
     "name": "PDF Document Filling and Generation Server for AI Agents with doqs.dev API",
-    "id": 5494,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5494
   },
   "name": "doqs.dev | PDF filling API MCP Server",
   "tags": [],

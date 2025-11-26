@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Edit Images with Text Prompts using Gemini AI and Telegram Bot",
-    "id": 8998,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8998
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Intelligent Workflow Maintenance System with Smart AI Filtering & Google Workspace",
-    "id": 7464,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7464
   },
   "nodes": [
     {

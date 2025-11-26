@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Job Listings Extraction and Publishing Template",
-    "id": 6518,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6518
   },
   "nodes": [
     {

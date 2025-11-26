@@ -2,8 +2,7 @@
   "id": "suFwbFh7NOckUGrH",
   "meta": {
     "name": "CYBERPULSE AI GRC: Automate Security Questionnaire Responses",
-    "id": 7349,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7349
   },
   "name": "GRC – Security Questionnaire AutoFill",
   "tags": [

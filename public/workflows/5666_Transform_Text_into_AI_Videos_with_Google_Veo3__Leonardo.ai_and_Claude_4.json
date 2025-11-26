@@ -2,8 +2,7 @@
   "id": "AkvzpobOIpgNTkkC",
   "meta": {
     "name": "Transform Text into AI Videos with Google Veo3, Leonardo.ai and Claude 4",
-    "id": 5666,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5666
   },
   "name": "Google Veo 3 Prompt and Video Generator via Leonardo.ai + Claude 4",
   "tags": [],

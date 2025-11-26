@@ -2,8 +2,7 @@
   "id": "XxkmcgZC4OtIOVoD",
   "meta": {
     "name": "Extract and Clean YouTube Video Transcripts with RapidAPI",
-    "id": 3417,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3417
   },
   "name": "Youtube Video Transcript Extraction",
   "tags": [],

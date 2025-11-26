@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scheduled Google Sheets Data Backup to Google Drive",
-    "id": 6469,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6469
   },
   "nodes": [
     {

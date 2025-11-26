@@ -2,8 +2,7 @@
   "id": "6yNJxDjV9rSiOkj9",
   "meta": {
     "name": "AI Agent with charts capabilities using OpenAI Structured Output and Quickchart",
-    "id": 2400,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2400
   },
   "name": "AI Agent with charts capabilities using OpenAI Structured Output",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Monthly Google Ads Performance Analysis with GPT-4o, Sheets & Slack",
-    "id": 10062,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10062
   },
   "nodes": [
     {

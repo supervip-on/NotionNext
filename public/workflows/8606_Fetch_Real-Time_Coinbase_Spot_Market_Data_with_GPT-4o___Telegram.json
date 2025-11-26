@@ -2,8 +2,7 @@
   "id": "9aTix0CxjipAFy56",
   "meta": {
     "name": "Fetch Real-Time Coinbase Spot Market Data with GPT-4o + Telegram",
-    "id": 8606,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8606
   },
   "name": "Coinbase AI Agent v1.02",
   "tags": [],

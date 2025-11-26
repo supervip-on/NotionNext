@@ -2,8 +2,7 @@
   "id": "LPtWfT87D8T6CFb2",
   "meta": {
     "name": "Scrape LinkedIn Jobs with Gemini AI and Store in Google Sheets using RSS",
-    "id": 8219,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8219
   },
   "name": "LinkedIn Job Scraper (Submit)",
   "tags": [],

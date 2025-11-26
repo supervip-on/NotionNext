@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Reply & Create Linear Tickets from Gmail with GPT-5, gotoHuman & Human Review",
-    "id": 10065,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10065
   },
   "nodes": [
     {

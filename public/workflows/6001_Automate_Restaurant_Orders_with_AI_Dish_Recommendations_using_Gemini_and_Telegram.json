@@ -2,8 +2,7 @@
   "id": "aDRgA0zAqjUD2yvU",
   "meta": {
     "name": "Automate Restaurant Orders with AI Dish Recommendations using Gemini and Telegram",
-    "id": 6001,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6001
   },
   "name": "Smart Restaurant Order & Suggestion System with Gemini AI and Telegram",
   "tags": [],

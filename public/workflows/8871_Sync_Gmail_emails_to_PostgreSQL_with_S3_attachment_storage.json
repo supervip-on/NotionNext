@@ -2,8 +2,7 @@
   "id": "FmREphiGbmZ0G1c2",
   "meta": {
     "name": "Sync Gmail emails to PostgreSQL with S3 attachment storage",
-    "id": 8871,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8871
   },
   "name": "email-gmail-minio-_documented-INGLES_092525",
   "tags": [

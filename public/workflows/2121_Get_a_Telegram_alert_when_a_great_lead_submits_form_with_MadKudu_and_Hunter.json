@@ -396,8 +396,7 @@
   },
   "meta": {
     "name": "Get a Telegram alert when a great lead submits form with MadKudu and Hunter",
-    "id": 2121,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2121
   },
   "id": "2121"
 }

@@ -2,8 +2,7 @@
   "id": "bGQ3XjWBjCOEVByz",
   "meta": {
     "name": "Publish HTML Content with GitHub Gist and HTML Preview",
-    "id": 6674,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6674
   },
   "name": " Publish generated HTML as a GitHub Gist and return the shareable URL",
   "tags": [],

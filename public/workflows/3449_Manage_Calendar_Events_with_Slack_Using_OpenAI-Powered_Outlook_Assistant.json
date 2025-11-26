@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage Calendar Events with Slack Using OpenAI-Powered Outlook Assistant",
-    "id": 3449,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3449
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Document Q&A System with Voyage-Context-3 Embeddings and MongoDB Atlas",
-    "id": 6819,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6819
   },
   "nodes": [
     {

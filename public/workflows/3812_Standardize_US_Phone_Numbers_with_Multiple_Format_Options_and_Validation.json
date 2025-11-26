@@ -2,8 +2,7 @@
   "id": "mNbQmMNEvpiZqASG",
   "meta": {
     "name": "Standardize US Phone Numbers with Multiple Format Options and Validation",
-    "id": 3812,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3812
   },
   "name": "Format US Phone Number",
   "tags": [],

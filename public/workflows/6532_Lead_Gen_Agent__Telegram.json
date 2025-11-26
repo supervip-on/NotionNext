@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lead Gen Agent (Telegram)",
-    "id": 6532,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6532
   },
   "nodes": [
     {

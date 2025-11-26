@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lead Analysis & Personalized Email Generation with OpenAI, Firecrawl & gotoHuman",
-    "id": 8520,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8520
   },
   "nodes": [
     {

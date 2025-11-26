@@ -115,7 +115,6 @@
   },
   "meta": {
     "name": "Enviar Miembros del CMS Ghost hacia Newsletter Sendy",
-    "id": 629,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 629
   }
 }

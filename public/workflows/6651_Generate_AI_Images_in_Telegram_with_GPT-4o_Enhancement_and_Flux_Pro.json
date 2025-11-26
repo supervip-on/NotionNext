@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Images in Telegram with GPT-4o Enhancement and Flux Pro",
-    "id": 6651,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6651
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated LinkedIn Lead Enrichment Pipeline using Apollo.io & Google Sheets",
-    "id": 8409,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8409
   },
   "nodes": [
     {

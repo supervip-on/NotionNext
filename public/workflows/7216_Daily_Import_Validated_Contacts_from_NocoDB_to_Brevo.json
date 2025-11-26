@@ -2,8 +2,7 @@
   "id": "MIAB9TEo4WAoEXhr",
   "meta": {
     "name": "Daily Import Validated Contacts from NocoDB to Brevo",
-    "id": 7216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7216
   },
   "name": "Daily Import New Contacts from NocoDB to Brevo",
   "tags": [],

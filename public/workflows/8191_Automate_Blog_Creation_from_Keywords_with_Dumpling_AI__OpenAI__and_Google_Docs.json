@@ -2,8 +2,7 @@
   "id": "hCUgw7o0NPlNWR0K",
   "meta": {
     "name": "Automate Blog Creation from Keywords with Dumpling AI, OpenAI, and Google Docs",
-    "id": 8191,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8191
   },
   "name": "Form to Blog Automation using Dumpling AI and Google Docs",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate n8n Forms from Airtable and BaseRow Tables ",
-    "id": 2603,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2603
   },
   "nodes": [
     {

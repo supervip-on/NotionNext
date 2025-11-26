@@ -2,8 +2,7 @@
   "id": "3860",
   "meta": {
     "name": "Automate Employee Onboarding with Slack, Jira, and Google Workspace Integration",
-    "id": 3860,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3860
   },
   "name": "OnboardAIgen - Slack x Jira x Drive Onboarding Automation Workflow",
   "tags": [],

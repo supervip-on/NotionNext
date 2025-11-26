@@ -129,8 +129,7 @@
   },
   "meta": {
     "name": "Detect and store the information about a purchase using the image of a receipt",
-    "id": 739,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 739
   },
   "id": "739"
 }

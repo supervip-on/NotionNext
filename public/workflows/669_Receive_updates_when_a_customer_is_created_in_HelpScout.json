@@ -26,7 +26,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a customer is created in HelpScout",
-    "id": 669,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 669
   }
 }

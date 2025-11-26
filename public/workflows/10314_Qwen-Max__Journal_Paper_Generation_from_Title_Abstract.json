@@ -2,8 +2,7 @@
   "id": "kUTC73D6gGpNDtiq",
   "meta": {
     "name": "Qwen-Max: Journal Paper Generation from Title/Abstract",
-    "id": 10314,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10314
   },
   "name": "AI-Powered Qwen-Max Journal Paper Generator from Title and Abstract",
   "tags": [],

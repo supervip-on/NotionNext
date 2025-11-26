@@ -2,8 +2,7 @@
   "id": "xaC6zL4bWBo14xyJ",
   "meta": {
     "name": "🚀 YouTube Comment Sentiment Analyzer with Google Sheets & OpenAI",
-    "id": 3855,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3855
   },
   "name": "YouTube Comment Sentiment Analyzer",
   "tags": [],

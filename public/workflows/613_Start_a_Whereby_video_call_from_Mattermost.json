@@ -86,8 +86,7 @@
   },
   "meta": {
     "name": "Start a Whereby video call from Mattermost",
-    "id": 613,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 613
   },
   "id": "613"
 }

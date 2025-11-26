@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Google Maps Leads and Find Emails with Apify and Anymailfinder",
-    "id": 8472,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8472
   },
   "nodes": [
     {

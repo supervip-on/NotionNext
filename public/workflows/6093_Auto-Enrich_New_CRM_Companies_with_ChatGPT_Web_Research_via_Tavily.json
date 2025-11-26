@@ -2,8 +2,7 @@
   "id": "Wm8l2EqUfFXbZefy",
   "meta": {
     "name": "Auto-Enrich New CRM Companies with ChatGPT Web Research via Tavily",
-    "id": 6093,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6093
   },
   "name": "Auto-Enrich New CRM Companies with ChatGPT Web Research via Tavily",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "XbawQw3cvClu2wsx",
   "meta": {
     "name": "Automated AI image tagging and writing the keywords into the image file",
-    "id": 2995,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2995
   },
   "name": "Automated Image Metadata Tagging",
   "tags": [],

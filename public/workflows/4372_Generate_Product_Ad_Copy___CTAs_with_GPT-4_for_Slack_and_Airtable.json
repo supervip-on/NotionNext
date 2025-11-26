@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Product Ad Copy & CTAs with GPT-4 for Slack and Airtable",
-    "id": 4372,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4372
   },
   "nodes": [
     {

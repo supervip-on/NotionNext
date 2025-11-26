@@ -2,8 +2,7 @@
   "id": "pEXn3vpp45bpVEem",
   "meta": {
     "name": "Expose Get tracking details to AI Agents via 🛠️ DHL Tool MCP Server",
-    "id": 5279,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5279
   },
   "name": "DHL Tool MCP Server",
   "tags": [],

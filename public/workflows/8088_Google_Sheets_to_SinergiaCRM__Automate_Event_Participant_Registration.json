@@ -2,8 +2,7 @@
   "id": "ekpF9klMhZsn7kDH",
   "meta": {
     "name": "Google Sheets to SinergiaCRM: Automate Event Participant Registration",
-    "id": 8088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8088
   },
   "name": "Create contacts and event registrations in SinergiaCRM from Google Sheets",
   "tags": [

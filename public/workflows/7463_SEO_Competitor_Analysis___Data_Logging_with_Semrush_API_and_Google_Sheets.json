@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "SEO Competitor Analysis & Data Logging with Semrush API and Google Sheets",
-    "id": 7463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7463
   },
   "nodes": [
     {

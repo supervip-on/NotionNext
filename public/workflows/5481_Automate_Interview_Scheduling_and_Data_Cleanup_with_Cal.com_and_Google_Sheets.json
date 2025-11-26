@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Interview Scheduling and Data Cleanup with Cal.com and Google Sheets",
-    "id": 5481,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5481
   },
   "nodes": [
     {

@@ -653,7 +653,6 @@
   },
   "meta": {
     "name": "Scrape and store data from multiple website pages",
-    "id": 1073,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1073
   }
 }

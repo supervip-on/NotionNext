@@ -46,7 +46,6 @@
   },
   "meta": {
     "name": "Execute an SQL query in Microsoft SQL",
-    "id": 479,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 479
   }
 }

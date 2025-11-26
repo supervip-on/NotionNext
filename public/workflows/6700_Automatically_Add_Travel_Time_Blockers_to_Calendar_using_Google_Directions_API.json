@@ -2,8 +2,7 @@
   "id": "bwx8LUWOdqelNFta",
   "meta": {
     "name": "Automatically Add Travel Time Blockers to Calendar using Google Directions API",
-    "id": 6700,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6700
   },
   "name": "Travel Time Agent",
   "tags": [],

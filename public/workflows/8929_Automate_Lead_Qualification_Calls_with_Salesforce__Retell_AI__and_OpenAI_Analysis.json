@@ -2,8 +2,7 @@
   "id": "IEetUVoebokNrPxb",
   "meta": {
     "name": "Automate Lead Qualification Calls with Salesforce, Retell AI, and OpenAI Analysis",
-    "id": 8929,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8929
   },
   "name": "Automate lead qualification calls from Salesforce to Retell AI with OpenAI analysis",
   "tags": [

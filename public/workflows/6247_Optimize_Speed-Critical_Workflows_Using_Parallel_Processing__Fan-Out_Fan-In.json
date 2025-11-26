@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎓 Optimize Speed-Critical Workflows Using Parallel Processing (Fan-Out/Fan-In)",
-    "id": 6247,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6247
   },
   "nodes": [
     {

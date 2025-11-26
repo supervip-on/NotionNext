@@ -2,8 +2,7 @@
   "id": "olDVR3wuxbUsTvuW",
   "meta": {
     "name": "Get Scaleway Server Info with Dynamic Filtering",
-    "id": 3571,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3571
   },
   "name": "Get all scaleway server info copy",
   "tags": [],

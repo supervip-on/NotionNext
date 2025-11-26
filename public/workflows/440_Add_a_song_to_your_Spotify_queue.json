@@ -45,7 +45,6 @@
   },
   "meta": {
     "name": "Add a song to your Spotify queue",
-    "id": 440,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 440
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Talent Screener – CV Parser, Job Fit Evaluator & Email Notifier",
-    "id": 4055,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4055
   },
   "nodes": [
     {

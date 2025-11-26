@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "2-way Sync Google Contacts and Notion",
-    "id": 2814,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2814
   },
   "nodes": [
     {

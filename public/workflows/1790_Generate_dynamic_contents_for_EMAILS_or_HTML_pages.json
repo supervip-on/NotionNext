@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate dynamic contents for EMAILS or HTML pages",
-    "id": 1790,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1790
   },
   "nodes": [
     {

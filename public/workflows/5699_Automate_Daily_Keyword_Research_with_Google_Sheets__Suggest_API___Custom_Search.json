@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Daily Keyword Research with Google Sheets, Suggest API & Custom Search",
-    "id": 5699,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5699
   },
   "nodes": [
     {

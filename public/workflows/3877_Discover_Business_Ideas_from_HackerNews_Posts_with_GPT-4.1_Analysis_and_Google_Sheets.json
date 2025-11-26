@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Discover Business Ideas from HackerNews Posts with GPT-4.1 Analysis and Google Sheets",
-    "id": 3877,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3877
   },
   "nodes": [
     {

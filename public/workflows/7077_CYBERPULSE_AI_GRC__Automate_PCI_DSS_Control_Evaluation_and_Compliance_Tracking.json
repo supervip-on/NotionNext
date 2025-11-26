@@ -2,8 +2,7 @@
   "id": "ftH5uN0C12ktrAmA",
   "meta": {
     "name": "CYBERPULSE AI GRC: Automate PCI DSS Control Evaluation and Compliance Tracking ",
-    "id": 7077,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7077
   },
   "name": "Automated PCI Control Evaluation",
   "tags": [

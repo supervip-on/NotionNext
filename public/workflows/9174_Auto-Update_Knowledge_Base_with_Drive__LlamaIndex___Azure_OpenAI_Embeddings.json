@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Update Knowledge Base with Drive, LlamaIndex & Azure OpenAI Embeddings",
-    "id": 9174,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9174
   },
   "nodes": [
     {

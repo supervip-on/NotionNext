@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get Blockchain Insights from Chat using GPT-4 and Nansen MCP",
-    "id": 6303,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6303
   },
   "nodes": [
     {

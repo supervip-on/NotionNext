@@ -2,8 +2,7 @@
   "id": "w8QekiNgdTB5djK1",
   "meta": {
     "name": "Automated News Video Generation with HeyGen AI, Apify, and GPT-4.1 Mini",
-    "id": 10158,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10158
   },
   "name": "Heygen",
   "tags": [],

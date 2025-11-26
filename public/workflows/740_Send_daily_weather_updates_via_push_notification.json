@@ -84,7 +84,6 @@
   },
   "meta": {
     "name": "Send daily weather updates via push notification",
-    "id": 740,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 740
   }
 }

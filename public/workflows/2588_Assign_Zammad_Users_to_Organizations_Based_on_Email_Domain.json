@@ -2,8 +2,7 @@
   "id": "QXhjTKmtXQyDDsAf",
   "meta": {
     "name": "Assign Zammad Users to Organizations Based on Email Domain",
-    "id": 2588,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2588
   },
   "name": "Zammad - Assign organizations to existing users using \"domain based assignment\"",
   "tags": [],

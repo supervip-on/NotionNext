@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Brand Reputation for Negative PR on Reddit with Gemini + LangChain + Sheets",
-    "id": 7473,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7473
   },
   "nodes": [
     {

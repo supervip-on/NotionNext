@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich lead that booked a call on Calendly and save it on Hubspot",
-    "id": 2129,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2129
   },
   "nodes": [
     {

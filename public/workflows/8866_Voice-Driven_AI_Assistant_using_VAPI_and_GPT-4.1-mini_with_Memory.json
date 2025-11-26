@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Voice-Driven AI Assistant using VAPI and GPT-4.1-mini with Memory",
-    "id": 8866,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8866
   },
   "nodes": [
     {

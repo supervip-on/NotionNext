@@ -2,8 +2,7 @@
   "id": "keolDNOyCgI0lx9d",
   "meta": {
     "name": "AI-Powered Scrum Master Assistant with OpenAI, Slack and Asana Integration",
-    "id": 5478,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5478
   },
   "name": "Virtual Scrum Master using Slack and Asana",
   "tags": [

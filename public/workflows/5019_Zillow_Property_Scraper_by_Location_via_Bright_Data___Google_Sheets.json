@@ -2,8 +2,7 @@
   "id": "0eFmaRUQnmJfkcaI",
   "meta": {
     "name": "Zillow Property Scraper by Location via Bright Data & Google Sheets",
-    "id": 5019,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5019
   },
   "name": "Zillow Property Listing Scraper by Location & Category Using Bright Data API & Google Sheets Integration",
   "tags": [],

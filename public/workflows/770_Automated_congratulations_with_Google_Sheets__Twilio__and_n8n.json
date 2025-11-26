@@ -210,7 +210,6 @@
   },
   "meta": {
     "name": "Automated congratulations with Google Sheets, Twilio, and n8n ",
-    "id": 770,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 770
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Record Payout from Stripe in Wave Accounting",
-    "id": 5705,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5705
   },
   "nodes": [
     {

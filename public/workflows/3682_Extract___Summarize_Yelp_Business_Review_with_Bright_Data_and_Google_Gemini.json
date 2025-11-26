@@ -2,8 +2,7 @@
   "id": "cKFPrgXstN3JgdJs",
   "meta": {
     "name": "Extract & Summarize Yelp Business Review with Bright Data and Google Gemini",
-    "id": 3682,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3682
   },
   "name": "Extract & Summarize Yelp Business Review with Bright Data and Google Gemini",
   "tags": [

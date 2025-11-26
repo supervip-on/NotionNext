@@ -2,8 +2,7 @@
   "id": "kxb2ryCoMzkhmn1Q",
   "meta": {
     "name": "Automated CRM Deal Stage Updates with Stripe & Google Sheets",
-    "id": 8951,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8951
   },
   "name": "CRM Deal Stage Update",
   "tags": [],

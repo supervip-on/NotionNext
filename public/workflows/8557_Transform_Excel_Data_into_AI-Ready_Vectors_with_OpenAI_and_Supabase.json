@@ -2,8 +2,7 @@
   "id": "N4vmvG8N8J7d1713",
   "meta": {
     "name": "Transform Excel Data into AI-Ready Vectors with OpenAI and Supabase",
-    "id": 8557,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8557
   },
   "name": "Upload to n8n",
   "tags": [],

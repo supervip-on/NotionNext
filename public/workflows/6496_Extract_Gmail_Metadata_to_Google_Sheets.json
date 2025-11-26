@@ -2,8 +2,7 @@
   "id": "Mw3kkNKzGTQ5hB2t",
   "meta": {
     "name": "Extract Gmail Metadata to Google Sheets",
-    "id": 6496,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6496
   },
   "name": "Extract Gmail Meta data into Google Sheet",
   "tags": [],

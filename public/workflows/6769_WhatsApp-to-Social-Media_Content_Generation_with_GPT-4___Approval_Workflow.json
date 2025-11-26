@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp-to-Social-Media Content Generation with GPT-4 & Approval Workflow",
-    "id": 6769,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6769
   },
   "nodes": [
     {

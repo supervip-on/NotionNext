@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert RSS to tweet with text and image using free Twitter API",
-    "id": 2933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2933
   },
   "nodes": [
     {

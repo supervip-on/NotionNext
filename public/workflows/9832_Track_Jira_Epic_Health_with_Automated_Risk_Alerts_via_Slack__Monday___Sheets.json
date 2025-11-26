@@ -2,8 +2,7 @@
   "id": "KwWlPZAiObwL1LOi",
   "meta": {
     "name": "Track Jira Epic Health with Automated Risk Alerts via Slack, Monday & Sheets",
-    "id": 9832,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9832
   },
   "name": "Jira Epic Health Score & Risk Dashboard",
   "tags": [],

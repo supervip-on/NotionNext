@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Technical stock analysis with Telegram, Airtable and a GPT-powered AI Agent",
-    "id": 3053,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3053
   },
   "nodes": [
     {

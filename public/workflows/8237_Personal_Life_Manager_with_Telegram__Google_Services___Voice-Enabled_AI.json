@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personal Life Manager with Telegram, Google Services & Voice-Enabled AI",
-    "id": 8237,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8237
   },
   "nodes": [
     {

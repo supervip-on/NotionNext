@@ -2,8 +2,7 @@
   "id": "6sBxOuYYcJjIBmVJ",
   "meta": {
     "name": "Automate Sports Betting Data with the Odds API",
-    "id": 2843,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2843
   },
   "name": "Automating Betting Data Retrieval with TheOddsAPI and Airtable",
   "tags": [],

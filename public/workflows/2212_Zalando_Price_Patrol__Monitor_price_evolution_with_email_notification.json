@@ -613,8 +613,7 @@
   },
   "meta": {
     "name": "Zalando Price Patrol: Monitor price evolution with email notification",
-    "id": 2212,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2212
   },
   "id": "2212"
 }

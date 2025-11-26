@@ -2,8 +2,7 @@
   "id": "LC0IcmbjYuCMHZod",
   "meta": {
     "name": "Automate News Publishing to LinkedIn with Gemini AI and RSS Feeds",
-    "id": 4414,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4414
   },
   "name": "RSS a linkedin con IA",
   "tags": [

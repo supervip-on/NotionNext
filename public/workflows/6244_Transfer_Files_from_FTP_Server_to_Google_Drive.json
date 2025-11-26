@@ -2,8 +2,7 @@
   "id": "V5SaH2SZzVTyn829",
   "meta": {
     "name": "Transfer Files from FTP Server to Google Drive",
-    "id": 6244,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6244
   },
   "name": "FTP 2 Google Drive",
   "tags": [],

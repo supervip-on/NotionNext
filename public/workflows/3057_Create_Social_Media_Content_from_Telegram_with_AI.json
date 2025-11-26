@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Social Media Content from Telegram with AI",
-    "id": 3057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3057
   },
   "nodes": [
     {

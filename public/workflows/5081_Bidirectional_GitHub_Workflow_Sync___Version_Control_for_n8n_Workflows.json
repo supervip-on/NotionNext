@@ -2,8 +2,7 @@
   "id": "zlH1bFBsYAWpBVVw",
   "meta": {
     "name": "Bidirectional GitHub Workflow Sync & Version Control for n8n Workflows",
-    "id": 5081,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5081
   },
   "name": "github_repo_workflows_sync",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "lqAMFCGhYpl6i0Kg",
   "meta": {
     "name": "Version Control n8n Workflows in GitLab with Customer Tag Organization",
-    "id": 8042,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8042
   },
   "name": "Client-Organized Workflow Backup (n8n + GitLab)",
   "tags": [

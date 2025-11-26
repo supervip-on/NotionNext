@@ -2,8 +2,7 @@
   "id": "mlCmbtSHIWYMXzuV",
   "meta": {
     "name": "Transform Images into AI Videos with MiniMax Hailuo 02. Upload to YouTube/TikTok",
-    "id": 5633,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5633
   },
   "name": "Image-to-Video with MiniMax Hailuo 02 and upload on Youtube and TikTok",
   "tags": [],

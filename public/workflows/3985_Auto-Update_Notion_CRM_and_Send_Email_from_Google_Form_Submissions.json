@@ -2,8 +2,7 @@
   "id": "BKV3JyIVr2ece3Zv",
   "meta": {
     "name": "Auto-Update Notion CRM and Send Email from Google Form Submissions",
-    "id": 3985,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3985
   },
   "name": "Google Forms to NotionCRM",
   "tags": [],

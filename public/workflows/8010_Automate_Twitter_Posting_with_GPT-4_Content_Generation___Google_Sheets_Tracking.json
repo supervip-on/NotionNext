@@ -2,8 +2,7 @@
   "id": "i8ATrlawNnV9FGIV",
   "meta": {
     "name": "Automate Twitter Posting with GPT-4 Content Generation & Google Sheets Tracking",
-    "id": 8010,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8010
   },
   "name": "Automate Social Media Posting on Twitter (x.com) using AI Agent & Google Sheets",
   "tags": [],

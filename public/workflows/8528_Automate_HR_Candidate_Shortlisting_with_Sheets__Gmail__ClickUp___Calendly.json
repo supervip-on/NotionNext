@@ -2,8 +2,7 @@
   "id": "K90xXcomw9TStJaJ",
   "meta": {
     "name": "Automate HR Candidate Shortlisting with Sheets, Gmail, ClickUp & Calendly",
-    "id": 8528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8528
   },
   "name": "Auto shortlist and stage movement",
   "tags": [],

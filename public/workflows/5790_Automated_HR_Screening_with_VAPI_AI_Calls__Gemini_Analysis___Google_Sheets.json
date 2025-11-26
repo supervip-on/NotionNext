@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated HR Screening with VAPI AI Calls, Gemini Analysis & Google Sheets",
-    "id": 5790,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5790
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "ziJG3tgG91Gkbina",
   "meta": {
     "name": "TW-Request-Agri Data Open Platform-Daily Market Sheep Pricing",
-    "id": 2687,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2687
   },
   "name": "n8n-農產品",
   "tags": [

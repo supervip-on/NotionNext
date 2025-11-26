@@ -195,7 +195,6 @@
   },
   "meta": {
     "name": "Create Zoom meeting link from Google Calendar invite",
-    "id": 1340,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1340
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Create PDF from HTML with Gotenberg",
-    "id": 5149,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5149
   },
   "nodes": [
     {

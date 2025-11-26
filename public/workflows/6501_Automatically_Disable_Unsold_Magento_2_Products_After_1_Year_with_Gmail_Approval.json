@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Disable Unsold Magento 2 Products After 1 Year with Gmail Approval",
-    "id": 6501,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6501
   },
   "nodes": [
     {

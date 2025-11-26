@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload Bulk Records from CSV - Airtable Interfaces",
-    "id": 2071,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2071
   },
   "nodes": [
     {

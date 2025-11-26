@@ -2,8 +2,7 @@
   "id": "7gRbzEzCuOzQKn4M",
   "meta": {
     "name": "Query Google Sheets/CSV data through an AI Agent using PostgreSQL",
-    "id": 3079,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3079
   },
   "name": "SHEETS RAG",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "qClJP4aIscQySnQK",
   "meta": {
     "name": "Auto Invoice & Receipt OCR to Google Sheets – Drive, Gmail, & Telegram Triggers",
-    "id": 3618,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3618
   },
   "name": "(Tung) OCR invoice extract to spreadsheet copy",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Edit Images with Text Prompts using Bytedance Seededit 3.0 via Replicate API",
-    "id": 6794,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6794
   },
   "name": "bytedance/seededit-3.0 - Image Generator",
   "nodes": [

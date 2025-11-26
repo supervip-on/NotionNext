@@ -2,8 +2,7 @@
   "id": "5T0q54z7XbP4rDKb",
   "meta": {
     "name": "Launch AWS EC2 Instances from Google Sheets using Terraform",
-    "id": 7295,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7295
   },
   "name": "Launch AWS EC2 Instances from Google Sheets",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "PartnerStack/Impact → WooCommerce Product Creation with GPT-4 & AI Images",
-    "id": 10426,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10426
   },
   "nodes": [
     {

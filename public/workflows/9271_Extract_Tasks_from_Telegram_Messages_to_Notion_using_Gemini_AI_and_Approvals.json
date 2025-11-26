@@ -2,8 +2,7 @@
   "id": "fzx7RMobAxKnsbUd",
   "meta": {
     "name": "Extract Tasks from Telegram Messages to Notion using Gemini AI and Approvals",
-    "id": 9271,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9271
   },
   "name": "Telegram to Notion Task Automation",
   "tags": [

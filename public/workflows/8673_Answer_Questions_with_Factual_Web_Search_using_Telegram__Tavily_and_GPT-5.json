@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Answer Questions with Factual Web Search using Telegram, Tavily and GPT-5",
-    "id": 8673,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8673
   },
   "nodes": [
     {

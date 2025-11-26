@@ -2,8 +2,7 @@
   "id": "<your_workflow_id>",
   "meta": {
     "name": "Automate Invoice Data Extraction with OCR.Space, GPT & Google Sheets",
-    "id": 10269,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10269
   },
   "name": "Invoice OCR → Auto Append to Sheets (Internal)",
   "tags": [],

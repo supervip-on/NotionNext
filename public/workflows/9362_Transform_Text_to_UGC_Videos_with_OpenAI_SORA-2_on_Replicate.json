@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Text to UGC Videos with OpenAI SORA-2 on Replicate",
-    "id": 9362,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9362
   },
   "nodes": [
     {

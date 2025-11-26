@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Match Resumes to Jobs Automatically with Gemini AI and Decodo Scraping",
-    "id": 9980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9980
   },
   "nodes": [
     {

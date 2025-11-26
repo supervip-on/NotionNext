@@ -2,8 +2,7 @@
   "id": "KplaPbnfu8G4ZiCK",
   "meta": {
     "name": "Dependency Update Risk Analysis with GPT-4o, Slack, Jira & Google Sheets",
-    "id": 9835,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9835
   },
   "name": "Automated Dependency Update Tracking",
   "tags": [],

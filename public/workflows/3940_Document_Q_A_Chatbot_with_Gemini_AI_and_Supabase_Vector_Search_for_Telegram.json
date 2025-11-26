@@ -2,8 +2,7 @@
   "id": "LL0TBxEbXoK2zhqp",
   "meta": {
     "name": "Document Q&A Chatbot with Gemini AI and Supabase Vector Search for Telegram",
-    "id": 3940,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3940
   },
   "name": "AI Document Assistant via Telegram + Supabase",
   "tags": [

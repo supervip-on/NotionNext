@@ -2,8 +2,7 @@
   "id": "zZWPMtZ0TNebe1fI",
   "meta": {
     "name": "Automate Invoice Processing from Gmail with Azure GPT-4.1 and Human Verification",
-    "id": 6062,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6062
   },
   "name": "Automate Invoice Processing from Gmail with Azure GPT-4.1 and Human Verification",
   "tags": [],

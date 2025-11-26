@@ -2,8 +2,7 @@
   "id": "lPYVaz2xbN5zFDIL",
   "meta": {
     "name": "Automate GitHub Issue Assignments via Comment Commands",
-    "id": 5004,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5004
   },
   "name": "temp",
   "tags": [

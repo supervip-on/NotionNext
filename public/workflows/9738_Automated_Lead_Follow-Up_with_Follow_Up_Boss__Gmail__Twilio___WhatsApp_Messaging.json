@@ -2,8 +2,7 @@
   "id": "rkhgnsQGutrmwcFP",
   "meta": {
     "name": "Automated Lead Follow-Up with Follow Up Boss, Gmail, Twilio & WhatsApp Messaging",
-    "id": 9738,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9738
   },
   "name": "Automated Lead Follow-Up System – Validate, Email & Message New Leads from Follow Up Boss",
   "tags": [

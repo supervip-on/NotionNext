@@ -2,8 +2,7 @@
   "id": "Pq2ofdKSIXGjpA4G",
   "meta": {
     "name": "Send School Fee Reminders with Payment Links via Email & WhatsApp",
-    "id": 7039,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7039
   },
   "name": "Automated School Fee Reminder Workflow with Payment Link",
   "tags": [],

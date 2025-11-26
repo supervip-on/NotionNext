@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Client Onboarding with GPT-4o-mini, Asana, Slack, Google Drive and Gmail",
-    "id": 7656,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7656
   },
   "nodes": [
     {

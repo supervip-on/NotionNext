@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Reddit threads into short vertical videos with AI",
-    "id": 3407,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3407
   },
   "nodes": [
     {

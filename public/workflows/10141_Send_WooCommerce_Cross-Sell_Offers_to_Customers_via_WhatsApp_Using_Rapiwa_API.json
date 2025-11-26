@@ -2,8 +2,7 @@
   "id": "4E5TwaHxpZXOkqr9",
   "meta": {
     "name": "Send WooCommerce Cross-Sell Offers to Customers via WhatsApp Using Rapiwa API",
-    "id": 10141,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10141
   },
   "name": "Send WooCommerce Cross-Sell Offers to Customers via WhatsApp Using Rapiwa API",
   "tags": [],

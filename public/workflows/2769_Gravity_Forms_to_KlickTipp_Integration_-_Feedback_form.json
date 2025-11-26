@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gravity Forms to KlickTipp Integration - Feedback form",
-    "id": 2769,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2769
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert SQL table into Excel spreadsheet",
-    "id": 1872,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1872
   },
   "nodes": [
     {

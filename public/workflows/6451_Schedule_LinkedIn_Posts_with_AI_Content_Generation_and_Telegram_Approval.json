@@ -2,8 +2,7 @@
   "id": "7WwPC5OOORokn8IZ",
   "meta": {
     "name": "Schedule LinkedIn Posts with AI Content Generation and Telegram Approval",
-    "id": 6451,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6451
   },
   "name": "LinkedIn Automation",
   "tags": [],

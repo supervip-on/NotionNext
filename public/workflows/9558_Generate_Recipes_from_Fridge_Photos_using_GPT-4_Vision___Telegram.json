@@ -2,8 +2,7 @@
   "id": "t0pM31b82LN8h8EX",
   "meta": {
     "name": "Generate Recipes from Fridge Photos using GPT-4 Vision & Telegram",
-    "id": 9558,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9558
   },
   "name": "AI Recipe Generator for Telegram (from Image or Text)",
   "tags": [],

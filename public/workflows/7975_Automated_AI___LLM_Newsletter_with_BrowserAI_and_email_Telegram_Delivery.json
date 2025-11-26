@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated AI & LLM Newsletter with BrowserAI and email/Telegram Delivery",
-    "id": 7975,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7975
   },
   "nodes": [
     {

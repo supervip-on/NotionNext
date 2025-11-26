@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Webpages with Landing Page Analyzer AI & Generate Google Docs Reports",
-    "id": 7591,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7591
   },
   "nodes": [
     {

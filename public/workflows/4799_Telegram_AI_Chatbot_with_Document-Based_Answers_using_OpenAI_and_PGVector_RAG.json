@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram AI Chatbot with Document-Based Answers using OpenAI and PGVector RAG",
-    "id": 4799,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4799
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "FXH3iheVDhMKnGyN",
   "meta": {
     "name": "Daily LinkedIn Job Alerts with Apify Scraper, Google Sheets & Gmail",
-    "id": 9240,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9240
   },
   "name": "Scrape LinkedIn Jobs with Apify, save to Google Sheets & email via Gmail",
   "tags": [],

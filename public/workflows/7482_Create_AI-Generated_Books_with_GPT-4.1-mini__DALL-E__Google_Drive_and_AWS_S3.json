@@ -2,8 +2,7 @@
   "id": "Dzkcrsp1EXXItaYc",
   "meta": {
     "name": "Create AI-Generated Books with GPT-4.1-mini, DALL-E, Google Drive and AWS S3",
-    "id": 7482,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7482
   },
   "name": "Multi-Agent Book Creation Workflow with AI Tool Node and GPT-4, DALL-E",
   "tags": [],

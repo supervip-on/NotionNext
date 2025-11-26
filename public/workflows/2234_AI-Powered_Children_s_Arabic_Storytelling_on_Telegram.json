@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Children's Arabic Storytelling on Telegram",
-    "id": 2234,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2234
   },
   "nodes": [
     {

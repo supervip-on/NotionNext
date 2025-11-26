@@ -2,8 +2,7 @@
   "id": "CJsOhlym2ufRTPav",
   "meta": {
     "name": "AI Video Generator  with Google Veo3 API (Veo 3 Fast)",
-    "id": 6047,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6047
   },
   "name": "Generate AI Videos from Text Prompts with KIE.AI Veo3 3",
   "tags": [],

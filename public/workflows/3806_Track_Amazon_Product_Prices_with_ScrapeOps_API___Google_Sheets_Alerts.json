@@ -2,8 +2,7 @@
   "id": "TqnC0nyAa0LRfYBX",
   "meta": {
     "name": "Track Amazon Product Prices with ScrapeOps API & Google Sheets Alerts",
-    "id": 3806,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3806
   },
   "name": "Amazon Product Price Tracker",
   "tags": [],

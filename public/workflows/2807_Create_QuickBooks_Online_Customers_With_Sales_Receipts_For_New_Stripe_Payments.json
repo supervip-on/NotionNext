@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create QuickBooks Online Customers With Sales Receipts For New Stripe Payments",
-    "id": 2807,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2807
   },
   "nodes": [
     {

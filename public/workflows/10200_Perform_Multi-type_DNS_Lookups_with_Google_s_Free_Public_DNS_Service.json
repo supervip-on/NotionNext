@@ -2,8 +2,7 @@
   "id": "BXm0BiyrBflaibCy",
   "meta": {
     "name": "Perform Multi-type DNS Lookups with Google's Free Public DNS Service",
-    "id": 10200,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10200
   },
   "name": "Free DNS lookup (dns.google)",
   "tags": [],

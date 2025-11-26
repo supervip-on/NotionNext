@@ -2,8 +2,7 @@
   "id": "23GPrqZjHnIVvTEa",
   "meta": {
     "name": "Backup n8n Workflows to Bitbucket",
-    "id": 2787,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2787
   },
   "name": "Backup n8n Workflows to Bitbucket",
   "tags": [],

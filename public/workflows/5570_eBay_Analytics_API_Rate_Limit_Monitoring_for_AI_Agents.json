@@ -2,8 +2,7 @@
   "id": "79AusN5QpppMG30z",
   "meta": {
     "name": "eBay Analytics API Rate Limit Monitoring for AI Agents",
-    "id": 5570,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5570
   },
   "name": "[eBay] Analytics API MCP Server",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "agTxDgU4w3WTcu1u",
   "meta": {
     "name": "Extract Business Card Data & Generate Follow-ups with Google Vision OCR & GPT-4 Mini",
-    "id": 9643,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9643
   },
   "name": "Business Cards to Qualified Connections — AI-Powered Follow-up Automation",
   "tags": [],

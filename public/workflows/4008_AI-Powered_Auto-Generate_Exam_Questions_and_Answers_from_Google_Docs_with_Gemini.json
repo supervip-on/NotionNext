@@ -2,8 +2,7 @@
   "id": "7Qa2mH7PnDxy7Qat",
   "meta": {
     "name": "AI-Powered Auto-Generate Exam Questions and Answers from Google Docs with Gemini",
-    "id": 4008,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4008
   },
   "name": "Generate Exam Questions",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "wrf8Kd0XRbKFEHwR",
   "meta": {
     "name": "Automate Meeting Minutes Distribution with Google Sheets and Gmail",
-    "id": 7429,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7429
   },
   "name": "Meeting Minutes Automation (Google Sheets + Gmail)",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "roRLSnnaVGd5K7na",
   "meta": {
     "name": "Get notified when Meta Ads balance is low",
-    "id": 2936,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2936
   },
   "name": "Template | Get notified when Meta Ads balance is low",
   "tags": [

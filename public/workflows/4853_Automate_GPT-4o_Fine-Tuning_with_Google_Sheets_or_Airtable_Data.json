@@ -2,8 +2,7 @@
   "id": "n5I2z5PXIENtW9ri",
   "meta": {
     "name": "Automate GPT-4o Fine-Tuning with Google Sheets or Airtable Data",
-    "id": 4853,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4853
   },
   "name": "Fine Tune GPT",
   "tags": [],

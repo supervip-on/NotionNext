@@ -2,8 +2,7 @@
   "id": "BuGoXATjseKjMTPb",
   "meta": {
     "name": "Generate Content Ideas with Gemini Pro and Store in Google Sheets",
-    "id": 4432,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4432
   },
   "name": "Generate Content Ideas with Gemini and Store in Google Sheets",
   "tags": [

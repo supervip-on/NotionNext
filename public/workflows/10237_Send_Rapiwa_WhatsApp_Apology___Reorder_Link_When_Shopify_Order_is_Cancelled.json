@@ -2,8 +2,7 @@
   "id": "suCMqeeONiHq3vRv",
   "meta": {
     "name": "Send Rapiwa WhatsApp Apology & Reorder Link When Shopify Order is Cancelled",
-    "id": 10237,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10237
   },
   "name": "Send WhatsApp Apology & Reorder Link When Shopify Order is Cancelled",
   "tags": [],

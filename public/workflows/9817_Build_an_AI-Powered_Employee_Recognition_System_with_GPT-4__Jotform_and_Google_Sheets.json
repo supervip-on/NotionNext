@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an AI-Powered Employee Recognition System with GPT-4, Jotform and Google Sheets",
-    "id": 9817,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9817
   },
   "nodes": [
     {

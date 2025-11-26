@@ -2,8 +2,7 @@
   "id": "nkMjcOC4hpte1a0t",
   "meta": {
     "name": "Extract spending history from gmail to google sheet",
-    "id": 2414,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2414
   },
   "name": "Extract spend details (template)",
   "tags": [

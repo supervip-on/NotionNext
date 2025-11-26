@@ -2,8 +2,7 @@
   "id": "CYv2u2izrgZWk5bK",
   "meta": {
     "name": "Upload files via n8n form and save them to Digital Ocean Spaces",
-    "id": 2660,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2660
   },
   "name": "DigialOceanUpload",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Local Lead Finder & Cold Email Sender with Apify, AI, and Gmail",
-    "id": 8986,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8986
   },
   "nodes": [
     {

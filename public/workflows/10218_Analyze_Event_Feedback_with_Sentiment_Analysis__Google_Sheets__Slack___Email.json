@@ -2,8 +2,7 @@
   "id": "EmfkoUHC2bSeoWb4",
   "meta": {
     "name": "Analyze Event Feedback with Sentiment Analysis, Google Sheets, Slack & Email",
-    "id": 10218,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10218
   },
   "name": "Real-Time Attendee Engagement & Feedback Analyzer",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "axkfwBmE6EQM4YrM",
   "meta": {
     "name": "EPA Clean Water Act Data Access & Compliance Monitoring API Integration",
-    "id": 5623,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5623
   },
   "name": "Advanced U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Water Act (CWA) Rest Services MCP Server",
   "tags": [],

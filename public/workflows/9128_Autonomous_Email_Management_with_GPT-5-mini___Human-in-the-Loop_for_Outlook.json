@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Autonomous Email Management with GPT-5-mini & Human-in-the-Loop for Outlook",
-    "id": 9128,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9128
   },
   "nodes": [
     {

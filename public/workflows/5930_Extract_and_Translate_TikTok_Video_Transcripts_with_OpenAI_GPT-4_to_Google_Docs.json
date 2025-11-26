@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract and Translate TikTok Video Transcripts with OpenAI GPT-4 to Google Docs",
-    "id": 5930,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5930
   },
   "nodes": [
     {

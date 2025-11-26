@@ -2,8 +2,7 @@
   "id": "FRSKpIbukzy1vMnJ",
   "meta": {
     "name": "AI Sales Agent with Telegram Approvals & Google Sheets Sync",
-    "id": 5074,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5074
   },
   "name": "Telegram Sales Agent For Business",
   "tags": [],

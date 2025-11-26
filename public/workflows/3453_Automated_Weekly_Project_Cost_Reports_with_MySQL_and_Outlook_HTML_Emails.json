@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Weekly Project Cost Reports with MySQL and Outlook HTML Emails",
-    "id": 3453,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3453
   },
   "nodes": [
     {

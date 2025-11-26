@@ -84,8 +84,7 @@
   },
   "meta": {
     "name": "Add a new user to Notion database on Calendly invite creation",
-    "id": 1088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1088
   },
   "id": "1088"
 }

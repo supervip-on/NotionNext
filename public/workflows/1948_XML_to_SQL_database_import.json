@@ -2,8 +2,7 @@
   "id": "5x5q3sta3Qh0MdIX",
   "meta": {
     "name": "XML to SQL database import",
-    "id": 1948,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1948
   },
   "name": "XML usecase: import XML data",
   "tags": [],

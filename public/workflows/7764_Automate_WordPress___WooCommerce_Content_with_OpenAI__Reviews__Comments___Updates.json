@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate WordPress & WooCommerce Content with OpenAI: Reviews, Comments & Updates",
-    "id": 7764,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7764
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "BH7SecrHv8u3DSYK",
   "meta": {
     "name": "Upload Google Drive Files to an InfraNodus Graph",
-    "id": 4486,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4486
   },
   "name": "Upload Google Drive files to an InfraNodus Graph",
   "tags": [],

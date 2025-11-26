@@ -2,8 +2,7 @@
   "id": "Xof38WtIJ3CpwM2D",
   "meta": {
     "name": "Build a Self-Updating RAG System with OpenAI, Google Gemini, Qdrant and Google Drive",
-    "id": 7647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7647
   },
   "name": "Complete RAG System with autoUpdate documents Using Qdrant",
   "tags": [],

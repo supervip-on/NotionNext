@@ -541,8 +541,7 @@
   },
   "meta": {
     "name": "Create Fact-Based Articles from Knowledge Sources with Lookio and OpenAI GPT",
-    "id": 8782,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8782
   },
   "id": "8782"
 }

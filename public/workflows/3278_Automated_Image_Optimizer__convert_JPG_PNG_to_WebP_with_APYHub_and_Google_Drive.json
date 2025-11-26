@@ -2,8 +2,7 @@
   "id": "IyDJ7Zgh4MV43YTh",
   "meta": {
     "name": "Automated Image Optimizer: convert JPG/PNG to WebP with APYHub and Google Drive",
-    "id": 3278,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3278
   },
   "name": "Convert image from jpg/png to webp",
   "tags": [],

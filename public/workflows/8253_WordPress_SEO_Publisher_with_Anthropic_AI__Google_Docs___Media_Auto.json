@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WordPress SEO Publisher with Anthropic AI, Google Docs & Media Auto",
-    "id": 8253,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8253
   },
   "nodes": [
     {

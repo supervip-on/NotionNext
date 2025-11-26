@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Slack AI Chatbot with Threads & Thinking UI using OpenRouter & Postgres",
-    "id": 5749,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5749
   },
   "nodes": [
     {

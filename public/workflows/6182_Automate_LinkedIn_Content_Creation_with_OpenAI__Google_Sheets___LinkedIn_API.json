@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate LinkedIn Content Creation with OpenAI, Google Sheets & LinkedIn API",
-    "id": 6182,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6182
   },
   "nodes": [
     {

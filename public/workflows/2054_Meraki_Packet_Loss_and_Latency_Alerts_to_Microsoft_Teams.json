@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Meraki Packet Loss and Latency Alerts to Microsoft Teams",
-    "id": 2054,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2054
   },
   "nodes": [
     {

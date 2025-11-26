@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Subdomain Enumeration with Subfinder, HTTPX & GPT-4-Mini for Security Reconnaissance",
-    "id": 9735,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9735
   },
   "nodes": [
     {

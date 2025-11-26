@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Typeform to KlickTipp Integration - Quiz",
-    "id": 2774,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2774
   },
   "nodes": [
     {

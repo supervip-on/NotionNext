@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Website Visitors from RB2B to Attio CRM via Slack with Deal Creation",
-    "id": 6973,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6973
   },
   "nodes": [
     {

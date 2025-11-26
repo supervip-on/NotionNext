@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Your RFP Process with OpenAI Assistants",
-    "id": 2321,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2321
   },
   "nodes": [
     {

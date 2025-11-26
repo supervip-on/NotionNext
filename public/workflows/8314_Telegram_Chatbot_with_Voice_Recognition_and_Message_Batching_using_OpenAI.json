@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram Chatbot with Voice Recognition and Message Batching using OpenAI",
-    "id": 8314,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8314
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Y0jw3nbvhkigsAeh",
   "meta": {
     "name": "Automate Video Story Publishing to Facebook Page using Google Drive and Sheets",
-    "id": 10067,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10067
   },
   "name": "Post a video story on your Facebook Page",
   "tags": [

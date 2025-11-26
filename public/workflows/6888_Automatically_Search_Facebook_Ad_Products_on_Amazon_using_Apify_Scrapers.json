@@ -2,8 +2,7 @@
   "id": "CNlX00MuSiOtJXQG",
   "meta": {
     "name": "Automatically Search Facebook Ad Products on Amazon using Apify Scrapers",
-    "id": 6888,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6888
   },
   "name": "Template v08/02 - Facebook Ad Library to Amazon Scraper",
   "tags": [

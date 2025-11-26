@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Gmail Email Organization with Auto-Archiving and Priority Labels",
-    "id": 3686,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3686
   },
   "nodes": [
     {

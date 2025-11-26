@@ -2,8 +2,7 @@
   "id": "IjQRdNu2ItwNnGL2",
   "meta": {
     "name": "Send a message via a Lark Bot ",
-    "id": 2478,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2478
   },
   "name": "[hiroshidigital.com] Send Message In Larksuite",
   "tags": [

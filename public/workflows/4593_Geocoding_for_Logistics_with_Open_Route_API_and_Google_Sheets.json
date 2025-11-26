@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🚛🗺️ Geocoding for Logistics with Open Route API and Google Sheets",
-    "id": 4593,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4593
   },
   "nodes": [
     {

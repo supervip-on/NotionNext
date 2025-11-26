@@ -2,8 +2,7 @@
   "id": "Yc9bgOEvpyO1En1Z",
   "meta": {
     "name": "Automatic Gmail Message Categorization with GPT-4 Content Analysis & Labels",
-    "id": 4680,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4680
   },
   "name": "Intelligent Gmail Labeling: Categorize Emails by Content Intent Using OpenAI",
   "tags": [],

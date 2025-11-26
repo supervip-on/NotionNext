@@ -44,8 +44,7 @@
   },
   "meta": {
     "name": "Send an email template using Mandrill",
-    "id": 571,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 571
   },
   "id": "571"
 }

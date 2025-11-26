@@ -135,8 +135,7 @@
   },
   "meta": {
     "name": "Release a new version via Telegram bot command",
-    "id": 1134,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1134
   },
   "id": "1134"
 }

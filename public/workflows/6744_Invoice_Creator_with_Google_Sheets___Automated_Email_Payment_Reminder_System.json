@@ -2,8 +2,7 @@
   "id": "yaudVbewTA3Zxsb4",
   "meta": {
     "name": "Invoice Creator with Google Sheets & Automated Email Payment Reminder System",
-    "id": 6744,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6744
   },
   "name": "Automated Invoice Creator & Payment Reminder Bot for Clients",
   "tags": [],

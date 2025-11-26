@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Financial Documents Assistant using Qdrant and Mistral.ai",
-    "id": 2335,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2335
   },
   "nodes": [
     {

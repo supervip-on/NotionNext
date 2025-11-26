@@ -2,8 +2,7 @@
   "id": "zBLlqGzoj4ODSM0v",
   "meta": {
     "name": "Zendesk Pending Ticket Follow-up System with Gmail, Google Sheets & ClickUp",
-    "id": 8743,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8743
   },
   "name": "Automate follow-ups for pending tickets in Zendesk",
   "tags": [],

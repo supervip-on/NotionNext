@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized Startup Ideas with Claude Analysis and Gmail Reports",
-    "id": 7480,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7480
   },
   "nodes": [
     {

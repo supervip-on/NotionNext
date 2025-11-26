@@ -2,8 +2,7 @@
   "id": "014f2F9hjeY0Ixps",
   "meta": {
     "name": "Dynamic Media Library with On-demand Downloads for Radarr/Sonarr and Plex",
-    "id": 6980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6980
   },
   "name": "n8n Placeholdarr for Plex",
   "tags": [],

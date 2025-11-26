@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Images with OpenAI Vision while Preserving Binary Data for Reuse",
-    "id": 8867,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8867
   },
   "nodes": [
     {

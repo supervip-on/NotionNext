@@ -2,8 +2,7 @@
   "id": "Qs7SzwsfqN05P3H2",
   "meta": {
     "name": "Reddit Crypto Market Intelligence with CoinGecko Alerts to Discord",
-    "id": 10394,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10394
   },
   "name": "Reddit Crypto Intelligence & Market Spike Detector",
   "tags": [],

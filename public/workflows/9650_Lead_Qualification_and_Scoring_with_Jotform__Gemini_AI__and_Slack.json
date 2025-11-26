@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lead Qualification and Scoring with Jotform, Gemini AI, and Slack",
-    "id": 9650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9650
   },
   "nodes": [
     {

@@ -103,7 +103,6 @@
   },
   "meta": {
     "name": "Receive messages from a queue via RabbitMQ and send an SMS",
-    "id": 845,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 845
   }
 }

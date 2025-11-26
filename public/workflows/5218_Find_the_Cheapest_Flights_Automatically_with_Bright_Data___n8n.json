@@ -2,8 +2,7 @@
   "id": "YhwckWo4y8FNZ4v4",
   "meta": {
     "name": "Find the Cheapest Flights Automatically with Bright Data & n8n",
-    "id": 5218,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5218
   },
   "name": "Cheapest_Flight_Finder_via_Bright_Data",
   "tags": [],

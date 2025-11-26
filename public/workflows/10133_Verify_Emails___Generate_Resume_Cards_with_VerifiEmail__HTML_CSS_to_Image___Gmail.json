@@ -2,8 +2,7 @@
   "id": "10133",
   "meta": {
     "name": "Verify Emails & Generate Resume Cards with VerifiEmail, HTML CSS to Image & Gmail",
-    "id": 10133,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10133
   },
   "name": "Resume verification workflow automation",
   "tags": [

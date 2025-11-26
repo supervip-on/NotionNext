@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert n8n tags into folders and move workflows",
-    "id": 3445,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3445
   },
   "nodes": [
     {

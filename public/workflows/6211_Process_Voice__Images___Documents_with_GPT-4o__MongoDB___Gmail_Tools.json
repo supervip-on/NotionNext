@@ -2,8 +2,7 @@
   "id": "u1UDiWECb1RUnZNN",
   "meta": {
     "name": "Process Voice, Images & Documents with GPT-4o, MongoDB & Gmail Tools",
-    "id": 6211,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6211
   },
   "name": "Multi-Modal AI Agent Assistant (GPT-4o & MongoDB) with Gmail Tool Use",
   "tags": [

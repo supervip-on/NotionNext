@@ -2,8 +2,7 @@
   "id": "nV1xFcF5HWJcD6w7",
   "meta": {
     "name": "Send Daily Meetings in Google Calendar to Telegram",
-    "id": 2158,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2158
   },
   "name": "Automatically Send Daily Meeting List to Telegram",
   "tags": [

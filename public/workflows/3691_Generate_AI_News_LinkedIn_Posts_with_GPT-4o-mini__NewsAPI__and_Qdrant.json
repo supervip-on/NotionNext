@@ -2,8 +2,7 @@
   "id": "O3BJdDDZbAtT74VZ",
   "meta": {
     "name": "Generate AI News LinkedIn Posts with GPT-4o-mini, NewsAPI, and Qdrant",
-    "id": 3691,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3691
   },
   "name": "newsapi without credentials",
   "tags": [],

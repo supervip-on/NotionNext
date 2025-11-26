@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Stock Fundamental Analysis & AI-Powered Reports with Mistral and AlphaVantage",
-    "id": 5710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5710
   },
   "nodes": [
     {

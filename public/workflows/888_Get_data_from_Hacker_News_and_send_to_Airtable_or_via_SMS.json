@@ -218,7 +218,6 @@
   },
   "meta": {
     "name": "Get data from Hacker News and send to Airtable or via SMS",
-    "id": 888,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 888
   }
 }

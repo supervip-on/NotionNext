@@ -61,8 +61,7 @@
   },
   "meta": {
     "name": "Read in an Excel spreadsheet file",
-    "id": 890,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 890
   },
   "id": "890"
 }

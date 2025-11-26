@@ -25,8 +25,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for events in Box",
-    "id": 560,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 560
   },
   "id": "560"
 }

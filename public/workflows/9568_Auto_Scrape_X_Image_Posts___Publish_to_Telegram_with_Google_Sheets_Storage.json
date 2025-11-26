@@ -2,8 +2,7 @@
   "id": "ptwolWvQwd2VnU5e",
   "meta": {
     "name": "Auto Scrape X Image Posts & Publish to Telegram with Google Sheets Storage",
-    "id": 9568,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9568
   },
   "name": "Auto Scrape X Posts & Publish to Telegram copy 2",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "K51hnk5IudD64T80",
   "meta": {
     "name": "Auto-Sync Easy Redmine Tasks to Microsoft To-Do",
-    "id": 8628,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8628
   },
   "name": "Auto-Sync Easy Redmine Tasks to Microsoft To-Do",
   "tags": [],

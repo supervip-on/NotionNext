@@ -108,7 +108,6 @@
   },
   "meta": {
     "name": "Add contacts to SendGrid automatically",
-    "id": 901,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 901
   }
 }

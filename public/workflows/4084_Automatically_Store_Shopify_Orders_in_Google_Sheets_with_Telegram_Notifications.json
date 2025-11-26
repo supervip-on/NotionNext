@@ -2,8 +2,7 @@
   "id": "VcGLTfb4lc3iScZ0",
   "meta": {
     "name": "Automatically Store Shopify Orders in Google Sheets with Telegram Notifications",
-    "id": 4084,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4084
   },
   "name": "Automatically Store Shopify Orders in Google Sheets with Telegram Notifications",
   "tags": [],

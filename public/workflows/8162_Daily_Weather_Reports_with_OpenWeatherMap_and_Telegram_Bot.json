@@ -2,8 +2,7 @@
   "id": "zVk8lAovJaOKMXFR",
   "meta": {
     "name": "Daily Weather Reports with OpenWeatherMap and Telegram Bot",
-    "id": 8162,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8162
   },
   "name": "Daily Weather Reports with OpenWeatherMap and Telegram Bot",
   "tags": [],

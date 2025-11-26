@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎓 Learn API Fundamentals with an Interactive Hands-On Tutorial Workflow",
-    "id": 5171,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5171
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "FnlDCNDV3x4pYVyC",
   "meta": {
     "name": "Index Legal Documents for Hybrid Search with Qdrant, OpenAI & BM25",
-    "id": 7945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7945
   },
   "name": "Hybrid Search with Qdrant & n8n, Legal AI: Indexing",
   "tags": [],

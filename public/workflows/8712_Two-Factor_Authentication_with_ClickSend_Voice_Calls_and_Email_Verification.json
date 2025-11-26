@@ -2,8 +2,7 @@
   "id": "1g8EAij2RwhNN70t",
   "meta": {
     "name": "Two-Factor Authentication with ClickSend Voice Calls and Email Verification",
-    "id": 8712,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8712
   },
   "name": "xSend and check TTS (Text-to-speech) voice calls end email verification",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "f0my04pVcHmlkRaA",
   "meta": {
     "name": "Smart Helpdesk Ticket Alerts from Easy Redmine to Teams with GPT-4 Summaries",
-    "id": 7292,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7292
   },
   "name": "Automated Helpdesk Ticket Alerts to Microsoft Teams from Easy Redmine",
   "tags": [],

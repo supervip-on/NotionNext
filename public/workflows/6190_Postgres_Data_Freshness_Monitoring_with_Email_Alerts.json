@@ -2,8 +2,7 @@
   "id": "G9psPUm3yJXIKj9m",
   "meta": {
     "name": "Postgres Data Freshness Monitoring with Email Alerts",
-    "id": 6190,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6190
   },
   "name": "🌱 Check Data Freshness",
   "tags": [],

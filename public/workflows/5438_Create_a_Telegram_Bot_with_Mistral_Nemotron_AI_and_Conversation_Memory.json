@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Telegram Bot with Mistral Nemotron AI and Conversation Memory",
-    "id": 5438,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5438
   },
   "nodes": [
     {

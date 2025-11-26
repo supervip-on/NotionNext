@@ -206,7 +206,6 @@
   },
   "meta": {
     "name": "Manage room members in Matrix",
-    "id": 724,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 724
   }
 }

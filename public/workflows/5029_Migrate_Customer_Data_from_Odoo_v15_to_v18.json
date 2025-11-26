@@ -2,8 +2,7 @@
   "id": "B9xpugMtt73oaBjH",
   "meta": {
     "name": "Migrate Customer Data from Odoo v15 to v18",
-    "id": 5029,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5029
   },
   "name": "Odoo customer migration v15 to v18",
   "tags": [],

@@ -187,8 +187,7 @@
   },
   "meta": {
     "name": "Move metrics from Google Sheets to Orbit",
-    "id": 829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 829
   },
   "id": "829"
 }

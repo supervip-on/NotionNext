@@ -2,8 +2,7 @@
   "id": "k31vUpT7zr7jkuju",
   "meta": {
     "name": "Auto-Generate WordPress Blog Posts from Reddit RSS with Groq AI & Pexels Images",
-    "id": 6522,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6522
   },
   "name": "WordpressAutoPostFromRSS",
   "tags": [],

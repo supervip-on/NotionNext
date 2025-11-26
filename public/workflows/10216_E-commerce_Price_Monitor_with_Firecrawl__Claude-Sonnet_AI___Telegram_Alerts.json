@@ -2,8 +2,7 @@
   "id": "YnD0kvM9AYMjYxmj",
   "meta": {
     "name": "E-commerce Price Monitor with Firecrawl, Claude-Sonnet AI & Telegram Alerts",
-    "id": 10216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10216
   },
   "name": "Multi-Site Product Price Monitor: Claude-Sonnet , Google Sheets & Telegram Alert",
   "tags": [

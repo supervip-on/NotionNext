@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered WhatsApp Chatbot for Text, Voice, Images, and PDF with RAG",
-    "id": 4827,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4827
   },
   "nodes": [
     {

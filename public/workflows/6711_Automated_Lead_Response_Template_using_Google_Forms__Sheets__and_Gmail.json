@@ -2,8 +2,7 @@
   "id": "8bZ5jrRkcKltJSx8",
   "meta": {
     "name": "Automated Lead Response Template using Google Forms, Sheets, and Gmail",
-    "id": 6711,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6711
   },
   "name": "Lead Tracking Form",
   "tags": [],

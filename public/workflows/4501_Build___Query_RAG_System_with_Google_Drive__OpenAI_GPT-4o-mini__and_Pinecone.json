@@ -2,8 +2,7 @@
   "id": "xOFhKr29kjrBDnlw",
   "meta": {
     "name": "Build & Query RAG System with Google Drive, OpenAI GPT-4o-mini, and Pinecone",
-    "id": 4501,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4501
   },
   "name": "Instant RaG Builder",
   "tags": [],

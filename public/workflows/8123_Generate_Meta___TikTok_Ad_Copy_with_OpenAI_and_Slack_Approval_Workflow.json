@@ -2,8 +2,7 @@
   "id": "34PvJdDlpImfxGsS",
   "meta": {
     "name": "Generate Meta & TikTok Ad Copy with OpenAI and Slack Approval Workflow",
-    "id": 8123,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8123
   },
   "name": "AI Ad Copy Generator with Approval Workflow",
   "tags": [],

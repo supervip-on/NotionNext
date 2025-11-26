@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate SEO Tasks with Google Search Console & AI via MCP Server",
-    "id": 6824,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6824
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "9EhOzsA7Ll6zYkZg",
   "meta": {
     "name": "Automate Property Link Shortening & QR Code Generation with Google Sheets and Bitly",
-    "id": 6407,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6407
   },
   "name": "Property Link Shortener & QR Code Generator",
   "tags": [],

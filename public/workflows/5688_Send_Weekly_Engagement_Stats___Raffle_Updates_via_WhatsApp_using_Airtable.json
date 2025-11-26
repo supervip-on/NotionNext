@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Weekly Engagement Stats & Raffle Updates via WhatsApp using Airtable",
-    "id": 5688,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5688
   },
   "nodes": [
     {

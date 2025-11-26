@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Pushover Notifications From AI Agent",
-    "id": 5090,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5090
   },
   "nodes": [
     {

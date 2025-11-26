@@ -2,8 +2,7 @@
   "id": "AkcTR8C45GvFGjg3",
   "meta": {
     "name": "Tesla Quant Technical Indicators Webhooks Tool",
-    "id": 4095,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4095
   },
   "name": "Tesla Quant Technical Indicators Webhooks Tool n8n",
   "tags": [],

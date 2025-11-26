@@ -2,8 +2,7 @@
   "id": "qe52pIYq3o37sFft",
   "meta": {
     "name": "Categorize and Track Company Emails with OpenRouter AI and Google Sheets",
-    "id": 7474,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7474
   },
   "name": "Email Summariser",
   "tags": [],

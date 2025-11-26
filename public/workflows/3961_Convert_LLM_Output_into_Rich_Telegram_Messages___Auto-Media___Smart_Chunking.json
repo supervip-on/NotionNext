@@ -2,8 +2,7 @@
   "id": "6bKCRgltEQMKck0S",
   "meta": {
     "name": "Convert LLM Output into Rich Telegram Messages — Auto-Media & Smart Chunking",
-    "id": 3961,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3961
   },
   "name": "TelegramRichOutput",
   "tags": [],

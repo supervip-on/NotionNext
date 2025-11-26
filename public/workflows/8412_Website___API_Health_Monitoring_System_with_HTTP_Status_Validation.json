@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Website & API Health Monitoring System with HTTP Status Validation",
-    "id": 8412,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8412
   },
   "nodes": [
     {

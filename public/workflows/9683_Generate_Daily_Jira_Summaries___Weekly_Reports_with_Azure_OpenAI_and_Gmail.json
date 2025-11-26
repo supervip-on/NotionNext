@@ -2,8 +2,7 @@
   "id": "T20oXbS75AjzqlND",
   "meta": {
     "name": "Generate Daily Jira Summaries & Weekly Reports with Azure OpenAI and Gmail",
-    "id": 9683,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9683
   },
   "name": "Generate EOD Jira Summaries & Weekly Report with Azure OpenAI (GPT-4o-mini) and Gmail",
   "tags": [],

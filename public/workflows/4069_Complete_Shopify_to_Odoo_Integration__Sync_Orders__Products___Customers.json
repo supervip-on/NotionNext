@@ -2,8 +2,7 @@
   "id": "58SwDGkKWvymNKBw",
   "meta": {
     "name": "Complete Shopify to Odoo Integration: Sync Orders, Products & Customers",
-    "id": 4069,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4069
   },
   "name": "Shopify To Odoo With Contact,Product & Order",
   "tags": [],

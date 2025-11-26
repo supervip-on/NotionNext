@@ -2,8 +2,7 @@
   "id": "yzYmkHXckHPtae5x",
   "meta": {
     "name": "Digitize Business Cards with Thai OCR & Save to Google Sheets or CRM",
-    "id": 7978,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7978
   },
   "name": "Template_OCR Business Card Reader with Thai Support – Enrich & Save Contacts to CRM Spreadsheet",
   "tags": [],

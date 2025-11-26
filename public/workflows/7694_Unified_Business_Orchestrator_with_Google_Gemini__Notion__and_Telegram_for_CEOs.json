@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Unified Business Orchestrator with Google Gemini, Notion, and Telegram for CEOs",
-    "id": 7694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7694
   },
   "nodes": [
     {

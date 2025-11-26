@@ -2,8 +2,7 @@
   "id": "9uaKLgOrveMqlebn",
   "meta": {
     "name": "Zendesk Ticket Escalation to ClickUp with Telegram Alerts",
-    "id": 8817,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8817
   },
   "name": "Escalation Workflow",
   "tags": [],

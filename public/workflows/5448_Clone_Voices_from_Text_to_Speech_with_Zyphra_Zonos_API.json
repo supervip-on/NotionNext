@@ -2,8 +2,7 @@
   "id": "hqMRsze38RaTmgQh",
   "meta": {
     "name": "Clone Voices from Text to Speech with Zyphra Zonos API",
-    "id": 5448,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5448
   },
   "name": "Text to speech Voice clone using Zonos via API(local storage)",
   "tags": [],

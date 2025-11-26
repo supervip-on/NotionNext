@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Create Facebook Ads from Google Sheets",
-    "id": 3406,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3406
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail Smart Auto-Responder with GPT-4o and Google Drive Context Memory",
-    "id": 5370,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5370
   },
   "nodes": [
     {

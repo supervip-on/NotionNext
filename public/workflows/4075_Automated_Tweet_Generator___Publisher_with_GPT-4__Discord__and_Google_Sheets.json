@@ -2,8 +2,7 @@
   "id": "vmo7vbtthypEoBXC",
   "meta": {
     "name": "Automated Tweet Generator & Publisher with GPT-4, Discord, and Google Sheets",
-    "id": 4075,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4075
   },
   "name": "AI Automated X (Twitter) post publisher- Build your personal brand",
   "tags": [],

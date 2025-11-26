@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Book Cal.com Meetings from ElevenLabs Voice Agent Conversations",
-    "id": 5665,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5665
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered PDF Invoice Parser with Google Drive, Google Sheets & OpenAI",
-    "id": 4451,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4451
   },
   "nodes": [
     {

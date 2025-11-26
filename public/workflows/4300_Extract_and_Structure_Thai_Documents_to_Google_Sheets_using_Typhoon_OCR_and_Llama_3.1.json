@@ -2,8 +2,7 @@
   "id": "iPCOP0dstJZlKFQS",
   "meta": {
     "name": "Extract and Structure Thai Documents to Google Sheets using Typhoon OCR and Llama 3.1",
-    "id": 4300,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4300
   },
   "name": "Typhoon_Submit",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated UGC Video Generator with Gemini Images and SORA 2",
-    "id": 10053,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10053
   },
   "nodes": [
     {

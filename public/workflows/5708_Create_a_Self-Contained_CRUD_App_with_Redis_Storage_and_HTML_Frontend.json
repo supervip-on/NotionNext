@@ -2,8 +2,7 @@
   "id": "Tpn2kZa5UpfsPsiQ",
   "meta": {
     "name": "Create a Self-Contained CRUD App with Redis Storage and HTML Frontend",
-    "id": 5708,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5708
   },
   "name": "Build a Redis-Powered CRUD App with HTML Frontend",
   "tags": [],

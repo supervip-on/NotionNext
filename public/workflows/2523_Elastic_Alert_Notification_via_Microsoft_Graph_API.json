@@ -174,8 +174,7 @@
   },
   "meta": {
     "name": "Elastic Alert Notification via Microsoft Graph API",
-    "id": 2523,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2523
   },
   "id": "2523"
 }

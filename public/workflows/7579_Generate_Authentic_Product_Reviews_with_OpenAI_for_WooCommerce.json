@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Authentic Product Reviews with OpenAI for WooCommerce",
-    "id": 7579,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7579
   },
   "nodes": [
     {

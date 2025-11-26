@@ -2,8 +2,7 @@
   "id": "5yOJSx1X0M3Q2VFM",
   "meta": {
     "name": "Conversational WhatsApp Assistant with Gemini AI and Pinecone Memory",
-    "id": 6170,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6170
   },
   "name": "n8n__demo__WAMM_Assistent_Pinecode",
   "tags": [],

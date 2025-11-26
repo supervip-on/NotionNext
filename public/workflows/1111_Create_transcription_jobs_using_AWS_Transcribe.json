@@ -73,8 +73,7 @@
   },
   "meta": {
     "name": "Create transcription jobs using AWS Transcribe",
-    "id": 1111,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1111
   },
   "id": "1111"
 }

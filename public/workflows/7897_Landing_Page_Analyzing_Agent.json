@@ -2,8 +2,7 @@
   "id": "YYiCCvfGPMJ8gAnt",
   "meta": {
     "name": "Landing Page Analyzing Agent",
-    "id": 7897,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7897
   },
   "name": "Landing Page Analyzer",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "zbggnEhKUnzCjVEY",
   "meta": {
     "name": "Generate Tailored Interview Questions with GPT-4 Based on CV, JD, and Round",
-    "id": 6767,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6767
   },
   "name": "Smart Interview Assistant: Tailored Questions Based on CV, JD, and Round",
   "tags": [

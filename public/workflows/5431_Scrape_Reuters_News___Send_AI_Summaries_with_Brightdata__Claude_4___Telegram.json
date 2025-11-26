@@ -2,8 +2,7 @@
   "id": "demo_workflow_id",
   "meta": {
     "name": "Scrape Reuters News & Send AI Summaries with Brightdata, Claude 4 & Telegram",
-    "id": 5431,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5431
   },
   "name": "Comprehensive Reuters News Intelligence System With Brightdata & Telegram Alerts",
   "tags": [],

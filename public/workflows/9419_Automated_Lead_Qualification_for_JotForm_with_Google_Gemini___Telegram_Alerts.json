@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Lead Qualification for JotForm with Google Gemini & Telegram Alerts",
-    "id": 9419,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9419
   },
   "nodes": [
     {

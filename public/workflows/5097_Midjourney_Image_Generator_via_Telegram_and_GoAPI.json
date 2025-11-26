@@ -2,8 +2,7 @@
   "id": "5vMPZ14K9UsUERpr",
   "meta": {
     "name": "Midjourney Image Generator via Telegram and GoAPI",
-    "id": 5097,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5097
   },
   "name": "GOAPI - MJ Image Generator",
   "tags": [],

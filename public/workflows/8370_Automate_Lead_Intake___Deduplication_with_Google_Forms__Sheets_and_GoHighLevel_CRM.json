@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Intake & Deduplication with Google Forms, Sheets and GoHighLevel CRM",
-    "id": 8370,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8370
   },
   "nodes": [
     {

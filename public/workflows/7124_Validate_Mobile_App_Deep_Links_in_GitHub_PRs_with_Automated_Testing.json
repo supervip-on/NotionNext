@@ -2,8 +2,7 @@
   "id": "lasX9PkmCrv41JNs",
   "meta": {
     "name": "Validate Mobile App Deep Links in GitHub PRs with Automated Testing",
-    "id": 7124,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7124
   },
   "name": "GitHub PR Deep-Link & Routing Validator (n8n + ExecuteCommand + GitHub Comment)",
   "tags": [],

@@ -193,8 +193,7 @@
   },
   "meta": {
     "name": "Enrich Linkedin Profiles from Google Sheets via RapidAPI",
-    "id": 2808,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2808
   },
   "id": "2808"
 }

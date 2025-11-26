@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Shopify orders with Zendesk tickets",
-    "id": 1809,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1809
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "aiKrExd0rAxJO6xi",
   "meta": {
     "name": "Context-Aware Google Calendar Management with MCP Protocol",
-    "id": 4231,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4231
   },
   "name": "MCP_google_calendar",
   "tags": [],

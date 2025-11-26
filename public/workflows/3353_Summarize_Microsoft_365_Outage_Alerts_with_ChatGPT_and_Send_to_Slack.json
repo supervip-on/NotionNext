@@ -2,8 +2,7 @@
   "id": "30gz7QjTektkBI2I",
   "meta": {
     "name": "Summarize Microsoft 365 Outage Alerts with ChatGPT and Send to Slack",
-    "id": 3353,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3353
   },
   "name": "365 Service Alerts: Summarize and push alert to Slack",
   "tags": [],

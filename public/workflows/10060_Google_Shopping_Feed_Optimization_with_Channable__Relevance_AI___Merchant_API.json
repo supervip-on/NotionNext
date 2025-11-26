@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛍️ Google Shopping Feed Optimization with Channable, Relevance AI & Merchant API",
-    "id": 10060,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10060
   },
   "nodes": [
     {

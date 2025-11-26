@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich new leads in Pipedrive and send an alert to Slack for high-quality ones",
-    "id": 2135,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2135
   },
   "nodes": [
     {

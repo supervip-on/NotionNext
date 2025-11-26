@@ -2,8 +2,7 @@
   "id": "rZrahxUGdtPKSOoc",
   "meta": {
     "name": "WhatsApp Support Bot with Keyword Routing & GPT-4.1-mini Responses",
-    "id": 8178,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8178
   },
   "name": "Keyword Routing (Mini FAQ)",
   "tags": [],

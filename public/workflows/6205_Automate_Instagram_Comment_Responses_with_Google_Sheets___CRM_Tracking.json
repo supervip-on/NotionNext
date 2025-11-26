@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Instagram Comment Responses with Google Sheets & CRM Tracking",
-    "id": 6205,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6205
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scheduled YouTube Transcription with De-duplication using Transcript.io and Supabase",
-    "id": 9749,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9749
   },
   "nodes": [
     {

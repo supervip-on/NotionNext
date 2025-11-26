@@ -2,8 +2,7 @@
   "id": "bzmD4zsvg87yluOh",
   "meta": {
     "name": "Summarize & Reply to Slack Channel Messages with Claude AI Assistant",
-    "id": 5846,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5846
   },
   "name": "For Demo on n8n",
   "tags": [],

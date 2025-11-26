@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Organize Email Attachments into Google Drive Folders by Company with Gmail & Sheets",
-    "id": 3464,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3464
   },
   "nodes": [
     {

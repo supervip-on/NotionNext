@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create LinkedIn Posts with AI Agents using MCP Server",
-    "id": 5210,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5210
   },
   "nodes": [
     {

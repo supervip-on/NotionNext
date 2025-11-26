@@ -24,7 +24,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a sale is made in Gumroad",
-    "id": 650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 650
   }
 }

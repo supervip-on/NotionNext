@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export Jamf Policies to Slack as CSV for Instant Auditing",
-    "id": 6440,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6440
   },
   "nodes": [
     {

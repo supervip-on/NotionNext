@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "ServiceNow Incident Notifications to Slack Workflow",
-    "id": 2704,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2704
   },
   "nodes": [
     {

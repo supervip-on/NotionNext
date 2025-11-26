@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Automated GST Reports with GST Insights API and Google Docs",
-    "id": 7698,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7698
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Zgf81bcaaB04rjcd",
   "meta": {
     "name": "Automate Outbound Voice Calls with Vapi from Form Submissions",
-    "id": 6577,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6577
   },
   "name": "Start an outbound Vapi phone call from a new n8n form submission",
   "tags": [],

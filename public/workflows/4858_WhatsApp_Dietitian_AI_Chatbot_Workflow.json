@@ -2,8 +2,7 @@
   "id": "exfELP1QbgPmWdJN",
   "meta": {
     "name": "WhatsApp Dietitian AI Chatbot Workflow",
-    "id": 4858,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4858
   },
   "name": "Whatsapp Health ai chatbot using llm chain",
   "tags": [],

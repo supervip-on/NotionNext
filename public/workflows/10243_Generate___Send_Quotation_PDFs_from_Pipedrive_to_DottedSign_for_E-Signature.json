@@ -2,8 +2,7 @@
   "id": "8LJ5mlndFypZh1VS",
   "meta": {
     "name": "Generate & Send Quotation PDFs from Pipedrive to DottedSign for E-Signature",
-    "id": 10243,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10243
   },
   "name": "QuotationAutomation template",
   "tags": [],

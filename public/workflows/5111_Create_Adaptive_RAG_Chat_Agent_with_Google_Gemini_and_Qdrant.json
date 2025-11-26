@@ -2,8 +2,7 @@
   "id": "bU9BBKV0yadVVd30",
   "meta": {
     "name": "Create Adaptive RAG Chat Agent with Google Gemini and Qdrant",
-    "id": 5111,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5111
   },
   "name": "Adaptive & Conditional AI Chat Agent - www.quantralabs.com",
   "tags": [],

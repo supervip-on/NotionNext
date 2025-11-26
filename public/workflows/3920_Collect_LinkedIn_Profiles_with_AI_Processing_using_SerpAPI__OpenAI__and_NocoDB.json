@@ -2,8 +2,7 @@
   "id": "W5cevjhP3xIQdMhT",
   "meta": {
     "name": "Collect LinkedIn Profiles with AI Processing using SerpAPI, OpenAI, and NocoDB",
-    "id": 3920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3920
   },
   "name": "Simple LinkedIn profile collector",
   "tags": [

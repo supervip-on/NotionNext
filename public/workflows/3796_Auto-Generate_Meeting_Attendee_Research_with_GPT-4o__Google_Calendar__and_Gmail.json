@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate Meeting Attendee Research with GPT-4o, Google Calendar, and Gmail",
-    "id": 3796,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3796
   },
   "nodes": [
     {

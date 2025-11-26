@@ -2,8 +2,7 @@
   "id": "mqdP7Aw1KnkIq2W5",
   "meta": {
     "name": "Automatically Save & Organize LINE Message Files in Google Drive with Sheets Logging",
-    "id": 3191,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3191
   },
   "name": "Line Save File to Google Drive and Log File's URL",
   "tags": [

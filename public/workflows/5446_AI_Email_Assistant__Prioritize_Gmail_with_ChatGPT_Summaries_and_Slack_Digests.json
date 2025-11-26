@@ -2,8 +2,7 @@
   "id": "SjqkLDL6TjA4qhXe",
   "meta": {
     "name": "AI Email Assistant: Prioritize Gmail with ChatGPT Summaries and Slack Digests",
-    "id": 5446,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5446
   },
   "name": "InboxPilot",
   "tags": [],

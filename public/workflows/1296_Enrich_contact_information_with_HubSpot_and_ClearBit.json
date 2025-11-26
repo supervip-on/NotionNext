@@ -129,8 +129,7 @@
   },
   "meta": {
     "name": "Enrich contact information with HubSpot and ClearBit",
-    "id": 1296,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1296
   },
   "id": "1296"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🤖 Build an Interactive AI Agent with Chat Interface and Multiple Tools",
-    "id": 5819,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5819
   },
   "nodes": [
     {

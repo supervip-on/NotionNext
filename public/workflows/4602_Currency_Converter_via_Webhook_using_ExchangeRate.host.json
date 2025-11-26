@@ -2,8 +2,7 @@
   "id": "vQB8xArVsMh8sroM",
   "meta": {
     "name": "Currency Converter via Webhook using ExchangeRate.host",
-    "id": 4602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4602
   },
   "name": "Currency Converter via Webhook using ExchangeRate.host",
   "tags": [],

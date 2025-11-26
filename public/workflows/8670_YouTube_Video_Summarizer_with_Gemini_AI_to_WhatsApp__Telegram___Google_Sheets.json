@@ -2,8 +2,7 @@
   "id": "EHgalKjspdiaryVb",
   "meta": {
     "name": "YouTube Video Summarizer with Gemini AI to WhatsApp, Telegram & Google Sheets",
-    "id": 8670,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8670
   },
   "name": "Summarize YouTube Videos with Gemini AI, Google Sheets & WhatsApp/Telegram Automation",
   "tags": [],

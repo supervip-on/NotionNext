@@ -2,8 +2,7 @@
   "id": "0l3nj6SM84lw3lvH",
   "meta": {
     "name": "Automated Email Verification & Onboarding with VerifiEmail, Gmail & Slack",
-    "id": 9150,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9150
   },
   "name": "Customer Onboarding Email Verification",
   "tags": [],

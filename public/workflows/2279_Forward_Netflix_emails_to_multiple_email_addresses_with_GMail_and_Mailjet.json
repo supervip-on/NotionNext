@@ -2,8 +2,7 @@
   "id": "pkw1vY5q1p2nNfNC",
   "meta": {
     "name": "Forward Netflix emails to multiple email addresses with GMail and Mailjet",
-    "id": 2279,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2279
   },
   "name": "Forward Netflix emails to multiple email addresses with GMail and Mailjet",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "BwphfgLq7SKpdkOy",
   "meta": {
     "name": "Create LinkedIn Content from Telegram Voice/Text using Whisper, GPT-4 & Dumpling AI",
-    "id": 8563,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8563
   },
   "name": "Create LinkedIn Content from Telegram using GPT-4 and Dumpling AI",
   "tags": [],

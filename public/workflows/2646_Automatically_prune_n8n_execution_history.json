@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically prune n8n execution history",
-    "id": 2646,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2646
   },
   "nodes": [
     {

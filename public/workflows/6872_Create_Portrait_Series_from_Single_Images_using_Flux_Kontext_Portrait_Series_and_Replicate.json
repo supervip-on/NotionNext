@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Portrait Series from Single Images using Flux Kontext Portrait Series and Replicate",
-    "id": 6872,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6872
   },
   "name": "flux-kontext-apps/portrait-series - Image Generator",
   "nodes": [

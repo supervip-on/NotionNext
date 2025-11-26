@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Telegram Content to Multi-Platform Posts with OpenAI Whisper & Gemini",
-    "id": 9363,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9363
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Email Forwarding to WhatsApp with Gmail, Outlook & Google Gemini",
-    "id": 10254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10254
   },
   "name": "Email to WhatsApp - AI Multi-Account Bridge",
   "tags": [

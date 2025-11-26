@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Get all Excel workbooks",
-    "id": 566,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 566
   },
   "id": "566"
 }

@@ -2,8 +2,7 @@
   "id": "B3xq3cGwsIbeSRGd",
   "meta": {
     "name": "Generate & Send Spare Parts Price Quotes with Gmail, Sheets and Gemini AI",
-    "id": 5492,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5492
   },
   "name": "Spare Parts Quote Generator",
   "tags": [],

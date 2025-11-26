@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "n8n Workflow Manager API",
-    "id": 4166,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4166
   },
   "nodes": [
     {

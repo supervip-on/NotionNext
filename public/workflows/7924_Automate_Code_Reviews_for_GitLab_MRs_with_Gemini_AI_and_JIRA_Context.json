@@ -2,8 +2,7 @@
   "id": "Rwpn5OG2ql8rIOzH",
   "meta": {
     "name": "Automate Code Reviews for GitLab MRs with Gemini AI and JIRA Context",
-    "id": 7924,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7924
   },
   "name": "Gitlab Code Review Template",
   "tags": [],

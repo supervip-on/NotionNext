@@ -2,8 +2,7 @@
   "id": "A1BpZBaWcvkOWcwa",
   "meta": {
     "name": "Daily AI News Digest to LinkedIn Posts with OpenAI GPT and RSS Feeds",
-    "id": 5068,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5068
   },
   "name": "Linkedin Daily Post",
   "tags": [

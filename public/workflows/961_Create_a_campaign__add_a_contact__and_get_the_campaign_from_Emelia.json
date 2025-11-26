@@ -78,8 +78,7 @@
   },
   "meta": {
     "name": "Create a campaign, add a contact, and get the campaign from Emelia",
-    "id": 961,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 961
   },
   "id": "961"
 }

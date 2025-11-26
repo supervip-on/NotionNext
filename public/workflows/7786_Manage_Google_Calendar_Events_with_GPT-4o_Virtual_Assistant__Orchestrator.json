@@ -2,8 +2,7 @@
   "id": "BEJjQAqk5n3Yc0Q4",
   "meta": {
     "name": "Manage Google Calendar Events with GPT-4o Virtual Assistant (Orchestrator)",
-    "id": 7786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7786
   },
   "name": "ca7ai Google_Calendar_workflow",
   "tags": [],

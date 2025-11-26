@@ -2,8 +2,7 @@
   "id": "2fWnDQqsPy4mECqD",
   "meta": {
     "name": "YouTube Transcription & Translation to Google Docs with Gemini AI",
-    "id": 7245,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7245
   },
   "name": "YouTube Transcription, Summarization & Translation to Google Docs",
   "tags": [],

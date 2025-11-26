@@ -2,8 +2,7 @@
   "id": "4nBQyhwqDqmXY2AL",
   "meta": {
     "name": "Automated AI image tagging and writing keywords into image (via community node)",
-    "id": 2997,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2997
   },
   "name": "Automated Image Metadata Tagging (Community Node)",
   "tags": [],

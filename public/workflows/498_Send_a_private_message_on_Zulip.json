@@ -45,7 +45,6 @@
   },
   "meta": {
     "name": "Send a private message on Zulip",
-    "id": 498,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 498
   }
 }

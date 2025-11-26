@@ -2,8 +2,7 @@
   "id": "4g8HglPLSdpDmBwc",
   "meta": {
     "name": "Daily Business News Briefings with NewsAPI & GPT-4 Insights to Slack",
-    "id": 6273,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6273
   },
   "name": "001_AI-Powered News Insights Workflow for Slack",
   "tags": [],

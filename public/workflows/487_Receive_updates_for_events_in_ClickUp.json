@@ -27,7 +27,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for events in ClickUp",
-    "id": 487,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 487
   }
 }

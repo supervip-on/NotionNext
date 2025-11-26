@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Construction Blueprint Data with VLM Run and Microsoft Office Suite",
-    "id": 8304,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8304
   },
   "nodes": [
     {

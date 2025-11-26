@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Email Unsubscribe Handler: Outlook to BigQuery Integration",
-    "id": 6333,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6333
   },
   "nodes": [
     {

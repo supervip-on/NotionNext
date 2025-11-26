@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Line Message API : Push Message & Reply",
-    "id": 2733,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2733
   },
   "nodes": [
     {

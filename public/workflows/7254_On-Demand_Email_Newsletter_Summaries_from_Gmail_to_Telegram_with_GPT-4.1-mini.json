@@ -2,8 +2,7 @@
   "id": "nCr0DSvP0NQHbFEn",
   "meta": {
     "name": "On-Demand Email Newsletter Summaries from Gmail to Telegram with GPT-4.1-mini",
-    "id": 7254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7254
   },
   "name": "email → tg public",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "JQzVd68SaXiYdyoz",
   "meta": {
     "name": "Monitor & Alert on Inactive AWS IAM Users with Slack Notifications",
-    "id": 7500,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7500
   },
   "name": "AWS IAM Inactive User Automation Alert Workflow",
   "tags": [],

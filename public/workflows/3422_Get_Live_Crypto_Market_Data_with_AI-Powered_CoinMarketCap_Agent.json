@@ -2,8 +2,7 @@
   "id": "R4EuB1gx1IpMXCJM",
   "meta": {
     "name": "Get Live Crypto Market Data with AI-Powered CoinMarketCap Agent",
-    "id": 3422,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3422
   },
   "name": "CoinMarketCap_Crypto_Agent_Tool",
   "tags": [],

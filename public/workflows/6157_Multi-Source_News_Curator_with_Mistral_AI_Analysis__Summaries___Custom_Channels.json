@@ -2,8 +2,7 @@
   "id": "7925XBYVlzBHDy7P",
   "meta": {
     "name": "Multi-Source News Curator with Mistral AI Analysis, Summaries & Custom Channels",
-    "id": 6157,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6157
   },
   "name": "Flexible News Curator - Multi-Source Integration, AI Analysis, and Settable Channels",
   "tags": [

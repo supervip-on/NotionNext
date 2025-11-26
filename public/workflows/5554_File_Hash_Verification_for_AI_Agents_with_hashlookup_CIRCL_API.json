@@ -2,8 +2,7 @@
   "id": "gjWBBSi8vTPYPDYJ",
   "meta": {
     "name": "File Hash Verification for AI Agents with hashlookup CIRCL API",
-    "id": 5554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5554
   },
   "name": "hashlookup CIRCL API MCP Server",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Images with Pollinations & Blog Articles with Gemini 2.5 from Telegram",
-    "id": 5844,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5844
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Unlimited Website Down Checker - Uptime Robot Alternative",
-    "id": 5887,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5887
   },
   "nodes": [
     {

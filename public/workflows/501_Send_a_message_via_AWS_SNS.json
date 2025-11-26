@@ -43,8 +43,7 @@
   },
   "meta": {
     "name": "Send a message via AWS SNS",
-    "id": 501,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 501
   },
   "id": "501"
 }

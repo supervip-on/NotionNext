@@ -2,8 +2,7 @@
   "id": "d3aiJQj0DRvPeier",
   "meta": {
     "name": "Daily Bible Verse & Reflection Email with bible.api, Google Gemini, and Gmail",
-    "id": 8663,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8663
   },
   "name": "Daily Bible Verse Email",
   "tags": [],

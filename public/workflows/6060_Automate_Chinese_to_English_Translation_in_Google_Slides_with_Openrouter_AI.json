@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Chinese to English Translation in Google Slides with Openrouter AI",
-    "id": 6060,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6060
   },
   "nodes": [
     {

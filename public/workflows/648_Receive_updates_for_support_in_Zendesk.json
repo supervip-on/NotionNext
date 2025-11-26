@@ -29,7 +29,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for support in Zendesk",
-    "id": 648,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 648
   }
 }

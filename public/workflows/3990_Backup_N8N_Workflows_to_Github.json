@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Backup N8N Workflows to Github",
-    "id": 3990,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3990
   },
   "nodes": [
     {

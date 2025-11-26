@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Natural Language to Web Searches with GPT-4.1 mini and Log in Google Sheets",
-    "id": 8982,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8982
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Document Processing & Organization with Gemini, VLM Run & Google Sheets",
-    "id": 8788,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8788
   },
   "nodes": [
     {

@@ -462,8 +462,7 @@
   },
   "meta": {
     "name": "Get bibliographic data from your Zotero Library",
-    "id": 2444,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2444
   },
   "id": "2444"
 }

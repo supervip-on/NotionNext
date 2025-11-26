@@ -2,8 +2,7 @@
   "id": "sgcKe5gsmJFdEAe3",
   "meta": {
     "name": "Build a Weekly AI Trend Alerter with arXiv and Weaviate",
-    "id": 5817,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5817
   },
   "name": "ai-trend-email-alerter-weaviate",
   "tags": [],

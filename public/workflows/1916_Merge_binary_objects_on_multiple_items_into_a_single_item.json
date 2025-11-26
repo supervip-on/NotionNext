@@ -125,8 +125,7 @@
   },
   "meta": {
     "name": "Merge binary objects on multiple items into a single item",
-    "id": 1916,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1916
   },
   "id": "1916"
 }

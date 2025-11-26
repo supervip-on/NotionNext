@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Reddit Trend Analysis with GPT-4 and Slack/Gmail Distribution",
-    "id": 4373,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4373
   },
   "nodes": [
     {

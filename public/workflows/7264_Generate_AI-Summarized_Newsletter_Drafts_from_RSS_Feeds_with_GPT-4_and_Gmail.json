@@ -2,8 +2,7 @@
   "id": "B678cREDFm1a19Gt",
   "meta": {
     "name": "Generate AI-Summarized Newsletter Drafts from RSS Feeds with GPT-4 and Gmail",
-    "id": 7264,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7264
   },
   "name": "RSS news Newsletter draft",
   "tags": [

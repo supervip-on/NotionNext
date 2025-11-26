@@ -48,7 +48,6 @@
   },
   "meta": {
     "name": "Get the community profile of a repository",
-    "id": 450,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 450
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Hotel Listings with Prices from Booking.com using Brightdata & AI",
-    "id": 8836,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8836
   },
   "nodes": [
     {

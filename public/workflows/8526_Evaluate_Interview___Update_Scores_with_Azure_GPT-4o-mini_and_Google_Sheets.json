@@ -2,8 +2,7 @@
   "id": "ncJgeZeVdsws0GpM",
   "meta": {
     "name": "Evaluate Interview & Update Scores with Azure GPT-4o-mini and Google Sheets",
-    "id": 8526,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8526
   },
   "name": "Candidate Questionarie analysis",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Website Chatbot with CRM Lead Collection using GPT and Google Sheets",
-    "id": 7227,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7227
   },
   "nodes": [
     {

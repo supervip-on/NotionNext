@@ -2,8 +2,7 @@
   "id": "aDPpPIaeM7zfUCdJ",
   "meta": {
     "name": "Convert image to text using GROQ LLaVA V1.5 7B",
-    "id": 2437,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2437
   },
   "name": "GROQ LLAVA V1.5 7B",
   "tags": [],

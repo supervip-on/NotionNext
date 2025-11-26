@@ -2,8 +2,7 @@
   "id": "3v8t7FV5f5vkU9LM",
   "meta": {
     "name": "Analyze Bakery Sales & Inventory with Google Sheets & Azure GPT Chat Assistant",
-    "id": 8344,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8344
   },
   "name": "Data analytics Workflow 4 bakery.",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "ajhY7gYXVvl9lpY1",
   "meta": {
     "name": "Retrieve NASA Space Weather & Asteroid Data with GPT-4o-mini and Telegram",
-    "id": 3834,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3834
   },
   "name": "Get Database DONKI NASA With Telegram and OpenAI Model",
   "tags": [],

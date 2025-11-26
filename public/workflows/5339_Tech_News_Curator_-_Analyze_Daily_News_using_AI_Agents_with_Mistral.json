@@ -2,8 +2,7 @@
   "id": "DLNC1zlbMqO7vCep",
   "meta": {
     "name": "Tech News_Curator - Analyze Daily News using AI_Agents with Mistral",
-    "id": 5339,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5339
   },
   "name": "Tech News Curator - Analyze Daily News using AI Agents and Generate Highlights using Mistral V0",
   "tags": [

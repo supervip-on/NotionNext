@@ -2,8 +2,7 @@
   "id": "tY32QDTdup1LAwR1",
   "meta": {
     "name": "Automate Multi-Bank Transaction Sync & Reporting with GoCardless & Maybe Finance",
-    "id": 6284,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6284
   },
   "name": "Maybe Finance example",
   "tags": [],

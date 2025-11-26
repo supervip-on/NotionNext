@@ -2,8 +2,7 @@
   "id": "23sZVFonPs0Q3gvm",
   "meta": {
     "name": "Extract and Merge Twitter (X) Threads using TwitterAPI.io",
-    "id": 4088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4088
   },
   "name": "Twitter Thread Fetcher: Extract and Merge Tweets from Threads",
   "tags": [],

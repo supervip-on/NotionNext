@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Amazon Product Data with Scrape.do, GPT-4 & Google Sheets",
-    "id": 8678,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8678
   },
   "nodes": [
     {

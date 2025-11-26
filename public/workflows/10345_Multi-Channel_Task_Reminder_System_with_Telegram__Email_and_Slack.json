@@ -2,8 +2,7 @@
   "id": "vYPcNPEQKZxdQRgo",
   "meta": {
     "name": "Multi-Channel Task Reminder System with Telegram, Email and Slack",
-    "id": 10345,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10345
   },
   "name": "Daily Task Reminder Bot For Telegram",
   "tags": [],

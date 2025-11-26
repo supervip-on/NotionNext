@@ -48,8 +48,7 @@
   },
   "meta": {
     "name": "Receive Google Sheet data via REST API",
-    "id": 226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 226
   },
   "id": "226"
 }

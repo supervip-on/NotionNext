@@ -2,8 +2,7 @@
   "id": "yPIST7l13huQEjY5",
   "meta": {
     "name": "Post to an XMLRPC API via the HTTP Request node",
-    "id": 2888,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2888
   },
   "name": "Use XMLRPC via HttpRequest-node to post on Wordpress.com",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "fYM9UCwhXl3GvTfG",
   "meta": {
     "name": "Generate Sales Reports from Google Sheets with Azure OpenAI and Telegram",
-    "id": 8177,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8177
   },
   "name": "Sheet Summery + Telegram",
   "tags": [],

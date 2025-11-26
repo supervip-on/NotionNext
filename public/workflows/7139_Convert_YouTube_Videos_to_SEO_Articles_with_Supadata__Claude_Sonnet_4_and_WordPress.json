@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert YouTube Videos to SEO Articles with Supadata, Claude Sonnet 4 and WordPress",
-    "id": 7139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7139
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Workflow Errors with OpenAI, FreshDesk Tickets & Slack Alerts",
-    "id": 7675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7675
   },
   "nodes": [
     {

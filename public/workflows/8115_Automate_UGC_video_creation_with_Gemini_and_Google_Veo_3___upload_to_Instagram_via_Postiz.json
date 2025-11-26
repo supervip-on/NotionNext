@@ -2,8 +2,7 @@
   "id": "do1L9CqbuXctQa2p",
   "meta": {
     "name": "Automate UGC video creation with Gemini and Google Veo 3 & upload to Instagram via Postiz",
-    "id": 8115,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8115
   },
   "name": "Create UGC video with Gemini and Google Veo 3 & Upload to Instagram",
   "tags": [],

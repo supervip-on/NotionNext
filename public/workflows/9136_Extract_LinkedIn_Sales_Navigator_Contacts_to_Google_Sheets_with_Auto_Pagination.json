@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract LinkedIn Sales Navigator Contacts to Google Sheets with Auto Pagination",
-    "id": 9136,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9136
   },
   "nodes": [
     {

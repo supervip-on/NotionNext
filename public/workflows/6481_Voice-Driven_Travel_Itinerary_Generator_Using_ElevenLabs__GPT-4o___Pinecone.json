@@ -2,8 +2,7 @@
   "id": "YuB6Lt8NQUCamKzZ",
   "meta": {
     "name": "Voice-Driven Travel Itinerary Generator Using ElevenLabs, GPT-4o & Pinecone",
-    "id": 6481,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6481
   },
   "name": "VoiceCall Travel Agent",
   "tags": [

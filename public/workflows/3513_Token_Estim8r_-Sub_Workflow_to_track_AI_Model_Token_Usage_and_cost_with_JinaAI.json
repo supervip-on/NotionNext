@@ -2,8 +2,7 @@
   "id": "L7ExYkeKvBYwWbc3",
   "meta": {
     "name": "🥇 Token Estim8r -Sub Workflow to track AI Model Token Usage and cost with JinaAI",
-    "id": 3513,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3513
   },
   "name": "Get Model Token Count and Tools",
   "tags": [],

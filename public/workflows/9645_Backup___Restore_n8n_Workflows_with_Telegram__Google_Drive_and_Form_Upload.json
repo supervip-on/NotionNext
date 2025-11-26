@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Backup & Restore n8n Workflows with Telegram, Google Drive and Form Upload",
-    "id": 9645,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9645
   },
   "nodes": [
     {

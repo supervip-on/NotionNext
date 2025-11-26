@@ -2,8 +2,7 @@
   "id": "dR9Ks4IeLu4qwVpD",
   "meta": {
     "name": "WordPress context backup to github",
-    "id": 5288,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5288
   },
   "name": "blogbak",
   "tags": [],

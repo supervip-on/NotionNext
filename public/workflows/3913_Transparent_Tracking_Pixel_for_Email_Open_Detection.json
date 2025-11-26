@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transparent Tracking Pixel for Email Open Detection",
-    "id": 3913,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3913
   },
   "nodes": [
     {

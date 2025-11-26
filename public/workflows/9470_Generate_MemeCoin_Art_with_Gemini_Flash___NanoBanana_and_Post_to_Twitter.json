@@ -2,8 +2,7 @@
   "id": "8EZdduCs3OULUYrh",
   "meta": {
     "name": "Generate MemeCoin Art with Gemini Flash & NanoBanana and Post to Twitter",
-    "id": 9470,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9470
   },
   "name": "memecoin image generator",
   "tags": [],

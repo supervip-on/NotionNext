@@ -122,8 +122,7 @@
   },
   "meta": {
     "name": "Collect and label images and send to Google Sheets",
-    "id": 1401,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1401
   },
   "id": "1401"
 }

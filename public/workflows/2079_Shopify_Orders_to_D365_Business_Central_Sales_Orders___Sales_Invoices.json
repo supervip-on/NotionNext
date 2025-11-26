@@ -2,8 +2,7 @@
   "id": "NGwD3pIHXBU0w5hC",
   "meta": {
     "name": "Shopify Orders to D365 Business Central Sales Orders / Sales Invoices",
-    "id": 2079,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2079
   },
   "name": "[n8n] - Shopify Orders to D365 Business Central Sales Orders / Sales Invoices",
   "tags": [

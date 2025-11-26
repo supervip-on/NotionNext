@@ -2,8 +2,7 @@
   "id": "jokolRfKCTJ4umAw",
   "meta": {
     "name": "Monitor iOS App Store Reviews & Send Email Notifications Automatically",
-    "id": 9343,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9343
   },
   "name": "iOS App Store Review Monitor",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "fFfhgyxWDNWQCUtY",
   "meta": {
     "name": "Automate Instagram Content Discovery & Repurposing w/ Apify, GPT-4o & Perplexity",
-    "id": 4658,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4658
   },
   "name": "Apify Scrape New Instagram Reels -> Transcribe -> Add to Sheet",
   "tags": [

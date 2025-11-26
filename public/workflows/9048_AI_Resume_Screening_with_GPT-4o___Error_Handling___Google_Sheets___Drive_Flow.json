@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Resume Screening with GPT-4o & Error Handling | Google Sheets & Drive Flow",
-    "id": 9048,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9048
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "kT6Enn9B13D5YHX8",
   "meta": {
     "name": "AI Blog Post Generator with Scheduled or Prompt-based Content for WordPress",
-    "id": 10180,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10180
   },
   "name": "Autogenerate Blog Posts using Wordpress and ChatGPT",
   "tags": [],

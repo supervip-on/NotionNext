@@ -2,8 +2,7 @@
   "id": "qJ787oClYEkl9Kz1",
   "meta": {
     "name": "Generate Ethereum & Solana Blockchain Audit Reports with PDF Export to Drive & Notion",
-    "id": 8547,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8547
   },
   "name": "Enterprise Blockchain Document Automation: Multi-Chain Transaction Audit Reports with Google Drive & Notion Integration",
   "tags": [

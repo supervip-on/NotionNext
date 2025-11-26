@@ -2,8 +2,7 @@
   "id": "8Pj6PSyWQCOFASKY",
   "meta": {
     "name": "Monitor SEO Keyword Rankings with SERP API & Send Drop Alerts via Slack",
-    "id": 6676,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6676
   },
   "name": "SEO Keyword Rank Monitor with Drop Alerts for Your Team",
   "tags": [],

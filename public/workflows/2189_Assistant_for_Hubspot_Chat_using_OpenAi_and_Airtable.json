@@ -2,8 +2,7 @@
   "id": "C2pB17EpXAJwOcst",
   "meta": {
     "name": "Assistant for Hubspot Chat using OpenAi and Airtable",
-    "id": 2189,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2189
   },
   "name": "OpenAI Assistant for Hubspot Chat",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Auto-Posting with GPT-4o Content & Image Generation + Telegram Alerts",
-    "id": 7009,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7009
   },
   "nodes": [
     {

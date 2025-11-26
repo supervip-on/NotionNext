@@ -2,8 +2,7 @@
   "id": "3sBreSJpd5kPX4b2",
   "meta": {
     "name": "Automated Video Download from Sample.cat using Airtop Browser Automation",
-    "id": 4522,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4522
   },
   "name": "Simple File Download",
   "tags": [],

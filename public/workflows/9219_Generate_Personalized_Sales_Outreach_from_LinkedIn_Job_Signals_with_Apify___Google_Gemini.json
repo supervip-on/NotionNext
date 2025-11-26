@@ -2,8 +2,7 @@
   "id": "6ZDejfbyr1msa2zv",
   "meta": {
     "name": "Generate Personalized Sales Outreach from LinkedIn Job Signals with Apify & Google Gemini",
-    "id": 9219,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9219
   },
   "name": "Automate Sales Outreach with LinkedIn Job Signals, Apify, Apollo.io & Google Gemini",
   "tags": [],

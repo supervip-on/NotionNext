@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Ideal Customer Profile (ICP) Generation: AI, Firecrawl, Gemini, Telegram",
-    "id": 5047,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5047
   },
   "nodes": [
     {

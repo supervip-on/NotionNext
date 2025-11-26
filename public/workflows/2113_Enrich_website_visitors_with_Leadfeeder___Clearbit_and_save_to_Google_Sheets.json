@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich website visitors with Leadfeeder & Clearbit and save to Google Sheets",
-    "id": 2113,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2113
   },
   "nodes": [
     {

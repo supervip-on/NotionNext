@@ -353,8 +353,7 @@
   },
   "meta": {
     "name": "Send Jira task notifications to Telegram user via Bot",
-    "id": 2708,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2708
   },
   "id": "2708"
 }

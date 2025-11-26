@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk AI Video Generation with Freepik Minimax Hailuo & Google Suite Integration",
-    "id": 7335,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7335
   },
   "nodes": [
     {

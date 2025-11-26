@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Raw Materials Inventory Management with Google Sheets, Supabase and Approvals",
-    "id": 3979,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3979
   },
   "nodes": [
     {

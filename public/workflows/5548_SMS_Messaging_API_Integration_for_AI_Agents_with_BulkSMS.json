@@ -2,8 +2,7 @@
   "id": "vepecgVq69ZuBVeW",
   "meta": {
     "name": "SMS Messaging API Integration for AI Agents with BulkSMS",
-    "id": 5548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5548
   },
   "name": "BulkSMS JSON REST API MCP Server",
   "tags": [],

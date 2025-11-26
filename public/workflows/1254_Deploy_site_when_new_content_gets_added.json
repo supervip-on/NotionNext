@@ -50,8 +50,7 @@
   },
   "meta": {
     "name": "Deploy site when new content gets added",
-    "id": 1254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1254
   },
   "id": "1254"
 }

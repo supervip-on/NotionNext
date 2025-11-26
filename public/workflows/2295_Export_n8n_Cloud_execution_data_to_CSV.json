@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export n8n Cloud execution data to CSV",
-    "id": 2295,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2295
   },
   "nodes": [
     {

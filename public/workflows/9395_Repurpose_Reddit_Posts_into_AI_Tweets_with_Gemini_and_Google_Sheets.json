@@ -2,8 +2,7 @@
   "id": "TdUwxmTIJnTwQhJe",
   "meta": {
     "name": "Repurpose Reddit Posts into AI Tweets with Gemini and Google Sheets",
-    "id": 9395,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9395
   },
   "name": "Twitter Automation",
   "tags": [

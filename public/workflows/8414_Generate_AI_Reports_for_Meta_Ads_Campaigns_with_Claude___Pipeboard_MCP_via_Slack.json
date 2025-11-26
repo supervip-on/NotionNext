@@ -2,8 +2,7 @@
   "id": "65g4gFmMEsOcHN0Q",
   "meta": {
     "name": "Generate AI Reports for Meta Ads Campaigns with Claude & Pipeboard MCP via Slack",
-    "id": 8414,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8414
   },
   "name": "Generate AI reports for Meta Ads campaigns with Claude and MCP via Slack",
   "tags": [],

@@ -319,7 +319,6 @@
   },
   "meta": {
     "name": "Automate assigning GitHub issues",
-    "id": 1442,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1442
   }
 }

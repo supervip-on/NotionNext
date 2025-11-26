@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Shopify customers to Google Sheets + Squarespace compatible csv",
-    "id": 3280,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3280
   },
   "nodes": [
     {

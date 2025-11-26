@@ -2,8 +2,7 @@
   "id": "HWsEhnkLn4XfhWIc",
   "meta": {
     "name": "AI-Powered Accounting Reports from Sabre EDI with GPT-4 and Pinecone RAG",
-    "id": 5130,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5130
   },
   "name": "05 EDI File Processing - Completed",
   "tags": [

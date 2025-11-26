@@ -2,8 +2,7 @@
   "id": "RB08fvn7cXuNcJKU",
   "meta": {
     "name": "Business Hours Lead Response System with Gmail, Google Sheets & Telegram Alerts",
-    "id": 8282,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8282
   },
   "name": "Automated reply_hours based automation",
   "tags": [],

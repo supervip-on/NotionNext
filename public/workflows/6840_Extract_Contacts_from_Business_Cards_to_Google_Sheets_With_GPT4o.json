@@ -2,8 +2,7 @@
   "id": "d7F1dEqCRoIUVdYj",
   "meta": {
     "name": "Extract Contacts from Business Cards to Google Sheets With GPT4o",
-    "id": 6840,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6840
   },
   "name": "Auto Extract Contacts from Business Cards to Sheet With GPT4o",
   "tags": [

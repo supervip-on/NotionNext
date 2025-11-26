@@ -2,8 +2,7 @@
   "id": "CAB0U7JoxhcuNHSU",
   "meta": {
     "name": "Generate Job Automation Analysis with GPT-4, Tavily & Telegram",
-    "id": 5232,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5232
   },
   "name": "4-Zone HAS Automation Matrix with GPT-4 & Telegram",
   "tags": [

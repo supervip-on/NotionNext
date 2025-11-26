@@ -2,8 +2,7 @@
   "id": "yjW8e13sgz8fb9PJ",
   "meta": {
     "name": "Auto-like Instagram posts from chosen profiles with Phantombuster + SharePoint",
-    "id": 8595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8595
   },
   "name": "Instagram Auto Liking (Profile Post Extractor) - Creators Hub",
   "tags": [

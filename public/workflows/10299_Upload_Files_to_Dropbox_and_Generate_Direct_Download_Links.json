@@ -2,8 +2,7 @@
   "id": "McIM3fyCBUnCR97N",
   "meta": {
     "name": "Upload Files to Dropbox and Generate Direct Download Links",
-    "id": 10299,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10299
   },
   "name": "Released: [SUB] Dropbox upload links",
   "tags": [],

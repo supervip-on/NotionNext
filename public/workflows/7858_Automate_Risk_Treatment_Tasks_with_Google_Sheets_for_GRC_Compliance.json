@@ -2,8 +2,7 @@
   "id": "g7VN0vAwXSeCYhMj",
   "meta": {
     "name": "Automate Risk Treatment Tasks with Google Sheets for GRC Compliance",
-    "id": 7858,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7858
   },
   "name": "GRC Module 2: Risk Treatment Automator",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Segment WooCommerce Customers for Targeted Marketing with RFM Analysis",
-    "id": 4880,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4880
   },
   "nodes": [
     {

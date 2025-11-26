@@ -106,7 +106,6 @@
   },
   "meta": {
     "name": "Get a volume and add it to your bookshelf",
-    "id": 771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 771
   }
 }

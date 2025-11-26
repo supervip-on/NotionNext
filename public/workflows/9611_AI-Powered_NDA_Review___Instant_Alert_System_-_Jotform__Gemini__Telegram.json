@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered NDA Review & Instant Alert System - Jotform, Gemini, Telegram",
-    "id": 9611,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9611
   },
   "nodes": [
     {

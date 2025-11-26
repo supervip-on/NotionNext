@@ -2,8 +2,7 @@
   "id": "10169",
   "meta": {
     "name": "Automate Event RSVPs with Email Validation & Badge Generation using VerifiEmail & HTMLCssToImage",
-    "id": 10169,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10169
   },
   "name": "Validated RSVP Confirmation",
   "tags": [],

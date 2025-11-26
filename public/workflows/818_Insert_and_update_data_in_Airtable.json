@@ -178,7 +178,6 @@
   },
   "meta": {
     "name": "Insert and update data in Airtable",
-    "id": 818,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 818
   }
 }

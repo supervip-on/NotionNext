@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multi-Department Support Bot with Slash Commands, Pinecone & Telegram",
-    "id": 6010,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6010
   },
   "nodes": [
     {

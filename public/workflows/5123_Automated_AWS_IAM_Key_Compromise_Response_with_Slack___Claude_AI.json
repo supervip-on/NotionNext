@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated AWS IAM Key Compromise Response with Slack & Claude AI",
-    "id": 5123,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5123
   },
   "nodes": [
     {

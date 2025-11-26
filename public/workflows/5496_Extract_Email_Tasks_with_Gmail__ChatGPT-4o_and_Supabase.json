@@ -2,8 +2,7 @@
   "id": "8mU5BDEPNPCBrcNG",
   "meta": {
     "name": "Extract Email Tasks with Gmail, ChatGPT-4o and Supabase",
-    "id": 5496,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5496
   },
   "name": "Gmail → GPT → Supabase | Task Extractor",
   "tags": [],

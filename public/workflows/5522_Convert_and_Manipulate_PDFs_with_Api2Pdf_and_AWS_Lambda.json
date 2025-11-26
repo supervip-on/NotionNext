@@ -2,8 +2,7 @@
   "id": "L7ZgmrqmEBeiLlPk",
   "meta": {
     "name": "Convert and Manipulate PDFs with Api2Pdf and AWS Lambda",
-    "id": 5522,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5522
   },
   "name": "Api2Pdf - PDF Generation, Powered by AWS Lambda MCP Server",
   "tags": [],

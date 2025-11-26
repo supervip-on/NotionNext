@@ -2,8 +2,7 @@
   "id": "PZXlvjDt64MrjzPR",
   "meta": {
     "name": "Generate Multi-Platform Content from Forms using Tavily Research and OpenAI",
-    "id": 8649,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8649
   },
   "name": "Content Creation System from form Input",
   "tags": [],

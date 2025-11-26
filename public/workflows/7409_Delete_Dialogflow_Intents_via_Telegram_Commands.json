@@ -2,8 +2,7 @@
   "id": "dVgmryFdDhX45Qtz",
   "meta": {
     "name": "Delete Dialogflow Intents via Telegram Commands",
-    "id": 7409,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7409
   },
   "name": "delete-intent-from-dialogflow",
   "tags": [],

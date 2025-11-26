@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Verifying Email deliverability using  google sheets and Effibotics API",
-    "id": 2191,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2191
   },
   "nodes": [
     {

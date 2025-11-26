@@ -2,8 +2,7 @@
   "id": "ThLx9WKLEujJHrvW",
   "meta": {
     "name": "Monitor GitHub Releases with Gemini AI Chinese Translation & Slack Notifications",
-    "id": 3452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3452
   },
   "name": "Github Releases",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Beginner Data Analysis: Merge, Filter & Summarize in Google Sheets with GPT-4o",
-    "id": 6753,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6753
   },
   "nodes": [
     {

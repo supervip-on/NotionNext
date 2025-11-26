@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate LinkedIn Content with Gemini AI: Posts & Images 24/7",
-    "id": 7448,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7448
   },
   "nodes": [
     {

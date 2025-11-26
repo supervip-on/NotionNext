@@ -2,8 +2,7 @@
   "id": "A7VNezDsDXf8tgIx",
   "meta": {
     "name": "Googleform submission to create a Github issue bug report ",
-    "id": 2938,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2938
   },
   "name": "Gform to github",
   "tags": [],

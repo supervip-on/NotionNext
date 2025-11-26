@@ -2,8 +2,7 @@
   "id": "LJmjAaP6VnaYVBF9",
   "meta": {
     "name": "Automated Google Drive to FTP Transfer with JSON Logging & Reports",
-    "id": 8072,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8072
   },
   "name": "Automated Google Drive to FTP File Transfer with JSON Logging and Reporting",
   "tags": [],

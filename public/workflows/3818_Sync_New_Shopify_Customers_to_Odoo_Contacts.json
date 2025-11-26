@@ -2,8 +2,7 @@
   "id": "Zp0R3I1dUjZOIz2l",
   "meta": {
     "name": "Sync New Shopify Customers to Odoo Contacts",
-    "id": 3818,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3818
   },
   "name": "Sync New Shopify Customers to Odoo Contacts",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate LinkedIn Posts with GPT-4, Preview on WhatsApp, and Auto-Publish",
-    "id": 4419,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4419
   },
   "nodes": [
     {

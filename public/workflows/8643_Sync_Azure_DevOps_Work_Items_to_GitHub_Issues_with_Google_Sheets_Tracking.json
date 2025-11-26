@@ -2,8 +2,7 @@
   "id": "xU7oltBCaOQVpXTL",
   "meta": {
     "name": "Sync Azure DevOps Work Items to GitHub Issues with Google Sheets Tracking",
-    "id": 8643,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8643
   },
   "name": "Create Github Issue on Repository through Microsoft Azure Devops",
   "tags": [

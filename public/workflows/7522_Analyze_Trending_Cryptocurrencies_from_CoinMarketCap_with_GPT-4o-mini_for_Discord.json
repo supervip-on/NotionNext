@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Trending Cryptocurrencies from CoinMarketCap with GPT-4o-mini for Discord",
-    "id": 7522,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7522
   },
   "nodes": [
     {

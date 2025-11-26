@@ -82,7 +82,6 @@
   },
   "meta": {
     "name": "Periodically send data from HTTP Request node to Telegram",
-    "id": 781,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 781
   }
 }

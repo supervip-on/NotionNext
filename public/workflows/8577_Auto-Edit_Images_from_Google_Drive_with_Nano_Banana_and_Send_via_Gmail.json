@@ -2,8 +2,7 @@
   "id": "FypITSkWGorqJ9AC",
   "meta": {
     "name": "Auto-Edit Images from Google Drive with Nano Banana and Send via Gmail",
-    "id": 8577,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8577
   },
   "name": "Edit Images with Nano Banana",
   "tags": [],

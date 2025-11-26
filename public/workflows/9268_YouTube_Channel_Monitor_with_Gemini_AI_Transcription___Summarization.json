@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "YouTube Channel Monitor with Gemini AI Transcription & Summarization",
-    "id": 9268,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9268
   },
   "nodes": [
     {

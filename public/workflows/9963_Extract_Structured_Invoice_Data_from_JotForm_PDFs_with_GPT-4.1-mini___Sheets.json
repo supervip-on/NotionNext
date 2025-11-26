@@ -2,8 +2,7 @@
   "id": "QvIVxAgboRsZMMr0",
   "meta": {
     "name": "Extract Structured Invoice Data from JotForm PDFs with GPT-4.1-mini & Sheets",
-    "id": 9963,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9963
   },
   "name": "Structured Invoice Data Extraction from JotForm PDFs via Open AI GPT-4.1-mini",
   "tags": [

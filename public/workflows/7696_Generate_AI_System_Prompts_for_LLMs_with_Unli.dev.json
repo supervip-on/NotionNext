@@ -2,8 +2,7 @@
   "id": "V9nGzj550Li66v80",
   "meta": {
     "name": "Generate AI System Prompts for LLMs with Unli.dev",
-    "id": 7696,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7696
   },
   "name": "Sytem Prompt Generator Using Unli.dev",
   "tags": [],

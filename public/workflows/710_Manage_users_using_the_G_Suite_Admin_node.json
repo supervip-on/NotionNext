@@ -108,7 +108,6 @@
   },
   "meta": {
     "name": "Manage users using the G Suite Admin node",
-    "id": 710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 710
   }
 }

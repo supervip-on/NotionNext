@@ -184,7 +184,6 @@
   },
   "meta": {
     "name": "Send Telegram messages on RSS feed read",
-    "id": 1507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1507
   }
 }

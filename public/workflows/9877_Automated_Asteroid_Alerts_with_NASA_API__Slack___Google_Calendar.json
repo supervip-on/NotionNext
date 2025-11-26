@@ -2,8 +2,7 @@
   "id": "qxBmyFKAUjkuc2Wx",
   "meta": {
     "name": "Automated Asteroid Alerts with NASA API, Slack & Google Calendar",
-    "id": 9877,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9877
   },
   "name": "NASA Near-Earth Asteroid Alert System",
   "tags": [],

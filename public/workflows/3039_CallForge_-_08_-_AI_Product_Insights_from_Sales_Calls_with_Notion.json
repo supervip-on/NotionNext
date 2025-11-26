@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 08 - AI Product Insights from Sales Calls with Notion",
-    "id": 3039,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3039
   },
   "nodes": [
     {

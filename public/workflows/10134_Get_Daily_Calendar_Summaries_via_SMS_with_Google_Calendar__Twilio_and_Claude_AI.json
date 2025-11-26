@@ -2,8 +2,7 @@
   "id": "u4rtMIxYZRWJxXIf",
   "meta": {
     "name": "Get Daily Calendar Summaries via SMS with Google Calendar, Twilio and Claude AI",
-    "id": 10134,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10134
   },
   "name": "Freebie: Daily Reminders Template",
   "tags": [

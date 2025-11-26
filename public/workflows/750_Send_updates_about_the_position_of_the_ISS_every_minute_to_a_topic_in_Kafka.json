@@ -131,7 +131,6 @@
   },
   "meta": {
     "name": "Send updates about the position of the ISS every minute to a topic in Kafka",
-    "id": 750,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 750
   }
 }

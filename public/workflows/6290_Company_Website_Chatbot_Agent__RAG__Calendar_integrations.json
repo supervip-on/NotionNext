@@ -2,8 +2,7 @@
   "id": "wnDz3dZ455lkg5la",
   "meta": {
     "name": "Company Website Chatbot Agent (RAG, Calendar integrations)",
-    "id": 6290,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6290
   },
   "name": "Website Chatbot Agent",
   "tags": [

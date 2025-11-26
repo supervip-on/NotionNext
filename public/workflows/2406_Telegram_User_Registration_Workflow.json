@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram User Registration Workflow",
-    "id": 2406,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2406
   },
   "nodes": [
     {

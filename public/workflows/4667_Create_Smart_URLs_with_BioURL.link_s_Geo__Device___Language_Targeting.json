@@ -2,8 +2,7 @@
   "id": "vRCOOlrPrR0rle4X",
   "meta": {
     "name": "Create Smart URLs with BioURL.link's Geo, Device & Language Targeting",
-    "id": 4667,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4667
   },
   "name": "biourl node",
   "tags": [],

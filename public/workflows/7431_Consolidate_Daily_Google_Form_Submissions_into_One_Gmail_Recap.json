@@ -2,8 +2,7 @@
   "id": "4PkzGnVzhzmFcQas",
   "meta": {
     "name": "Consolidate Daily Google Form Submissions into One Gmail Recap",
-    "id": 7431,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7431
   },
   "name": "Google Form Daily Recap to Email",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Process Documents with OCR, Analytics & Google Drive using PDF Vector",
-    "id": 8505,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8505
   },
   "nodes": [
     {

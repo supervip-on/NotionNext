@@ -2,8 +2,7 @@
   "id": "gUx6hY0bOoReluxE",
   "meta": {
     "name": "Store Chat Data in Supabase PostgreSQL for WhatsApp/Slack Chatbot ",
-    "id": 3867,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3867
   },
   "name": "Supabase Setup Postgres",
   "tags": [

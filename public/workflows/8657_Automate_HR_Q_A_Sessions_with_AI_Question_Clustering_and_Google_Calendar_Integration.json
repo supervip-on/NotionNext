@@ -2,8 +2,7 @@
   "id": "1VM3ArDydbQVPrdN",
   "meta": {
     "name": "Automate HR Q&A Sessions with AI Question Clustering and Google Calendar Integration",
-    "id": 8657,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8657
   },
   "name": "Monthly HR Q&A in Google Meet",
   "tags": [],

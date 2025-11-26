@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Webinar Registration with Zoom & KlickTipp Form Integration",
-    "id": 8416,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8416
   },
   "nodes": [
     {

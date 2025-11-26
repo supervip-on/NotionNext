@@ -2,8 +2,7 @@
   "id": "FVsgc9AjW27LUTIf",
   "meta": {
     "name": "Create Evergreen Content with GitHub Dynamic Images & URL Redirects",
-    "id": 5546,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5546
   },
   "name": "Create auto-updating images and redirect URL for your content",
   "tags": [],

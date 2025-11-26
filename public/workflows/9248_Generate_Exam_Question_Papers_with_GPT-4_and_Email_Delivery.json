@@ -2,8 +2,7 @@
   "id": "VXI1oimqqgMIuyoW",
   "meta": {
     "name": "Generate Exam Question Papers with GPT-4 and Email Delivery",
-    "id": 9248,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9248
   },
   "name": "Generate Exam Question Papers with GPT-4 and Email Delivery",
   "tags": [

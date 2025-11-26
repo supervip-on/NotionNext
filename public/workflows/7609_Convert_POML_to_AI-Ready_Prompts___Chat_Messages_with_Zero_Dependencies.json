@@ -2,8 +2,7 @@
   "id": "7609",
   "meta": {
     "name": "Convert POML to AI-Ready Prompts & Chat Messages with Zero Dependencies",
-    "id": 7609,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7609
   },
   "name": "Parse POML",
   "tags": [

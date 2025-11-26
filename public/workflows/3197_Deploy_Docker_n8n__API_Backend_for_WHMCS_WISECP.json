@@ -2,8 +2,7 @@
   "id": "cY8OVKzHS0ScRhP9",
   "meta": {
     "name": "Deploy Docker n8n, API Backend for WHMCS/WISECP",
-    "id": 3197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3197
   },
   "name": "puq-docker-n8n-deploy",
   "tags": [],

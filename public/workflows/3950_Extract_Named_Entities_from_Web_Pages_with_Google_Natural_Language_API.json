@@ -2,8 +2,7 @@
   "id": "4wPgPbxtojrUO7Dx",
   "meta": {
     "name": "Extract Named Entities from Web Pages with Google Natural Language API",
-    "id": 3950,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3950
   },
   "name": "Google Page Entity Extraction Template",
   "tags": [

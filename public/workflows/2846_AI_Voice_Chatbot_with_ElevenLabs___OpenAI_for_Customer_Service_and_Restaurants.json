@@ -2,8 +2,7 @@
   "id": "ibiHg6umCqvcTF4g",
   "meta": {
     "name": "AI Voice Chatbot with ElevenLabs & OpenAI for Customer Service and Restaurants",
-    "id": 2846,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2846
   },
   "name": "Voice RAG Chatbot with ElevenLabs and OpenAI",
   "tags": [],

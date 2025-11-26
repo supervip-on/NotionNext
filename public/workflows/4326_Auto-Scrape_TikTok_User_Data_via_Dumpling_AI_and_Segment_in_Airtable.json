@@ -2,8 +2,7 @@
   "id": "thlRQfqORNJEz5Wm",
   "meta": {
     "name": "Auto-Scrape TikTok User Data via Dumpling AI and Segment in Airtable",
-    "id": 4326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4326
   },
   "name": "Auto-Scrape TikTok User Data via Dumpling AI and Segment in Airtable",
   "tags": [],

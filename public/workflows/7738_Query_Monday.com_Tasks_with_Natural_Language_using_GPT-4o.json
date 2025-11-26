@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Query Monday.com Tasks with Natural Language using GPT-4o",
-    "id": 7738,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7738
   },
   "nodes": [
     {

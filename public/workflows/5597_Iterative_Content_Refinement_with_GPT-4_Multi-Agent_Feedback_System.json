@@ -2,8 +2,7 @@
   "id": "rdQbhY9lEyDizxvy",
   "meta": {
     "name": "Iterative Content Refinement with GPT-4 Multi-Agent Feedback System",
-    "id": 5597,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5597
   },
   "name": "Multi-Agent Feedback Loops",
   "tags": [

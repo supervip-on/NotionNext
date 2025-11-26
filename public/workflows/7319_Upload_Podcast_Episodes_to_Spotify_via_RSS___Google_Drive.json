@@ -2,8 +2,7 @@
   "id": "5ryAv7xA8KzgHNga",
   "meta": {
     "name": "Upload Podcast Episodes to Spotify via RSS & Google Drive",
-    "id": 7319,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7319
   },
   "name": "Upload Spotify Template v2",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "lNBuLeOYDLRMZhF0",
   "meta": {
     "name": "Create and Manage Short URLs with Telegram Bot, MongoDB and Nginx Redirects",
-    "id": 5709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5709
   },
   "name": "Url Shortner",
   "tags": [],

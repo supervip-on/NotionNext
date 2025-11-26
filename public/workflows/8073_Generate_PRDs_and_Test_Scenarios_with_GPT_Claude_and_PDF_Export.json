@@ -2,8 +2,7 @@
   "id": "Dg9akaNziOBwgNu0",
   "meta": {
     "name": "Generate PRDs and Test Scenarios with GPT/Claude and PDF Export",
-    "id": 8073,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8073
   },
   "name": "PRD_Testcase",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Salesforce Lead Capture with GPT-4 Personalized Email & SMS Follow-Up",
-    "id": 6102,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6102
   },
   "nodes": [
     {

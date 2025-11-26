@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Beginner AI Dataset Generator using OpenAI + LangChain in n8n",
-    "id": 7154,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7154
   },
   "nodes": [
     {

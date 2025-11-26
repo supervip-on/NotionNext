@@ -111,8 +111,7 @@
   },
   "meta": {
     "name": "Insert and read data from Google Sheets",
-    "id": 600,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 600
   },
   "id": "600"
 }

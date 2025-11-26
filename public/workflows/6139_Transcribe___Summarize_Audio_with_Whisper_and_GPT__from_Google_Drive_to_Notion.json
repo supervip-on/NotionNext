@@ -2,8 +2,7 @@
   "id": "kPxKpLeogc6jiupV",
   "meta": {
     "name": "Transcribe & Summarize Audio with Whisper and GPT, from Google Drive to Notion",
-    "id": 6139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6139
   },
   "name": "My workflow 11",
   "tags": [],

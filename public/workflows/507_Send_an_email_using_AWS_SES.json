@@ -48,8 +48,7 @@
   },
   "meta": {
     "name": "Send an email using AWS SES",
-    "id": 507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 507
   },
   "id": "507"
 }

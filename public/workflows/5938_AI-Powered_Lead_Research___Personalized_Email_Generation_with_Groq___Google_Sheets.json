@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Lead Research & Personalized Email Generation with Groq & Google Sheets",
-    "id": 5938,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5938
   },
   "nodes": [
     {

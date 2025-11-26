@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎓 Learn Data Synchronization: Warehouse Inventory Audit Tutorial",
-    "id": 5999,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5999
   },
   "nodes": [
     {

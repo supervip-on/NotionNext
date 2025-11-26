@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert HTML & PDF Files to PNG Images with CustomJS PDF Toolkit",
-    "id": 3870,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3870
   },
   "nodes": [
     {

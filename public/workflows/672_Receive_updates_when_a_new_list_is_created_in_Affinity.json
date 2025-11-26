@@ -26,7 +26,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a new list is created in Affinity",
-    "id": 672,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 672
   }
 }

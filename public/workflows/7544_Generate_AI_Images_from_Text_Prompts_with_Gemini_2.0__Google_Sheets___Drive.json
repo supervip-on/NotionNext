@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Images from Text Prompts with Gemini 2.0, Google Sheets & Drive",
-    "id": 7544,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7544
   },
   "nodes": [
     {

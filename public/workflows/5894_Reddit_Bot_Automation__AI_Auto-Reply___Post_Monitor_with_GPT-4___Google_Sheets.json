@@ -2,8 +2,7 @@
   "id": "knQoxMv2NhRJSXeB",
   "meta": {
     "name": "Reddit Bot Automation: AI Auto-Reply & Post Monitor with GPT-4 + Google Sheets",
-    "id": 5894,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5894
   },
   "name": "Reddit - Posts n8n workflow",
   "tags": [],

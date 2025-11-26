@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Support Ticket Triage and Resolution with JIRA and AI",
-    "id": 3868,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3868
   },
   "nodes": [
     {

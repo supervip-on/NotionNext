@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI-Powered Images using IBM Granite Vision 3.3 2B with Replicate",
-    "id": 6847,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6847
   },
   "name": "ibm-granite/granite-vision-3.3-2b - Image Generator",
   "nodes": [

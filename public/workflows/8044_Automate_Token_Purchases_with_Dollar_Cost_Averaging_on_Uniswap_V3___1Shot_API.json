@@ -2,8 +2,7 @@
   "id": "maYy0i7nYbJwepaQ",
   "meta": {
     "name": "Automate Token Purchases with Dollar Cost Averaging on Uniswap V3 & 1Shot API",
-    "id": 8044,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8044
   },
   "name": "DCA w/ Uniswap V3",
   "tags": [],

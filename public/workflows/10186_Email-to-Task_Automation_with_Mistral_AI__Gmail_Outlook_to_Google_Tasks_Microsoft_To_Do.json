@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Email-to-Task Automation with Mistral AI (Gmail/Outlook to Google Tasks/Microsoft To Do)",
-    "id": 10186,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10186
   },
   "nodes": [
     {

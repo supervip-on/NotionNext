@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Discord scheduled events to Google Calendar",
-    "id": 1940,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1940
   },
   "nodes": [
     {

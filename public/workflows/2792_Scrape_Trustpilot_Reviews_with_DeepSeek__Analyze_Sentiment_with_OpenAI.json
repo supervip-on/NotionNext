@@ -2,8 +2,7 @@
   "id": "w434EiZ2z7klQAyp",
   "meta": {
     "name": "Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI",
-    "id": 2792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2792
   },
   "name": "Scrape Trustpilot Reviews with DeepSeek, Analyze Sentiment with OpenAI",
   "tags": [

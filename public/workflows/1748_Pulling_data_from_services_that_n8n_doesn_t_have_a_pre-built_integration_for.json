@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Pulling data from services that n8n doesn’t have a pre-built integration for",
-    "id": 1748,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1748
   },
   "nodes": [
     {

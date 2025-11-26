@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Daily Backup of n8n Workflows to GitLab Repositories",
-    "id": 4035,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4035
   },
   "nodes": [
     {

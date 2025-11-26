@@ -2,8 +2,7 @@
   "id": "SrM0PcHuYRxXnVGS",
   "meta": {
     "name": "Extract Meeting To-Do Lists from Audio with Google Gemini and Send to Slack",
-    "id": 9808,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9808
   },
   "name": "Generate meeting to-do lists from audio files in Google Drive and send to Slack",
   "tags": [],

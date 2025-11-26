@@ -2,8 +2,7 @@
   "id": "HWh5vnYnX9penlWW",
   "meta": {
     "name": "Send One-Time Email Alerts for Urgent Tasks with Google Sheets and Gmail",
-    "id": 9324,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9324
   },
   "name": "Send One-Time Email Alerts for Urgent Tasks with Google Sheets and Gmail",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "k22TSNIZXHaQ9rGr",
   "meta": {
     "name": "Backup Clockify to Github based on monthly reports",
-    "id": 3147,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3147
   },
   "name": "Clockify Backup Template",
   "tags": [

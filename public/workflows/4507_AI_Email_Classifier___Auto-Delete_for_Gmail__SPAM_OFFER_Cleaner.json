@@ -2,8 +2,7 @@
   "id": "IYMbUalwaX81VJs4",
   "meta": {
     "name": "AI Email Classifier & Auto-Delete for Gmail (SPAM/OFFER Cleaner)",
-    "id": 4507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4507
   },
   "name": "Auto Spam/Marketing & Offer Delete",
   "tags": [],

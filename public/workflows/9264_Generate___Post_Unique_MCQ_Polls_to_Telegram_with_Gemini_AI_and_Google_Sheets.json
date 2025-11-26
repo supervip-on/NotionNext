@@ -757,8 +757,7 @@
   },
   "meta": {
     "name": "Generate & Post Unique MCQ Polls to Telegram with Gemini AI and Google Sheets",
-    "id": 9264,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9264
   },
   "id": "9264"
 }

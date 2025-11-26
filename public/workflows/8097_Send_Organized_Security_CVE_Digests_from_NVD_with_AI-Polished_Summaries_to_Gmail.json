@@ -2,8 +2,7 @@
   "id": "neJ7FcRJ9hJGJd5g",
   "meta": {
     "name": "Send Organized Security CVE Digests from NVD with AI-Polished Summaries to Gmail",
-    "id": 8097,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8097
   },
   "name": "CVE-Monitor by ca7ai",
   "tags": [],

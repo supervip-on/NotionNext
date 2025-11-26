@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Email Triage & Auto-Response System with OpenAI Agents & Gmail",
-    "id": 9157,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9157
   },
   "nodes": [
     {

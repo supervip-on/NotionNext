@@ -2,8 +2,7 @@
   "id": "3gPcwtlj06KIygRO",
   "meta": {
     "name": "Extract LinkedIn Post Engagement Data with Airtop",
-    "id": 4251,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4251
   },
   "name": "LinkedIn Post Engagement Data Extractor - Template",
   "tags": [],

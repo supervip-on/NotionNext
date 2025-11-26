@@ -2,8 +2,7 @@
   "id": "5uapJIjLLhwnhX0n",
   "meta": {
     "name": "AI-Powered Research Assistant with Perplexity Sonar API",
-    "id": 3673,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3673
   },
   "name": "Perplexity Researcher",
   "tags": [],

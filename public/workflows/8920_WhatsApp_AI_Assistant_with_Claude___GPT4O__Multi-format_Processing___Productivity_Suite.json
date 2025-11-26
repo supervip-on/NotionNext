@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp AI Assistant with Claude & GPT4O: Multi-format Processing & Productivity Suite",
-    "id": 8920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8920
   },
   "nodes": [
     {

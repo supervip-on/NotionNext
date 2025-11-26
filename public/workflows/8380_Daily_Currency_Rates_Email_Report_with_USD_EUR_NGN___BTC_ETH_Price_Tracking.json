@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Currency Rates Email Report with USD→EUR/NGN & BTC/ETH Price Tracking",
-    "id": 8380,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8380
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized Icebreakers",
-    "id": 6530,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6530
   },
   "nodes": [
     {

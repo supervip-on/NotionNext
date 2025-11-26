@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send specific PDF attachments from Gmail to Google Drive using OpenAI",
-    "id": 1897,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1897
   },
   "nodes": [
     {

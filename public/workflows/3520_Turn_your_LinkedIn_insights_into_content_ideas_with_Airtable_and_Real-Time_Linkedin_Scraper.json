@@ -2,8 +2,7 @@
   "id": "ift5iHQG9G2lzJzP",
   "meta": {
     "name": "📌 Turn your LinkedIn insights into content ideas with Airtable and Real-Time Linkedin Scraper",
-    "id": 3520,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3520
   },
   "name": "Linkedin to Airtable",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "HubSpot Contact Email Validation with Hunter.io",
-    "id": 4416,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4416
   },
   "nodes": [
     {

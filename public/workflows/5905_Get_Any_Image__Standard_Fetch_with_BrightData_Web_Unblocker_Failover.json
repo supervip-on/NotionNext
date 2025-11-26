@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get Any Image: Standard Fetch with BrightData Web Unblocker Failover",
-    "id": 5905,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5905
   },
   "nodes": [
     {

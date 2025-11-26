@@ -2,8 +2,7 @@
   "id": "cM2tIagg9TD8Jc0l",
   "meta": {
     "name": "Kubernetes Deployment & Pod Monitoring with Telegram Alerts",
-    "id": 9613,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9613
   },
   "name": "Kubernetes Monitoring & Alert - Deplyoment & Pods Status - Telegram Alert",
   "tags": [],

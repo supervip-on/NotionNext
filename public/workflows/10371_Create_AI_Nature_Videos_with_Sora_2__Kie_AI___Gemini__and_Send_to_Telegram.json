@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI Nature Videos with Sora 2 (Kie AI), Gemini, and Send to Telegram",
-    "id": 10371,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10371
   },
   "nodes": [
     {

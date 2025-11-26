@@ -2,8 +2,7 @@
   "id": "CXe5AJieJbpn6RYE",
   "meta": {
     "name": "Conversational PostgreSQL Agent with Visuals, Multi-KPI, and Data Editing (MCP)",
-    "id": 3903,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3903
   },
   "name": "Build your own PostgreSQL MCP server (visuals capable)",
   "tags": [],

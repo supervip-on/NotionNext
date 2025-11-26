@@ -2,8 +2,7 @@
   "id": "2MkrpeTUd7VHfSS9",
   "meta": {
     "name": "Generate & Schedule Social Posts with Gemini/OpenAI for X and LinkedIn",
-    "id": 5913,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5913
   },
   "name": "Linkedin content machine",
   "tags": [],

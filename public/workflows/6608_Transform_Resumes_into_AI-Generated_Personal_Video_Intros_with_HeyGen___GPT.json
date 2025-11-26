@@ -2,8 +2,7 @@
   "id": "MrbVzjLGJ1Mqgivh",
   "meta": {
     "name": "Transform Resumes into AI-Generated Personal Video Intros with HeyGen & GPT",
-    "id": 6608,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6608
   },
   "name": "Resume to Avatar Video",
   "tags": [],

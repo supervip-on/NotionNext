@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Business AI Command Center: Modular Agents for Google Workspace, Vector Search & Multi-Channel Reports",
-    "id": 7060,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7060
   },
   "nodes": [
     {

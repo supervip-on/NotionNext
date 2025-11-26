@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "OpenAI Responses API Adapter for LLM and AI Agent Workflows",
-    "id": 4218,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4218
   },
   "nodes": [
     {

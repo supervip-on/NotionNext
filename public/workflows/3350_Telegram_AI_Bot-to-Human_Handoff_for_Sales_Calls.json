@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": " Telegram AI Bot-to-Human Handoff for Sales Calls",
-    "id": 3350,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3350
   },
   "nodes": [
     {

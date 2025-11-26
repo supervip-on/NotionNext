@@ -2,8 +2,7 @@
   "id": "HpjjgJm3Ulnl1cJQ",
   "meta": {
     "name": "Sync Notion to Clockify including Clients Projects and Tasks",
-    "id": 3177,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3177
   },
   "name": "Notion to Clockify Sync Template",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert LinkedIn Videos to MP4 with RapidAPI and Store in Google Drive & Sheets",
-    "id": 6837,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6837
   },
   "nodes": [
     {

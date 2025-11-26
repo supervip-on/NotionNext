@@ -2,8 +2,7 @@
   "id": "9loQL9vFR9lofvwj",
   "meta": {
     "name": "Process Contact Form Submissions with Validation and MongoDB Storage",
-    "id": 8071,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8071
   },
   "name": "Contact Form Workflow with Data Validation and MongoDB Integration",
   "tags": [],

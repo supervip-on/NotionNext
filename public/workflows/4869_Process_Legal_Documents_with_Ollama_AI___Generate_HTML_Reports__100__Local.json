@@ -2,8 +2,7 @@
   "id": "rqu4dt6kaPwKplr3",
   "meta": {
     "name": "Process Legal Documents with Ollama AI & Generate HTML Reports (100% Local)",
-    "id": 4869,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4869
   },
   "name": "Local PDF",
   "tags": [],

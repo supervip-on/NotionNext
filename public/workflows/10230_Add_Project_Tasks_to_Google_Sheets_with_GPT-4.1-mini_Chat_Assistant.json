@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add Project Tasks to Google Sheets with GPT-4.1-mini Chat Assistant",
-    "id": 10230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10230
   },
   "nodes": [
     {

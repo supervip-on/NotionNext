@@ -2,8 +2,7 @@
   "id": "9KGiiRIN9IKHc7Ls",
   "meta": {
     "name": "Send WhatsApp Bulk Messages from Google Sheets",
-    "id": 6237,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6237
   },
   "name": "WhatsApp Bulk Message Broadcast From Google Sheet",
   "tags": [],

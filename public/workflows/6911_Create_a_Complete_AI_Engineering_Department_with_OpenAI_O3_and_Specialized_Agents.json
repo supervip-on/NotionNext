@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Complete AI Engineering Department with OpenAI O3 and Specialized Agents",
-    "id": 6911,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6911
   },
   "name": "CTO Agent with Engineering Team",
   "nodes": [

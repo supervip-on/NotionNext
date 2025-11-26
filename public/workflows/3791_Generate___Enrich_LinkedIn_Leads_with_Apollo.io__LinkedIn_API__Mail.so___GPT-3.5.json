@@ -2,8 +2,7 @@
   "id": "7wwY8wfZdNpL83QQ",
   "meta": {
     "name": "Generate & Enrich LinkedIn Leads with Apollo.io, LinkedIn API, Mail.so & GPT-3.5",
-    "id": 3791,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3791
   },
   "name": "LinkedIn Leads Scraping & Enrichment (Main)",
   "tags": [],

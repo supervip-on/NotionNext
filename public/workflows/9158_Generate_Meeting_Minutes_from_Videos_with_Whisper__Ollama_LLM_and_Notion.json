@@ -2,8 +2,7 @@
   "id": "62eZeoZUfZggUZjF",
   "meta": {
     "name": "Generate Meeting Minutes from Videos with Whisper, Ollama LLM and Notion",
-    "id": 9158,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9158
   },
   "name": "Meeting Minutes Maker",
   "tags": [],

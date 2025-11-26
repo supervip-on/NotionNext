@@ -2,8 +2,7 @@
   "id": "7O3XDyjnKZuQ1iOB",
   "meta": {
     "name": "Summarize Meeting Transcripts with GPT-4 & Sentiment Analysis for Gmail",
-    "id": 9801,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9801
   },
   "name": "Email_Summarizer",
   "tags": [],

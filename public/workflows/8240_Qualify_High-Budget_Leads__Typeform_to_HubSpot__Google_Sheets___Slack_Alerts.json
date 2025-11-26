@@ -2,8 +2,7 @@
   "id": "{{WORKFLOW_ID}}",
   "meta": {
     "name": "Qualify High-Budget Leads: Typeform to HubSpot, Google Sheets & Slack Alerts",
-    "id": 8240,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8240
   },
   "name": "23 - Priority Lead Flow",
   "tags": [

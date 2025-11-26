@@ -2,8 +2,7 @@
   "id": "QNRmujxuRedJ4sCy",
   "meta": {
     "name": "Create a Webhook-Ready Conversational Assistant with Google Gemini and Session Memory",
-    "id": 5426,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5426
   },
   "name": "Universal ai assistant",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "E6zaQoe1afHzQBOb",
   "meta": {
     "name": "Transform Reddit Questions into SEO Blog Posts with OpenAI and Google Sheets",
-    "id": 5842,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5842
   },
   "name": "VOC Data into Blogs",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "R07KTq4pioC2A0oL",
   "meta": {
     "name": "Automated Lead Capture & Business Q&A with GPT-4o, Pinecone, and Google Sheets",
-    "id": 6080,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6080
   },
   "name": "AI Chatbot for Lead Capture and Business Q&A",
   "tags": [],

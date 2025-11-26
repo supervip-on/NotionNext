@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create & Approve POV Videos with AI, ElevenLabs & Multi-Posting (TikTok/IG/YT)",
-    "id": 4029,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4029
   },
   "nodes": [
     {

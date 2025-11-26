@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Free IP Analysis: NixGuard AI Summaries & Wazuh Integration",
-    "id": 5928,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5928
   },
   "nodes": [
     {

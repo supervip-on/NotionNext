@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Sales Assistant with Airtable CRM, Gmail and Web Research",
-    "id": 8322,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8322
   },
   "nodes": [
     {

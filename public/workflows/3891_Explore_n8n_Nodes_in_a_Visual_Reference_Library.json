@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Explore n8n Nodes in a Visual Reference Library",
-    "id": 3891,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3891
   },
   "nodes": [
     {

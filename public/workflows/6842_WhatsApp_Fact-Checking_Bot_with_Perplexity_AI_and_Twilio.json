@@ -2,8 +2,7 @@
   "id": "3UYpKpNGvAhavb0g",
   "meta": {
     "name": "WhatsApp Fact-Checking Bot with Perplexity AI and Twilio",
-    "id": 6842,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6842
   },
   "name": "WhatsApp Fact-Checking Bot",
   "tags": [],

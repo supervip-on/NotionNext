@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Auto Message Router and Responder with Request Detection",
-    "id": 4889,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4889
   },
   "nodes": [
     {

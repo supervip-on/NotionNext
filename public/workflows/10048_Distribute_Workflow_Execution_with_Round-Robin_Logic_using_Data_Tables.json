@@ -2,8 +2,7 @@
   "id": "Ec7D7cmLxrh1z03H",
   "meta": {
     "name": "Distribute Workflow Execution with Round-Robin Logic using Data Tables",
-    "id": 10048,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10048
   },
   "name": "Load Balancer",
   "tags": [],

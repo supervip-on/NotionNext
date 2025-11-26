@@ -2,8 +2,7 @@
   "id": "Gzj0XGbwdrkLDnf6",
   "meta": {
     "name": "Track Technology Changes with BuiltWith and Log to Google Sheets",
-    "id": 4787,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4787
   },
   "name": "Builtwith Tracker To Email",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Post-Sales Call Automated Proposal Generator",
-    "id": 4359,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4359
   },
   "name": "AI Proposal Generator System",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Request-to-Quote with OpenAI, Google Sheets & CraftMyPDF",
-    "id": 8239,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8239
   },
   "nodes": [
     {

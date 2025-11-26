@@ -2,8 +2,7 @@
   "id": "6D7Qa7LGmBt8ka3g",
   "meta": {
     "name": "Create a Searchable Document Archive with Telegram, Drive, OCR and Airtable",
-    "id": 10388,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10388
   },
   "name": "Telegram Smart File Manager (Drive + OCR Integration)",
   "tags": [],

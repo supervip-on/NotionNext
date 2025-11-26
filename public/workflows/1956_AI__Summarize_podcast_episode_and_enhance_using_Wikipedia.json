@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI: Summarize podcast episode and enhance using Wikipedia",
-    "id": 1956,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1956
   },
   "nodes": [
     {

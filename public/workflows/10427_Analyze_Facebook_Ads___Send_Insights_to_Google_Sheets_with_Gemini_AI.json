@@ -2,8 +2,7 @@
   "id": "e1a3hFH38UDCqquQ",
   "meta": {
     "name": "Analyze Facebook Ads & Send Insights to Google Sheets with Gemini AI",
-    "id": 10427,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10427
   },
   "name": "01 Analyze Facebook Ad Performance with an AI Media Buyer and Send Insights to Google Sheets",
   "tags": [],

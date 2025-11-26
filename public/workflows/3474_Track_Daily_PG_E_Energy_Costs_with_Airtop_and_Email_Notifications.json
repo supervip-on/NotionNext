@@ -2,8 +2,7 @@
   "id": "NMGsDLoVZ7DUukGs",
   "meta": {
     "name": "Track Daily PG&E Energy Costs with Airtop and Email Notifications",
-    "id": 3474,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3474
   },
   "name": "PG&E Daily Cost Tracker",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "4FnexGEw3EKxHlzw",
   "meta": {
     "name": "AI-Powered Upwork Cover Letter Generator – Pinecone, Groq, Google Gemin, SerpAPI",
-    "id": 3622,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3622
   },
   "name": "Prod: Cover Letter Generator",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "9LKLgEkXV10DszQ1",
   "meta": {
     "name": "Generate Articles from Google Sheets to WordPress with Web Scraping and GPT-4 Mini",
-    "id": 8921,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8921
   },
   "name": "🤖 Automated AI Article Generation from Google Sheets to WordPressnail",
   "tags": [

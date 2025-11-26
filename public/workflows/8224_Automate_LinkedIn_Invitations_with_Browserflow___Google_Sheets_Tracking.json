@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate LinkedIn Invitations with Browserflow & Google Sheets Tracking",
-    "id": 8224,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8224
   },
   "nodes": [
     {

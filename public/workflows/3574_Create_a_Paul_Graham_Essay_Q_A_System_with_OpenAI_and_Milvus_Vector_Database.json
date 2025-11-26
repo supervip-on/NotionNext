@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Paul Graham Essay Q&A System with OpenAI and Milvus Vector Database",
-    "id": 3574,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3574
   },
   "nodes": [
     {

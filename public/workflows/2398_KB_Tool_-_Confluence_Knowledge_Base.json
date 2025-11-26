@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "KB Tool - Confluence Knowledge Base",
-    "id": 2398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2398
   },
   "nodes": [
     {

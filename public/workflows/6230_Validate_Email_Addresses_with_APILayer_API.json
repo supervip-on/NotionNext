@@ -2,8 +2,7 @@
   "id": "a45d1jkHh90Cr2bF",
   "meta": {
     "name": "Validate Email Addresses with APILayer API",
-    "id": 6230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6230
   },
   "name": "Validate Email Addresses with APILayer API",
   "tags": [],

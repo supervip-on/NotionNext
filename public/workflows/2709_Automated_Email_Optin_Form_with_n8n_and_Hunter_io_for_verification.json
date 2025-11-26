@@ -2,8 +2,7 @@
   "id": "1blBTEfOEjamDB0N",
   "meta": {
     "name": "Automated Email Optin Form with n8n and Hunter io for verification",
-    "id": 2709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2709
   },
   "name": "Email form",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "fQdd3kaxfpdJeKBB",
   "meta": {
     "name": "N8N Backup Flow to Nextcloud (7-Day Retention)",
-    "id": 4338,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4338
   },
   "name": "N8N Backup Flow to Nextcloud (7-Day Retention)",
   "tags": [],

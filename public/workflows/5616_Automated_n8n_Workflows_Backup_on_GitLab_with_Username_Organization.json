@@ -2,8 +2,7 @@
   "id": "5ZZy57tVLfqtQZfF",
   "meta": {
     "name": "Automated n8n Workflows Backup on GitLab with Username Organization",
-    "id": 5616,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5616
   },
   "name": "Automated Backup of n8n Workflows to GitLab Organized by Username",
   "tags": [],

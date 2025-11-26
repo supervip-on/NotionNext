@@ -2,8 +2,7 @@
   "id": "Q0EjgXk8j2ygOvy5",
   "meta": {
     "name": "Send Slack Alerts for AWS IAM Access Keys Older Than 365 Days",
-    "id": 7501,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7501
   },
   "name": "AWS IAM Access Key Rotation Reminder Automation Workflow",
   "tags": [

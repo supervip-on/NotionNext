@@ -2,8 +2,7 @@
   "id": "XVI3nC7HVl7JU6C5",
   "meta": {
     "name": "Extract and Store YouTube Video Comments in Google Sheets",
-    "id": 5690,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5690
   },
   "name": "Youtube - Get Video Comments",
   "tags": [

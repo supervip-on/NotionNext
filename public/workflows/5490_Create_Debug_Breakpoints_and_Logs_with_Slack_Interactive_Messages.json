@@ -2,8 +2,7 @@
   "id": "hLfk0dRqKZU6LPUA",
   "meta": {
     "name": "Create Debug Breakpoints and Logs with Slack Interactive Messages",
-    "id": 5490,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5490
   },
   "name": "n8n_debug",
   "tags": [],

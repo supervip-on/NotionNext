@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reliable Reddit Subreddit Search with OAuth2 API Authentication",
-    "id": 7646,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7646
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "mbgpq1PH1SFkHi6w",
   "meta": {
     "name": "Add new clients from Notion to Clockify",
-    "id": 2551,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2551
   },
   "name": "Add new clients from Notion to Clockify",
   "tags": [],

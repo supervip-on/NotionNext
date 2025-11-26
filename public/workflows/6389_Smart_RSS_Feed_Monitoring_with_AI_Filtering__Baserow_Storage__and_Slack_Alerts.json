@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart RSS Feed Monitoring with AI Filtering, Baserow Storage, and Slack Alerts",
-    "id": 6389,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6389
   },
   "nodes": [
     {

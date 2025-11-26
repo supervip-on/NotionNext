@@ -2,8 +2,7 @@
   "id": "UY2lflocNrJbhBkQ",
   "meta": {
     "name": "Extract Person Data and Calculate ICP Score with Airtop",
-    "id": 4256,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4256
   },
   "name": "Extract person data and calculate ICP",
   "tags": [],

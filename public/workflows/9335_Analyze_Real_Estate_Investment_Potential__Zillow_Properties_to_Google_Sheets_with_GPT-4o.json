@@ -2,8 +2,7 @@
   "id": "pYD1J1Xed3QsjdAG",
   "meta": {
     "name": "Analyze Real Estate Investment Potential: Zillow Properties to Google Sheets with GPT-4o",
-    "id": 9335,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9335
   },
   "name": "Real Estate Investment Analysis: Zillow Property Scraper with AI Scoring to Google Sheets",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "SjiPE2lVXmmyh7Ca",
   "meta": {
     "name": "Web Research Assistant: Automated Search & Scraping with Gemini AI and Spreadsheet Reports",
-    "id": 8218,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8218
   },
   "name": "multi-source scraping",
   "tags": [],

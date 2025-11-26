@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Employee Offboarding with GPT-4 Analysis & Jotform Exit Interviews",
-    "id": 9697,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9697
   },
   "nodes": [
     {

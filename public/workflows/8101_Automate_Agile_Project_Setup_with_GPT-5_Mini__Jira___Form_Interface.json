@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Agile Project Setup with GPT-5 Mini, Jira & Form Interface",
-    "id": 8101,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8101
   },
   "nodes": [
     {

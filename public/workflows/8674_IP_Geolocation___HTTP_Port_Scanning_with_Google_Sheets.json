@@ -2,8 +2,7 @@
   "id": "ZUiF05eiy3I0zdls",
   "meta": {
     "name": "IP Geolocation & HTTP Port Scanning with Google Sheets",
-    "id": 8674,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8674
   },
   "name": "IP_Info_&_HttpPortScanner",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "RDxVDTX2mj9U1BO2",
   "meta": {
     "name": "Google Maps leads (names,emails,phones...) Apify + Airtable + Custom Emails",
-    "id": 7607,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7607
   },
   "name": "Google Maps leads: names, emails, phones with Apify + Airtable + personalized emails",
   "tags": [],

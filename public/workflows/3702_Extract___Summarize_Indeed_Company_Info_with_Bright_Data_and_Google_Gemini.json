@@ -2,8 +2,7 @@
   "id": "i89dNLYeOVdTwtcL",
   "meta": {
     "name": "Extract & Summarize Indeed Company Info with Bright Data and Google Gemini",
-    "id": 3702,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3702
   },
   "name": "Extract & Summarize Indeed Company Info with Bright Data and Google Gemini",
   "tags": [

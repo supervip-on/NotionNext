@@ -2,8 +2,7 @@
   "id": "7igUJFLIXoP9aAKl",
   "meta": {
     "name": "Transcribe and Analyze Meetings or Podcasts with ElevenLabs and Google Gemini AI",
-    "id": 8755,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8755
   },
   "name": "Transcribe and Analyze Meetings or Podcasts with ElevenLabs",
   "tags": [],

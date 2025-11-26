@@ -43,8 +43,7 @@
   },
   "meta": {
     "name": "Get the value of a key from Redis",
-    "id": 557,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 557
   },
   "id": "557"
 }

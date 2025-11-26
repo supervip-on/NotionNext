@@ -2,8 +2,7 @@
   "id": "tyNhfZniBI7ZcpQ8",
   "meta": {
     "name": "Process Voice Notes to AI Responses with Claude Sonnet, Nuclino & Slack",
-    "id": 6657,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6657
   },
   "name": "Voicenotes To Slack And Nuclino",
   "tags": [

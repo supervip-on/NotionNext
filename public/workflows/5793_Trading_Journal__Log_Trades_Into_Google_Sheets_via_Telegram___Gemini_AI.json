@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Trading Journal: Log Trades Into Google Sheets via Telegram & Gemini AI",
-    "id": 5793,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5793
   },
   "nodes": [
     {

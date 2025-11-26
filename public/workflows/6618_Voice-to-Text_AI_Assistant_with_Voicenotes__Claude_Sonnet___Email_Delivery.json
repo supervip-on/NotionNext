@@ -2,8 +2,7 @@
   "id": "2Ee9KQhkVgnDX89w",
   "meta": {
     "name": "Voice-to-Text AI Assistant with Voicenotes, Claude Sonnet & Email Delivery",
-    "id": 6618,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6618
   },
   "name": "Voicenotes - send prompts",
   "tags": [],

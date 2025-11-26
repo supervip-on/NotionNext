@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Smart Chatbot using OpenAI GPT and Airtable Knowledge Base",
-    "id": 6470,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6470
   },
   "nodes": [
     {

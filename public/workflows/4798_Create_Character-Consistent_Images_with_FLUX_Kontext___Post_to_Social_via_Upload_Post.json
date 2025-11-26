@@ -2,8 +2,7 @@
   "id": "AdtCs47Lt1Wtf2Dt",
   "meta": {
     "name": "Create Character-Consistent Images with FLUX Kontext & Post to Social via Upload Post",
-    "id": 4798,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4798
   },
   "name": "Upload-Post And FLUX Kontext",
   "tags": [],

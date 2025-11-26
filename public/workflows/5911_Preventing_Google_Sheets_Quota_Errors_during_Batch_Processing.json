@@ -2,8 +2,7 @@
   "id": "ieTfr3OU6NUM9CL4",
   "meta": {
     "name": "Preventing Google Sheets Quota Errors during Batch Processing",
-    "id": 5911,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5911
   },
   "name": "Preventing Google Sheets Quota Errors during Batch Processing",
   "tags": [],

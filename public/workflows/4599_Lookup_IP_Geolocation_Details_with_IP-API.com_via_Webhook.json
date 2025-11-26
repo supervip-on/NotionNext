@@ -2,8 +2,7 @@
   "id": "9Ua1Wqenubbi6OkW",
   "meta": {
     "name": "Lookup IP Geolocation Details with IP-API.com via Webhook",
-    "id": 4599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4599
   },
   "name": "IP Geolocation Lookup via Webhook",
   "tags": [],

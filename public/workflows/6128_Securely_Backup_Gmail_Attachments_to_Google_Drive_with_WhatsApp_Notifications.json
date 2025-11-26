@@ -2,8 +2,7 @@
   "id": "cVFAAkYFqpwFNMfJ",
   "meta": {
     "name": "Securely Backup Gmail Attachments to Google Drive with WhatsApp Notifications",
-    "id": 6128,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6128
   },
   "name": "Securely Backup Gmail Attachments to Google Drive with n8n",
   "tags": [],

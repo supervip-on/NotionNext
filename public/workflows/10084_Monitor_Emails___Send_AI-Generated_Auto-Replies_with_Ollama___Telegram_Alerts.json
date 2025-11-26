@@ -2,8 +2,7 @@
   "id": "g9r4yBMwWxsupyjv",
   "meta": {
     "name": "Monitor Emails & Send AI-Generated Auto-Replies with Ollama & Telegram Alerts",
-    "id": 10084,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10084
   },
   "name": "AI-Powered IMAP Monitor with Telegram Alerts and Smart Auto-Reply",
   "tags": [],

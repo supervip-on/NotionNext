@@ -2,8 +2,7 @@
   "id": "ITJwpEvX9Zijl4Xe",
   "meta": {
     "name": "Generate Dynamic JSON Output Formats for AI Agents with Mistral",
-    "id": 5829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5829
   },
   "name": "JSON Architect - Dynamically Generate JSON Output Formats for Any AI Agent",
   "tags": [

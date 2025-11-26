@@ -2,8 +2,7 @@
   "id": "5NjNI3YAZnLdY5c7",
   "meta": {
     "name": "Collect & Summarize Multilingual News with NewsAPI, OpenAI & Google Sheets",
-    "id": 7996,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7996
   },
   "name": "News Auto Collector → Google Sheets",
   "tags": [],

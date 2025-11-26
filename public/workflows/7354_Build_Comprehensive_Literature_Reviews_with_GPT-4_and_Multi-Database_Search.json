@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Comprehensive Literature Reviews with GPT-4 and Multi-Database Search",
-    "id": 7354,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7354
   },
   "nodes": [
     {

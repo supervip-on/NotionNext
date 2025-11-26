@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Get a board from monday.com",
-    "id": 556,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 556
   },
   "id": "556"
 }

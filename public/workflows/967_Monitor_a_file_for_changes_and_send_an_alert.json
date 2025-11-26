@@ -233,7 +233,6 @@
   },
   "meta": {
     "name": "Monitor a file for changes and send an alert",
-    "id": 967,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 967
   }
 }

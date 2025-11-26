@@ -2,8 +2,7 @@
   "id": "uIREtTV8TRuF3lru",
   "meta": {
     "name": "Convert Markdown Content to Contentful Rich Text with AI Formatting",
-    "id": 4078,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4078
   },
   "name": "Convert Markdown Content to Contentful Rich Text with AI Formatting.",
   "tags": [

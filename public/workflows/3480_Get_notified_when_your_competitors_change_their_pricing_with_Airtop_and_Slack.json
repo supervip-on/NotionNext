@@ -2,8 +2,7 @@
   "id": "XY0cZQwrhzOkisSt",
   "meta": {
     "name": "Get notified when your competitors change their pricing with Airtop and Slack",
-    "id": 3480,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3480
   },
   "name": "Monitor Competitor Pricing",
   "tags": [

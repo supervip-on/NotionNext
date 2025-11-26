@@ -110,7 +110,6 @@
   },
   "meta": {
     "name": "Create a table in Quest DB and insert data",
-    "id": 592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 592
   }
 }

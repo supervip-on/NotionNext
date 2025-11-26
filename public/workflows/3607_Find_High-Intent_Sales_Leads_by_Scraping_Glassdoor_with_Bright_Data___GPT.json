@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find High-Intent Sales Leads by Scraping Glassdoor with Bright Data & GPT",
-    "id": 3607,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3607
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "KDDtsVuPlz8iMlBF",
   "meta": {
     "name": "WhatsApp Support Assistant with GPT-4 Mini & Google Sheets Data Training",
-    "id": 6452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6452
   },
   "name": "WhatsApp AI HelpDesk – Smart SupportBot Using Trained Data & WasenderAPI",
   "tags": [],

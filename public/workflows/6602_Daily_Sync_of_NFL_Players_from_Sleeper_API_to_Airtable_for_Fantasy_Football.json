@@ -2,8 +2,7 @@
   "id": "ZhfmOgJPvGSVYbW6",
   "meta": {
     "name": "Daily Sync of NFL Players from Sleeper API to Airtable for Fantasy Football",
-    "id": 6602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6602
   },
   "name": "Sleeper NFL Players Sync",
   "tags": [

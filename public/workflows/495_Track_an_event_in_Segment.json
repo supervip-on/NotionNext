@@ -46,7 +46,6 @@
   },
   "meta": {
     "name": "Track an event in Segment",
-    "id": 495,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 495
   }
 }

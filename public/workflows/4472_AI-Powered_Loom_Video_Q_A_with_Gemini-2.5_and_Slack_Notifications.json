@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Loom Video Q&A with Gemini-2.5 and Slack Notifications",
-    "id": 4472,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4472
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "4316",
   "meta": {
     "name": "Reliable AI Agent Output  Without Structured Output Parser - w/ OpenAI & Switch",
-    "id": 4316,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4316
   },
   "name": "Reliable Structured Output from AI Agent Without the Structured Output Parser - with OpenAI & Switch node",
   "tags": [],

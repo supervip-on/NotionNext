@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate PDF Invoice Generation & Delivery with Gmail and Google Drive Storage",
-    "id": 8413,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8413
   },
   "nodes": [
     {

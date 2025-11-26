@@ -2,8 +2,7 @@
   "id": "ERIlxRN2QNARj3RZ",
   "meta": {
     "name": "Scrape & Analyse Meta Ad Library Image Ads with Apify and OpenAI",
-    "id": 4003,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4003
   },
   "name": "Scrape & Analyze Meta Ad Library Image Ads with OpenAI and store results in Google Sheets",
   "tags": [],

@@ -879,8 +879,7 @@
   "triggerCount": 2,
   "meta": {
     "name": "Automated Job Applications & Status Tracking with LinkedIn, Indeed & Google Sheets",
-    "id": 5906,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5906
   },
   "id": "5906"
 }

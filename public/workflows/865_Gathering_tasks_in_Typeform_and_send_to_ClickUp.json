@@ -248,7 +248,6 @@
   },
   "meta": {
     "name": "Gathering tasks in Typeform and send to ClickUp",
-    "id": 865,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 865
   }
 }

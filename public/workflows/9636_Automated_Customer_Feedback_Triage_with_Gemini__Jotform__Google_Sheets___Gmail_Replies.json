@@ -2,8 +2,7 @@
   "id": "REDACTED",
   "meta": {
     "name": "Automated Customer Feedback Triage with Gemini, Jotform, Google Sheets & Gmail Replies",
-    "id": 9636,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9636
   },
   "name": "Jotform",
   "tags": [],

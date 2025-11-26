@@ -54,7 +54,6 @@
   },
   "meta": {
     "name": "Creates a time tracking project from Syncro to Clockify",
-    "id": 1487,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1487
   }
 }

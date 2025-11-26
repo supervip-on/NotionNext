@@ -2,8 +2,7 @@
   "id": "XqNsiUSOpgO7PRPD",
   "meta": {
     "name": "Extract Text from Images with Telegram Bot & Gemini 2.0 Flash OCR",
-    "id": 5864,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5864
   },
   "name": "Image Reader Gemini OCR",
   "tags": [],

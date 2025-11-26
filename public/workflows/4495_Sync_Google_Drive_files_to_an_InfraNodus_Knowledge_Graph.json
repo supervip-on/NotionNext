@@ -2,8 +2,7 @@
   "id": "SMDFq24qv9Xc02SM",
   "meta": {
     "name": "Sync Google Drive files to an InfraNodus Knowledge Graph",
-    "id": 4495,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4495
   },
   "name": "Sync Google Drive files to an InfraNodus Graph",
   "tags": [],

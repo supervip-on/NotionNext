@@ -2,8 +2,7 @@
   "id": "IaP1PFerysorkzbn",
   "meta": {
     "name": "Automated Upload & Send a Large File with TransferNow",
-    "id": 8742,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8742
   },
   "name": "Automated Send a Large File with TransferNow",
   "tags": [],

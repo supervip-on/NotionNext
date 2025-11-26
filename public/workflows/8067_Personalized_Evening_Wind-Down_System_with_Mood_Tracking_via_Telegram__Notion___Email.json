@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized Evening Wind-Down System with Mood Tracking via Telegram, Notion & Email",
-    "id": 8067,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8067
   },
   "name": "The Quiet Evening Ritual — Wind‑Down Automation",
   "nodes": [

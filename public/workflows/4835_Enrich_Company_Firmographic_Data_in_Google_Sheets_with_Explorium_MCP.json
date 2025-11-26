@@ -2,8 +2,7 @@
   "id": "69EBKpEZt4lL2zoE",
   "meta": {
     "name": "Enrich Company Firmographic Data in Google Sheets with Explorium MCP",
-    "id": 4835,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4835
   },
   "name": "Enrich Company Firmographic Data in Google Sheets with Explorium MCP",
   "tags": [],

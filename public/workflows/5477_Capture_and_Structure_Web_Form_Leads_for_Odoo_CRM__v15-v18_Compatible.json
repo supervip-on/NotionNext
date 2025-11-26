@@ -2,8 +2,7 @@
   "id": "4FKerrWcJDABKapy",
   "meta": {
     "name": "Capture and Structure Web Form Leads for Odoo CRM (v15-v18 Compatible)",
-    "id": 5477,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5477
   },
   "name": "Generate Lead from Webhook",
   "tags": [],

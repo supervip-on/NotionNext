@@ -2,8 +2,7 @@
   "id": "NY5tq9f8iYwpvPC6",
   "meta": {
     "name": " Automated Event Discovery with Bright Data & n8n",
-    "id": 5222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5222
   },
   "name": "Scrape_Upcoming_Events_using_bright_data",
   "tags": [],

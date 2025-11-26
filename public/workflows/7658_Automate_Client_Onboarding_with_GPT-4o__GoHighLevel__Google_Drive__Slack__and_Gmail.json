@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Client Onboarding with GPT-4o, GoHighLevel, Google Drive, Slack, and Gmail",
-    "id": 7658,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7658
   },
   "nodes": [
     {

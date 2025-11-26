@@ -2,8 +2,7 @@
   "id": "fa3hibN6VBUhcGwq",
   "meta": {
     "name": "Scan URLs with urlscan.io and Send Results via Gmail",
-    "id": 6946,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6946
   },
   "name": "ca7ai n8n urlscan workflow template",
   "tags": [],

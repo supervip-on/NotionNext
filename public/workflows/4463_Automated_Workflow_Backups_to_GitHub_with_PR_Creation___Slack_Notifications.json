@@ -2,8 +2,7 @@
   "id": "GZqZRs30KLvYLk4T",
   "meta": {
     "name": "Automated Workflow Backups to GitHub with PR Creation & Slack Notifications",
-    "id": 4463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4463
   },
   "name": "Backup workflows to GitHub",
   "tags": [],

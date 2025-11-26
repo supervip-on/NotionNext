@@ -2,8 +2,7 @@
   "id": "HI2iE8VwG75jxXJH",
   "meta": {
     "name": "Transform RSS Feeds into Blog Articles with GPT-4, Human Review & Google Docs",
-    "id": 10311,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10311
   },
   "name": "Generate blog articles from RSS feeds with AI review",
   "tags": [],

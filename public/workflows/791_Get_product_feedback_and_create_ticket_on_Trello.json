@@ -176,7 +176,6 @@
   },
   "meta": {
     "name": "Get product feedback and create ticket on Trello",
-    "id": 791,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 791
   }
 }

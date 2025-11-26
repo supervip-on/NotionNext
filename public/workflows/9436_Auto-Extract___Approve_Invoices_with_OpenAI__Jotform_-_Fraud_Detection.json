@@ -2,8 +2,7 @@
   "id": "KMgt49BPco6oE5Xj",
   "meta": {
     "name": "Auto-Extract & Approve Invoices with OpenAI, Jotform - Fraud Detection",
-    "id": 9436,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9436
   },
   "name": "Auto-Extract & Approve Invoices with OpenAI, Jotform - Fraud Detection",
   "tags": [

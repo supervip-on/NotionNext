@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "OpenAI Models Template: GPT-4 and DALL-E Services Overview",
-    "id": 5390,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5390
   },
   "name": "My workflow",
   "tags": [],

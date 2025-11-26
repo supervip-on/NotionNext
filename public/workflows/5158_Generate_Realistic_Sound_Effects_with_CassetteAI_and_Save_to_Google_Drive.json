@@ -2,8 +2,7 @@
   "id": "6MbJjFFQ8e6Lq8Rw",
   "meta": {
     "name": "Generate Realistic Sound Effects with CassetteAI and Save to Google Drive",
-    "id": 5158,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5158
   },
   "name": "Sound Effects Generator",
   "tags": [],

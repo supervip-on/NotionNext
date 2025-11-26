@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Talent Pipeline: AI-Powered Candidate Search & Ranking with GPT-4o",
-    "id": 5022,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5022
   },
   "nodes": [
     {

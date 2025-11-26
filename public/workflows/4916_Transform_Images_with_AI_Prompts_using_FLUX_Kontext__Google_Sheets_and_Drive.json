@@ -2,8 +2,7 @@
   "id": "IctMuVMXlEownJe1",
   "meta": {
     "name": "Transform Images with AI Prompts using FLUX Kontext, Google Sheets and Drive",
-    "id": 4916,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4916
   },
   "name": "Generate AI Contextualize Images with FLUX Kontext",
   "tags": [],

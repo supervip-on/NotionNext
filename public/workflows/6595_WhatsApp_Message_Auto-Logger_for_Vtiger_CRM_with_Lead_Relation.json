@@ -2,8 +2,7 @@
   "id": "o9Vh63HwDIEzugjl",
   "meta": {
     "name": "WhatsApp Message Auto-Logger for Vtiger CRM with Lead Relation",
-    "id": 6595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6595
   },
   "name": "Auto-Log WhatsApp Inbound Messages to Vtiger CRM WALog and relate with Leads",
   "tags": [],

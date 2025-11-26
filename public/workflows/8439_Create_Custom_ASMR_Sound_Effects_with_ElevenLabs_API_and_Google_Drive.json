@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Custom ASMR Sound Effects with ElevenLabs API and Google Drive",
-    "id": 8439,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8439
   },
   "nodes": [
     {

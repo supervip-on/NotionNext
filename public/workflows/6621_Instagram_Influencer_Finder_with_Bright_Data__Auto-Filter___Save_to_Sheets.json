@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Instagram Influencer Finder with Bright Data (Auto-Filter & Save to Sheets)",
-    "id": 6621,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6621
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "mCtnv1ABd7XoeEJI",
   "meta": {
     "name": "Sync Adobe Commerce Customer Data to KlickTipp with Value-Based Tagging",
-    "id": 9469,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9469
   },
   "name": "Transfer Adobe Commerce customers and orders to KlickTipp with conditional Tagging",
   "tags": [

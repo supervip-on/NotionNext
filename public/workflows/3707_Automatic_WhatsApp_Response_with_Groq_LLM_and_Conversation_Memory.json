@@ -2,8 +2,7 @@
   "id": "e1kaHRmj9xd4n9Wa",
   "meta": {
     "name": "Automatic WhatsApp Response with Groq LLM and Conversation Memory",
-    "id": 3707,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3707
   },
   "name": "WhatsApp Assistant AI Agent Small Business",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Parse and Score Resumes with PDF Vector AI",
-    "id": 8496,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8496
   },
   "nodes": [
     {

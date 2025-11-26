@@ -322,8 +322,7 @@
   },
   "meta": {
     "name": "Automated Certificate Generator with Google Sheets, Slides, PDF & Gmail Delivery",
-    "id": 8163,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8163
   },
   "id": "8163"
 }

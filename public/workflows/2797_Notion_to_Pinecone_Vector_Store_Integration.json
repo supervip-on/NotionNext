@@ -2,8 +2,7 @@
   "id": "vOSQYz747gtzj1zF",
   "meta": {
     "name": "Notion to Pinecone Vector Store Integration",
-    "id": 2797,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2797
   },
   "name": "Prod: Notion to Vector Store - Dimension 768",
   "tags": [

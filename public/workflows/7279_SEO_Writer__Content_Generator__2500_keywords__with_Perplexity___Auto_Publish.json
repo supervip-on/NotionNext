@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "SEO Writer: Content Generator (2500 keywords) with Perplexity & Auto Publish",
-    "id": 7279,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7279
   },
   "name": "AI Blog Generator - Auto-publish SEO content to GitHub and then your website automatically",
   "nodes": [

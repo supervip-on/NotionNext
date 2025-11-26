@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scheduled n8n Workflow Backups to Google Drive using n8n API",
-    "id": 7707,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7707
   },
   "nodes": [
     {

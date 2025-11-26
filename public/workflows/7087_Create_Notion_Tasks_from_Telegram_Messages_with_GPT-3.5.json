@@ -2,8 +2,7 @@
   "id": "3zGzoLsR5v0Zzmno",
   "meta": {
     "name": "Create Notion Tasks from Telegram Messages with GPT-3.5",
-    "id": 7087,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7087
   },
   "name": "Telegram New Notion Task",
   "tags": [

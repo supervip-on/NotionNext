@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create PDF from Images for free via Google Slides and Google Drive",
-    "id": 4540,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4540
   },
   "nodes": [
     {

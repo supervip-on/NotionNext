@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate News Discovery & Publishing with GPT-4, Google Search API & Slack",
-    "id": 8360,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8360
   },
   "nodes": [
     {

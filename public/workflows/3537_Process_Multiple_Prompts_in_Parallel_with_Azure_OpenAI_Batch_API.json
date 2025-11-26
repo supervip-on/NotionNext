@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Process Multiple Prompts in Parallel with Azure OpenAI Batch API",
-    "id": 3537,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3537
   },
   "nodes": [
     {

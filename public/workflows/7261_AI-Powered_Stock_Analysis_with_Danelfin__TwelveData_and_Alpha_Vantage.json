@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Stock Analysis with Danelfin, TwelveData and Alpha Vantage",
-    "id": 7261,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7261
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Daa0fHTZUAHEhh3I",
   "meta": {
     "name": "🛠️ PagerDuty Tool MCP Server 💪 all 9 operations",
-    "id": 5343,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5343
   },
   "name": "PagerDuty Tool MCP Server",
   "tags": [],

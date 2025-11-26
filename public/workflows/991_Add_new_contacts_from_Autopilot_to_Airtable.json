@@ -90,8 +90,7 @@
   },
   "meta": {
     "name": "Add new contacts from Autopilot to Airtable",
-    "id": 991,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 991
   },
   "id": "991"
 }

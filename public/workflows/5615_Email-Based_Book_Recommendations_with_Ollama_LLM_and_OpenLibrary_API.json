@@ -2,8 +2,7 @@
   "id": "QRbFHzWOiN6ee7D9",
   "meta": {
     "name": "Email-Based Book Recommendations with Ollama LLM and OpenLibrary API",
-    "id": 5615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5615
   },
   "name": "AI-Driven Book Recommendation Engine",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Recursive Google Drive Folder Duplicator with Permission Preservation",
-    "id": 7402,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7402
   },
   "nodes": [
     {

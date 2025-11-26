@@ -2,8 +2,7 @@
   "id": "SeY9lTVPdPeVIQdg",
   "meta": {
     "name": "Daily Calendar Summary Notifications via Telegram from Google Calendar",
-    "id": 6952,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6952
   },
   "name": "Bot Telegram Calendar",
   "tags": [

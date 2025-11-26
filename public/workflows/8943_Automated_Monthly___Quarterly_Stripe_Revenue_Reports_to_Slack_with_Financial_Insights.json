@@ -2,8 +2,7 @@
   "id": "2K34ps0eKEbH4n1w",
   "meta": {
     "name": "Automated Monthly & Quarterly Stripe Revenue Reports to Slack with Financial Insights",
-    "id": 8943,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8943
   },
   "name": "Quaterly/Monthly Revenue Summary To Slack",
   "tags": [],

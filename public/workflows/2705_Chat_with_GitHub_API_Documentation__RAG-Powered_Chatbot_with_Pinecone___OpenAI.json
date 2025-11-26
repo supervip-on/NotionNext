@@ -2,8 +2,7 @@
   "id": "FD0bHNaehP3LzCNN",
   "meta": {
     "name": "Chat with GitHub API Documentation: RAG-Powered Chatbot with Pinecone & OpenAI",
-    "id": 2705,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2705
   },
   "name": "Chat with GitHub OpenAPI Specification using RAG (Pinecone and OpenAI)",
   "tags": [],

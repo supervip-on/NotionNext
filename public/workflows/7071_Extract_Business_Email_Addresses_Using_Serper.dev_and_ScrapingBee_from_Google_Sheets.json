@@ -2,8 +2,7 @@
   "id": "8uSz0nrsQS7mofQd",
   "meta": {
     "name": "Extract Business Email Addresses Using Serper.dev and ScrapingBee from Google Sheets",
-    "id": 7071,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7071
   },
   "name": "Enrich and extract emails from business leads in Google Sheets",
   "tags": [],

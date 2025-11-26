@@ -2,8 +2,7 @@
   "id": "rnBhMZpP6vRnoQ8Z",
   "meta": {
     "name": "Extract and Convert PDF Documents to Markdown with LlamaIndex Cloud API",
-    "id": 7164,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7164
   },
   "name": "transform pdf tot markdown",
   "tags": [],

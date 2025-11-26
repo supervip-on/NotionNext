@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enhance Security Operations with the Qualys Slack Shortcut Bot!",
-    "id": 2510,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2510
   },
   "nodes": [
     {

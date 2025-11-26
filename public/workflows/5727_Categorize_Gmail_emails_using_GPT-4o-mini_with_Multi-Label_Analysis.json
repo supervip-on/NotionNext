@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Categorize Gmail emails using GPT-4o-mini with Multi-Label Analysis",
-    "id": 5727,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5727
   },
   "name": "Categorize Gmail emails using GPT-4o-mini with Multi-Label Analysis",
   "tags": [],

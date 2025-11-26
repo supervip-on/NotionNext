@@ -2,8 +2,7 @@
   "id": "9rIwaQlNKOLLs6Yi",
   "meta": {
     "name": "Organize Email Attachments from Gmail to Structured Google Drive Folders",
-    "id": 4977,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4977
   },
   "name": "Email to Folder",
   "tags": [],

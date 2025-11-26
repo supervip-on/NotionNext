@@ -2,8 +2,7 @@
   "id": "cGqPi5Uy2u1ShmoO",
   "meta": {
     "name": "Activate and deactivate workflows on schedule using native n8n API",
-    "id": 3229,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3229
   },
   "name": "💻 Schedule workflow activity time",
   "tags": [

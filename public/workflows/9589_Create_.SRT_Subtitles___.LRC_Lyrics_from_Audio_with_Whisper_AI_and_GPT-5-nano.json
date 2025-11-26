@@ -2,8 +2,7 @@
   "id": "ym5RZpXRcp7ZnW8X",
   "meta": {
     "name": "Create .SRT Subtitles & .LRC Lyrics from Audio with Whisper AI and GPT-5-nano",
-    "id": 9589,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9589
   },
   "name": "LyricsTranscribe_TEMPLATE",
   "tags": [

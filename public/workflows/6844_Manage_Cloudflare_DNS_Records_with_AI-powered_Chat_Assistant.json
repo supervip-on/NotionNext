@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage Cloudflare DNS Records with AI-powered Chat Assistant",
-    "id": 6844,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6844
   },
   "nodes": [
     {

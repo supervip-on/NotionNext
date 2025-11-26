@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Introduction to the HTTP Tool",
-    "id": 2343,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2343
   },
   "nodes": [
     {

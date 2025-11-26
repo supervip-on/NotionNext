@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Audio Transcription & Google Docs Report Generator with VLM Run",
-    "id": 5307,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5307
   },
   "nodes": [
     {

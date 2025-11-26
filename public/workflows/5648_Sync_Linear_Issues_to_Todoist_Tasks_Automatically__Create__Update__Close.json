@@ -2,8 +2,7 @@
   "id": "aC9sCGsVQNLzG2xx",
   "meta": {
     "name": "Sync Linear Issues to Todoist Tasks Automatically (Create, Update, Close)",
-    "id": 5648,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5648
   },
   "name": "Linear to Todoist sync",
   "tags": [],

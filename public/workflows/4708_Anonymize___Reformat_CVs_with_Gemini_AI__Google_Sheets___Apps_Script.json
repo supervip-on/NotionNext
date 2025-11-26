@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "📑 Anonymize & Reformat CVs with Gemini AI, Google Sheets & Apps Script",
-    "id": 4708,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4708
   },
   "nodes": [
     {

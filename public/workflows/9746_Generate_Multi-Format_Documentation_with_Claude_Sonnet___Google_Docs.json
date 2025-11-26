@@ -2,8 +2,7 @@
   "id": "mH8mTFxaHayJ3MkN",
   "meta": {
     "name": "Generate Multi-Format Documentation with Claude Sonnet & Google Docs",
-    "id": 9746,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9746
   },
   "name": "Multi-Format Documentation Generator",
   "tags": [],

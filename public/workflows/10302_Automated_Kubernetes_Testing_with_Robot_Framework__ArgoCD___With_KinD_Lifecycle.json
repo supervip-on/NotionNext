@@ -2,8 +2,7 @@
   "id": "gxs56vcXTIHjKDlf",
   "meta": {
     "name": "Automated Kubernetes Testing with Robot Framework, ArgoCD & With KinD Lifecycle",
-    "id": 10302,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10302
   },
   "name": "Automated Kubernetes Testing with Robot Framework, ArgoCD & Complete KinD Lifecycle",
   "tags": [],

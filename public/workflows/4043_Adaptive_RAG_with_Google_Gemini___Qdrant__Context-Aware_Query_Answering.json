@@ -2,8 +2,7 @@
   "id": "uZtDG9wLeCBZbaoK",
   "meta": {
     "name": "Adaptive RAG with Google Gemini & Qdrant: Context-Aware Query Answering",
-    "id": 4043,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4043
   },
   "name": "RAG 2.0 - Answer Architecture",
   "tags": [],

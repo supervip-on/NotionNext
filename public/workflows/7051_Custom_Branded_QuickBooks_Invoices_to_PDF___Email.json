@@ -2,8 +2,7 @@
   "id": "2hX0dXVASiaWn1Vg",
   "meta": {
     "name": "Custom Branded QuickBooks Invoices to PDF & Email",
-    "id": 7051,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7051
   },
   "name": "Automated QuickBooks Invoice to Custom PDF & Email",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Self-Documenting API Portal for Webhooks with n8n API & Bootstrap",
-    "id": 7706,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7706
   },
   "nodes": [
     {

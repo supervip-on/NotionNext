@@ -2,8 +2,7 @@
   "id": "cmnzMjCOzadRrYT9",
   "meta": {
     "name": "Auto-Send Zillow Real Estate Listings to Telegram using ScrapeGraphAI",
-    "id": 6310,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6310
   },
   "name": "Real estate",
   "tags": [],

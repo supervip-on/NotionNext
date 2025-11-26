@@ -375,7 +375,6 @@
   },
   "meta": {
     "name": "Update HubSpot when a new invoice is registered in Stripe",
-    "id": 1468,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1468
   }
 }

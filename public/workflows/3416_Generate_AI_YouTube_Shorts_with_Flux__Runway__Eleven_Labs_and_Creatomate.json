@@ -2,8 +2,7 @@
   "id": "aI6FudahqOzGWB29",
   "meta": {
     "name": "Generate AI YouTube Shorts with Flux, Runway, Eleven Labs and Creatomate",
-    "id": 3416,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3416
   },
   "name": "Youtube Shorts Generator",
   "tags": [],

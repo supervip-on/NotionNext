@@ -2,8 +2,7 @@
   "id": "GP6WsXTLgM9LhI8E",
   "meta": {
     "name": "Track Amazon Product Prices with ScrapeGraphAI, Google Sheets & Telegram Alerts",
-    "id": 10115,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10115
   },
   "name": "Track Amazon Product Prices with ScrapeGraphAI",
   "tags": [],

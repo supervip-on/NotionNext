@@ -53,8 +53,7 @@
   },
   "meta": {
     "name": "Get first and last names from Facebook Graph API",
-    "id": 514,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 514
   },
   "id": "514"
 }

@@ -2,8 +2,7 @@
   "id": "e63GF6KHkhFUFKfz",
   "meta": {
     "name": "Email Support Agent w/ Gemini & GPT fallback using Gmail + Google Sheets",
-    "id": 6287,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6287
   },
   "name": "Build your first email agent with fall back model",
   "tags": [],

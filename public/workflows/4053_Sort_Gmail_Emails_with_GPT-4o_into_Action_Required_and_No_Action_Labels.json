@@ -2,8 +2,7 @@
   "id": "72Ut8p2aSfFgiTEM",
   "meta": {
     "name": "Sort Gmail Emails with GPT-4o into Action Required and No Action Labels",
-    "id": 4053,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4053
   },
   "name": "Classify_Emails_by_Action_Required_Using_GPT-4o",
   "tags": [],

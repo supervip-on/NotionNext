@@ -2,8 +2,7 @@
   "id": "io6gseeuMIg9Kg9s",
   "meta": {
     "name": "Automate Outbound Voice Calls from Go High Level Opportunities with Vapi",
-    "id": 6088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6088
   },
   "name": "Start outbound Vapi calls from new Go High Level opportunities",
   "tags": [],

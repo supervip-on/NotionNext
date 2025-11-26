@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Zoom Attendee Segmentation in KlickTipp Based on Participation",
-    "id": 8910,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8910
   },
   "nodes": [
     {

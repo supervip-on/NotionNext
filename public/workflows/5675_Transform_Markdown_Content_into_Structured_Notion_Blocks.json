@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Markdown Content into Structured Notion Blocks",
-    "id": 5675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5675
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Client Billing Detail Collection & Invoicing with Outlook and QuickBooks",
-    "id": 7086,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7086
   },
   "nodes": [
     {

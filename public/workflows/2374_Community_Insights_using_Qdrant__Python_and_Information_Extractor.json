@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Community Insights using Qdrant, Python and Information Extractor",
-    "id": 2374,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2374
   },
   "nodes": [
     {

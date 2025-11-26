@@ -2,8 +2,7 @@
   "id": "BrYg4iQRGkBoypeu",
   "meta": {
     "name": "Generate Personalized Weather Reports with OpenWeatherMap, Python and GPT-4.1-mini",
-    "id": 6400,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6400
   },
   "name": "Custom Weather Email using Python and AI",
   "tags": [],

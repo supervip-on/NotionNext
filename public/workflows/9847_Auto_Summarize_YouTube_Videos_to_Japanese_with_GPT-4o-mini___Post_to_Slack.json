@@ -2,8 +2,7 @@
   "id": "k0Kebprms2GkvaiL",
   "meta": {
     "name": "Auto Summarize YouTube Videos to Japanese with GPT-4o-mini & Post to Slack",
-    "id": 9847,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9847
   },
   "name": "YouTube Video Translator & Summarizer → Slack Auto-Post",
   "tags": [],

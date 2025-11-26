@@ -2,8 +2,7 @@
   "id": "ulMkyRjDpdND1gzn",
   "meta": {
     "name": "Sync Companies from Google Sheets to Salesforce with Smart Duplicate Prevention",
-    "id": 9053,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9053
   },
   "name": "Salesforce-Google Sheets Company Sync (Smart Duplicate Prevention)",
   "tags": [

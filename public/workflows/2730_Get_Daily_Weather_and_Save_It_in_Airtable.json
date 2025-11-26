@@ -2,8 +2,7 @@
   "id": "PHp3gKoyYfSztbTB",
   "meta": {
     "name": "Get Daily Weather and Save It in Airtable",
-    "id": 2730,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2730
   },
   "name": "Automated Daily Weather Data Fetcher and Storage",
   "tags": [

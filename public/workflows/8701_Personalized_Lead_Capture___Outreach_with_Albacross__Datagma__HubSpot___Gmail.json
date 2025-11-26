@@ -2,8 +2,7 @@
   "id": "TEMPLATE_WORKFLOW_ID",
   "meta": {
     "name": "Personalized Lead Capture & Outreach with Albacross, Datagma, HubSpot & Gmail",
-    "id": 8701,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8701
   },
   "name": "30 - Personalized Lead Engagement System",
   "tags": [],

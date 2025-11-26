@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Content Strategy with Google Trends, News, Firecrawl & Claude AI",
-    "id": 7372,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7372
   },
   "nodes": [
     {

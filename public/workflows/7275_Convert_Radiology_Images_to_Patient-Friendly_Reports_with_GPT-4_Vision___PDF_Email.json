@@ -2,8 +2,7 @@
   "id": "8DYI99J1q8APXjWY",
   "meta": {
     "name": "Convert Radiology Images to Patient-Friendly Reports with GPT-4 Vision & PDF Email",
-    "id": 7275,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7275
   },
   "name": "Radiology Image to Detailed Report Converter",
   "tags": [],

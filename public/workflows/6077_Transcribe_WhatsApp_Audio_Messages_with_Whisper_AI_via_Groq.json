@@ -2,8 +2,7 @@
   "id": "OzNqz9EZH75jPYRW",
   "meta": {
     "name": "Transcribe WhatsApp Audio Messages with Whisper AI via Groq",
-    "id": 6077,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6077
   },
   "name": "Transcriber Bot 0.0.1",
   "tags": [],

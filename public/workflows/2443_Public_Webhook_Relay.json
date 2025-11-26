@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Public Webhook Relay",
-    "id": 2443,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2443
   },
   "nodes": [
     {

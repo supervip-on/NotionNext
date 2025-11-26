@@ -2,8 +2,7 @@
   "id": "gQhYUHmv0KdIsS6n",
   "meta": {
     "name": "Invoice Processing: Email to PostgreSQL Database with GPT-4o & Discord Alerts",
-    "id": 6558,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6558
   },
   "name": "Analytics",
   "tags": [],

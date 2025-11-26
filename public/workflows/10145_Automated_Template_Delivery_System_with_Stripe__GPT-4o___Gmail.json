@@ -2,8 +2,7 @@
   "id": "9CwyEVbg21ZQratp",
   "meta": {
     "name": "Automated Template Delivery System with Stripe, GPT-4o & Gmail",
-    "id": 10145,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10145
   },
   "name": "Automate Template Delivery to Customers from Stripe Payments",
   "tags": [],

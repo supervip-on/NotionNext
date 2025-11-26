@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate PDF Invoices with CustomJS API",
-    "id": 3333,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3333
   },
   "nodes": [
     {

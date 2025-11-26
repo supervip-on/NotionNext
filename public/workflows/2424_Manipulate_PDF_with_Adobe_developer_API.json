@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manipulate PDF with Adobe developer API",
-    "id": 2424,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2424
   },
   "nodes": [
     {

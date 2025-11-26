@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor G2 competitors reviews [Google Sheets, ScrapingBee, Slack]",
-    "id": 2023,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2023
   },
   "nodes": [
     {

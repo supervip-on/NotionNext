@@ -2,8 +2,7 @@
   "id": "L6nGDqfxvxzlvDU2",
   "meta": {
     "name": "Extract, Summarize & Analyze Amazon Price Drops with Bright Data & Google Gemini",
-    "id": 4611,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4611
   },
   "name": "Extract, Summarize, Sentiment Analysis of Price Drops for Amazon Products via Bright Data",
   "tags": [

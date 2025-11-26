@@ -2,8 +2,7 @@
   "id": "qZqUptGaNRJhpCSL",
   "meta": {
     "name": "Automated FAQ Generator from WhatsApp Groups using GPT-4 and Google Docs",
-    "id": 8096,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8096
   },
   "name": "FAQ Communities in Whatsapp",
   "tags": [],

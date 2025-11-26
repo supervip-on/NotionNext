@@ -2,8 +2,7 @@
   "id": "veR3QmgYzOAMgekz",
   "meta": {
     "name": "SAP Service Layer Login",
-    "id": 4932,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4932
   },
   "name": "Conexion SAP",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "B2B Outreach Automation: LinkedIn to Email Sequence with GPT, AnyMailFinder & Perplexity",
-    "id": 7929,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7929
   },
   "nodes": [
     {

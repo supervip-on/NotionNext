@@ -2,8 +2,7 @@
   "id": "e49UBJheMiRF7iDk",
   "meta": {
     "name": "Find and email ANYONE on LinkedIn with OpenAI, Hunter & Gmail",
-    "id": 5015,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5015
   },
   "name": "LinkedIn Agent v2",
   "tags": [

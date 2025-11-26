@@ -2,8 +2,7 @@
   "id": "xD6cGHJBF0QwUUc5",
   "meta": {
     "name": "Daily News Digest: Summarize RSS Feeds with OpenAI and Deliver to WhatsApp",
-    "id": 4709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4709
   },
   "name": "RSS - WhatsApp",
   "tags": [],

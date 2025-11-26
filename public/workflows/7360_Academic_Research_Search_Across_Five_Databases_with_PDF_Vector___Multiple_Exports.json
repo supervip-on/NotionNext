@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Academic Research Search Across Five Databases with PDF Vector & Multiple Exports",
-    "id": 7360,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7360
   },
   "nodes": [
     {

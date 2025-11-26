@@ -2,8 +2,7 @@
   "id": "E32wcwtKunq0Tibz",
   "meta": {
     "name": "Generate Weekly Marketing Performance Reports with GPT-4o & Google Docs to Slack",
-    "id": 9647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9647
   },
   "name": "Reporting Automation",
   "tags": [

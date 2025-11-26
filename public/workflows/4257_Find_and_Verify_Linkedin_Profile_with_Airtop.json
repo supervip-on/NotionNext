@@ -2,8 +2,7 @@
   "id": "BTxosiCF2PaCkBWJ",
   "meta": {
     "name": "Find and Verify Linkedin Profile with Airtop",
-    "id": 4257,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4257
   },
   "name": "LinkedIn Profile Discovery w Verification",
   "tags": [

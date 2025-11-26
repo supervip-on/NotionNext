@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload Large Files to Kommo/AmoCRM with Automatic File Chunking",
-    "id": 3922,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3922
   },
   "nodes": [
     {

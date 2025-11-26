@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Images with Text Prompts using BananaAPI and Nano Banana Engine",
-    "id": 8375,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8375
   },
   "nodes": [
     {

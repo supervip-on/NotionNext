@@ -2,8 +2,7 @@
   "id": "CKcKFoEOfPQBPjxI",
   "meta": {
     "name": "AI-Powered Lead Qualification & Routing with OpenAI, Slack, and Airtable",
-    "id": 9349,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9349
   },
   "name": "Lead Qualification & Routing Engine",
   "tags": [],

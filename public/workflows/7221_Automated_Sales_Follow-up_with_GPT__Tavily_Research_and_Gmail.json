@@ -2,8 +2,7 @@
   "id": "JRk4BidOsJmNYCz3",
   "meta": {
     "name": "Automated Sales Follow-up with GPT, Tavily Research and Gmail",
-    "id": 7221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7221
   },
   "name": "GPT-5 Sales Rep Inbound Lead",
   "tags": [],

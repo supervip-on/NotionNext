@@ -41,8 +41,7 @@
   },
   "meta": {
     "name": "Invoke an AWS Lambda function",
-    "id": 510,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 510
   },
   "id": "510"
 }

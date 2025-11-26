@@ -2,8 +2,7 @@
   "id": "nKluKJXe6qIz7tnR",
   "meta": {
     "name": "Business Intelligence Assistant for Slack using Explorium MCP & Claude AI",
-    "id": 9935,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9935
   },
   "name": "Explorium MCP - Slack Bot",
   "tags": [],

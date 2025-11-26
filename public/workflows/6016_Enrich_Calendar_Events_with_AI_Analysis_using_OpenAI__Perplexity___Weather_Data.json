@@ -2,8 +2,7 @@
   "id": "xuZmr1WNtVfomjVW",
   "meta": {
     "name": "Enrich Calendar Events with AI Analysis using OpenAI, Perplexity & Weather Data",
-    "id": 6016,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6016
   },
   "name": "Smart Calendar Agent",
   "tags": [],

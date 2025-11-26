@@ -2,8 +2,7 @@
   "id": "zKRrIwXzcv7QvepA",
   "meta": {
     "name": "Automate Sales Call Grading with Fireflies.ai, OpenAI, and Google Sheets",
-    "id": 9381,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9381
   },
   "name": "OnBoarding Call Grading System",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Blog Engagement with GPT-5 Generated Comments for WordPress",
-    "id": 7580,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7580
   },
   "nodes": [
     {

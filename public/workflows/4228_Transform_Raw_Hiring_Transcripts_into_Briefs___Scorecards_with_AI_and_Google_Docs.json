@@ -2,8 +2,7 @@
   "id": "t4GwTrKGGPLWVwVQ",
   "meta": {
     "name": "Transform Raw Hiring Transcripts into Briefs & Scorecards with AI and Google Docs",
-    "id": 4228,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4228
   },
   "name": "Generate a clean hiring brief and interview scorecards in 1 minute",
   "tags": [],

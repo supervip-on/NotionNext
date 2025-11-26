@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛻 AI Agent for Logistics Order Processing with GPT-4o, Gmail and Google Sheet",
-    "id": 3344,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3344
   },
   "nodes": [
     {

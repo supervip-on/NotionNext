@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Calory Tracker & Meal Logger with Telegram, Gemini AI and Data Tables",
-    "id": 9294,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9294
   },
   "name": "My workflow",
   "tags": [],

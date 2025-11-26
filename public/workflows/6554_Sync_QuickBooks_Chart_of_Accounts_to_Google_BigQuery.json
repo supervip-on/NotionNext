@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync QuickBooks Chart of Accounts to Google BigQuery",
-    "id": 6554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6554
   },
   "nodes": [
     {

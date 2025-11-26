@@ -2,8 +2,7 @@
   "id": "ZwLdirMz7WaPuc9u",
   "meta": {
     "name": "Telegram Chat Access Control with User Permission Database",
-    "id": 9615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9615
   },
   "name": "Sended - access permission",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "hszZbSQbmoxuYStY",
   "meta": {
     "name": "Answer Real Estate Questions with AI Using PropertyFinder.ae, OpenRouter, and SerpAPI",
-    "id": 8309,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8309
   },
   "name": "Property Finder Scraper Assistant",
   "tags": [],

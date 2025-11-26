@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract & Store Invoice Data with PDF Vector, Google Drive & Database",
-    "id": 8494,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8494
   },
   "nodes": [
     {

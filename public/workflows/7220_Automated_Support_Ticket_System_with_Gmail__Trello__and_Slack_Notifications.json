@@ -2,8 +2,7 @@
   "id": "9J2FyWzcbT7QeUy7",
   "meta": {
     "name": "Automated Support Ticket System with Gmail, Trello, and Slack Notifications",
-    "id": 7220,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7220
   },
   "name": "Automated Support Ticket & Customer Notification System with Trello",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "OvYZQiWH2KlJsFbK",
   "meta": {
     "name": "Evaluate tool usage accuracy in multi-agent AI workflows using Evaluation nodes",
-    "id": 5523,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5523
   },
   "name": "Multi-Agent Evaluation (eval nodes)",
   "tags": [

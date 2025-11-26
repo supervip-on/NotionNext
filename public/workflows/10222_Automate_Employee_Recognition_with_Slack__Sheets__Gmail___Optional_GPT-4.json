@@ -2,8 +2,7 @@
   "id": "SO3XFrXNyQTjwils",
   "meta": {
     "name": "Automate Employee Recognition with Slack, Sheets, Gmail & Optional GPT-4",
-    "id": 10222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10222
   },
   "name": "Employee Recognition Automation with Slack, Sheets & Gmail",
   "tags": [],

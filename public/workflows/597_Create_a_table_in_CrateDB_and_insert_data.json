@@ -108,8 +108,7 @@
   },
   "meta": {
     "name": "Create a table in CrateDB and insert data",
-    "id": 597,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 597
   },
   "id": "597"
 }

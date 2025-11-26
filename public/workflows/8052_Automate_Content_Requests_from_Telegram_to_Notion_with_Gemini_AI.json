@@ -2,8 +2,7 @@
   "id": "M2al3wSlfXuUCOaj",
   "meta": {
     "name": "Automate Content Requests from Telegram to Notion with Gemini AI",
-    "id": 8052,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8052
   },
   "name": "Notion",
   "tags": [],

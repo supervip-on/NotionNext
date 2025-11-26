@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Personal Finances in Google Sheets with AI Agent via Slack",
-    "id": 10056,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10056
   },
   "name": "Track personal finances in Google Sheets with AI Agent via Slack",
   "tags": [],

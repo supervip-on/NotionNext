@@ -2,8 +2,7 @@
   "id": "XIPHhh3HU6jfTgyC",
   "meta": {
     "name": "Monitor Workflow Audits and Failures with InfluxDB Dashboard",
-    "id": 5873,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5873
   },
   "name": "Send N8N Audits and Failed Workflows to InfluxDB",
   "tags": [

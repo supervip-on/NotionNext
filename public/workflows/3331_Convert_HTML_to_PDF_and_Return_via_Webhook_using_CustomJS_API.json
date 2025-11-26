@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert HTML to PDF and Return via Webhook using CustomJS API",
-    "id": 3331,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3331
   },
   "nodes": [
     {

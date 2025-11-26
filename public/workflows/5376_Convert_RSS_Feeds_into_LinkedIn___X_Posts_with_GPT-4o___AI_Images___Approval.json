@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert RSS Feeds into LinkedIn & X Posts with GPT-4o & AI Images & Approval",
-    "id": 5376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5376
   },
   "nodes": [
     {

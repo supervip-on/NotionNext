@@ -2,8 +2,7 @@
   "id": "9GW2AVoU4cVMOrkr",
   "meta": {
     "name": "Scrape Local Business Directories with Bright Data & OpenAI for Lead Generation",
-    "id": 5971,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5971
   },
   "name": "28  Scrape Local Business Directories",
   "tags": [],

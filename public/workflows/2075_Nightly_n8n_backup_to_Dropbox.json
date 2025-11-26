@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Nightly n8n backup to Dropbox",
-    "id": 2075,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2075
   },
   "nodes": [
     {

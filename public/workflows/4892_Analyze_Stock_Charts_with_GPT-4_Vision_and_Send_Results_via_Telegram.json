@@ -2,8 +2,7 @@
   "id": "yBjR5afdjZNtPifv",
   "meta": {
     "name": "Analyze Stock Charts with GPT-4 Vision and Send Results via Telegram",
-    "id": 4892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4892
   },
   "name": "Image_anlysis",
   "tags": [],

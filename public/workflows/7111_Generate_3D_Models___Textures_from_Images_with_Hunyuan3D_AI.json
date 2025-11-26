@@ -2,8 +2,7 @@
   "id": "ehdJCsJyErJC1jtK",
   "meta": {
     "name": "Generate 3D Models & Textures from Images with Hunyuan3D AI",
-    "id": 7111,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7111
   },
   "name": "7. Generate 3D Models & Textures from Images with Hunyuan3D AI",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "9UyGvrk6EDY6Hm3W",
   "meta": {
     "name": "Extract Clean Web Content with Anti-Bot Fallback for AI Agents & Workflows",
-    "id": 5392,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5392
   },
   "name": "WebPage-Reader",
   "tags": [],

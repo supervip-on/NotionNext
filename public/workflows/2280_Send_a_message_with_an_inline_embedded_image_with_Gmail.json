@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send a message with an inline embedded image with Gmail",
-    "id": 2280,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2280
   },
   "nodes": [
     {

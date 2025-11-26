@@ -2,8 +2,7 @@
   "id": "5",
   "meta": {
     "name": "Archive Spotify's discover weekly playlist",
-    "id": 697,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 697
   },
   "name": "Example: Archive Spotify's Discover Weekly playlist",
   "tags": [],

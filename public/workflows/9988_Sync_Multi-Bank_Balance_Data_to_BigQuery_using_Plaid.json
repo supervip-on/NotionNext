@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Multi-Bank Balance Data to BigQuery using Plaid",
-    "id": 9988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9988
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "i8nBvPOtFYWk5eoq",
   "meta": {
     "name": "Streamlining Document Automation with n8n and JSReport",
-    "id": 2254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2254
   },
   "name": "Get PDF with JSReport",
   "tags": [

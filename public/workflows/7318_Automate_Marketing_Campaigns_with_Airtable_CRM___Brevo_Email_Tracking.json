@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Marketing Campaigns with Airtable CRM & Brevo Email Tracking",
-    "id": 7318,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7318
   },
   "nodes": [
     {

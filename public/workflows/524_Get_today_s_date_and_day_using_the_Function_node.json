@@ -42,7 +42,6 @@
   },
   "meta": {
     "name": "Get today's date and day using the Function node",
-    "id": 524,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 524
   }
 }

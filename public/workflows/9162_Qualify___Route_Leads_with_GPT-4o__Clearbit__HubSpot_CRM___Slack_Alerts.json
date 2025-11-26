@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Qualify & Route Leads with GPT-4o, Clearbit, HubSpot CRM & Slack Alerts",
-    "id": 9162,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9162
   },
   "nodes": [
     {

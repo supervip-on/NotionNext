@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail to Google Drive Email Export Workflow",
-    "id": 4236,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4236
   },
   "nodes": [
     {

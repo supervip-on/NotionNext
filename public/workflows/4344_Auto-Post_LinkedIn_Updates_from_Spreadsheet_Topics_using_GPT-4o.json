@@ -2,8 +2,7 @@
   "id": "MDqbZwyjpy48Ytl0",
   "meta": {
     "name": "Auto-Post LinkedIn Updates from Spreadsheet Topics using GPT-4o",
-    "id": 4344,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4344
   },
   "name": "Linkedin Post with Group",
   "tags": [],

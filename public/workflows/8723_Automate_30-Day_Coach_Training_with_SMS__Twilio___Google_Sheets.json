@@ -2,8 +2,7 @@
   "id": "coach-onboarding-automation",
   "meta": {
     "name": "Automate 30-Day Coach Training with SMS, Twilio & Google Sheets",
-    "id": 8723,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8723
   },
   "name": "Coach Onboarding & Training Automation",
   "tags": [],

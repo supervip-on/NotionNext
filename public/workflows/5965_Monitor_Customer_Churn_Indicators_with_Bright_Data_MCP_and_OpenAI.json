@@ -2,8 +2,7 @@
   "id": "JC8NHUFMRr3Ss4U1",
   "meta": {
     "name": "Monitor Customer Churn Indicators with Bright Data MCP and OpenAI",
-    "id": 5965,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5965
   },
   "name": "22 Monitor Churn Indicators",
   "tags": [],

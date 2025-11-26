@@ -2,8 +2,7 @@
   "id": "AJCFkuIkFN45QXA4",
   "meta": {
     "name": "Export Google Search Console Data to Airtable Automatically",
-    "id": 8679,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8679
   },
   "name": "Export Google Search Console Data to Airtable Automatically",
   "tags": [],

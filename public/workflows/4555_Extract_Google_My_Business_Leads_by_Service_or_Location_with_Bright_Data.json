@@ -2,8 +2,7 @@
   "id": "S3otujHorKo0cvaH",
   "meta": {
     "name": "Extract Google My Business Leads by Service or Location with Bright Data",
-    "id": 4555,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4555
   },
   "name": "Extract Google My Business Leads by Service and Location with Bright Data to Google Sheets",
   "tags": [],

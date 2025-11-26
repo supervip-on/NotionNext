@@ -2,8 +2,7 @@
   "id": "GyAcQ4pRlDXovjmK",
   "meta": {
     "name": "job scraping using LinkedIn, Indeed, Bright Data, Google Sheets",
-    "id": 6371,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6371
   },
   "name": "LinkedIn & Indeed Job Scraper via Bright Data with Google Sheets Export",
   "tags": [],

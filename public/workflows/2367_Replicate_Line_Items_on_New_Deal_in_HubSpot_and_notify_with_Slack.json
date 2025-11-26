@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Replicate Line Items on New Deal in HubSpot and notify with Slack",
-    "id": 2367,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2367
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "CJ1U1W5OJOhprfl5",
   "meta": {
     "name": "Daily Gemini-Powered Global Trend Analysis with GDELT, NewsAPI & Discord",
-    "id": 10093,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10093
   },
   "name": "Daily AI-Powered Global Trend Analysis with GDELT, NewsAPI & Discord",
   "tags": [],

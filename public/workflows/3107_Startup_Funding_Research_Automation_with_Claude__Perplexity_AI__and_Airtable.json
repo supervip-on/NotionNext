@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Startup Funding Research Automation with Claude, Perplexity AI, and Airtable",
-    "id": 3107,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3107
   },
   "nodes": [
     {

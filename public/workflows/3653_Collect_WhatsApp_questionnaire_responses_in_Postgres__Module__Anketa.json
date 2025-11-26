@@ -2,8 +2,7 @@
   "id": "5vWy0IdYDMinpbbv",
   "meta": {
     "name": "Collect WhatsApp questionnaire responses in Postgres (Module \"Anketa\")",
-    "id": 3653,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3653
   },
   "name": "WA-Bot-Module-Anketa-v1-db-sell-full",
   "tags": [

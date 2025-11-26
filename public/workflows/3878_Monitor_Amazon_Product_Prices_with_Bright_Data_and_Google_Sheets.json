@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Amazon Product Prices with Bright Data and Google Sheets",
-    "id": 3878,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3878
   },
   "nodes": [
     {

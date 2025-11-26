@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Jobs from Indeed, LinkedIn & More with RapidAPI to Google Sheets",
-    "id": 8250,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8250
   },
   "nodes": [
     {

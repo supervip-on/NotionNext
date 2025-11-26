@@ -2,8 +2,7 @@
   "id": "GFl0zw9bVxSpj5cp",
   "meta": {
     "name": "Convert Venmo Statement CSV File to QuickBooks CSV Import",
-    "id": 4369,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4369
   },
   "name": "Convert Venmo CSV File to Quickbooks Dropbox",
   "tags": [],

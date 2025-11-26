@@ -202,8 +202,7 @@
   },
   "meta": {
     "name": "Send trending \"Show HN\" to email",
-    "id": 225,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 225
   },
   "id": "225"
 }

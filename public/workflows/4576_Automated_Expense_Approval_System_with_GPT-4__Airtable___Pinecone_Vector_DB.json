@@ -2,8 +2,7 @@
   "id": "zA3j2ZTGRt82vwa6",
   "meta": {
     "name": "Automated Expense Approval System with GPT-4, Airtable & Pinecone Vector DB",
-    "id": 4576,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4576
   },
   "name": "CFO Expense Reviewer Agent",
   "tags": [],

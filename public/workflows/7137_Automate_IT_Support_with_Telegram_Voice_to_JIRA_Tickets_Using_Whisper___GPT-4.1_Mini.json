@@ -2,8 +2,7 @@
   "id": "6CQ1q9QNxrj2uI22",
   "meta": {
     "name": "Automate IT Support with Telegram Voice to JIRA Tickets Using Whisper & GPT-4.1 Mini",
-    "id": 7137,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7137
   },
   "name": "🎧 IT Voice Support Automation Bot – Telegram voice message to JIRA ticket with OpenAI Whisper",
   "tags": [

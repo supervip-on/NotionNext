@@ -2,8 +2,7 @@
   "id": "B8b52ViroIFRPWW9",
   "meta": {
     "name": "Monitor Security Logs for Failed Login Attempts with Slack Alerts",
-    "id": 6922,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6922
   },
   "name": "Simple Log Anomaly Detector with Slack",
   "tags": [],

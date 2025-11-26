@@ -2,8 +2,7 @@
   "id": "CbuL77uh6tA3fVsy",
   "meta": {
     "name": "Validate Leads Email Addresses with Hunter.io and Google Sheets",
-    "id": 6992,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6992
   },
   "name": "06 - Lead Email Validation Workflow",
   "tags": [],

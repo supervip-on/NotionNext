@@ -227,8 +227,7 @@
   },
   "meta": {
     "name": "Create ticket on specific customer messages in Telegram",
-    "id": 368,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 368
   },
   "id": "368"
 }

@@ -2,8 +2,7 @@
   "id": "10130",
   "meta": {
     "name": "Generate Event Badges with QR Codes, HTMLCSStoImage, Gmail & Google Sheets",
-    "id": 10130,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10130
   },
   "name": "Event Badge Generator",
   "tags": [

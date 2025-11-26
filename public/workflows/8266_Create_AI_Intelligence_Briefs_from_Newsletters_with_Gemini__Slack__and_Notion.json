@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI Intelligence Briefs from Newsletters with Gemini, Slack, and Notion",
-    "id": 8266,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8266
   },
   "nodes": [
     {

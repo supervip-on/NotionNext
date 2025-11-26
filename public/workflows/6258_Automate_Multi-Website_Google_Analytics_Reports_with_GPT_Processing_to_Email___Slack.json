@@ -2,8 +2,7 @@
   "id": "Gjlthwyp8SBhVNYB",
   "meta": {
     "name": "Automate Multi-Website Google Analytics Reports with GPT Processing to Email & Slack",
-    "id": 6258,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6258
   },
   "name": "Daily Multi-Website Analytics Reports with OpenAI Processing to Email and Slack",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "rumCZInCSooKZgBp",
   "meta": {
     "name": "Automated Student Progress Reports from LMS to Parents via Gmail & Google Sheets",
-    "id": 6998,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6998
   },
   "name": "Student Academic Progress Report Generator",
   "tags": [],

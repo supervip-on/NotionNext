@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Sprint Planning with OpenAI, Google Calendar, and Gmail for Agile Teams",
-    "id": 4038,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4038
   },
   "nodes": [
     {

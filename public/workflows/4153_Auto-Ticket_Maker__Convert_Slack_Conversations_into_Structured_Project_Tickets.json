@@ -2,8 +2,7 @@
   "id": "8PxWIzEWlqJ3Anov",
   "meta": {
     "name": "Auto-Ticket Maker: Convert Slack Conversations into Structured Project Tickets",
-    "id": 4153,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4153
   },
   "name": "Auto-Ticket Maker",
   "tags": [],

@@ -82,7 +82,6 @@
   },
   "meta": {
     "name": "Send daily weather updates to a phone number using the Vonage node",
-    "id": 723,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 723
   }
 }

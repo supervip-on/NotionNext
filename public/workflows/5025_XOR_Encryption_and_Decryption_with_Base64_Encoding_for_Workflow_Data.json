@@ -2,8 +2,7 @@
   "id": "fElANcOcJejintLK",
   "meta": {
     "name": "XOR Encryption and Decryption with Base64 Encoding for Workflow Data",
-    "id": 5025,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5025
   },
   "name": "simple-encryption",
   "tags": [],

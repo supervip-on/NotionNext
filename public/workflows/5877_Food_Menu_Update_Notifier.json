@@ -2,8 +2,7 @@
   "id": "nZ4j1Y5HdguFrisS",
   "meta": {
     "name": "Food Menu Update Notifier",
-    "id": 5877,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5877
   },
   "name": "Food Menu Update Notifier via WhatsApp, Email & Twilio SMS",
   "tags": [],

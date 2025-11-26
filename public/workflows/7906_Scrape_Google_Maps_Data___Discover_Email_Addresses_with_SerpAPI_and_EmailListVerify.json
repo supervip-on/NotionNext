@@ -2,8 +2,7 @@
   "id": "y8Q9qf0kUTM7rFX3",
   "meta": {
     "name": "Scrape Google Maps Data & Discover Email Addresses with SerpAPI and EmailListVerify",
-    "id": 7906,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7906
   },
   "name": "Google Maps Scraper & generic email search",
   "tags": [],

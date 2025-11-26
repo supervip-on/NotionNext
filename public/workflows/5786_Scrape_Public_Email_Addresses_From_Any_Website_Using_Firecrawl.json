@@ -2,8 +2,7 @@
   "id": "995Zs4albP6ZWzOD",
   "meta": {
     "name": "Scrape Public Email Addresses From Any Website Using Firecrawl",
-    "id": 5786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5786
   },
   "name": "The Recap AI - Email Scraper",
   "tags": [

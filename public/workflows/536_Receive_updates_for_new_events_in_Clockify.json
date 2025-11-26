@@ -26,8 +26,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for new events in Clockify",
-    "id": 536,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 536
   },
   "id": "536"
 }

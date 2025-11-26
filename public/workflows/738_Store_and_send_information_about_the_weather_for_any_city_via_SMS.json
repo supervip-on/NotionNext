@@ -147,8 +147,7 @@
   },
   "meta": {
     "name": "Store and send information about the weather for any city via SMS",
-    "id": 738,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 738
   },
   "id": "738"
 }

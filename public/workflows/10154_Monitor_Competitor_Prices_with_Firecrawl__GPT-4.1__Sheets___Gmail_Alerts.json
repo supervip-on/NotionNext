@@ -2,8 +2,7 @@
   "id": "wesSFaik8lD7g9lq",
   "meta": {
     "name": "Monitor Competitor Prices with Firecrawl, GPT-4.1, Sheets & Gmail Alerts",
-    "id": 10154,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10154
   },
   "name": "Monitor Competitor Prices with Firecrawl, GPT-4.1 & Send Alerts to Gmail",
   "tags": [

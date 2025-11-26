@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram bot starter template setup & AI Agent Chatbot",
-    "id": 2402,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2402
   },
   "nodes": [
     {

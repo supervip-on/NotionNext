@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Candidate Screening and Evaluation Workflow using OpenAI and Airtable",
-    "id": 4481,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4481
   },
   "nodes": [
     {

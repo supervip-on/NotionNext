@@ -94,8 +94,7 @@
   },
   "meta": {
     "name": "Send a message on Mattermost when a workflow is updated",
-    "id": 1059,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1059
   },
   "id": "1059"
 }

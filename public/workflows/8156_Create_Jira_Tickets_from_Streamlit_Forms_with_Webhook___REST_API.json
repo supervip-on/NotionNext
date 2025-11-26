@@ -2,8 +2,7 @@
   "id": "2DxalJmssGiuQC9h",
   "meta": {
     "name": "Create Jira Tickets from Streamlit Forms with Webhook & REST API",
-    "id": 8156,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8156
   },
   "name": "Automate Jira Ticket Creation from Your Streamlit App",
   "tags": [],

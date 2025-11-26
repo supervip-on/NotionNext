@@ -2,8 +2,7 @@
   "id": "E7eplEMAGeni95MM",
   "meta": {
     "name": "Secure GET Webhooks with Query Parameter Validation for Limited Authentication Cases",
-    "id": 9570,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9570
   },
   "name": "Secure GET Webhooks e.g. from Google Sheets v1.0",
   "tags": [

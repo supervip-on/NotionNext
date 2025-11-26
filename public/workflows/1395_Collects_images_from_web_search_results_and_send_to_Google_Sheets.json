@@ -172,8 +172,7 @@
   },
   "meta": {
     "name": "Collects images from web search results and send to Google Sheets",
-    "id": 1395,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1395
   },
   "id": "1395"
 }

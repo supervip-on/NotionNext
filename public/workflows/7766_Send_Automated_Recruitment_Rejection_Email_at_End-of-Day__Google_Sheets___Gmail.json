@@ -2,8 +2,7 @@
   "id": "3bsNBJ5i1ylNYtKM",
   "meta": {
     "name": "Send Automated Recruitment Rejection Email at End-of-Day (Google Sheets | Gmail)",
-    "id": 7766,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7766
   },
   "name": "Automated Recruitment Rejection Emails with Google Sheets and Gmail at End-of-Day",
   "tags": [],

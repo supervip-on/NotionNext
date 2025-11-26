@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Media Download from WhatsApp Business Messages with HTTP Storage",
-    "id": 4213,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4213
   },
   "nodes": [
     {

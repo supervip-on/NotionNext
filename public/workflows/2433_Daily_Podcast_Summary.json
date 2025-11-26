@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Podcast Summary",
-    "id": 2433,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2433
   },
   "nodes": [
     {

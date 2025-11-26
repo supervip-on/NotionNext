@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Real-Time Lead Qualification, Scoring & CRM Integration System using Jotform",
-    "id": 9815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9815
   },
   "nodes": [
     {

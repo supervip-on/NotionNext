@@ -2,8 +2,7 @@
   "id": "Tcy2xebw2oGWMxUN",
   "meta": {
     "name": "Automated GitHub Scanner for Exposed AWS IAM Keys",
-    "id": 5021,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5021
   },
   "name": "🕵️‍♂️ Automated GitHub Scanner for Exposed AWS IAM Keys",
   "tags": [

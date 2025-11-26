@@ -413,8 +413,7 @@
   },
   "meta": {
     "name": "Write all Linear tickets to Google Sheets",
-    "id": 2148,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2148
   },
   "id": "2148"
 }

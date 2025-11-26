@@ -2,8 +2,7 @@
   "id": "iGAzT789R7Q1fOOE",
   "meta": {
     "name": "Travel Planning Agent with Couchbase Vector Search, Gemini 2.0 Flash and OpenAI",
-    "id": 3881,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3881
   },
   "name": "Travel Planning Agent with Couchbase Vector Search, Gemini 2.0 Flash and OpenAI",
   "tags": [],

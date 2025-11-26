@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Phone Interview Evaluation with Vapi, GPT-4o & Google Sheets",
-    "id": 7401,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7401
   },
   "nodes": [
     {

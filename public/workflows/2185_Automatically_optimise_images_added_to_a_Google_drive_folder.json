@@ -2,8 +2,7 @@
   "id": "FpZJ8jaNQ3j2DO1L",
   "meta": {
     "name": "Automatically optimise images added to a Google drive folder",
-    "id": 2185,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2185
   },
   "name": "Optimise images uploaded to GDrive",
   "nodes": [

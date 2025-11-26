@@ -2,8 +2,7 @@
   "id": "PdbwxMitcnvpqIV7",
   "meta": {
     "name": "Monitor Zendesk Churn Risk Signals, Log in Sheets, and Alert Team in Slack",
-    "id": 8746,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8746
   },
   "name": "Monitor Zendesk Churn Risk Signals and Notify CS Team in Slack",
   "tags": [],

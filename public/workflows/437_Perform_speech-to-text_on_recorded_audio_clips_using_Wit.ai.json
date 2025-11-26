@@ -47,8 +47,7 @@
   },
   "meta": {
     "name": "Perform speech-to-text on recorded audio clips using Wit.ai",
-    "id": 437,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 437
   },
   "id": "437"
 }

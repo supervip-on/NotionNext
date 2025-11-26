@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate YouTube Scripts for Shorts & Long-Form with Gemini AI and Tavily Research",
-    "id": 9342,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9342
   },
   "nodes": [
     {

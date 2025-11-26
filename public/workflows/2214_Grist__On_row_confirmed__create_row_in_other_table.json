@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Grist: On row confirmed, create row in other table",
-    "id": 2214,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2214
   },
   "nodes": [
     {

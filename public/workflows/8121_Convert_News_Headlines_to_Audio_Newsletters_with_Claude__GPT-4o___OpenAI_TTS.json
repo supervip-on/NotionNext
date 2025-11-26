@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert News Headlines to Audio Newsletters with Claude, GPT-4o & OpenAI TTS",
-    "id": 8121,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8121
   },
   "nodes": [
     {

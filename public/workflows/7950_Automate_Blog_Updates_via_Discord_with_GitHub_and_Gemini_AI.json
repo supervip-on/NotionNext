@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Blog Updates via Discord with GitHub and Gemini AI",
-    "id": 7950,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7950
   },
   "name": "Praneel's Discord Automation with Github and AI Chatbot ",
   "tags": [],

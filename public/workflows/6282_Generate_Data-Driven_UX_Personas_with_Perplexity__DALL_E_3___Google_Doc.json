@@ -2,8 +2,7 @@
   "id": "gdQ7R3obn4CWmI29",
   "meta": {
     "name": "Generate Data-Driven UX Personas with Perplexity, DALL·E 3 & Google Doc",
-    "id": 6282,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6282
   },
   "name": "Create Data-Driven UX personas (descriptio and images) using Perplexity, OpenAI and Google Doc",
   "tags": [],

@@ -131,8 +131,7 @@
   },
   "meta": {
     "name": "Create a Pipedrive activity on Calendly event scheduled",
-    "id": 1221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1221
   },
   "id": "1221"
 }

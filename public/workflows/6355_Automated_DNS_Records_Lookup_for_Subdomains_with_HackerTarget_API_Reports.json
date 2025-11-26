@@ -2,8 +2,7 @@
   "id": "RNNkYFKdsO7f3dSi",
   "meta": {
     "name": "Automated DNS Records Lookup for Subdomains with HackerTarget API Reports",
-    "id": 6355,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6355
   },
   "name": "EnumX: Auto DNS Lookup for Subdomains with Markdown Export",
   "tags": [

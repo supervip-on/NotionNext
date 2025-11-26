@@ -2,8 +2,7 @@
   "id": "DlmtdnHx6mOhXjok",
   "meta": {
     "name": "Monitor Domains & IPs on AbuseIPDB Blacklist with Slack Alerts",
-    "id": 6836,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6836
   },
   "name": "Automated Domain/IP Blacklist Monitor with Slack",
   "tags": [],

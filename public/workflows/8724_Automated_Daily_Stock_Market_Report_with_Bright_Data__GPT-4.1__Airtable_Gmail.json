@@ -2,8 +2,7 @@
   "id": "dnw1cvGPaYS9dCog",
   "meta": {
     "name": "Automated Daily Stock Market Report with Bright Data, GPT-4.1, Airtable/Gmail",
-    "id": 8724,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8724
   },
   "name": "Automated Daily Stock Market Report with Bright Data, GPT, Airtable, and Gmail",
   "tags": [],

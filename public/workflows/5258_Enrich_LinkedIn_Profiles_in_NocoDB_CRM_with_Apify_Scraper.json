@@ -2,8 +2,7 @@
   "id": "WczQxQgtvjjk1HC1",
   "meta": {
     "name": "Enrich LinkedIn Profiles in NocoDB CRM with Apify Scraper",
-    "id": 5258,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5258
   },
   "name": "LinkedIn Profile Enrichment With Error Handling",
   "tags": [],

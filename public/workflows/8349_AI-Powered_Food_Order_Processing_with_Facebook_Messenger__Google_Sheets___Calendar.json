@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Food Order Processing with Facebook Messenger, Google Sheets & Calendar",
-    "id": 8349,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8349
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated 24/7 Crypto News Alerts To X, Telegram & Discord (Gemini Powered)",
-    "id": 6434,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6434
   },
   "nodes": [
     {

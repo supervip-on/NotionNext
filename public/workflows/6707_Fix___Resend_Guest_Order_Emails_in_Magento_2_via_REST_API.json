@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Fix & Resend Guest Order Emails in Magento 2 via REST API",
-    "id": 6707,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6707
   },
   "nodes": [
     {

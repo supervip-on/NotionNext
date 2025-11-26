@@ -2,8 +2,7 @@
   "id": "FqIyXIEKFojlkN9k",
   "meta": {
     "name": "Generate Cinematic Videos from Text Prompts with GPT-4o, Fal.AI Seedance & Audio",
-    "id": 5741,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5741
   },
   "name": "FalAI_SeeDanceV1.0_Eng_Template",
   "tags": [

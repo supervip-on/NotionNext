@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track and Monitor AI Token Usage Metrics for OpenAI and Gemini Models",
-    "id": 7265,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7265
   },
   "nodes": [
     {

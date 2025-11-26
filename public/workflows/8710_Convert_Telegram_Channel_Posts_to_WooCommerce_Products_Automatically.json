@@ -2,8 +2,7 @@
   "id": "sSqJNShO1lSW7pDR",
   "meta": {
     "name": "Convert Telegram Channel Posts to WooCommerce Products Automatically",
-    "id": 8710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8710
   },
   "name": "AutoPostToWooCommerce_Template",
   "tags": [

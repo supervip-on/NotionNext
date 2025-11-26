@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Hyper-Personalized Outreach at Scale With Bright Data and LLMs",
-    "id": 3561,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3561
   },
   "nodes": [
     {

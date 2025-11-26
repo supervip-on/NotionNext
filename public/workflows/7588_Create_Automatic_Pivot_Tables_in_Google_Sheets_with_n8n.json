@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Automatic Pivot Tables in Google Sheets with n8n",
-    "id": 7588,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7588
   },
   "nodes": [
     {

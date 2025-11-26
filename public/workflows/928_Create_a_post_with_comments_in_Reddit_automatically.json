@@ -99,8 +99,7 @@
   },
   "meta": {
     "name": "Create a post with comments in Reddit automatically",
-    "id": 928,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 928
   },
   "id": "928"
 }

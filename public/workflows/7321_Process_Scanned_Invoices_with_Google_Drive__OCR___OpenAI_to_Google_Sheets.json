@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Process Scanned Invoices with Google Drive, OCR & OpenAI to Google Sheets",
-    "id": 7321,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7321
   },
   "nodes": [
     {

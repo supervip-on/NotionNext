@@ -2,8 +2,7 @@
   "id": "BjAH6U8A1BMNtX7W",
   "meta": {
     "name": "Auto-Stop Email Sequences Based on Replies with IMAP and Google Sheets",
-    "id": 5506,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5506
   },
   "name": "IMAP Reply-Based Sequence Stopper",
   "tags": [],

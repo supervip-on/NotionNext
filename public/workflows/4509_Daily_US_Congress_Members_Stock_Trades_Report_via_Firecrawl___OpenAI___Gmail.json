@@ -455,8 +455,7 @@
   },
   "meta": {
     "name": "🏛️ Daily US Congress Members Stock Trades Report via Firecrawl + OpenAI + Gmail",
-    "id": 4509,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4509
   },
   "id": "4509"
 }

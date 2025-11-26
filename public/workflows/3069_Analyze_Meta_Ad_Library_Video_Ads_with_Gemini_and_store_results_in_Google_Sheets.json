@@ -2,8 +2,7 @@
   "id": "Yfi6wLGrS1JxYNeN",
   "meta": {
     "name": "Analyze Meta Ad Library Video Ads with Gemini and store results in Google Sheets",
-    "id": 3069,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3069
   },
   "name": "Scrape Meta Ad Library and analyze Video Ads with Gemini and store data to Google Sheets",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "QiEoooyNMeJcvKKg",
   "meta": {
     "name": "Automating WhatsApp replies using Go High Level with Redis and Anthropic",
-    "id": 7191,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7191
   },
   "name": "Automating WhatsApp replies in Go High Level with Redis and Anthropic",
   "tags": [

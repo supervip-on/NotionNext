@@ -2,8 +2,7 @@
   "id": "nPoiePylbYZrH7kn",
   "meta": {
     "name": "Daily Financial News Summary with Ollama LLM - Automated Email Report",
-    "id": 5405,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5405
   },
   "name": "Summarize Daily Financial News Using n8n & AI – Auto Email Report",
   "tags": [],

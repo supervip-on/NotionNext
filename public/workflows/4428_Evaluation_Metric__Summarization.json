@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Evaluation Metric: Summarization",
-    "id": 4428,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4428
   },
   "nodes": [
     {

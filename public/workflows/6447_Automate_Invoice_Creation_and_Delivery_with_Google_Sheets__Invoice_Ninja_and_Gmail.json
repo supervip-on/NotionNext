@@ -2,8 +2,7 @@
   "id": "qclESQ5SPXlYdUS1",
   "meta": {
     "name": "Automate Invoice Creation and Delivery with Google Sheets, Invoice Ninja and Gmail",
-    "id": 6447,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6447
   },
   "name": "Invoice Automation Workflow with Invoice NINJA",
   "tags": [],

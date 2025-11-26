@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Verify mailing address deliverability of new contacts in HighLevel Using Lob",
-    "id": 2171,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2171
   },
   "nodes": [
     {

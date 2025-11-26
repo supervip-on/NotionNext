@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Images from Text Prompts using Lumi and Replicate",
-    "id": 6808,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6808
   },
   "name": "adamantiamable/lumi - Other Generator",
   "nodes": [

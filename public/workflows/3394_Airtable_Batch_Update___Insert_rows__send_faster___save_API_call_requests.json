@@ -2,8 +2,7 @@
   "id": "121pu6oiTjzkJ8OT",
   "meta": {
     "name": "Airtable Batch Update / Insert rows (send faster + save API call requests)",
-    "id": 3394,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3394
   },
   "name": "↔️ Airtable Batch Processing",
   "tags": [

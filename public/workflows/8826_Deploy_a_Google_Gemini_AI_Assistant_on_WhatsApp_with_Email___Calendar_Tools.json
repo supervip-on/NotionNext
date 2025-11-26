@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Deploy a Google Gemini AI Assistant on WhatsApp with Email & Calendar Tools",
-    "id": 8826,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8826
   },
   "nodes": [
     {

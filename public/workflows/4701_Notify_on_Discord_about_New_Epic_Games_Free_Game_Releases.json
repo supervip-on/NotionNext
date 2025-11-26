@@ -2,8 +2,7 @@
   "id": "nWdRPgjTA0iQLiSE",
   "meta": {
     "name": "Notify on Discord about New Epic Games Free Game Releases",
-    "id": 4701,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4701
   },
   "name": "Epic Games New Free Games",
   "tags": [],

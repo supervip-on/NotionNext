@@ -2,8 +2,7 @@
   "id": "fFKIMw0PeIP2TuOx",
   "meta": {
     "name": "High-Speed AI Chat with OpenAI's gpt-oss-120B Model via Cerebras Inference",
-    "id": 7651,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7651
   },
   "name": "cerebras with gpt oss 120b",
   "tags": [],

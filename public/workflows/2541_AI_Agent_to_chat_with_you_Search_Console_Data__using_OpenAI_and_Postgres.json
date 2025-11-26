@@ -2,8 +2,7 @@
   "id": "PoiRk5w0xd1ysq4U",
   "meta": {
     "name": "AI Agent to chat with you Search Console Data, using OpenAI and Postgres",
-    "id": 2541,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2541
   },
   "name": "AI Agent to chat with you Search Console Data, using OpenAI and Postgres",
   "tags": [],

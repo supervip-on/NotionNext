@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Instagram Lead Enrichment with AI Insights & KlickTipp CRM Integration",
-    "id": 9991,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9991
   },
   "nodes": [
     {

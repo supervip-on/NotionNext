@@ -2,8 +2,7 @@
   "id": "v46oveU08zvihRIO",
   "meta": {
     "name": "CYBERPULSE AI RedOps: Phishing Simulation with Redirect Tracking ",
-    "id": 6509,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6509
   },
   "name": "🔴 RedOps Module 4 – Redirect_Proxy_Cloak",
   "tags": [

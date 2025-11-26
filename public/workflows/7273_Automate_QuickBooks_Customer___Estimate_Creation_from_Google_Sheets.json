@@ -2,8 +2,7 @@
   "id": "9pEgr7vVvXPDtNdZ",
   "meta": {
     "name": "Automate QuickBooks Customer & Estimate Creation from Google Sheets",
-    "id": 7273,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7273
   },
   "name": "Automate Quickbook Customer & Estimation Creation",
   "tags": [],

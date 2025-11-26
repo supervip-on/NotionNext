@@ -213,8 +213,7 @@
   },
   "meta": {
     "name": "Daily GitHub Release notification by Email",
-    "id": 2590,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2590
   },
   "id": "2590"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Data Analyst Chatbot for Real-time Google Sheets Analysis with GPT-5",
-    "id": 7718,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7718
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "eqvDSknjbg3YLzxM",
   "meta": {
     "name": "Extract Structured Data from Brave Search with Bright Data MCP & Google Gemini",
-    "id": 4497,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4497
   },
   "name": "Brave Search (Image,Video, News, All) and Structured Data Extract with Bright Data MCP & Google Gemini",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "4504",
   "meta": {
     "name": "Automate VIRAL Youtube Titles & Thumbnails Creation (FLUX.1 + Apify)",
-    "id": 4504,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4504
   },
   "name": "Viral Title/Thumbnail Generation",
   "tags": [],

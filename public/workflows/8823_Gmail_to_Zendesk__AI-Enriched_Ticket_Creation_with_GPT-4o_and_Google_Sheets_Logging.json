@@ -2,8 +2,7 @@
   "id": "foRLAgU7DfocKDuI",
   "meta": {
     "name": "Gmail to Zendesk: AI-Enriched Ticket Creation with GPT-4o and Google Sheets Logging",
-    "id": 8823,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8823
   },
   "name": "Gmail → Zendesk: AI-Enriched Ticketing with Urgency Prioritization + Sheets Logging",
   "tags": [],

@@ -425,8 +425,7 @@
   },
   "meta": {
     "name": "Run bulk RAG queries from CSV with Lookio",
-    "id": 9908,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9908
   },
   "id": "9908"
 }

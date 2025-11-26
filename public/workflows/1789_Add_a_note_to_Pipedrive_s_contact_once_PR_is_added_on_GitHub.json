@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add a note to Pipedrive's contact once PR is added on GitHub",
-    "id": 1789,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1789
   },
   "nodes": [
     {

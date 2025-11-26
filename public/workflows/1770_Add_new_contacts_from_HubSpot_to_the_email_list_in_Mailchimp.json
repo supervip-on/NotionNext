@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add new contacts from HubSpot to the email list in Mailchimp",
-    "id": 1770,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1770
   },
   "nodes": [
     {

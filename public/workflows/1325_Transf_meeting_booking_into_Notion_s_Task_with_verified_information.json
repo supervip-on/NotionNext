@@ -128,8 +128,7 @@
   },
   "meta": {
     "name": "Transf meeting booking into Notion's Task with verified information",
-    "id": 1325,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1325
   },
   "id": "1325"
 }

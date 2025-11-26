@@ -2,8 +2,7 @@
   "id": "XnGZZfT5u0Cw1X3p",
   "meta": {
     "name": "Invoices from Gmail to Drive and Google Sheets",
-    "id": 3016,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3016
   },
   "name": "Attachments Gmail to drive and google sheets",
   "tags": [],

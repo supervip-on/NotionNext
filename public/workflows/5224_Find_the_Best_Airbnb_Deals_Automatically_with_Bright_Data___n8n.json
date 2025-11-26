@@ -2,8 +2,7 @@
   "id": "kO0kNE2AKKzesj0F",
   "meta": {
     "name": "Find the Best Airbnb Deals Automatically with Bright Data & n8n",
-    "id": 5224,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5224
   },
   "name": "Store_Best_Deals_on_Airbnb",
   "tags": [],

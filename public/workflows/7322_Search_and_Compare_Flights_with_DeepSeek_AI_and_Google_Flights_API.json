@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Search and Compare Flights with DeepSeek AI and Google Flights API",
-    "id": 7322,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7322
   },
   "nodes": [
     {

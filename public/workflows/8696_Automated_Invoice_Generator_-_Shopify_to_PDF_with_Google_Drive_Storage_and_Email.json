@@ -2,8 +2,7 @@
   "id": "5A6KYwXDVVpHC5zH",
   "meta": {
     "name": "Automated Invoice Generator - Shopify to PDF with Google Drive Storage and Email",
-    "id": 8696,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8696
   },
   "name": "Invoice & Receipt Generator with HTML to PDF",
   "tags": [],

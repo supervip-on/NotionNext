@@ -2,8 +2,7 @@
   "id": "xELlLseYTrTVfU4P",
   "meta": {
     "name": "Sync Cal.com Meeting Bookings to Notion with Contact Management",
-    "id": 6159,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6159
   },
   "name": "Cal.com Meeting Booking Sync to Notion with Contact Management",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "6671",
   "meta": {
     "name": "Retrieve & Share NFL Fantasy Football Draft Results from Sleeper to Telegram",
-    "id": 6671,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6671
   },
   "name": "Sleeper NFL Get Draft Results",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "FtzJlVWzcws353Gp",
   "meta": {
     "name": "Scrape Event Data from 10times with Bright Data MCP, AI & Google Sheets",
-    "id": 5947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5947
   },
   "name": "3. Event Attendee scraper",
   "tags": [],

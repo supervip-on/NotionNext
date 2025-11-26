@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track and Analyze Forex News Trading Results with MyFxBook and Google Sheets",
-    "id": 8522,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8522
   },
   "nodes": [
     {

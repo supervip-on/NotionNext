@@ -2,8 +2,7 @@
   "id": "kdSLYBTklfxlAMSS",
   "meta": {
     "name": "Track Competitor SEO Keywords with Decodo + GPT-4.1-mini + Google Sheets",
-    "id": 10002,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10002
   },
   "name": "SEO Competitor Keyword Tracker via Decodo + Google Sheets + OpenAI GPT-4.1-mini",
   "tags": [

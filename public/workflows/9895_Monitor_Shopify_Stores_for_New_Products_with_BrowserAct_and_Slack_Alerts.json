@@ -2,8 +2,7 @@
   "id": "jSHygjNuZdSzA83e",
   "meta": {
     "name": "Monitor Shopify Stores for New Products with BrowserAct and Slack Alerts",
-    "id": 9895,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9895
   },
   "name": "Automated E-commerce Store Monitoring for New Products Using BrowserAct",
   "tags": [],

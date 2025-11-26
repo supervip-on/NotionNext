@@ -2,8 +2,7 @@
   "id": "w9YVsuUtlNgXOEAQ",
   "meta": {
     "name": "AI-Generated LinkedIn Posts with OpenAI, Google Sheets & Email Approval Workflow",
-    "id": 4005,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4005
   },
   "name": "LinkedIn Post Generation & Approval Automation",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "dlSaktSpjNmnRa19",
   "meta": {
     "name": "Route Jira Tasks to Experts Using Google Sheets and GPT-4o-mini",
-    "id": 9682,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9682
   },
   "name": "Auto-Assign Jira Issues from Google Sheets with Azure OpenAI (GPT-4o-mini) 🚀",
   "tags": [],

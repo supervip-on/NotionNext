@@ -2,8 +2,7 @@
   "id": "CQVAcWFM8iCOPZG5",
   "meta": {
     "name": "Sync New Subscribers from Google Sheets to MailerLite without Duplicates",
-    "id": 7681,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7681
   },
   "name": "Create and assign subscriber in Mailerlite from Google Sheet",
   "tags": [],

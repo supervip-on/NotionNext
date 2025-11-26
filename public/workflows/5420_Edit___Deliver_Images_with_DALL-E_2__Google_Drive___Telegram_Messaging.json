@@ -2,8 +2,7 @@
   "id": "e2a9WLWDqS85I1AX",
   "meta": {
     "name": "Edit & Deliver Images with DALL-E 2, Google Drive & Telegram Messaging",
-    "id": 5420,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5420
   },
   "name": "Edit Images with OPEN AI",
   "tags": [],

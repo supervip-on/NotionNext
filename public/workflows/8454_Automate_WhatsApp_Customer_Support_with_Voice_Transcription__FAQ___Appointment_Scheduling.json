@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate WhatsApp Customer Support with Voice Transcription, FAQ & Appointment Scheduling",
-    "id": 8454,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8454
   },
   "nodes": [
     {

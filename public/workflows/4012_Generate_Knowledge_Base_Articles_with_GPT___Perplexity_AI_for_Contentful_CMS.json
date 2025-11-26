@@ -2,8 +2,7 @@
   "id": "WwEFqNK4YP6UJcg2",
   "meta": {
     "name": "Generate Knowledge Base Articles with GPT & Perplexity AI for Contentful CMS",
-    "id": 4012,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4012
   },
   "name": "Auto Knowledge Base Article Generator",
   "tags": [],

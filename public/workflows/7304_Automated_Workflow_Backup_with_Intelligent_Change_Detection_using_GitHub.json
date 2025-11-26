@@ -2,8 +2,7 @@
   "id": "dmvTNU9rfNdgTeSp",
   "meta": {
     "name": "Automated Workflow Backup with Intelligent Change Detection using GitHub",
-    "id": 7304,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7304
   },
   "name": "Advanced n8n Workflow Sync with GitHub",
   "tags": [],

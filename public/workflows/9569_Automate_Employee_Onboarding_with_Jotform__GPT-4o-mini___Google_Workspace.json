@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Employee Onboarding with Jotform, GPT-4o-mini & Google Workspace",
-    "id": 9569,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9569
   },
   "nodes": [
     {

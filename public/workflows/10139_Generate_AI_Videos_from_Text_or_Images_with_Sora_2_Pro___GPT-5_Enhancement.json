@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Videos from Text or Images with Sora 2/Pro & GPT-5 Enhancement",
-    "id": 10139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10139
   },
   "nodes": [
     {

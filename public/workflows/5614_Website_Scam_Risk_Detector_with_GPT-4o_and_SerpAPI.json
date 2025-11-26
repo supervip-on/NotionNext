@@ -2,8 +2,7 @@
   "id": "ZTurRTNvdumiBnCQ",
   "meta": {
     "name": "Website Scam Risk Detector with GPT-4o and SerpAPI",
-    "id": 5614,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5614
   },
   "name": "Utilize GPT-4o To Evaluate URLs And Determine Scam Risk",
   "tags": [],

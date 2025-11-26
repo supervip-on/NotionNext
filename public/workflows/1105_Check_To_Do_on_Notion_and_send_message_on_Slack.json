@@ -178,7 +178,6 @@
   },
   "meta": {
     "name": "Check To Do on Notion and send message on Slack",
-    "id": 1105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1105
   }
 }

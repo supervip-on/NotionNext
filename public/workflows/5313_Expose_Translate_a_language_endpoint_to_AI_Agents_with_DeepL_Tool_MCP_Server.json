@@ -2,8 +2,7 @@
   "id": "VJR1iild6byTNPfA",
   "meta": {
     "name": "Expose Translate a language endpoint to AI Agents with DeepL Tool MCP Server",
-    "id": 5313,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5313
   },
   "name": "DeepL Tool MCP Server",
   "tags": [],

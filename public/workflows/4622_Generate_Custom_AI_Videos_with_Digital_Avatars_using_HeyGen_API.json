@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Custom AI Videos with Digital Avatars using HeyGen API",
-    "id": 4622,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4622
   },
   "nodes": [
     {

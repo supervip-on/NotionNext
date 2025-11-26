@@ -2,8 +2,7 @@
   "id": "EyPTvUFPOkBXeelq",
   "meta": {
     "name": "Proxmox System Monitor - VM Status, Host Resources & Temperature Alerts via Telegram",
-    "id": 9733,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9733
   },
   "name": "Proxmox Monitoring Report - VM Status, Host Resource Usage, Temperature Control - Sheduled with Telegram Export",
   "tags": [],

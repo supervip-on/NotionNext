@@ -2,8 +2,7 @@
   "id": "JuXOZQggRREMehEs",
   "meta": {
     "name": "Create & Send GA4 Report with Insights via Email",
-    "id": 8463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8463
   },
   "name": "[TEMPLATE] GA4 Report",
   "tags": [],

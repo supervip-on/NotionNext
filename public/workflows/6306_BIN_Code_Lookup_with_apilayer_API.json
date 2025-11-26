@@ -2,8 +2,7 @@
   "id": "a45d1jkHh90Cr2bF",
   "meta": {
     "name": "BIN Code Lookup with apilayer API",
-    "id": 6306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6306
   },
   "name": "BIN Code Lookup with apilayer API",
   "tags": [],

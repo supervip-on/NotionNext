@@ -2,8 +2,7 @@
   "id": "qh5hZfyvDNG0QYai",
   "meta": {
     "name": "Auto-Generate Instagram Carousels with GPT-Image-1 & AI Captions from Google Sheets",
-    "id": 7750,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7750
   },
   "name": "Create and publish Instagram carousels using OpenAI gpt-image-1 and AI caption",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Monday.com Tool MCP Server 💪 all 18 operations",
-    "id": 5120,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5120
   },
   "nodes": [
     {

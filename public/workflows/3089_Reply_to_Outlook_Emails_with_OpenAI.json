@@ -2,8 +2,7 @@
   "id": "mqindLlOy0A0e5aA",
   "meta": {
     "name": "Reply to Outlook Emails with OpenAI",
-    "id": 3089,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3089
   },
   "name": "Outlook",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "sUIPemKdKqmUQFt6",
   "meta": {
     "name": "Extract text from PDF and image using Vertex AI (Gemini) into CSV",
-    "id": 2614,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2614
   },
   "name": "Extract text from PDF and image using Vertex AI (Gemini) into CSV",
   "tags": [],

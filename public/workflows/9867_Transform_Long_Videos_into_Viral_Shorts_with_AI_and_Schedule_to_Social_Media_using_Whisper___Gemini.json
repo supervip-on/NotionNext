@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Long Videos into Viral Shorts with AI and Schedule to Social Media using Whisper & Gemini",
-    "id": 9867,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9867
   },
   "nodes": [
     {

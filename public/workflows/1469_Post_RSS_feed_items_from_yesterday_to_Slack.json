@@ -167,7 +167,6 @@
   },
   "meta": {
     "name": "Post RSS feed items from yesterday to Slack",
-    "id": 1469,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1469
   }
 }

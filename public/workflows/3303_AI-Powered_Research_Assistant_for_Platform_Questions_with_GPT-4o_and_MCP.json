@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Research Assistant for Platform Questions with GPT-4o and MCP",
-    "id": 3303,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3303
   },
   "nodes": [
     {

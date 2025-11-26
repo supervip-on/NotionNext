@@ -2,8 +2,7 @@
   "id": "yWCiA40cYIUrujSC",
   "meta": {
     "name": "Generate Images from Text with IBM Granite Vision 3.3 2B AI Model",
-    "id": 7012,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7012
   },
   "name": "14. Generate Images from Text with IBM Granite Vision 3.3 2B AI Model",
   "tags": [],

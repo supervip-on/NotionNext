@@ -2,8 +2,7 @@
   "id": "OAvKQCYsly0DTlci",
   "meta": {
     "name": "Build a RAG System with Automatic Citations using Qdrant, Gemini & OpenAI",
-    "id": 5023,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5023
   },
   "name": "Complete RAG System with Automatic Source Citations Using Qdrant",
   "tags": [],

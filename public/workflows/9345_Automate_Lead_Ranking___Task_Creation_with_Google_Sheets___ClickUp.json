@@ -2,8 +2,7 @@
   "id": "EHOx9tJ71PVTuz5c",
   "meta": {
     "name": "Automate Lead Ranking & Task Creation with Google Sheets + ClickUp",
-    "id": 9345,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9345
   },
   "name": "Priority Follow-Up Queue Builder",
   "tags": [],

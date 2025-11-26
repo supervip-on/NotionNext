@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "UGC Video Generation with Wan 2.5 on Replicate",
-    "id": 8907,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8907
   },
   "nodes": [
     {

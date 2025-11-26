@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Zillow Property Data to Google Sheets with Scrape.do",
-    "id": 9182,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9182
   },
   "nodes": [
     {

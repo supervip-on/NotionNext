@@ -2,8 +2,7 @@
   "id": "ImiznkEUWCkKbg1w",
   "meta": {
     "name": "Analyze DEX Liquidity, Trades & Spot Pairs with CoinMarketCap AI Agent",
-    "id": 3424,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3424
   },
   "name": "CoinMarketCap_DEXScan_Agent_Tool",
   "tags": [],

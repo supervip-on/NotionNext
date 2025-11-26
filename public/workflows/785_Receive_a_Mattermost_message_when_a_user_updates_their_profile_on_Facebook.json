@@ -57,7 +57,6 @@
   },
   "meta": {
     "name": "Receive a Mattermost message when a user updates their profile on Facebook",
-    "id": 785,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 785
   }
 }

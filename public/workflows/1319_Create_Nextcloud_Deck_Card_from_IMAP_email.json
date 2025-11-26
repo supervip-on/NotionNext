@@ -91,7 +91,6 @@
   },
   "meta": {
     "name": "Create Nextcloud Deck Card from IMAP email",
-    "id": 1319,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1319
   }
 }

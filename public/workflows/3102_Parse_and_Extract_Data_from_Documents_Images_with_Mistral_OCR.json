@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Parse and Extract Data from Documents/Images with Mistral OCR",
-    "id": 3102,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3102
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "eZT6SZ4Kvmq5TzyQ",
   "meta": {
     "name": "Summarize Umami data with AI (via Openrouter) and save it to Baserow",
-    "id": 2520,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2520
   },
   "name": "Umami analytics template",
   "tags": [],

@@ -95,8 +95,7 @@
   },
   "meta": {
     "name": "Get information about the weather for any city",
-    "id": 737,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 737
   },
   "id": "737"
 }

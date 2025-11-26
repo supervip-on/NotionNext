@@ -20,8 +20,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates on events in JotForm",
-    "id": 541,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 541
   },
   "id": "541"
 }

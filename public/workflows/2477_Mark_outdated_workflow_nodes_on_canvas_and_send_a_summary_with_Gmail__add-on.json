@@ -2,8 +2,7 @@
   "id": "xlMrGt0c1eFi4J1U",
   "meta": {
     "name": "Mark outdated workflow nodes on canvas and send a summary with Gmail (add-on)",
-    "id": 2477,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2477
   },
   "name": "Addon for Workflow Nodes Update Check Template",
   "tags": [],

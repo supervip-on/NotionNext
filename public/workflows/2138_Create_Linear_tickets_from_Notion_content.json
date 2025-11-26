@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Linear tickets from Notion content",
-    "id": 2138,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2138
   },
   "nodes": [
     {

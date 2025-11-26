@@ -2,8 +2,7 @@
   "id": "mbJzXoWPLzePg3yv",
   "meta": {
     "name": "Automate QuickBooks Sales Receipts & Customer Creation from Stripe Payments",
-    "id": 8403,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8403
   },
   "name": "Automate QuickBooks Sales Receipts from Stripe Payments & Customer Creation",
   "tags": [],

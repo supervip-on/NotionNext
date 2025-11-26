@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "PDF Report Monitor with GPT-3.5 Insights and Slack/Email Alerts",
-    "id": 7361,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7361
   },
   "nodes": [
     {

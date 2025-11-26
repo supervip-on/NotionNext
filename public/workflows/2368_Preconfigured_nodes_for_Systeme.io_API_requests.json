@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Preconfigured nodes for Systeme.io API requests",
-    "id": 2368,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2368
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Ory496P9KwrXYadC",
   "meta": {
     "name": "Log Daily Mood & Weather to Notion with Telegram and OpenWeatherMap",
-    "id": 4862,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4862
   },
   "name": "Automate Personal Insights: Mood & Weather Logged to Notion 💡✍️",
   "tags": [],

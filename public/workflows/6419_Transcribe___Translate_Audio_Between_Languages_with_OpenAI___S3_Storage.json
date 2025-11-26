@@ -2,8 +2,7 @@
   "id": "czQrkJi2yAvqGLRZ",
   "meta": {
     "name": "Transcribe & Translate Audio Between Languages with OpenAI & S3 Storage",
-    "id": 6419,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6419
   },
   "name": "AI Audio Translator with Text-to-Speech",
   "tags": [],

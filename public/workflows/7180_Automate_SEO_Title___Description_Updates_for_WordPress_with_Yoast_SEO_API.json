@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate SEO Title & Description Updates for WordPress with Yoast SEO API",
-    "id": 7180,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7180
   },
   "nodes": [
     {

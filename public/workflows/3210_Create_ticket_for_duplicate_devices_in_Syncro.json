@@ -2,8 +2,7 @@
   "id": "k55IEnlMsxTEyqc6",
   "meta": {
     "name": "Create ticket for duplicate devices in Syncro",
-    "id": 3210,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3210
   },
   "name": "Syncro Asset Deduplication",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "I7WH7YAkU7thNKGJ",
   "meta": {
     "name": "Compare Vendor Quotations with Grok AI and Export to Google Sheets & Email",
-    "id": 6688,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6688
   },
   "name": "Vendor Quotation Comparator with Smart AI Summary Table",
   "tags": [],

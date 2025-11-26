@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI-Powered Weekly Email Newsletters from WordPress with Gemini",
-    "id": 7396,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7396
   },
   "nodes": [
     {

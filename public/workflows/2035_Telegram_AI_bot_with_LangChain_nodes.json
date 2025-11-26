@@ -2,8 +2,7 @@
   "id": "ax8PJlp1UDb6EGFt",
   "meta": {
     "name": "Telegram AI bot with LangChain nodes",
-    "id": 2035,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2035
   },
   "name": "Telegram AI Langchain bot",
   "tags": [],

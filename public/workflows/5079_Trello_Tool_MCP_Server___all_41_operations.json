@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Trello Tool MCP Server 💪 all 41 operations",
-    "id": 5079,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5079
   },
   "nodes": [
     {

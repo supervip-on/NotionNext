@@ -2,8 +2,7 @@
   "id": "30LBIZdc1EWwxA14",
   "meta": {
     "name": "Bulk JSON File Downloader from Google Sheet to Local Folders",
-    "id": 6366,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6366
   },
   "name": "Json Folder Separation",
   "tags": [],

@@ -80,7 +80,6 @@
   },
   "meta": {
     "name": "Send daily weather updates via a notification in Line",
-    "id": 773,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 773
   }
 }

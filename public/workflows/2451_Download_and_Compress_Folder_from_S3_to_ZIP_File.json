@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download and Compress Folder from S3 to ZIP File",
-    "id": 2451,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2451
   },
   "nodes": [
     {

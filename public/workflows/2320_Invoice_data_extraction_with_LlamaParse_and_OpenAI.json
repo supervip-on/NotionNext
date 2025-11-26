@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Invoice data extraction with LlamaParse and OpenAI",
-    "id": 2320,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2320
   },
   "nodes": [
     {

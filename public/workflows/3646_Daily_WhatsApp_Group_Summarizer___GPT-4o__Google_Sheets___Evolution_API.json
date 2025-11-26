@@ -2,8 +2,7 @@
   "id": "SDubQGkprqjYerIE",
   "meta": {
     "name": "💬 Daily WhatsApp Group Summarizer – GPT-4o, Google Sheets & Evolution API",
-    "id": 3646,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3646
   },
   "name": "WhatsApp Group Summarizer - Using Evolution API",
   "tags": [],

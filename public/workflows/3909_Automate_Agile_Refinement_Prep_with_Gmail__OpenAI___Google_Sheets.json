@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Agile Refinement Prep with Gmail, OpenAI & Google Sheets",
-    "id": 3909,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3909
   },
   "nodes": [
     {

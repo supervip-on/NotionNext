@@ -2,8 +2,7 @@
   "id": "gqwYlZvL1dwy9W3T",
   "meta": {
     "name": "Fetch Scriptures Dynamically from get Bible API",
-    "id": 2818,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2818
   },
   "name": "getBible Query v1.0",
   "tags": [],

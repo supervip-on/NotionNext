@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Simple Eval for Legal Benchmarking",
-    "id": 4712,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4712
   },
   "nodes": [
     {

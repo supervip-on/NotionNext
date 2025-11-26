@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated SEO Keyword Analysis with RapidAPI and Google Sheets",
-    "id": 7366,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7366
   },
   "nodes": [
     {

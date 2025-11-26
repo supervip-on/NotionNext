@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get workflows affected by 0.214.3 migration",
-    "id": 1892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1892
   },
   "nodes": [
     {

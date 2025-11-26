@@ -2,8 +2,7 @@
   "id": "HHGG8ayfMX7B8r9p",
   "meta": {
     "name": "Sync Monday.com Items to Jira with Smart Duplicate Detection & Feedback Loop",
-    "id": 9830,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9830
   },
   "name": "Monday.com Intake → Jira Backlog Harmonizer",
   "tags": [],

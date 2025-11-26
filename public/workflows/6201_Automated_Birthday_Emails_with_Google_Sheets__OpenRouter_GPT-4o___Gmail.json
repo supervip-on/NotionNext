@@ -2,8 +2,7 @@
   "id": "ZQemp67V5rZZ1mML",
   "meta": {
     "name": "Automated Birthday Emails with Google Sheets, OpenRouter GPT-4o & Gmail",
-    "id": 6201,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6201
   },
   "name": "Birthday Email",
   "tags": [],

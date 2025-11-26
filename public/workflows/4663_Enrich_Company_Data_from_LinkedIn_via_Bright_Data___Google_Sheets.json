@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Company Data from LinkedIn via Bright Data & Google Sheets",
-    "id": 4663,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4663
   },
   "nodes": [
     {

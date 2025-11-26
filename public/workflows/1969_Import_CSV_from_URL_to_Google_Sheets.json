@@ -2,8 +2,7 @@
   "id": "NLVfecejH0cTtcdd",
   "meta": {
     "name": "Import CSV from URL to Google Sheets",
-    "id": 1969,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1969
   },
   "name": "Import CSV from URL to GoogleSheet",
   "tags": [],

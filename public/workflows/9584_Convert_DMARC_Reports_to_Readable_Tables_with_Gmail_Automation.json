@@ -2,8 +2,7 @@
   "id": "ChyUpdqplMMK9goy",
   "meta": {
     "name": "Convert DMARC Reports to Readable Tables with Gmail Automation",
-    "id": 9584,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9584
   },
   "name": "dmarc",
   "tags": [],

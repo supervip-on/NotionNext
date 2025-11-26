@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate & Upload an Audio Summary of a WordPress (or Woocommerce) Article",
-    "id": 3028,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3028
   },
   "nodes": [
     {

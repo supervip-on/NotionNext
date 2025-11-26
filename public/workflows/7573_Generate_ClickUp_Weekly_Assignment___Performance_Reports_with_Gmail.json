@@ -2,8 +2,7 @@
   "id": "KbfRisHZwabQL39s",
   "meta": {
     "name": "Generate ClickUp Weekly Assignment & Performance Reports with Gmail",
-    "id": 7573,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7573
   },
   "name": "Upcoming Assignment BDE Report(Weekly)",
   "tags": [],

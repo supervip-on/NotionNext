@@ -2,8 +2,7 @@
   "id": "EYT5quvgwZ4c7ka8",
   "meta": {
     "name": "Manage Construction Projects with Tasks, Photo Reports, Telegram & Google Sheets",
-    "id": 6675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6675
   },
   "name": "Project-management-n8n-with-task-YOUR_OPENAI_KEY_HERE-and-photo-reports",
   "tags": [],

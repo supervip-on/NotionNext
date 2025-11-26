@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Summarize Documents, Images & Spreadsheets with Gemma 3 on Ollama",
-    "id": 5858,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5858
   },
   "nodes": [
     {

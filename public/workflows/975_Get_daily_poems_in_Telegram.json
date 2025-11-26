@@ -107,7 +107,6 @@
   },
   "meta": {
     "name": "Get daily poems in Telegram",
-    "id": 975,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 975
   }
 }

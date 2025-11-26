@@ -2,8 +2,7 @@
   "id": "Xxg3JlB1tLokdTLX",
   "meta": {
     "name": "Automate Employee Trip Expense Processing with Jotform, OpenAI and Google Sheets",
-    "id": 9579,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9579
   },
   "name": "Automated Employee Trip Expense Reporting/Parsing with Jotform, OpenAI",
   "tags": [

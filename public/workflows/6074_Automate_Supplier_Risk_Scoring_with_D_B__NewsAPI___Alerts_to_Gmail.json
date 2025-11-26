@@ -477,8 +477,7 @@
   },
   "meta": {
     "name": "Automate Supplier Risk Scoring with D&B, NewsAPI & Alerts to Gmail",
-    "id": 6074,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6074
   },
   "id": "6074"
 }

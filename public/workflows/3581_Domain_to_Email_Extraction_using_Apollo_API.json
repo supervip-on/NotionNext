@@ -2,8 +2,7 @@
   "id": "E4K85OV19sy8Jrly",
   "meta": {
     "name": "Domain to Email Extraction using Apollo API ",
-    "id": 3581,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3581
   },
   "name": "Domain -> Email Extraction using Apollo API copy",
   "tags": [],

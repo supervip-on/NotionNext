@@ -2,8 +2,7 @@
   "id": "bHZEpS3GDpUNmmRD",
   "meta": {
     "name": "AI Chatbot Agent with a Panel of Experts using InfraNodus GraphRAG Knowledge",
-    "id": 4402,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4402
   },
   "name": "AI Chatbot Agent: a Panel of Experts using InfraNodus Graph RAG Knowledge",
   "tags": [

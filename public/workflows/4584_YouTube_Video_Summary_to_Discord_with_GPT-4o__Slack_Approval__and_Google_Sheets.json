@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "YouTube Video Summary to Discord with GPT-4o, Slack Approval, and Google Sheets",
-    "id": 4584,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4584
   },
   "nodes": [
     {

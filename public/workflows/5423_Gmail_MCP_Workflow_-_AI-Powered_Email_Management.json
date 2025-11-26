@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail MCP Workflow - AI-Powered Email Management",
-    "id": 5423,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5423
   },
   "nodes": [
     {

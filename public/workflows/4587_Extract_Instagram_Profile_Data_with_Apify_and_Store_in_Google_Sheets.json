@@ -2,8 +2,7 @@
   "id": "rDGkfQpVtkD1D6RH",
   "meta": {
     "name": "Extract Instagram Profile Data with Apify and Store in Google Sheets",
-    "id": 4587,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4587
   },
   "name": "Instagram Profile Scraper",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Blog Content Tracking with RSS Feeds and Time-Based Filtering",
-    "id": 9596,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9596
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "4b7zzdwKKLNoIiMy",
   "meta": {
     "name": "Automated Sprint Reports from Jira to Stakeholders via Gmail",
-    "id": 8932,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8932
   },
   "name": "Generate Jira automatic sprint report for Gmail",
   "tags": [

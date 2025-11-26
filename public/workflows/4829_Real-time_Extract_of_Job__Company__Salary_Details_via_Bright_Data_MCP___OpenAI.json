@@ -2,8 +2,7 @@
   "id": "LTw3TlYxQXEMSTi3",
   "meta": {
     "name": "Real-time Extract of Job, Company, Salary Details via Bright Data MCP & OpenAI",
-    "id": 4829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4829
   },
   "name": "Real-time Extract of Job, Company, Salary Details via Bright Data MCP & OpenAI 4o mini",
   "tags": [

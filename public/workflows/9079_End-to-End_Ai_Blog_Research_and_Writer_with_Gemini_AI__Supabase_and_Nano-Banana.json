@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "End-to-End Ai Blog Research and Writer with Gemini AI, Supabase and Nano-Banana",
-    "id": 9079,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9079
   },
   "nodes": [
     {

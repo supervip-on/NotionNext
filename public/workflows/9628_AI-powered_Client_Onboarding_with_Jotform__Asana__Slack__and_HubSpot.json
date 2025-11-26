@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-powered Client Onboarding with Jotform, Asana, Slack, and HubSpot",
-    "id": 9628,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9628
   },
   "nodes": [
     {

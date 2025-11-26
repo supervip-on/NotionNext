@@ -2,8 +2,7 @@
   "id": "39KuujB1fbOvx8Al",
   "meta": {
     "name": "Classify Emails & Extract Structured Data from Job Applications with GPT-4o",
-    "id": 3457,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3457
   },
   "name": "OpenAI e-mail classification - application",
   "tags": [],

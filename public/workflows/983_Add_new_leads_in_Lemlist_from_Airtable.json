@@ -80,8 +80,7 @@
   },
   "meta": {
     "name": "Add new leads in Lemlist from Airtable",
-    "id": 983,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 983
   },
   "id": "983"
 }

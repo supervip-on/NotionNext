@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Client Onboarding Automation: Tally Forms to Google Drive, Notion & Slack",
-    "id": 6351,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6351
   },
   "nodes": [
     {

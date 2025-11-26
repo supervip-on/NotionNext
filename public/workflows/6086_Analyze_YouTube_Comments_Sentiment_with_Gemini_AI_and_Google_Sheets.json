@@ -2,8 +2,7 @@
   "id": "IJ4YYLsaOiD1z9Oz",
   "meta": {
     "name": "Analyze YouTube Comments Sentiment with Gemini AI and Google Sheets",
-    "id": 6086,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6086
   },
   "name": "YouTube - Audience Comment Analyzer",
   "tags": [

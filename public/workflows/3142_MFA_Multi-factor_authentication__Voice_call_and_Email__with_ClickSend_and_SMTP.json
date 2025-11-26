@@ -2,8 +2,7 @@
   "id": "1g8EAij2RwhNN70t",
   "meta": {
     "name": "MFA Multi-factor authentication (Voice call and Email) with ClickSend and SMTP",
-    "id": 3142,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3142
   },
   "name": "xSend and check TTS (Text-to-speech) voice calls end email verification",
   "tags": [],

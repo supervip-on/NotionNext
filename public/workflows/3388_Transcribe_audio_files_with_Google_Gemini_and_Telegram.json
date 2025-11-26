@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transcribe audio files with Google Gemini and Telegram",
-    "id": 3388,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3388
   },
   "nodes": [
     {

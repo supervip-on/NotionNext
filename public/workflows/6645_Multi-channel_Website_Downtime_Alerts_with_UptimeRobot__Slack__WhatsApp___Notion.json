@@ -2,8 +2,7 @@
   "id": "3zEWDJljaynDvKHp",
   "meta": {
     "name": "Multi-channel Website Downtime Alerts with UptimeRobot, Slack, WhatsApp & Notion",
-    "id": 6645,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6645
   },
   "name": "Website Downtime Alerts with UptimeRobot",
   "tags": [],

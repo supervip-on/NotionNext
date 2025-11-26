@@ -2,8 +2,7 @@
   "id": "UnFtEvTPouN6XIIH",
   "meta": {
     "name": "Generate Written Content with GPT Recursive Writing & Editing Agents",
-    "id": 3503,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3503
   },
   "name": "Recursive Multi-Agent TEMPLATE",
   "tags": [],

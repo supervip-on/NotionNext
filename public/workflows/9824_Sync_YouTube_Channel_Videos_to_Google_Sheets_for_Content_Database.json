@@ -2,8 +2,7 @@
   "id": "2c4YjNJ2NIfVHFhr",
   "meta": {
     "name": "Sync YouTube Channel Videos to Google Sheets for Content Database",
-    "id": 9824,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9824
   },
   "name": "Youtube Personal Channel Videos To Google Sheets - Teamplte",
   "tags": [

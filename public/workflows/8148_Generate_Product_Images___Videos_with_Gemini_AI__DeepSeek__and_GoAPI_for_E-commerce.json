@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Product Images & Videos with Gemini AI, DeepSeek, and GoAPI for E-commerce",
-    "id": 8148,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8148
   },
   "nodes": [
     {

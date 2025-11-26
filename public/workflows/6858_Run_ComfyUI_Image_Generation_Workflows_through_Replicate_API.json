@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Run ComfyUI Image Generation Workflows through Replicate API",
-    "id": 6858,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6858
   },
   "name": "fofr/any-comfyui-workflow - Other Generator",
   "nodes": [

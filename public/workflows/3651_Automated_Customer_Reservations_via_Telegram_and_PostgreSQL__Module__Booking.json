@@ -2,8 +2,7 @@
   "id": "AJTY10KEqzGWzQ8p",
   "meta": {
     "name": "Automated Customer Reservations via Telegram and PostgreSQL (Module \"Booking\")",
-    "id": 3651,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3651
   },
   "name": "WA-Bot-Module-Booking-v1-db-sell-full",
   "tags": [

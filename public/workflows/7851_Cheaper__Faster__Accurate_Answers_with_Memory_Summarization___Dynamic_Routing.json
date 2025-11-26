@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Cheaper, Faster, Accurate Answers with Memory Summarization & Dynamic Routing!",
-    "id": 7851,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7851
   },
   "nodes": [
     {

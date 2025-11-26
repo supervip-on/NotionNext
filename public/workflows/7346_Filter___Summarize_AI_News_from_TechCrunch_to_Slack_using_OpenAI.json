@@ -2,8 +2,7 @@
   "id": "Ut6jbfsK7IvhGJVL",
   "meta": {
     "name": "Filter & Summarize AI News from TechCrunch to Slack using OpenAI",
-    "id": 7346,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7346
   },
   "name": "Firecrawl AI-Powered Market Intelligence Bot: Automated News Insights Delivery",
   "tags": [],

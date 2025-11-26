@@ -940,8 +940,7 @@
   },
   "meta": {
     "name": "Sync blog posts from Notion to Webflow",
-    "id": 2293,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2293
   },
   "id": "2293"
 }

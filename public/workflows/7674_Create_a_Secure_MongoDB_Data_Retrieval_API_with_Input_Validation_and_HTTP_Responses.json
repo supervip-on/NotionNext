@@ -2,8 +2,7 @@
   "id": "5BSXfSyLAsQ1XwdA",
   "meta": {
     "name": "Create a Secure MongoDB Data Retrieval API with Input Validation and HTTP Responses",
-    "id": 7674,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7674
   },
   "name": "n8n Workflow: Build a MongoDB API with Collection Name Validation and HTTP Responses",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "gsJVZsZPIb5Lngwn",
   "meta": {
     "name": "Automated Email Follow-up System with CentralStationCRM, Gmail and Slack Alerts",
-    "id": 10121,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10121
   },
   "name": "A simple E-Mail automation for a tagged person in CentralStationCRM",
   "tags": [],

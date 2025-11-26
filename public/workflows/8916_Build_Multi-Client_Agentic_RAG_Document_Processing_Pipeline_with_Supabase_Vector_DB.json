@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Multi-Client Agentic RAG Document Processing Pipeline with Supabase Vector DB",
-    "id": 8916,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8916
   },
   "nodes": [
     {

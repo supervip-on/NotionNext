@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Dynamic API Gateway with HTTP Router and Workflow Orchestration",
-    "id": 9165,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9165
   },
   "nodes": [
     {

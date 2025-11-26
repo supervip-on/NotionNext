@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Legal Contract Data & Send Alerts with VLM Run, Google Workspace & Slack",
-    "id": 9328,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9328
   },
   "nodes": [
     {

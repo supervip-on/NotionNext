@@ -2,8 +2,7 @@
   "id": "x2VUvhqV1YTJCIN0",
   "meta": {
     "name": "Baserow campaign database to Shopify with image upload & dynamic template update",
-    "id": 2186,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2186
   },
   "tags": [],
   "nodes": [

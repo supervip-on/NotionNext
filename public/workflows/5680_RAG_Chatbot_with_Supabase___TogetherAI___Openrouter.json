@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "RAG Chatbot with Supabase + TogetherAI + Openrouter",
-    "id": 5680,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5680
   },
   "nodes": [
     {

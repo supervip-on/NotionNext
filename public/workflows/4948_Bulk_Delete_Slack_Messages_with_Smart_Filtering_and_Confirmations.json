@@ -2,8 +2,7 @@
   "id": "v4RBwo9l0JrOuBCv",
   "meta": {
     "name": "Bulk Delete Slack Messages with Smart Filtering and Confirmations",
-    "id": 4948,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4948
   },
   "name": "Cleaner Jedi Live",
   "tags": [],

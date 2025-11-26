@@ -2,8 +2,7 @@
   "id": "A0ZiRwjGoLv9WfqF",
   "meta": {
     "name": "Generate and Deploy Websites with Gemini AI and Netlify Auto-Deployment",
-    "id": 7807,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7807
   },
   "name": "automate website creation and deployment",
   "tags": [],

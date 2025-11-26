@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Meeting Transcripts into LinkedIn Content with AI and Google Docs",
-    "id": 7020,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7020
   },
   "nodes": [
     {

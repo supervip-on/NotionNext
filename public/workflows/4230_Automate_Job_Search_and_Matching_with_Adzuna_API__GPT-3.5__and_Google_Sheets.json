@@ -2,8 +2,7 @@
   "id": "oGkubBx7vHlnSxdU",
   "meta": {
     "name": "Automate Job Search and Matching with Adzuna API, GPT-3.5, and Google Sheets",
-    "id": 4230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4230
   },
   "name": "Job_Search_Automation",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "lA4rExuNmuRPablT",
   "meta": {
     "name": "Generate UTM-tagged Bitly Links from Slack with GPT-4o-mini and Google Sheets Logging",
-    "id": 6130,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6130
   },
   "name": "Slack+Bitly URL Generator",
   "tags": [],

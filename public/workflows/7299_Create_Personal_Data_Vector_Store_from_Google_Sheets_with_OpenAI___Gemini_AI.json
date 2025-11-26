@@ -2,8 +2,7 @@
   "id": "nd6AMUkZTTyLUCao",
   "meta": {
     "name": "Create Personal Data Vector Store from Google Sheets with OpenAI & Gemini AI",
-    "id": 7299,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7299
   },
   "name": "Vector Store",
   "tags": [

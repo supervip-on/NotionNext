@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Batch Upscale Portrait Photos with Real-ESRGAN AI, Google Drive and Airtable",
-    "id": 8047,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8047
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "8RiTOY4w1qA2cIHH",
   "meta": {
     "name": "Automate weekly Hollywood film briefing via Tavily and Gemini",
-    "id": 6841,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6841
   },
   "name": "Automate weekly Hollywood film briefing via Tavily and Gemini",
   "tags": [],

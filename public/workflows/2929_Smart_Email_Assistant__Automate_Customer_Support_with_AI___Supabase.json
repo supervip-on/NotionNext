@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Email Assistant: Automate Customer Support with AI & Supabase",
-    "id": 2929,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2929
   },
   "nodes": [
     {

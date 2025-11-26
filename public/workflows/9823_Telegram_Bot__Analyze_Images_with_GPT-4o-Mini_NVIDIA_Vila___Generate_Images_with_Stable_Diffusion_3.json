@@ -2,8 +2,7 @@
   "id": "zeql9BTOvMW9EP5c",
   "meta": {
     "name": "Telegram Bot: Analyze Images with GPT-4o-Mini/NVIDIA Vila & Generate Images with Stable Diffusion 3",
-    "id": 9823,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9823
   },
   "name": "Smart Telegram Bot: Text↔Image via GPT-4V-NVIDIA Vila, Email the Results",
   "tags": [],

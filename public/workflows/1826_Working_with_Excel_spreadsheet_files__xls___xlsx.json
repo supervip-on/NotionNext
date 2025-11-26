@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Working with Excel spreadsheet files (xls & xlsx)",
-    "id": 1826,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1826
   },
   "nodes": [
     {

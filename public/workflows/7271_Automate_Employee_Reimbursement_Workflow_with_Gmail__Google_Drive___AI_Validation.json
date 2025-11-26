@@ -2,8 +2,7 @@
   "id": "oxgrJNmYucFmtqbU",
   "meta": {
     "name": "Automate Employee Reimbursement Workflow with Gmail, Google Drive & AI Validation",
-    "id": 7271,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7271
   },
   "name": "Reimbursement Claims",
   "tags": [],

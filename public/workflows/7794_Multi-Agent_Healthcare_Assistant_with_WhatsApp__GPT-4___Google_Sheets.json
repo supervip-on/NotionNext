@@ -2,8 +2,7 @@
   "id": "demo-healthcare-assistant-workflow",
   "meta": {
     "name": "Multi-Agent Healthcare Assistant with WhatsApp, GPT-4 & Google Sheets",
-    "id": 7794,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7794
   },
   "name": "AI Healthcare Assistant - Multi-Agent Demo System",
   "tags": [

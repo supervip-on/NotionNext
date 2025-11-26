@@ -2,8 +2,7 @@
   "id": "oDMm9XRg5bfp9TTu",
   "meta": {
     "name": "Automatically document and backup N8N workflows",
-    "id": 3354,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3354
   },
   "name": "_infra: Automatically document n8n workflows directly in Notion database",
   "tags": [

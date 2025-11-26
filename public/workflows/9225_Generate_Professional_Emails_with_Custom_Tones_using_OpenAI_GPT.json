@@ -2,8 +2,7 @@
   "id": "zQkM15rEmD23HAeW",
   "meta": {
     "name": "Generate Professional Emails with Custom Tones using OpenAI GPT",
-    "id": 9225,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9225
   },
   "name": "AI Email Generator with Tone Selection",
   "tags": [

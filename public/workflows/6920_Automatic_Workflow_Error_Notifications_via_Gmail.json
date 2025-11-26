@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Workflow Error Notifications via Gmail",
-    "id": 6920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6920
   },
   "name": "My Error workflow",
   "tags": [],

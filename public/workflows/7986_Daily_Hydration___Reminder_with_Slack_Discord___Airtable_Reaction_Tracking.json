@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Hydration 💧 Reminder with Slack/Discord & Airtable Reaction Tracking",
-    "id": 7986,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7986
   },
   "name": "Daily Hydration Hug 💧",
   "nodes": [

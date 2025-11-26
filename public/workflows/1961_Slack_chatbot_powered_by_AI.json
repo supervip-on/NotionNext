@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Slack chatbot powered by AI",
-    "id": 1961,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1961
   },
   "nodes": [
     {

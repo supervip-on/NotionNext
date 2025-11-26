@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🤖 Automate CV Screening with AI Candidate Analysis",
-    "id": 7456,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7456
   },
   "nodes": [
     {

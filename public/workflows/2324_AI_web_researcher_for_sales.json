@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI web researcher for sales",
-    "id": 2324,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2324
   },
   "nodes": [
     {

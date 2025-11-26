@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate AI Video Production & Distribution with Veo3, YouTube & Google Suite",
-    "id": 6374,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6374
   },
   "nodes": [
     {

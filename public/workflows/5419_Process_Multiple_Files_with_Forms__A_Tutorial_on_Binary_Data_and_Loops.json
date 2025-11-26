@@ -2,8 +2,7 @@
   "id": "A2JB4uRp5waIV6yk",
   "meta": {
     "name": "Process Multiple Files with Forms: A Tutorial on Binary Data and Loops",
-    "id": 5419,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5419
   },
   "name": "FormLoadFileExample",
   "tags": [],

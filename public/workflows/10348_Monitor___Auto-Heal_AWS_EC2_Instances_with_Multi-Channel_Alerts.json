@@ -2,8 +2,7 @@
   "id": "POffv5hVuoeobllp",
   "meta": {
     "name": "Monitor & Auto-Heal AWS EC2 Instances with Multi-Channel Alerts",
-    "id": 10348,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10348
   },
   "name": "AWS EC2 Health Check & Self-Healing Workflow",
   "tags": [],

@@ -204,8 +204,7 @@
   },
   "meta": {
     "name": "Convert JSON Objects to Base64 Strings with File Processing",
-    "id": 6008,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6008
   },
   "id": "6008"
 }

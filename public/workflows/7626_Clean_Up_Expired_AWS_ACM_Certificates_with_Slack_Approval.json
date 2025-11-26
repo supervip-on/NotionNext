@@ -2,8 +2,7 @@
   "id": "LXlpaRRd2PCDwtpS",
   "meta": {
     "name": "Clean Up Expired AWS ACM Certificates with Slack Approval",
-    "id": 7626,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7626
   },
   "name": "Clean Up Expired AWS ACM Certificates with Human Approval",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "uTDqvTnmDaTgRRu8",
   "meta": {
     "name": "Scheduled Workflow Backups from n8n to Google Drive with Auto Cleanup",
-    "id": 4515,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4515
   },
   "name": "AIAutomationPro Hourly Backup To Google Drive v1",
   "tags": [

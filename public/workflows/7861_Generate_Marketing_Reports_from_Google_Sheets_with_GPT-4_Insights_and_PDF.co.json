@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Marketing Reports from Google Sheets with GPT-4 Insights and PDF.co",
-    "id": 7861,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7861
   },
   "nodes": [
     {

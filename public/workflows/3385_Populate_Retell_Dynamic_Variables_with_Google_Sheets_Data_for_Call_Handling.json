@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Populate Retell Dynamic Variables with Google Sheets Data for Call Handling",
-    "id": 3385,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3385
   },
   "nodes": [
     {

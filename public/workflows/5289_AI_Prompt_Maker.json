@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ AI Prompt Maker",
-    "id": 5289,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5289
   },
   "nodes": [
     {

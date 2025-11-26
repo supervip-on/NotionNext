@@ -2,8 +2,7 @@
   "id": "KnV10oDIARtVSmw7",
   "meta": {
     "name": "Extract Email Addresses from Websites with EmailListVerify API and Google Sheets",
-    "id": 7948,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7948
   },
   "name": "ELV Extract emails from website",
   "tags": [],

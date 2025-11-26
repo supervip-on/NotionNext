@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download recently liked songs automatically with Spotify",
-    "id": 2285,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2285
   },
   "nodes": [
     {

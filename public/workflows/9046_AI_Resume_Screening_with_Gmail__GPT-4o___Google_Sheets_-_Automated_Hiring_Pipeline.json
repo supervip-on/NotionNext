@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Resume Screening with Gmail, GPT-4o & Google Sheets - Automated Hiring Pipeline",
-    "id": 9046,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9046
   },
   "nodes": [
     {

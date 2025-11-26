@@ -2,8 +2,7 @@
   "id": "9Or3kzIEI2tskRyR",
   "meta": {
     "name": "Google Trend Data Extract & Summarization with Bright Data & Google Gemini",
-    "id": 3854,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3854
   },
   "name": "Google Trend Data Extract, Summarization with Bright Data & Google Gemini",
   "tags": [

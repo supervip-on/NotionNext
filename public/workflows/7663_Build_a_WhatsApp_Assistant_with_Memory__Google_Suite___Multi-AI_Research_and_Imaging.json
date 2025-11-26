@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a WhatsApp Assistant with Memory, Google Suite & Multi-AI Research and Imaging",
-    "id": 7663,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7663
   },
   "nodes": [
     {

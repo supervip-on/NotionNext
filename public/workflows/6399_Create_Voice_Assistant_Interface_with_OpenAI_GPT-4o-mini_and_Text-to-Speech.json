@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Voice Assistant Interface with OpenAI GPT-4o-mini and Text-to-Speech",
-    "id": 6399,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6399
   },
   "nodes": [
     {

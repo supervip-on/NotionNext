@@ -2,8 +2,7 @@
   "id": "c3REFIr9ubIDDYJ5",
   "meta": {
     "name": "Auto-Categorize Blog Posts with OpenAI GPT-4, GitHub, and Google Sheets for Astro/Next.js",
-    "id": 9983,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9983
   },
   "name": "[astro/nextjs] Assign cattegories / tags for article / post",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "MPdLnvVyvH0V6l32",
   "meta": {
     "name": "Daily AI Stock Briefing Right to Your Email: OpenAI + Tavily + Gmail",
-    "id": 4617,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4617
   },
   "name": "Stock Market News",
   "tags": [],

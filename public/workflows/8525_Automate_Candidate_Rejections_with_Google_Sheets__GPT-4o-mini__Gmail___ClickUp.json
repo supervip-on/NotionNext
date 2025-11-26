@@ -2,8 +2,7 @@
   "id": "BykSQdHlk9FP9Bwv",
   "meta": {
     "name": "Automate Candidate Rejections with Google Sheets, GPT-4o-mini, Gmail & ClickUp",
-    "id": 8525,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8525
   },
   "name": "Personalized Rejection/Next-Step Emails",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "WX9Oa7y6UMwGUYBM",
   "meta": {
     "name": "Create Nested Data Processing Loops Using n8n Sub-workflows",
-    "id": 8556,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8556
   },
   "name": "Nested Loops with Sub-workflows",
   "tags": [],

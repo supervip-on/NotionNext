@@ -44,8 +44,7 @@
   },
   "meta": {
     "name": "Get the last five SpaceX launches from the spacex.land API using GraphQL",
-    "id": 558,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 558
   },
   "id": "558"
 }

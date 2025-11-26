@@ -2,8 +2,7 @@
   "id": "wY5AM6wBQUCsBEad",
   "meta": {
     "name": "Daily Cybersecurity News Summarizer with Grok AI for Telegram",
-    "id": 9137,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9137
   },
   "name": "Cybersecurity News Automation Workflow",
   "tags": [],

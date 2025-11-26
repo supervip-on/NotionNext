@@ -84,7 +84,6 @@
   },
   "meta": {
     "name": "Receive updates from Telegram and send an image",
-    "id": 782,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 782
   }
 }

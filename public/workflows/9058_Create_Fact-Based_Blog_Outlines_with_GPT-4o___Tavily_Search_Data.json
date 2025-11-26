@@ -2,8 +2,7 @@
   "id": "5MtO3uahWJoQ7FAC",
   "meta": {
     "name": "Create Fact-Based Blog Outlines with GPT-4o & Tavily Search Data",
-    "id": 9058,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9058
   },
   "name": "Generate and enrich a blog outline using GPT-4o & Tavily",
   "tags": [],

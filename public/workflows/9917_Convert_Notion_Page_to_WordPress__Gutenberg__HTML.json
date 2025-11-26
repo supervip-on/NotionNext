@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Notion Page to WordPress (Gutenberg) HTML",
-    "id": 9917,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9917
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Bitcoin & Ethereum Prices with CoinGecko Alerts via Email/SMS",
-    "id": 8382,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8382
   },
   "nodes": [
     {

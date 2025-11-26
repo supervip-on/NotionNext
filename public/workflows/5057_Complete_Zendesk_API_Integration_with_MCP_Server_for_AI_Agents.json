@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Complete Zendesk API Integration with MCP Server for AI Agents",
-    "id": 5057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5057
   },
   "nodes": [
     {

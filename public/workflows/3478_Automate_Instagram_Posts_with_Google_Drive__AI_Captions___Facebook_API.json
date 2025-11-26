@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Instagram Posts with Google Drive, AI Captions & Facebook API",
-    "id": 3478,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3478
   },
   "nodes": [
     {

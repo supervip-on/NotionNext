@@ -2,8 +2,7 @@
   "id": "cqUkesdTBt1eb0Ny",
   "meta": {
     "name": "AI-Powered RAG Q&A Chatbot with OpenAI, Google Sheets, Glide & Supabase",
-    "id": 4071,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4071
   },
   "name": "Advanced Chatbot+Rag Agent",
   "tags": [],

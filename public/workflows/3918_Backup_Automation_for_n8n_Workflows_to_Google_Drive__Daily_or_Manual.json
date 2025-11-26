@@ -2,8 +2,7 @@
   "id": "LtV9R8GxBGG8peSx",
   "meta": {
     "name": "💾 Backup Automation for n8n Workflows to Google Drive (Daily or Manual)",
-    "id": 3918,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3918
   },
   "name": "💾 Backup Automation for n8n Workflows to Google Drive (Daily or Manual)",
   "tags": [

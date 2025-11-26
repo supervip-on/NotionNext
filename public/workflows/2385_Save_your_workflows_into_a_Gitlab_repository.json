@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Save your workflows into a Gitlab repository",
-    "id": 2385,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2385
   },
   "nodes": [
     {

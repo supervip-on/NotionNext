@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Dartagnan Email Templates to Braze",
-    "id": 3081,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3081
   },
   "name": "My workflow 2",
   "tags": [],

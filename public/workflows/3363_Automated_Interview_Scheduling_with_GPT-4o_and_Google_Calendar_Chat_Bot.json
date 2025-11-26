@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Interview Scheduling with GPT-4o and Google Calendar Chat Bot",
-    "id": 3363,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3363
   },
   "nodes": [
     {

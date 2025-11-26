@@ -2,8 +2,7 @@
   "id": "VPnclcR3gHg85eOV",
   "meta": {
     "name": "Implement Recursive Algorithms with Sub-workflows: Towers of Hanoi Demo",
-    "id": 8656,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8656
   },
   "name": "Towers of Hanoi",
   "tags": [],

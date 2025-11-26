@@ -2,8 +2,7 @@
   "id": "NmF3SAX03cSvsHpW",
   "meta": {
     "name": "Google services (Sheets/Drive/Gmail) instead of 'Google Suite'",
-    "id": 10387,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10387
   },
   "name": "Generate, Encrypt, and Send Invoices with PDF Generator API & Google Suite",
   "tags": [],

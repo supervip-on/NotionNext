@@ -2,8 +2,7 @@
   "id": "GciaqXQ5rEEW0afJ",
   "meta": {
     "name": "Auto-Generate Instagram Captions for Photos with GPT-4o-mini and Airtable",
-    "id": 6951,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6951
   },
   "name": "Select random photo for socials and get caption",
   "tags": [],

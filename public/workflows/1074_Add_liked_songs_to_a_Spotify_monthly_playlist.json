@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add liked songs to a Spotify monthly playlist",
-    "id": 1074,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1074
   },
   "nodes": [
     {

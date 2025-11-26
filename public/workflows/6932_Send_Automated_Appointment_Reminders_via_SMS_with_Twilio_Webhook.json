@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Automated Appointment Reminders via SMS with Twilio Webhook",
-    "id": 6932,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6932
   },
   "nodes": [
     {

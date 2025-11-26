@@ -2,8 +2,7 @@
   "id": "z301sXBDAZd8EDCw",
   "meta": {
     "name": "AI-Powered n8n Release Notes Summary Notifications via Gmail with GPT-5-Mini",
-    "id": 10236,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10236
   },
   "name": "Send scheduled n8n release notes notifications to Gmail",
   "tags": [

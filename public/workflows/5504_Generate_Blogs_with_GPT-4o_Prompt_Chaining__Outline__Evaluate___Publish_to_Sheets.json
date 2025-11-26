@@ -2,8 +2,7 @@
   "id": "HYmhoBTyrdnZ8bAL",
   "meta": {
     "name": "Generate Blogs with GPT-4o Prompt Chaining: Outline, Evaluate & Publish to Sheets",
-    "id": 5504,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5504
   },
   "name": "AI Powered Blog Writing",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Fitness Coach Strava Data Analysis and Personalized Training Insights",
-    "id": 2790,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2790
   },
   "nodes": [
     {

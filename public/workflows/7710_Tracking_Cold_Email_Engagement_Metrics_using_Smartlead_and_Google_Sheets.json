@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Tracking Cold Email Engagement Metrics using Smartlead and Google Sheets",
-    "id": 7710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7710
   },
   "nodes": [
     {

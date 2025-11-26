@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Copy Viral Reels with Gemini AI",
-    "id": 2993,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2993
   },
   "nodes": [
     {

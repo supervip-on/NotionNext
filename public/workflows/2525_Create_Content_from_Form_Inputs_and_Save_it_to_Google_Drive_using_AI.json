@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Content from Form Inputs and Save it to Google Drive using AI",
-    "id": 2525,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2525
   },
   "nodes": [
     {

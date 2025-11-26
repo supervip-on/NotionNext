@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic News Summarization & Email Digest with GPT-4, NewsAPI and Gmail",
-    "id": 4375,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4375
   },
   "nodes": [
     {

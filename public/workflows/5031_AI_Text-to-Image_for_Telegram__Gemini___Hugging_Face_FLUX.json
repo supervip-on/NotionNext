@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Text-to-Image for Telegram (Gemini + Hugging Face FLUX)",
-    "id": 5031,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5031
   },
   "nodes": [
     {

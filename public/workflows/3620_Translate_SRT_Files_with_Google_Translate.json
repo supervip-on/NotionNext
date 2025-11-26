@@ -2,8 +2,7 @@
   "id": "vssVsRO0FW6InbaY",
   "meta": {
     "name": "Translate SRT Files with Google Translate",
-    "id": 3620,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3620
   },
   "name": "Translate",
   "tags": [],

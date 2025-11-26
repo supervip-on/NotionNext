@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Faceless Shorts with OpenAI, RunwayML & ElevenLabs: Script to Social Media",
-    "id": 8290,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8290
   },
   "nodes": [
     {

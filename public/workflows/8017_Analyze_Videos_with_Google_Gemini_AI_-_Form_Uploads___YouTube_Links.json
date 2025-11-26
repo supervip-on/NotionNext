@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Videos with Google Gemini AI - Form Uploads & YouTube Links",
-    "id": 8017,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8017
   },
   "nodes": [
     {

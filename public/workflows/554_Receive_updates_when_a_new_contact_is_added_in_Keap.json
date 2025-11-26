@@ -20,8 +20,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a new contact is added in Keap",
-    "id": 554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 554
   },
   "id": "554"
 }

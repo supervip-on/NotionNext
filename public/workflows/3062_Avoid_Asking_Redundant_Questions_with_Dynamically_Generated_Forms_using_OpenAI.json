@@ -2,8 +2,7 @@
   "id": "ZkIH2ygj2BNSfMOh",
   "meta": {
     "name": "Avoid Asking Redundant Questions with Dynamically Generated Forms using OpenAI ",
-    "id": 3062,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3062
   },
   "name": "Dynamic Form with AI",
   "tags": [],

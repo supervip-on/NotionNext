@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Beginner Lead Finder Using SerpAPI Search",
-    "id": 7155,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7155
   },
   "nodes": [
     {

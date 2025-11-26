@@ -2,8 +2,7 @@
   "id": "LRTza7My8IikYhSU",
   "meta": {
     "name": "Automate Meeting Summaries with Google Drive, Gemini AI & Google Docs",
-    "id": 8145,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8145
   },
   "name": "Meeting Summarizer",
   "tags": [],

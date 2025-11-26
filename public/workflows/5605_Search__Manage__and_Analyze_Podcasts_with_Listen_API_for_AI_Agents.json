@@ -2,8 +2,7 @@
   "id": "oqT1ZfDf3qplG1Ca",
   "meta": {
     "name": "Search, Manage, and Analyze Podcasts with Listen API for AI Agents",
-    "id": 5605,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5605
   },
   "name": "Listen API: Podcast Search, Directory, and Insights API MCP Server",
   "tags": [],

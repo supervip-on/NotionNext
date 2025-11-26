@@ -2,8 +2,7 @@
   "id": "STYgmx1IQLxQcLcA",
   "meta": {
     "name": "Generate Blog Posts from YouTube Videos with OpenAI GPT for WordPress & Webflow",
-    "id": 10046,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10046
   },
   "name": "Auto-generate blog posts from YouTube videos to WordPress and Webflow (TEMPLATE)",
   "tags": [

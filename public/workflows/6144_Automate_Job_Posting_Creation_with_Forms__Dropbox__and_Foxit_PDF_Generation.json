@@ -2,8 +2,7 @@
   "id": "DpHO7BwAZOzx9rMs",
   "meta": {
     "name": "Automate Job Posting Creation with Forms, Dropbox, and Foxit PDF Generation",
-    "id": 6144,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6144
   },
   "name": "Job to PDF",
   "tags": [],

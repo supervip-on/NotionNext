@@ -2,8 +2,7 @@
   "id": "ec9kpivmcQCvL0Xp",
   "meta": {
     "name": "Automated Meeting Minutes from Audio using OpenAI Transcription and Google Docs",
-    "id": 9644,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9644
   },
   "name": "[完]Meeting-Minutes Assistant",
   "tags": [],

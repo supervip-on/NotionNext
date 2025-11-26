@@ -2,8 +2,7 @@
   "id": "djMLEjSgXKxWXaG4",
   "meta": {
     "name": "Real-time Sales Quote Creation in Odoo via Telegram with Google Gemini AI",
-    "id": 9148,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9148
   },
   "name": "SO Creation , Product Price Via Telegram - Single JSON File",
   "tags": [],

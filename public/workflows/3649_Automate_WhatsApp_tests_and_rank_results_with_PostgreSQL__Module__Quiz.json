@@ -2,8 +2,7 @@
   "id": "QTuJfyY6vm7iEIH6",
   "meta": {
     "name": "Automate WhatsApp tests and rank results with PostgreSQL (Module \"Quiz\")",
-    "id": 3649,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3649
   },
   "name": "WA-Bot-Module-Quiz-v1-db-sell-full",
   "tags": [

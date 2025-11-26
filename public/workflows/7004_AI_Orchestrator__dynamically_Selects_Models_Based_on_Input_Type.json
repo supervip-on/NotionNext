@@ -2,8 +2,7 @@
   "id": "abSdfsaYgkssXX7g",
   "meta": {
     "name": "AI Orchestrator: dynamically Selects Models Based on Input Type",
-    "id": 7004,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7004
   },
   "name": "Dynamically Selects Models Based on Input Type",
   "tags": [],

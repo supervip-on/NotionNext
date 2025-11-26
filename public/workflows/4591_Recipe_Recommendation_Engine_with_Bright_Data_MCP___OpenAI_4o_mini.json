@@ -2,8 +2,7 @@
   "id": "3nPufqQQUzDzdo02",
   "meta": {
     "name": "Recipe Recommendation Engine with Bright Data MCP & OpenAI 4o mini",
-    "id": 4591,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4591
   },
   "name": "Recipe Recommendation Engine with Bright Data MCP & OpenAI",
   "tags": [],

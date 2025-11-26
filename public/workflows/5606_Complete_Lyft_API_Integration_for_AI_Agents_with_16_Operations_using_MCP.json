@@ -2,8 +2,7 @@
   "id": "9eamTbfoJPvEQc7b",
   "meta": {
     "name": "Complete Lyft API Integration for AI Agents with 16 Operations using MCP",
-    "id": 5606,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5606
   },
   "name": "Lyft MCP Server",
   "tags": [],

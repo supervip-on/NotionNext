@@ -2,8 +2,7 @@
   "id": "ZquoLLFP4qaudR5P",
   "meta": {
     "name": "Validate Email Lists Weekly with Google Sheets, VerifiEmail and Gmail Reports",
-    "id": 9252,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9252
   },
   "name": "Email List Hygiene Automation",
   "tags": [],

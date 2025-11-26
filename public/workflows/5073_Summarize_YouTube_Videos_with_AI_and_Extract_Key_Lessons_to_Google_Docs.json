@@ -2,8 +2,7 @@
   "id": "86tygV5ZAp32Ey9H",
   "meta": {
     "name": "Summarize YouTube Videos with AI and Extract Key Lessons to Google Docs",
-    "id": 5073,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5073
   },
   "name": "Youtube transcript summary to Google Doc",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "dLKIZxM6c0lRVbjb",
   "meta": {
     "name": " Build an AI-Powered Tech Radar Advisor with SQL DB, RAG, and Routing Agents",
-    "id": 3151,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3151
   },
   "name": "Tech Radar",
   "tags": [],

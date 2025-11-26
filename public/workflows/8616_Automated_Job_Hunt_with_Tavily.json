@@ -2,8 +2,7 @@
   "id": "sre2RfUnMtFx3bXB",
   "meta": {
     "name": "Automated Job Hunt with Tavily",
-    "id": 8616,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8616
   },
   "name": "Job Postings with Tavily",
   "tags": [],

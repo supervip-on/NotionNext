@@ -2,8 +2,7 @@
   "id": "nBY4tiJSO0zKOUT4",
   "meta": {
     "name": "Extract Citation Sources from Google AI Overview to Google Sheets with DataForSEO",
-    "id": 7539,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7539
   },
   "name": "Pull references from Google's AI Overview with DataForSEO",
   "tags": [],

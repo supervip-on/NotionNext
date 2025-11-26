@@ -212,8 +212,7 @@
   },
   "meta": {
     "name": "Summarize YouTube Videos from Transcript",
-    "id": 2736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2736
   },
   "id": "2736"
 }

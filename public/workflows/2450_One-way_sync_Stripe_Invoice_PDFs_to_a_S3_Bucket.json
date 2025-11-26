@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "One-way sync Stripe Invoice PDFs to a S3 Bucket",
-    "id": 2450,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2450
   },
   "nodes": [
     {

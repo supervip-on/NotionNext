@@ -283,8 +283,7 @@
   },
   "meta": {
     "name": "Get data from multiple RSS feeds to Telegram",
-    "id": 1554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1554
   },
   "id": "1554"
 }

@@ -2,8 +2,7 @@
   "id": "xUuPJFkQw5aJ9Bfg",
   "meta": {
     "name": "Dynamic AI Model Selector with GDPR Compliance via Requesty and Google Sheets",
-    "id": 5862,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5862
   },
   "name": "Dynamic GDPR-Compliant Model Selector with Requesty",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate and Store AI Images with Sora GPT, Google Drive and Sheets",
-    "id": 5932,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5932
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate HR Recruitment with OpenAI Resume Screening & Interview Questions Generator",
-    "id": 9528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9528
   },
   "nodes": [
     {

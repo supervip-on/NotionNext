@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Classify Event Photos from Attendees with Gemma AI, Google Drive & Sheets",
-    "id": 6575,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6575
   },
   "nodes": [
     {

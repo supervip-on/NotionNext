@@ -2,8 +2,7 @@
   "id": "XiwLd0JwGmDoY0mr",
   "meta": {
     "name": "Convert Images to 3D Models with Fal AI Trellis and Store in Google Drive",
-    "id": 3894,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3894
   },
   "name": "Image-to-3D",
   "tags": [],

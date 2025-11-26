@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate B2B Lead Opportunities from Websites with Brightdata & OpenRouter AI",
-    "id": 8076,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8076
   },
   "nodes": [
     {

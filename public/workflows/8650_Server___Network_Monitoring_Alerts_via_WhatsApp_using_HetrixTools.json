@@ -2,8 +2,7 @@
   "id": "YvCR0JYS4JhGD0mD",
   "meta": {
     "name": "Server & Network Monitoring Alerts via WhatsApp using HetrixTools",
-    "id": 8650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8650
   },
   "name": "Realtime Uptime Monitor Report Using Hetrix Tools + Golang WhatsApp",
   "tags": [],

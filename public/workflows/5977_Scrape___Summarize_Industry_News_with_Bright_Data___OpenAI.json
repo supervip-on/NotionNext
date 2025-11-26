@@ -2,8 +2,7 @@
   "id": "dsv9xYDvOspXvmJu",
   "meta": {
     "name": "Scrape & Summarize Industry News with Bright Data & OpenAI",
-    "id": 5977,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5977
   },
   "name": "34  Scrape Industry News",
   "tags": [],

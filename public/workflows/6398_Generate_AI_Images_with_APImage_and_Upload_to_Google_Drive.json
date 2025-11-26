@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Images with APImage and Upload to Google Drive",
-    "id": 6398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6398
   },
   "nodes": [
     {

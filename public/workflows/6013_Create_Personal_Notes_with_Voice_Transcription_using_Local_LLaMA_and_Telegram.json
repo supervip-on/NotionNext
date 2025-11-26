@@ -2,8 +2,7 @@
   "id": "A97E7YWDFrFl5S1k",
   "meta": {
     "name": "Create Personal Notes with Voice Transcription using Local LLaMA and Telegram",
-    "id": 6013,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6013
   },
   "name": "PersonalNotesAssistant",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "nn9CW8uoGGYePKzj",
   "meta": {
     "name": "Forward Email & LinkedIn Message Notifications from Reply.io to Telegram",
-    "id": 7297,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7297
   },
   "name": "Reply.io notifications - for publish",
   "tags": [],

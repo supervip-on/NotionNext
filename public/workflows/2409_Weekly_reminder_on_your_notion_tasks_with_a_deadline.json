@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly reminder on your notion tasks with a deadline",
-    "id": 2409,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2409
   },
   "nodes": [
     {

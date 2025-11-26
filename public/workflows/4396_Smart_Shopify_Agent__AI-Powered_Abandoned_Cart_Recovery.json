@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Shopify Agent: AI-Powered Abandoned Cart Recovery",
-    "id": 4396,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4396
   },
   "nodes": [
     {

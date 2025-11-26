@@ -2,8 +2,7 @@
   "id": "hglWYkxV4GP7aiNI",
   "meta": {
     "name": "CYBERPULSE AI GRC: Automated ISO 42001 Compliance Evaluation",
-    "id": 7078,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7078
   },
   "name": "My workflow 3ISO 42001 Control Mapping Module",
   "tags": [

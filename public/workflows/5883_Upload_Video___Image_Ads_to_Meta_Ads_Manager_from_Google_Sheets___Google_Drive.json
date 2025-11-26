@@ -2,8 +2,7 @@
   "id": "v8cndATocxXEg3OZ",
   "meta": {
     "name": "Upload Video & Image Ads to Meta Ads Manager from Google Sheets & Google Drive",
-    "id": 5883,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5883
   },
   "name": "Upload Video & Image Ads to Meta Ads Manager from Google Sheets using Google Drive & Meta Graph API",
   "tags": [],

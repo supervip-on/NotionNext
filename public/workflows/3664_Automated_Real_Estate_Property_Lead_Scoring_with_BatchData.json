@@ -2,8 +2,7 @@
   "id": "0uon02fOzPkLcG6G",
   "meta": {
     "name": "Automated Real Estate Property Lead Scoring with BatchData",
-    "id": 3664,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3664
   },
   "name": "Lead Qualification with BatchData",
   "tags": [],

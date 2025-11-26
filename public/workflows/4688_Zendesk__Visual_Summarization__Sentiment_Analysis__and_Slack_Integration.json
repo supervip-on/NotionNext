@@ -2,8 +2,7 @@
   "id": "Ps6Vyn4fFbtSDAIa",
   "meta": {
     "name": "Zendesk: Visual Summarization, Sentiment Analysis, and Slack Integration",
-    "id": 4688,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4688
   },
   "name": "Summarize Zendesk Tickets and Generate Insights with Knowledge Graphs",
   "tags": [

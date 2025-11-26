@@ -2,8 +2,7 @@
   "id": "6tW6bM6XI6pqrQgn",
   "meta": {
     "name": "Create Literary English/German to Chinese Dictionary with GPT-4o-mini & Supabase",
-    "id": 5792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5792
   },
   "name": "My dictionary_complext",
   "tags": [],

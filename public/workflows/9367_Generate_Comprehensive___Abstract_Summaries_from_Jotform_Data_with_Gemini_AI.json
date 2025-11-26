@@ -2,8 +2,7 @@
   "id": "aII3GCSHJ15ErlYd",
   "meta": {
     "name": "Generate Comprehensive & Abstract Summaries from Jotform Data with Gemini AI",
-    "id": 9367,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9367
   },
   "name": "Jotform Summarizer with Comprehensive and Abstract Insights using Gemini AI",
   "tags": [

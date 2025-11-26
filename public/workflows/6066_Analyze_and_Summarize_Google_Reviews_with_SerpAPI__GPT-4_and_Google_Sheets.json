@@ -2,8 +2,7 @@
   "id": "pRW5xgECkynFHaUx",
   "meta": {
     "name": "Analyze and Summarize Google Reviews with SerpAPI, GPT-4 and Google Sheets",
-    "id": 6066,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6066
   },
   "name": "template - gmbr google review",
   "tags": [],

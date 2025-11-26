@@ -2,8 +2,7 @@
   "id": "0PCgKBDaVH6uI0KX",
   "meta": {
     "name": "Automate QuickBooks Customers & Sales Receipts Generation from a Google Sheet",
-    "id": 6770,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6770
   },
   "name": "Create customers & Sales Receipts in Quickbook from Google Sheet Data",
   "tags": [],

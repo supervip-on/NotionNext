@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export Jamf Smart Group Membership to Slack as Viewable CSV Reports",
-    "id": 6040,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6040
   },
   "nodes": [
     {

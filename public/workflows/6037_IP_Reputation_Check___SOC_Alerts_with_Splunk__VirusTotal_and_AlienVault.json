@@ -2,8 +2,7 @@
   "id": "xfusgVqUUXHnAXQx",
   "meta": {
     "name": "IP Reputation Check & SOC Alerts with Splunk, VirusTotal and AlienVault",
-    "id": 6037,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6037
   },
   "name": "✅Splunk Alert - IP Reputation Check",
   "tags": [],

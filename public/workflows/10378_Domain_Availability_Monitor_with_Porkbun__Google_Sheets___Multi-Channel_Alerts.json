@@ -2,8 +2,7 @@
   "id": "5tH7j1qgEdAjLj3c",
   "meta": {
     "name": "Domain Availability Monitor with Porkbun, Google Sheets & Multi-Channel Alerts",
-    "id": 10378,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10378
   },
   "name": "Porkbun - Domain Sniper",
   "tags": [],

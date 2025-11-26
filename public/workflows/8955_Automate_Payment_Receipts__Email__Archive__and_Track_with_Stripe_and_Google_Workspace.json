@@ -2,8 +2,7 @@
   "id": "gr2rafzxOw1ks4Bd",
   "meta": {
     "name": "Automate Payment Receipts: Email, Archive, and Track with Stripe and Google Workspace",
-    "id": 8955,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8955
   },
   "name": "Archive Payment Receipts with Stripe, Google Drive, and Google Sheets",
   "tags": [],

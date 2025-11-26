@@ -2,8 +2,7 @@
   "id": "UWaBGGumTuGmryJq",
   "meta": {
     "name": "Automated Slack-to-Jira Issue Creation with Attachments",
-    "id": 8813,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8813
   },
   "name": "Automated Slack-to-Jira Issue Creation with Attachments",
   "tags": [

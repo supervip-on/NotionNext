@@ -2,8 +2,7 @@
   "id": "uLHpFu2ndN6ZKClZ",
   "meta": {
     "name": "Sync New Files From Google Drive with Airtable",
-    "id": 2776,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2776
   },
   "name": "Sync New Files From Google Drive with Airtable",
   "tags": [

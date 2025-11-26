@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Client Billing Detail Collection & Invoice Generation with Gmail and QuickBooks",
-    "id": 6505,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6505
   },
   "nodes": [
     {

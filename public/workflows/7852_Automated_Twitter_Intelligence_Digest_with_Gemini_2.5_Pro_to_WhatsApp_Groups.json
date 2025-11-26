@@ -2,8 +2,7 @@
   "id": "XG1lhAb5fa3zXdoG",
   "meta": {
     "name": "Automated Twitter Intelligence Digest with Gemini 2.5 Pro to WhatsApp Groups",
-    "id": 7852,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7852
   },
   "name": "Scraping Twitter - n8n Creator",
   "tags": [

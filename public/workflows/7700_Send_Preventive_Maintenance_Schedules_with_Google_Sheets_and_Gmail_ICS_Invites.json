@@ -2,8 +2,7 @@
   "id": "dZK8ffaLQG6lZMAM",
   "meta": {
     "name": "Send Preventive Maintenance Schedules with Google Sheets and Gmail ICS Invites",
-    "id": 7700,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7700
   },
   "name": "Maintenance-Scheduler-Via-ICS-Email",
   "tags": [],

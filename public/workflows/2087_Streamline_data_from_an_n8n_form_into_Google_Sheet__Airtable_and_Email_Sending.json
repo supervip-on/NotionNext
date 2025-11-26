@@ -2,8 +2,7 @@
   "id": "g25bM3Hj71T3ZVVe",
   "meta": {
     "name": "Streamline data from an n8n form into Google Sheet, Airtable and Email Sending",
-    "id": 2087,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2087
   },
   "name": "Streamline data from an n8n form into Google Sheet and Airtable",
   "tags": [],

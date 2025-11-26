@@ -2,8 +2,7 @@
   "id": "X6VDrKCPuYTJ0C2N",
   "meta": {
     "name": "Auto-Translate & Recreate TikTok Carousels with Gemini Vision & Midjourney",
-    "id": 9305,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9305
   },
   "name": "TikTok Carousel Replicator & Translator",
   "tags": [],

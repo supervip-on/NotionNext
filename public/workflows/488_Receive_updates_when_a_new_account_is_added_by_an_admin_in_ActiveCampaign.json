@@ -28,7 +28,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a new account is added by an admin in ActiveCampaign",
-    "id": 488,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 488
   }
 }

@@ -99,8 +99,7 @@
   },
   "meta": {
     "name": "Generate, retrieve and download a report using the SecurityScorecard",
-    "id": 920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 920
   },
   "id": "920"
 }

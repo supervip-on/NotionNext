@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI News Video Content Ideas for Social Media with Perplexity & OpenAI",
-    "id": 5995,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5995
   },
   "nodes": [
     {

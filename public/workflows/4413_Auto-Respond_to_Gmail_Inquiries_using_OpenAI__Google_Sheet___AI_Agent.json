@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Respond to Gmail Inquiries using OpenAI, Google Sheet & AI Agent",
-    "id": 4413,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4413
   },
   "nodes": [
     {

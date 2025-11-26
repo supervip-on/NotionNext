@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add a bug to Linear via Slack command",
-    "id": 2153,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2153
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "92E0bO7GQlul9Bz1",
   "meta": {
     "name": "Provide Real-Time Updates for Notion Databases via Webhooks with Supabase",
-    "id": 2284,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2284
   },
   "name": "NotionWebhookEmulator",
   "tags": [],

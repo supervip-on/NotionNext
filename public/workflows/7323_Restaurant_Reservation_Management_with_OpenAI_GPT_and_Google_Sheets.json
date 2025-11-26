@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID_HERE",
   "meta": {
     "name": "Restaurant Reservation Management with OpenAI GPT and Google Sheets",
-    "id": 7323,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7323
   },
   "name": "Restaurant Table Booking",
   "tags": [

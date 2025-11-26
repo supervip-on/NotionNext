@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Customer Support with WhatsApp AI Assistant for Whatsapp Groups ",
-    "id": 6387,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6387
   },
   "nodes": [
     {

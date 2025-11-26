@@ -2,8 +2,7 @@
   "id": "gRYLffc4P6MCj1nq",
   "meta": {
     "name": "Auto-Follow-Up for Canceled Calendly Meetings with GPT-4, Loom & Asana",
-    "id": 6386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6386
   },
   "name": "002_ Loom Follow Up After Missed Meetings",
   "tags": [],

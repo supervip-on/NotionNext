@@ -152,8 +152,7 @@
   },
   "meta": {
     "name": "Automate YouTube Video Notifications to Slack",
-    "id": 8033,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8033
   },
   "id": "8033"
 }

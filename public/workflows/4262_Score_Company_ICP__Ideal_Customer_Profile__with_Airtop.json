@@ -2,8 +2,7 @@
   "id": "CYDemwO42LTGiiPR",
   "meta": {
     "name": "Score Company ICP (Ideal Customer Profile) with Airtop",
-    "id": 4262,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4262
   },
   "name": "Company ICP scoring",
   "tags": [],

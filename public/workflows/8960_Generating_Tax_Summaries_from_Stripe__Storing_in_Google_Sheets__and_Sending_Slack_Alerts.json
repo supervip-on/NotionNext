@@ -2,8 +2,7 @@
   "id": "zRKz4PZ9O47qu8nx",
   "meta": {
     "name": "Generating Tax Summaries from Stripe, Storing in Google Sheets, and Sending Slack Alerts",
-    "id": 8960,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8960
   },
   "name": "Stripe Tax Summary to Google Sheets with Slack Alerts",
   "tags": [],

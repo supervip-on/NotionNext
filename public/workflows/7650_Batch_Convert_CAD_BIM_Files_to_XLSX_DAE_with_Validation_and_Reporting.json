@@ -2,8 +2,7 @@
   "id": "u5MdPlYjhriENe3R",
   "meta": {
     "name": "Batch Convert CAD/BIM Files to XLSX/DAE with Validation and Reporting",
-    "id": 7650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7650
   },
   "name": "n8n_3_CAD-BIM-Batch-Converter-Pipeline",
   "tags": [],

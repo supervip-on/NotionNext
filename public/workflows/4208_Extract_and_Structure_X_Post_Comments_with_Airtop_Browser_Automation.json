@@ -2,8 +2,7 @@
   "id": "H2dcncE2ycWUMZkR",
   "meta": {
     "name": "Extract and Structure X Post Comments with Airtop Browser Automation",
-    "id": 4208,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4208
   },
   "name": "Extract X Post Comments",
   "tags": [

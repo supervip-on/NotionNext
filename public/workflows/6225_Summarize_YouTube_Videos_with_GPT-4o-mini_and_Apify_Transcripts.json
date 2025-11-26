@@ -2,8 +2,7 @@
   "id": "88OE2dFM5fYLAbvn",
   "meta": {
     "name": "Summarize YouTube Videos with GPT-4o-mini and Apify Transcripts",
-    "id": 6225,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6225
   },
   "name": "Workflowforn8n_Template",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "zAkPoRdcG5M5x4KT",
   "meta": {
     "name": "Perform an email search with Icypeas (single)",
-    "id": 2013,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2013
   },
   "name": "Perform an email search with Icypeas (single)",
   "tags": [],

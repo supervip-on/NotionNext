@@ -2,8 +2,7 @@
   "id": "ZLSSXI155yu5zYsS",
   "meta": {
     "name": "Automate Screenshot Upload to Postimages.org with Airtop Browser Automation",
-    "id": 4521,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4521
   },
   "name": "Simple File Upload",
   "tags": [],

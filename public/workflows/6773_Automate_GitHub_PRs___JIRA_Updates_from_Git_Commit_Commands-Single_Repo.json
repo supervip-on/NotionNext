@@ -2,8 +2,7 @@
   "id": "B9XHO1B8oUR04nOu",
   "meta": {
     "name": "Automate GitHub PRs & JIRA Updates from Git Commit Commands-Single Repo",
-    "id": 6773,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6773
   },
   "name": "My workflow 19",
   "tags": [],

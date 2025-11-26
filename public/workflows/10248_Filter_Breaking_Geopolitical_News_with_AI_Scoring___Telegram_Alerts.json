@@ -2,8 +2,7 @@
   "id": "lShjTFAvAhSAuAA6",
   "meta": {
     "name": "Filter Breaking Geopolitical News with AI Scoring & Telegram Alerts",
-    "id": 10248,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10248
   },
   "name": "Geopolitics Breaking News Alert",
   "tags": [],

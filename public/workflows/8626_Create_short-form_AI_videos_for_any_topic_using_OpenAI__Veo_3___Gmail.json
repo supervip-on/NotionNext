@@ -2,8 +2,7 @@
   "id": "PLACEHOLDER_WORKFLOW_ID",
   "meta": {
     "name": "Create short-form AI videos for any topic using OpenAI, Veo 3 & Gmail",
-    "id": 8626,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8626
   },
   "name": "08 - AI Video generation",
   "tags": [

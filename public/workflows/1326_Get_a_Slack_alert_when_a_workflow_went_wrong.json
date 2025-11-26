@@ -50,8 +50,7 @@
   },
   "meta": {
     "name": "Get a Slack alert when a workflow went wrong",
-    "id": 1326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1326
   },
   "id": "1326"
 }

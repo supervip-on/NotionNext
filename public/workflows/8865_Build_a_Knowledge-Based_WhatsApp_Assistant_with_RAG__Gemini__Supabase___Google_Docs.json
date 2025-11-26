@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Knowledge-Based WhatsApp Assistant with RAG, Gemini, Supabase & Google Docs",
-    "id": 8865,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8865
   },
   "nodes": [
     {

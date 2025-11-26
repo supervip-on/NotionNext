@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Your Own Image Search Using AI Object Detection, CDN and ElasticSearch",
-    "id": 2331,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2331
   },
   "nodes": [
     {

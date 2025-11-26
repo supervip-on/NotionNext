@@ -2,8 +2,7 @@
   "id": "ES4TSw9HacxoNhLZ",
   "meta": {
     "name": "Screen Applicants With AI, notify HR and save them in a Google Sheet",
-    "id": 2632,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2632
   },
   "name": "AI CV Screening Workflow",
   "tags": [],

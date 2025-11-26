@@ -2,8 +2,7 @@
   "id": "8hvgBknX06PIBOpX",
   "meta": {
     "name": "Internet Archive Wayback Machine API for AI Assistants",
-    "id": 5536,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5536
   },
   "name": "Wayback API MCP Server",
   "tags": [],

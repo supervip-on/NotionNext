@@ -2,8 +2,7 @@
   "id": "jzbnQsF9eV0G8PKA",
   "meta": {
     "name": "Automatic Workflow Backups to GitLab with GPT-4.1 Documentation Generation",
-    "id": 6731,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6731
   },
   "name": "Backup n8n workflows to GitLab with AI",
   "tags": [],

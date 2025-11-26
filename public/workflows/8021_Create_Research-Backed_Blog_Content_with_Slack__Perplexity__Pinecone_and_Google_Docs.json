@@ -2,8 +2,7 @@
   "id": "Uz3L0EpsCqsr7aFV",
   "meta": {
     "name": "Create Research-Backed Blog Content with Slack, Perplexity, Pinecone and Google Docs",
-    "id": 8021,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8021
   },
   "name": "Ultimate Blog Content Author RAG AI Agent + Perplexity Research",
   "tags": [],

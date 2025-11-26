@@ -2,8 +2,7 @@
   "id": "cGTxHYV93kS71hLL",
   "meta": {
     "name": "Send Webflow form submissions to Discord dynamically",
-    "id": 2056,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2056
   },
   "name": "Send Discord message from Webflow form submission",
   "tags": [

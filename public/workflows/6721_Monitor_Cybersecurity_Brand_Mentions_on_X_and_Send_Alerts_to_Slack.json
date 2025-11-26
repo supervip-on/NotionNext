@@ -2,8 +2,7 @@
   "id": "UvFBvBrJeZ1ZseEP",
   "meta": {
     "name": "Monitor Cybersecurity Brand Mentions on X and Send Alerts to Slack",
-    "id": 6721,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6721
   },
   "name": "Simple Cybersecurity Brand/Vulnerability Mention Monitor",
   "tags": [],

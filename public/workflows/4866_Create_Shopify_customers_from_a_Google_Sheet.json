@@ -2,8 +2,7 @@
   "id": "Ub9navVkcvzlgJJZ",
   "meta": {
     "name": "Create Shopify customers from a Google Sheet",
-    "id": 4866,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4866
   },
   "name": "CreateCustomers",
   "tags": [

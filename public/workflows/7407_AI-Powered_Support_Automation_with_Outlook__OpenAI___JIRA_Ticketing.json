@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Support Automation with Outlook, OpenAI & JIRA Ticketing",
-    "id": 7407,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7407
   },
   "nodes": [
     {

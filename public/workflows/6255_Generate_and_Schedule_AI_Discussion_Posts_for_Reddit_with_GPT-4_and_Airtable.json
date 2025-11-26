@@ -2,8 +2,7 @@
   "id": "n8J6zsScmXcHxLmk",
   "meta": {
     "name": "Generate and Schedule AI Discussion Posts for Reddit with GPT-4 and Airtable",
-    "id": 6255,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6255
   },
   "name": "[TEMPLATE] Automated Reddit Discussion Posts",
   "tags": [

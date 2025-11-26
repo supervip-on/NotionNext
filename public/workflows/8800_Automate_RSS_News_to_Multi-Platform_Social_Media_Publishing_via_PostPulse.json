@@ -2,8 +2,7 @@
   "id": "lTO5ex53oKKkeT0d",
   "meta": {
     "name": "Automate RSS News to Multi-Platform Social Media Publishing via PostPulse",
-    "id": 8800,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8800
   },
   "name": "Repurpose News from RSS Feed and Publish via PostPulse",
   "tags": [],

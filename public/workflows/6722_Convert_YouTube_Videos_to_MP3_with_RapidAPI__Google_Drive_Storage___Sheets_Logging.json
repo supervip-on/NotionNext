@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert YouTube Videos to MP3 with RapidAPI, Google Drive Storage & Sheets Logging",
-    "id": 6722,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6722
   },
   "nodes": [
     {

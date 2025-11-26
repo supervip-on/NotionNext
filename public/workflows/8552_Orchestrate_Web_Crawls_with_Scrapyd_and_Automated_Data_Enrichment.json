@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Orchestrate Web Crawls with Scrapyd and Automated Data Enrichment",
-    "id": 8552,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8552
   },
   "nodes": [
     {

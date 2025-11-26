@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily RAG Research Paper Hub with arXiv, Gemini AI, and Notion",
-    "id": 8847,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8847
   },
   "nodes": [
     {

@@ -67,7 +67,6 @@
   },
   "meta": {
     "name": "Convert the JSON data received from the CocktailDB API in XML",
-    "id": 661,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 661
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "RAG-powered Document Chat with Google Drive, OpenAI, and Pinecone Assistant",
-    "id": 9942,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9942
   },
   "nodes": [
     {

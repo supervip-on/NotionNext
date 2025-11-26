@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate SEO Content with Claude AI, Competitor Analysis & Supabase RAG",
-    "id": 8945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8945
   },
   "nodes": [
     {

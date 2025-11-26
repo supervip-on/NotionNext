@@ -2,8 +2,7 @@
   "id": "YUOkKLDiARiuwpTP",
   "meta": {
     "name": "Generate AI Responses with Perplexity Sonar Models (Reusable Module)",
-    "id": 4978,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4978
   },
   "name": "Perplexity(sonar) for publication",
   "tags": [],

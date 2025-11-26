@@ -2,8 +2,7 @@
   "id": "qcrbyv2z8OnQhJ8F",
   "meta": {
     "name": "Automate Change Request Workflow: Monday.com to Jira with Slack & Sheets",
-    "id": 9825,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9825
   },
   "name": "Streamline Change Request Reviews from Monday.com to Jira, Slack, and Google Sheets",
   "tags": [],

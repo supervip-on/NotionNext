@@ -2,8 +2,7 @@
   "id": "czDg0Q7wsAoqYQIx",
   "meta": {
     "name": "AI-Powered Asana Task Prioritization with GPT-4 and Pinecone Memory",
-    "id": 4578,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4578
   },
   "name": "COO Task Prioritization",
   "tags": [],

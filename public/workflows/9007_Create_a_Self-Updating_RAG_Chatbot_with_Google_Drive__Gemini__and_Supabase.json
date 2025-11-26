@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Self-Updating RAG Chatbot with Google Drive, Gemini, and Supabase",
-    "id": 9007,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9007
   },
   "nodes": [
     {

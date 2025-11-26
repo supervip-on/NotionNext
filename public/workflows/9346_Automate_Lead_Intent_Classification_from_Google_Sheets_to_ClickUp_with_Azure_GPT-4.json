@@ -2,8 +2,7 @@
   "id": "bCUSkhPOSflMbsvy",
   "meta": {
     "name": "Automate Lead Intent Classification from Google Sheets to ClickUp with Azure GPT-4",
-    "id": 9346,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9346
   },
   "name": "Lead Intent Classification & Auto-Task Creator",
   "tags": [],

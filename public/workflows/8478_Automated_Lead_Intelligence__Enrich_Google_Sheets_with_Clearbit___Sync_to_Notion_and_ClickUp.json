@@ -2,8 +2,7 @@
   "id": "9KRdh9YURctQ9kIo",
   "meta": {
     "name": "Automated Lead Intelligence: Enrich Google Sheets with Clearbit & Sync to Notion and ClickUp",
-    "id": 8478,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8478
   },
   "name": "Lead Profile Enrichment",
   "tags": [

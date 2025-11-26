@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "University Application Evaluation & Scholarship Automation with GPT-4 & Jotform",
-    "id": 9574,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9574
   },
   "nodes": [
     {

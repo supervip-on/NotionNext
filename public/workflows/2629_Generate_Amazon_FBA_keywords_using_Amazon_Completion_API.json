@@ -2,8 +2,7 @@
   "id": "kJMoiGRorIlsTYZv",
   "meta": {
     "name": "Generate Amazon FBA keywords using Amazon Completion API",
-    "id": 2629,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2629
   },
   "name": "Amazon keywords",
   "tags": [],

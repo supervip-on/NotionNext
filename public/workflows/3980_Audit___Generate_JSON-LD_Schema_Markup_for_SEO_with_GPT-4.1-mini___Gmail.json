@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Audit & Generate JSON-LD Schema Markup for SEO with GPT-4.1-mini + Gmail",
-    "id": 3980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3980
   },
   "nodes": [
     {

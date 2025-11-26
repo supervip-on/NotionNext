@@ -2,8 +2,7 @@
   "id": "GlbemCHcAaeKcxhC",
   "meta": {
     "name": "Generate Personalized Travel Itineraries with Llama AI via Email & WhatsApp",
-    "id": 6051,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6051
   },
   "name": "Auto Trip Itinerary Planner: Email & WhatsApp Travel Assistant",
   "tags": [],

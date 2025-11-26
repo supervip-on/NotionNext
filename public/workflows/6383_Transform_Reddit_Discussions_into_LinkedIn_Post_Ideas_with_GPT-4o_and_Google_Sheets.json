@@ -2,8 +2,7 @@
   "id": "etfXGaxuiLBSiZ2M",
   "meta": {
     "name": "Transform Reddit Discussions into LinkedIn Post Ideas with GPT-4o and Google Sheets",
-    "id": 6383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6383
   },
   "name": "Find trendy Linkedin post ideas from Reddit posts",
   "tags": [],

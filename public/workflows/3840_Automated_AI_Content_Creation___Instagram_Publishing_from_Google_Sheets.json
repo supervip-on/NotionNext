@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated AI Content Creation & Instagram Publishing from Google Sheets ",
-    "id": 3840,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3840
   },
   "nodes": [
     {

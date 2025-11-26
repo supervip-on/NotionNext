@@ -2,8 +2,7 @@
   "id": "kpAcUnFPtxaqsGnZ",
   "meta": {
     "name": "Daily News Aggregation with Perplexity AI & MongoDB Storage",
-    "id": 7483,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7483
   },
   "name": "n8n Workflow: Daily News Aggregator & MongoDB Storage",
   "tags": [],

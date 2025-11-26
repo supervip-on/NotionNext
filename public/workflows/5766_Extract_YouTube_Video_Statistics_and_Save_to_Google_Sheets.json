@@ -2,8 +2,7 @@
   "id": "9I7wnSTl7wvPjxZQ",
   "meta": {
     "name": "Extract YouTube Video Statistics and Save to Google Sheets",
-    "id": 5766,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5766
   },
   "name": "Youtube - Get Video Statistics",
   "tags": [

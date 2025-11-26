@@ -2,8 +2,7 @@
   "id": "KmdYybT84NNAa1yM",
   "meta": {
     "name": "Capture and Store CRM Contacts with Telegram & Gemini AI",
-    "id": 9700,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9700
   },
   "name": "Telegram bot for capturing CRM contacts",
   "tags": [

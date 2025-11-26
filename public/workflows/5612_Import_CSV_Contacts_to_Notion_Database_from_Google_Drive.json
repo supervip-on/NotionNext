@@ -2,8 +2,7 @@
   "id": "JJSKBObsmymp2bU9",
   "meta": {
     "name": "Import CSV Contacts to Notion Database from Google Drive",
-    "id": 5612,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5612
   },
   "name": "Notion - 3rd Brain",
   "tags": [],

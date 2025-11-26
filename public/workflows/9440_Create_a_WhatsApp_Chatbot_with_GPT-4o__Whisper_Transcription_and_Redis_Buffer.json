@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a WhatsApp Chatbot with GPT-4o, Whisper Transcription and Redis Buffer",
-    "id": 9440,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9440
   },
   "nodes": [
     {

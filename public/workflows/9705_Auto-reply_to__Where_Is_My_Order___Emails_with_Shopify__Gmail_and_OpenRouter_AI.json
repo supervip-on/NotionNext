@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-reply to 'Where Is My Order?' Emails with Shopify, Gmail and OpenRouter AI",
-    "id": 9705,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9705
   },
   "nodes": [
     {

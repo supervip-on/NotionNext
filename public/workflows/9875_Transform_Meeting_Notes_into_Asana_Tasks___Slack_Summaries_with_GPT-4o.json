@@ -2,8 +2,7 @@
   "id": "Zu92vKdhQwEYAsmb",
   "meta": {
     "name": "Transform Meeting Notes into Asana Tasks & Slack Summaries with GPT-4o",
-    "id": 9875,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9875
   },
   "name": "AI Meeting Notes to Asana Tasks & Slack Summary",
   "tags": [],

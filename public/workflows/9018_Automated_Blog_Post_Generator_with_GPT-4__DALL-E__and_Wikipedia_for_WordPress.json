@@ -2,8 +2,7 @@
   "id": "mKGMYXJottl0PDtM",
   "meta": {
     "name": "Automated Blog Post Generator with GPT-4, DALL-E, and Wikipedia for WordPress",
-    "id": 9018,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9018
   },
   "name": "Write a WordPress post with AI (starting from a few keywords)",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "lYOQGMEJDxugrfrT",
   "meta": {
     "name": "AI-Powered Gmail MCP Server",
-    "id": 3623,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3623
   },
   "name": "MCP_GMAIL",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Website Traffic Data with SEMrush API and Google Sheets",
-    "id": 7685,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7685
   },
   "nodes": [
     {

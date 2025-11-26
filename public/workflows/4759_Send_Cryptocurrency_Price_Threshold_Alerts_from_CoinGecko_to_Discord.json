@@ -2,8 +2,7 @@
   "id": "KvtiflL8appirMde",
   "meta": {
     "name": "Send Cryptocurrency Price Threshold Alerts from CoinGecko to Discord",
-    "id": 4759,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4759
   },
   "name": "📈 Crypto Price Alert",
   "tags": [],

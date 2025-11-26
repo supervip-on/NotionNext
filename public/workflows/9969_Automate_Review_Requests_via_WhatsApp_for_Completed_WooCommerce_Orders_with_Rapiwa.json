@@ -2,8 +2,7 @@
   "id": "Js65R7HMdXB4DZf7",
   "meta": {
     "name": "Automate Review Requests via WhatsApp for Completed WooCommerce Orders with Rapiwa",
-    "id": 9969,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9969
   },
   "name": "WhatsApp Review Request Automation for WooCommerce Orders Completed",
   "tags": [],

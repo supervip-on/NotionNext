@@ -2,8 +2,7 @@
   "id": "d3xtaER6gl4aqLZR",
   "meta": {
     "name": "Deploy Docker NextCloud, API Backend for WHMCS/WISECP",
-    "id": 4015,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4015
   },
   "name": "PUQ Docker NextCloud deploy",
   "tags": [],

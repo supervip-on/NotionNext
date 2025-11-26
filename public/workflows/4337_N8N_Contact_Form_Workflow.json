@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "N8N Contact Form Workflow",
-    "id": 4337,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4337
   },
   "nodes": [
     {

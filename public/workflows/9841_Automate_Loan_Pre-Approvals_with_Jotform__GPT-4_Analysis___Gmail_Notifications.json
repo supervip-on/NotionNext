@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Loan Pre-Approvals with Jotform, GPT-4 Analysis & Gmail Notifications",
-    "id": 9841,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9841
   },
   "nodes": [
     {

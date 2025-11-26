@@ -47,8 +47,7 @@
   },
   "meta": {
     "name": "Send email via Gmail on workflow error",
-    "id": 696,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 696
   },
   "id": "696"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Lead Generation with Apollo, GPT-4, and Telegram to Database",
-    "id": 5611,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5611
   },
   "nodes": [
     {

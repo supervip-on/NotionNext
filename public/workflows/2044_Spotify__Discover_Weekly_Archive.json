@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Spotify: Discover Weekly Archive",
-    "id": 2044,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2044
   },
   "nodes": [
     {

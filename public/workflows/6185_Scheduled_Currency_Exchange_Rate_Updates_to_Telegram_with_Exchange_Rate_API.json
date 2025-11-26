@@ -2,8 +2,7 @@
   "id": "8647Dl470mxxSj2Q",
   "meta": {
     "name": "Scheduled Currency Exchange Rate Updates to Telegram with Exchange Rate API",
-    "id": 6185,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6185
   },
   "name": "MS_CURRENCY",
   "tags": [],

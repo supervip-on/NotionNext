@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Slack AI ChatBot : Context-Aware, Replies to Mentions AND also DMs",
-    "id": 5845,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5845
   },
   "name": "Slack AI ChatBot : Context-Aware, Replies to Mentions AND also DMs",
   "nodes": [

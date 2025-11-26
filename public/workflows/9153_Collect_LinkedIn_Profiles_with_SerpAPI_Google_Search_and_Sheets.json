@@ -2,8 +2,7 @@
   "id": "oghc0ynE1x8iSAgb",
   "meta": {
     "name": "Collect LinkedIn Profiles with SerpAPI Google Search and Sheets",
-    "id": 9153,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9153
   },
   "name": "[LI] - Search profiles",
   "tags": [],

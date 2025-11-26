@@ -2,8 +2,7 @@
   "id": "lKhMUWDdG5MdS7aJ",
   "meta": {
     "name": "Automated Disqus Forum Reports with Gmail HTML Tables",
-    "id": 4531,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4531
   },
   "name": "Get 4 Node Disqus With Gmail Report",
   "tags": [],

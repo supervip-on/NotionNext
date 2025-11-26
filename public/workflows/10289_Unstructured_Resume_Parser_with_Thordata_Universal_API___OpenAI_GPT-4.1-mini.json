@@ -2,8 +2,7 @@
   "id": "KZfuTnflUHXV4drQ",
   "meta": {
     "name": "Unstructured Resume Parser with Thordata Universal API + OpenAI GPT-4.1-mini",
-    "id": 10289,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10289
   },
   "name": "Unstructured Resume Parser with Thordata Universal API + Open AI gpt-4.1-mini",
   "tags": [

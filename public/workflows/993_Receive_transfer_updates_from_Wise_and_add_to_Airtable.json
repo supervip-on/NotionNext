@@ -122,8 +122,7 @@
   },
   "meta": {
     "name": "Receive transfer updates from Wise and add to Airtable",
-    "id": 993,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 993
   },
   "id": "993"
 }

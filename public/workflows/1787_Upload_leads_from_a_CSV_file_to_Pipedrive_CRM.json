@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload leads from a CSV file to Pipedrive CRM",
-    "id": 1787,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1787
   },
   "nodes": [
     {

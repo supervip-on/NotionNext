@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Slideshare Presentations to Google Drive with RapidAPI Integration",
-    "id": 8048,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8048
   },
   "nodes": [
     {

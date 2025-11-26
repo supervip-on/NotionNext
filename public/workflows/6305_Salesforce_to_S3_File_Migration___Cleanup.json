@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Salesforce to S3 File Migration & Cleanup",
-    "id": 6305,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6305
   },
   "nodes": [
     {

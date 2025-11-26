@@ -2,8 +2,7 @@
   "id": "UpNXeGPDsa1GIWMw",
   "meta": {
     "name": "Auto-generate Product Comparison Pages with OpenAI & Google Sheets",
-    "id": 5843,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5843
   },
   "name": "Versus page workflow",
   "tags": [],

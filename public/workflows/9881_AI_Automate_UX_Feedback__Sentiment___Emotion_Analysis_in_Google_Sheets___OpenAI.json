@@ -2,8 +2,7 @@
   "id": "vt26lV2qI3OlOvin",
   "meta": {
     "name": "AI Automate UX Feedback: Sentiment & Emotion Analysis in Google Sheets + OpenAI",
-    "id": 9881,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9881
   },
   "name": "Auto-tag and analyze customer feedback in Google Sheets with OpenAI",
   "tags": [

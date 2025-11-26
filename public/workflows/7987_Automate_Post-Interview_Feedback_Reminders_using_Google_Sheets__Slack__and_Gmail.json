@@ -2,8 +2,7 @@
   "id": "kLHXGgGMQNnfjVW8",
   "meta": {
     "name": "Automate Post-Interview Feedback Reminders using Google Sheets, Slack, and Gmail",
-    "id": 7987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7987
   },
   "name": "Send Post‑Interview Feedback Nudges from Google Sheets to Slack (with Email Fallback)",
   "tags": [],

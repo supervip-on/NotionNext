@@ -2,8 +2,7 @@
   "id": "7QhxjMbqHv5tk9wM",
   "meta": {
     "name": "Gmail Assistant with Full Gmail history RAG using OpenAI",
-    "id": 6169,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6169
   },
   "name": "Email History RAG",
   "tags": [],

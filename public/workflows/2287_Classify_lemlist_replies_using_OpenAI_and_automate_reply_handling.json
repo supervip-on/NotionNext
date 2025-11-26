@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Classify lemlist replies using OpenAI and automate reply handling",
-    "id": 2287,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2287
   },
   "nodes": [
     {

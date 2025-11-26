@@ -2,8 +2,7 @@
   "id": "rZUGnDWjoGy2pTfc",
   "meta": {
     "name": "Scrape Product Info from Website URLs in Google Sheets using Dumpling AI",
-    "id": 6950,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6950
   },
   "name": "Scrape Product Info from Website URLs in Google Sheets using Dumpling AI",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "Ww0AQa4S9gdEufHm",
   "meta": {
     "name": "Update Dialogflow Intent Responses via Telegram Bot Commands",
-    "id": 7408,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7408
   },
   "name": "update-dialogflow-intent",
   "tags": [],

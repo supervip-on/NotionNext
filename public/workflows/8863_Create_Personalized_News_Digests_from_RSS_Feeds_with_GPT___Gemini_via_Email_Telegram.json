@@ -2,8 +2,7 @@
   "id": "cue9rkrhYJ1Wtakg",
   "meta": {
     "name": "Create Personalized News Digests from RSS Feeds with GPT & Gemini via Email/Telegram",
-    "id": 8863,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8863
   },
   "name": "Daily News Digest: Summarize RSS Feeds and Deliver to Email/Telegram with ScrapeGraphAI",
   "tags": [],

@@ -118,8 +118,7 @@
   },
   "meta": {
     "name": "Sync New Shopify Products to Odoo",
-    "id": 6955,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6955
   },
   "id": "6955"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Business Contact Leads from Google Maps with RapidAPI and Google Sheets",
-    "id": 5794,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5794
   },
   "nodes": [
     {

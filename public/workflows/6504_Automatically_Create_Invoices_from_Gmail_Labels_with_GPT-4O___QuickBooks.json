@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Create Invoices from Gmail Labels with GPT-4O + QuickBooks",
-    "id": 6504,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6504
   },
   "nodes": [
     {

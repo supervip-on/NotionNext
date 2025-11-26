@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Schedule & Auto-Post Videos to Instagram, LinkedIn & TikTok with Google Sheets",
-    "id": 9786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9786
   },
   "nodes": [
     {

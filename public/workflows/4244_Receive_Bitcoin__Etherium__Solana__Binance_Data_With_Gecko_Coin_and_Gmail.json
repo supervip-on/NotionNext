@@ -2,8 +2,7 @@
   "id": "BCsdsLGIUUBMHe9e",
   "meta": {
     "name": "Receive Bitcoin, Etherium, Solana, Binance Data With Gecko Coin and Gmail",
-    "id": 4244,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4244
   },
   "name": "Get OHLC BTC, ETH, SOL, BNB With Gecko Coin and Send",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "72lks0Gu4Zqi4t0i",
   "meta": {
     "name": "Detect Stock Price Anomalies & Send News Alerts with Marketstack, HackerNews & DeepL",
-    "id": 10306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10306
   },
   "name": "Stock Price Anomaly Detection and Related News Automatic Notification Workflow",
   "tags": [],

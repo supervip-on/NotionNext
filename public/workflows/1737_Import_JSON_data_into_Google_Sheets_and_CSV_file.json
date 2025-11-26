@@ -138,8 +138,7 @@
   },
   "meta": {
     "name": "Import JSON data into Google Sheets and CSV file",
-    "id": 1737,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1737
   },
   "id": "1737"
 }

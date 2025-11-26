@@ -2,8 +2,7 @@
   "id": "GtN4XdkLIPMBIqSU",
   "meta": {
     "name": "Resume Data Extraction and Storage in Supabase from Email Attachments",
-    "id": 4106,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4106
   },
   "name": "Resume-Information-Extractor",
   "tags": [],

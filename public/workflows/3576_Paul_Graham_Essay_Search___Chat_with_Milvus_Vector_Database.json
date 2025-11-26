@@ -2,8 +2,7 @@
   "id": "A5R7XYSzrCJKlw9k",
   "meta": {
     "name": "Paul Graham Essay Search & Chat with Milvus Vector Database",
-    "id": 3576,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3576
   },
   "name": "Agent Milvus tool",
   "tags": [

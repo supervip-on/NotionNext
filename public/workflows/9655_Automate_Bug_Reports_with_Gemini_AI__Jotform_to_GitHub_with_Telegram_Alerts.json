@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Bug Reports with Gemini AI: Jotform to GitHub with Telegram Alerts",
-    "id": 9655,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9655
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Search Intent for Keywords with Google Scraping, Bright Data, and Gemini AI",
-    "id": 6043,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6043
   },
   "nodes": [
     {

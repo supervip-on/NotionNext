@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "📸 Automate Photo Background Removal with Photoroom API and Google Drive",
-    "id": 4398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4398
   },
   "nodes": [
     {

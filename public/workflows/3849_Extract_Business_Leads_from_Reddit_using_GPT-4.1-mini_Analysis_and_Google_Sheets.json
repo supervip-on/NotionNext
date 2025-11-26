@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Business Leads from Reddit using GPT-4.1-mini Analysis and Google Sheets",
-    "id": 3849,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3849
   },
   "nodes": [
     {

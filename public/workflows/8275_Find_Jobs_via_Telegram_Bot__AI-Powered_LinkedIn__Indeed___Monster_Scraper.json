@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find Jobs via Telegram Bot: AI-Powered LinkedIn, Indeed & Monster Scraper",
-    "id": 8275,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8275
   },
   "tags": [
     "telegram",

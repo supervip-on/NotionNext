@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate a Personal Newsfeed Using Bright Data Web Scraping and GPT-4.1",
-    "id": 4272,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4272
   },
   "name": "My workflow",
   "tags": [],

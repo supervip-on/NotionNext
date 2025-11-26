@@ -2,8 +2,7 @@
   "id": "qW5bvcRfvp2rs9rW",
   "meta": {
     "name": "Create Professional LinkedIn Posts from Telegram Messages using OpenAI Text & Image",
-    "id": 10129,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10129
   },
   "name": "Create LinkedIn Post from Telegram Voice or Text Message",
   "tags": [],

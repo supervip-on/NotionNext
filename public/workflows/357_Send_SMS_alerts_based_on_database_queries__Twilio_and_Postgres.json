@@ -140,7 +140,6 @@
   },
   "meta": {
     "name": "Send SMS alerts based on database queries (Twilio and Postgres)",
-    "id": 357,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 357
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Driven Lead Management and Inquiry Automation with ERPNext & n8n",
-    "id": 2758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2758
   },
   "nodes": [
     {

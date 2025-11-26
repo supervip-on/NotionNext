@@ -2,8 +2,7 @@
   "id": "cDmsWx8ASzIxE3zw",
   "meta": {
     "name": "Update all Zammad Roles to default values",
-    "id": 2597,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2597
   },
   "name": "Update all Zammad Roles to default values",
   "tags": [],

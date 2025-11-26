@@ -94,8 +94,7 @@
   },
   "meta": {
     "name": "Add data from Google Sheet to Dropbox",
-    "id": 11,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 11
   },
   "id": "11"
 }

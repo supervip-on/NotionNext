@@ -2,8 +2,7 @@
   "id": "hMRDyYoD0nvR4E5y",
   "meta": {
     "name": "Analyze Customer Survey Feedback with AI, Google Sheets & Slack Reports",
-    "id": 9809,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9809
   },
   "name": "Customer Survey Summary Generator",
   "tags": [

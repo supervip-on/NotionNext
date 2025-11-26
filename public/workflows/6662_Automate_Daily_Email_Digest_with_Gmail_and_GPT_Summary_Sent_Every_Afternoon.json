@@ -202,8 +202,7 @@
   },
   "meta": {
     "name": "Automate Daily Email Digest with Gmail and GPT Summary Sent Every Afternoon",
-    "id": 6662,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6662
   },
   "id": "6662"
 }

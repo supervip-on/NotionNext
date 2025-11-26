@@ -133,8 +133,7 @@
   },
   "meta": {
     "name": "Notify about Google Sheet changes in Slack and email ",
-    "id": 404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 404
   },
   "id": "404"
 }

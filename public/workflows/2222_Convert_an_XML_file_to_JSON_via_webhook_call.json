@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert an XML file to JSON via webhook call",
-    "id": 2222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2222
   },
   "nodes": [
     {

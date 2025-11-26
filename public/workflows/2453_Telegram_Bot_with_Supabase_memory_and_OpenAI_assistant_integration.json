@@ -682,8 +682,7 @@
   },
   "meta": {
     "name": "Telegram Bot with Supabase memory and OpenAI assistant integration",
-    "id": 2453,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2453
   },
   "id": "2453"
 }

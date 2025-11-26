@@ -2,8 +2,7 @@
   "id": "ckAr5XtI4F2Sg1MM",
   "meta": {
     "name": "Real Estate Daily Deals Automation with Zillow API, Google Sheets and Gmail",
-    "id": 3030,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3030
   },
   "name": "Real Estate Daily Deals",
   "tags": [],

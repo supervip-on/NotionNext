@@ -2,8 +2,7 @@
   "id": "oVQDr4cJCU6nr1eT",
   "meta": {
     "name": "Send Telegram Text and Audio Messages to Notion with DeepSeek Summaries & OpenAI Transcription",
-    "id": 3987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3987
   },
   "name": "Telegram Text, Voice Note or Audio file to Notion Database",
   "tags": [

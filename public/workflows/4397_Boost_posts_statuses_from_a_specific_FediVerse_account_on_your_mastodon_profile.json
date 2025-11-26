@@ -129,8 +129,7 @@
   },
   "meta": {
     "name": "Boost posts/statuses from a specific FediVerse account on your mastodon profile",
-    "id": 4397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4397
   },
   "id": "4397"
 }

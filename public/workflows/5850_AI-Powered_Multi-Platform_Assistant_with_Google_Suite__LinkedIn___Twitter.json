@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Multi-Platform Assistant with Google Suite, LinkedIn & Twitter",
-    "id": 5850,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5850
   },
   "nodes": [
     {

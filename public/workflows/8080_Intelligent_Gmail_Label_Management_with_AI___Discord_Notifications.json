@@ -2,8 +2,7 @@
   "id": "p88sqsRiRSpYb4Da",
   "meta": {
     "name": "Intelligent Gmail Label Management with AI & Discord Notifications",
-    "id": 8080,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8080
   },
   "name": "Auto email labeler",
   "tags": [

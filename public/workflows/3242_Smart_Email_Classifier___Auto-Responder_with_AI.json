@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Email Classifier & Auto-Responder with AI",
-    "id": 3242,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3242
   },
   "nodes": [
     {

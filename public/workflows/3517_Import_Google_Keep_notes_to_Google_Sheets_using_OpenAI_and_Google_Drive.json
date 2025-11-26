@@ -621,8 +621,7 @@
   },
   "meta": {
     "name": "Import Google Keep notes to Google Sheets using OpenAI and Google Drive",
-    "id": 3517,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3517
   },
   "id": "3517"
 }

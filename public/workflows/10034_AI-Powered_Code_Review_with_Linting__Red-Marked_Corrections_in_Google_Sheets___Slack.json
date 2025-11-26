@@ -2,8 +2,7 @@
   "id": "CCpAUiVj1gyJZJUw",
   "meta": {
     "name": "AI-Powered Code Review with Linting, Red-Marked Corrections in Google Sheets & Slack",
-    "id": 10034,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10034
   },
   "name": "Code Review with Red-Marked Corrections in Spreadsheet",
   "tags": [],

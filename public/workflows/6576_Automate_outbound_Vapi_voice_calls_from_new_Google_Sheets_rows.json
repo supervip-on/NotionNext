@@ -2,8 +2,7 @@
   "id": "OWRoYJvsNHDiKD4b",
   "meta": {
     "name": "Automate outbound Vapi voice calls from new Google Sheets rows",
-    "id": 6576,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6576
   },
   "name": "Start an outbound Vapi phone call from a new row in Google Sheets",
   "tags": [],

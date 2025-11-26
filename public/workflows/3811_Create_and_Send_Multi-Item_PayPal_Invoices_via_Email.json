@@ -598,8 +598,7 @@
   },
   "meta": {
     "name": "Create and Send Multi-Item PayPal Invoices via Email",
-    "id": 3811,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3811
   },
   "id": "3811"
 }

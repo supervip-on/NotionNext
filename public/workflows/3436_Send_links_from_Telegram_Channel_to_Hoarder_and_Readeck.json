@@ -2,8 +2,7 @@
   "id": "Gd4MsAZGnSGfBwaw",
   "meta": {
     "name": "Send links from Telegram Channel to Hoarder and Readeck",
-    "id": 3436,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3436
   },
   "name": "Telegram channel to Readeck & Hoarder",
   "tags": [],

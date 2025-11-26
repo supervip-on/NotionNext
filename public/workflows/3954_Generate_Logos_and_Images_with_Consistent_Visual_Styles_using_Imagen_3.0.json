@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Logos and Images with Consistent Visual Styles using Imagen 3.0",
-    "id": 3954,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3954
   },
   "nodes": [
     {

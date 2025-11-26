@@ -2,8 +2,7 @@
   "id": "INTOFdov9bwbgo9w",
   "meta": {
     "name": "Event Ticketing Backend: Auto QR Tickets with Google Sheets & Gmail",
-    "id": 9280,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9280
   },
   "name": "Ticketing Backend",
   "tags": [],

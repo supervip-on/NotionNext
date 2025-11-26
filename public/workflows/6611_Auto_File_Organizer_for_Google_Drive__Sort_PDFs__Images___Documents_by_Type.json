@@ -2,8 +2,7 @@
   "id": "Kg8UgSiA0utYWQ0J",
   "meta": {
     "name": "Auto File Organizer for Google Drive: Sort PDFs, Images & Documents by Type",
-    "id": 6611,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6611
   },
   "name": "Auto move files",
   "tags": [],

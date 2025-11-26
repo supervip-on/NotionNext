@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Repurpose YouTube Videos to Multiple Content Types with OpenRouter AI and Airtable",
-    "id": 6899,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6899
   },
   "nodes": [
     {

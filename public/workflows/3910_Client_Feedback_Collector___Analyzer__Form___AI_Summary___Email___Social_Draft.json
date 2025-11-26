@@ -2,8 +2,7 @@
   "id": "mW6b4dMHkIDfnaIj",
   "meta": {
     "name": "Client Feedback Collector & Analyzer (Form → AI Summary → Email + Social Draft)",
-    "id": 3910,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3910
   },
   "name": "My workflow 4",
   "tags": [],

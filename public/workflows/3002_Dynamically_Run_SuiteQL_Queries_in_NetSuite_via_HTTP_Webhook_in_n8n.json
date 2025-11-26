@@ -2,8 +2,7 @@
   "id": "FDl4Ho3KYiA7MIxR",
   "meta": {
     "name": " Dynamically Run SuiteQL Queries in NetSuite via HTTP Webhook in n8n",
-    "id": 3002,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3002
   },
   "name": "NetSuite Rest API workflow",
   "tags": [],

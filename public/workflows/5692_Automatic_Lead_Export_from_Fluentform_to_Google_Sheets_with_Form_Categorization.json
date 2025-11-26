@@ -2,8 +2,7 @@
   "id": "utlCHj75iFNNfZRx",
   "meta": {
     "name": "Automatic Lead Export from Fluentform to Google Sheets with Form Categorization",
-    "id": 5692,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5692
   },
   "name": "Fluentform Export",
   "tags": [],

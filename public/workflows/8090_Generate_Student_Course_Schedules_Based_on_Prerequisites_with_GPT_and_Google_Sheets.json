@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Student Course Schedules Based on Prerequisites with GPT and Google Sheets",
-    "id": 8090,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8090
   },
   "nodes": [
     {

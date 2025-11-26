@@ -2,8 +2,7 @@
   "id": "dlA7uMt2f1hTW3xd",
   "meta": {
     "name": "Local Document Question Answering with Ollama AI, Agentic RAG & PGVector",
-    "id": 10157,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10157
   },
   "name": "n8n Local AI Agentic RAG Template",
   "tags": [],

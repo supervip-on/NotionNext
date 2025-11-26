@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Force AI to use a specific output format",
-    "id": 1957,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1957
   },
   "nodes": [
     {

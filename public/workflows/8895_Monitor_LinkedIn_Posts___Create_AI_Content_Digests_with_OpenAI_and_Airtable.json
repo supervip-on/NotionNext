@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor LinkedIn Posts & Create AI Content Digests with OpenAI and Airtable",
-    "id": 8895,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8895
   },
   "nodes": [
     {

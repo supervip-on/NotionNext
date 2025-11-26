@@ -2,8 +2,7 @@
   "id": "IwCDobE0PCV4O35E",
   "meta": {
     "name": "Extract Data from Thai Government Letters with Mistral OCR and Store in Google Sheets",
-    "id": 6702,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6702
   },
   "name": "ThaiLetterWtihMistralOCR_ENG",
   "tags": [],

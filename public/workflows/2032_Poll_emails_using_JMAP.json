@@ -213,8 +213,7 @@
   },
   "meta": {
     "name": "Poll emails using JMAP ",
-    "id": 2032,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2032
   },
   "id": "2032"
 }

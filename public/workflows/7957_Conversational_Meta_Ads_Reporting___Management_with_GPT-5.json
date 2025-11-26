@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Conversational Meta Ads Reporting & Management with GPT-5",
-    "id": 7957,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7957
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Real Estate Open House Follow-ups with SignSnapHome, HubSpot, and Twilio",
-    "id": 9256,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9256
   },
   "nodes": [
     {

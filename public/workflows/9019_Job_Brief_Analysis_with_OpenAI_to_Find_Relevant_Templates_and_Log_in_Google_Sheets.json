@@ -2,8 +2,7 @@
   "id": "FhM3j90R33Z2xljk",
   "meta": {
     "name": "Job Brief Analysis with OpenAI to Find Relevant Templates and Log in Google Sheets",
-    "id": 9019,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9019
   },
   "name": "n8n Templates for Upwork",
   "tags": [

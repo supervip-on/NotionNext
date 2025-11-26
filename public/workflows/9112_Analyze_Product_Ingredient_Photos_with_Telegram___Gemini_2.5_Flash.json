@@ -2,8 +2,7 @@
   "id": "OHJxgg0BdTf2l363",
   "meta": {
     "name": "Analyze Product Ingredient Photos with Telegram & Gemini 2.5 Flash",
-    "id": 9112,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9112
   },
   "name": "ingredients",
   "tags": [],

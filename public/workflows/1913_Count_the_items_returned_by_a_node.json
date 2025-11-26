@@ -77,8 +77,7 @@
   },
   "meta": {
     "name": "Count the items returned by a node",
-    "id": 1913,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1913
   },
   "id": "1913"
 }

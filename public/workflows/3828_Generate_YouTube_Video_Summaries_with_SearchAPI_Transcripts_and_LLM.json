@@ -2,8 +2,7 @@
   "id": "MkZ77sIELEO2kQx1",
   "meta": {
     "name": "Generate YouTube Video Summaries with SearchAPI Transcripts and LLM",
-    "id": 3828,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3828
   },
   "name": "SearchApi Youtube Video Summary",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalize marketing emails using customer data and AI",
-    "id": 1978,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1978
   },
   "nodes": [
     {

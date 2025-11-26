@@ -2,8 +2,7 @@
   "id": "H1q8R1MfhEk8F0ni",
   "meta": {
     "name": "Auto-Block Focus Time in Google Calendar on Busy Days",
-    "id": 6246,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6246
   },
   "name": "FocusTime",
   "tags": [

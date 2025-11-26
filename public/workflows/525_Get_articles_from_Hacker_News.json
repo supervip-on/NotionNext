@@ -39,8 +39,7 @@
   },
   "meta": {
     "name": "Get articles from Hacker News",
-    "id": 525,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 525
   },
   "id": "525"
 }

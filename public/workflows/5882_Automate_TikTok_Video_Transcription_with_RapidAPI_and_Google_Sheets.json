@@ -2,8 +2,7 @@
   "id": "OW8DfG2xXPS60mSj",
   "meta": {
     "name": "Automate TikTok Video Transcription with RapidAPI and Google Sheets",
-    "id": 5882,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5882
   },
   "name": "TikTok Transcript",
   "tags": [],

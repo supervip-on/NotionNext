@@ -2,8 +2,7 @@
   "id": "SIDZ9gnOf5yEftvX",
   "meta": {
     "name": "Multimodal Chat Assistant with GPT-4o for Text, Images, and PDFs",
-    "id": 5857,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5857
   },
   "name": "chat",
   "tags": [],

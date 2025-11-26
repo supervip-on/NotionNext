@@ -2,8 +2,7 @@
   "id": "OOH6DNGDDDuKrcjk",
   "meta": {
     "name": "Automatic Gmail Invoice PDF Upload to Google Drive with Spreadsheet Logging",
-    "id": 9610,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9610
   },
   "name": "Gmail Invoice PDF to Google Drive and Sheets",
   "tags": [],

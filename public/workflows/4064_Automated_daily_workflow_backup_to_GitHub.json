@@ -365,8 +365,7 @@
   },
   "meta": {
     "name": "Automated daily workflow backup to GitHub",
-    "id": 4064,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4064
   },
   "id": "4064"
 }

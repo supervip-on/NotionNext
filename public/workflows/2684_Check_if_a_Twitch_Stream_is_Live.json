@@ -170,8 +170,7 @@
   },
   "meta": {
     "name": "Check if a Twitch Stream is Live",
-    "id": 2684,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2684
   },
   "id": "2684"
 }

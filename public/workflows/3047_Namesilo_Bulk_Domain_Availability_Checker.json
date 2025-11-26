@@ -2,8 +2,7 @@
   "id": "phqg5Kk3YowxoMHQ",
   "meta": {
     "name": "Namesilo Bulk Domain Availability Checker",
-    "id": 3047,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3047
   },
   "name": "Namesilo Bulk Domain Availability [Template]",
   "tags": [

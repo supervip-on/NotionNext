@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered WhatsApp Customer Service with GPT-4, Smart Routing & Knowledge Base",
-    "id": 7795,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7795
   },
   "nodes": [
     {

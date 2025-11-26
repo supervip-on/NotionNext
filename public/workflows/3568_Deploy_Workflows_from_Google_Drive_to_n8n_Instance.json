@@ -2,8 +2,7 @@
   "id": "bhWsUxipJ9wuTA5K",
   "meta": {
     "name": "Deploy Workflows from Google Drive to n8n Instance",
-    "id": 3568,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3568
   },
   "name": "n8n workflow deployer",
   "tags": [],

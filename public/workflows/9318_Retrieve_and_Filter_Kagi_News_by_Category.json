@@ -2,8 +2,7 @@
   "id": "qExvN2hGizkLq6TF",
   "meta": {
     "name": "Retrieve and Filter Kagi News by Category",
-    "id": 9318,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9318
   },
   "name": "Kagi News - Get",
   "tags": [

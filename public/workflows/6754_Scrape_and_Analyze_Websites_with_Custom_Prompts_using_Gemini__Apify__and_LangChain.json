@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape and Analyze Websites with Custom Prompts using Gemini, Apify, and LangChain",
-    "id": 6754,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6754
   },
   "nodes": [
     {

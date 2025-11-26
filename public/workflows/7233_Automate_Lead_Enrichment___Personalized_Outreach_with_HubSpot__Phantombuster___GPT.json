@@ -2,8 +2,7 @@
   "id": "SANITIZED_WORKFLOW_ID",
   "meta": {
     "name": "Automate Lead Enrichment & Personalized Outreach with HubSpot, Phantombuster & GPT",
-    "id": 7233,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7233
   },
   "name": "09 - Lead Profile Enhancer",
   "tags": [],

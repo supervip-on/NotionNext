@@ -235,8 +235,7 @@
   },
   "meta": {
     "name": "Backup n8n workflows to Google Drive",
-    "id": 1150,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1150
   },
   "id": "1150"
 }

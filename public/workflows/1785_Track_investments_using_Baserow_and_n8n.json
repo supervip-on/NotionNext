@@ -310,8 +310,7 @@
   },
   "meta": {
     "name": "Track investments using Baserow and n8n",
-    "id": 1785,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1785
   },
   "id": "1785"
 }

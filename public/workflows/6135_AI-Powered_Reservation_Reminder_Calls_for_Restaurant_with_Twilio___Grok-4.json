@@ -2,8 +2,7 @@
   "id": "qO5iIv005Wh8MNjr",
   "meta": {
     "name": "AI-Powered Reservation Reminder Calls for Restaurant with Twilio & Grok-4",
-    "id": 6135,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6135
   },
   "name": "AI-Powered Reservation Reminder Calls with Twilio",
   "tags": [],

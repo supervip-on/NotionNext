@@ -2,8 +2,7 @@
   "id": "UGHwqOYsZDRbTldL",
   "meta": {
     "name": "Send Personalized Transactional Emails from KlickTipp via SMTP",
-    "id": 8508,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8508
   },
   "name": "Automated KlickTipp via SMTP: Send Transactional Emails",
   "tags": [

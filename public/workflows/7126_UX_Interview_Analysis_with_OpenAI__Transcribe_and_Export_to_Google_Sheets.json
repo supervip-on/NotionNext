@@ -2,8 +2,7 @@
   "id": "e5SP66m2pNYbV2cg",
   "meta": {
     "name": "UX Interview Analysis with OpenAI: Transcribe and Export to Google Sheets",
-    "id": 7126,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7126
   },
   "name": "Process UX Interview Transcripts and Generate Summaries with OpenAI to Google Sheets",
   "tags": [],

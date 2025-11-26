@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp Group Chat with Your Vector Database — No Facebook Business Required",
-    "id": 4838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4838
   },
   "nodes": [
     {

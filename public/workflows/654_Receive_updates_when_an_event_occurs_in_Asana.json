@@ -25,7 +25,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when an event occurs in Asana",
-    "id": 654,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 654
   }
 }

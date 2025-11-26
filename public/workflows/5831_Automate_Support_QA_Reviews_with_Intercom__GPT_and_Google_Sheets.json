@@ -2,8 +2,7 @@
   "id": "U8L7ojJGYnPXUZZm",
   "meta": {
     "name": "Automate Support QA Reviews with Intercom, GPT and Google Sheets",
-    "id": 5831,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5831
   },
   "name": "Intercom Conversation Reviews",
   "tags": [],

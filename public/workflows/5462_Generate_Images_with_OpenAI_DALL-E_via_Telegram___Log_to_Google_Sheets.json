@@ -2,8 +2,7 @@
   "id": "SGqUVskzXEBI5EHa",
   "meta": {
     "name": "Generate Images with OpenAI DALL-E via Telegram & Log to Google Sheets",
-    "id": 5462,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5462
   },
   "name": "Telegram AI Image Generator + Google Sheets Logger",
   "tags": [],

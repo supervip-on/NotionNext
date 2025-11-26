@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Chat with a database using AI",
-    "id": 2090,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2090
   },
   "nodes": [
     {

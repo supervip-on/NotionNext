@@ -2,8 +2,7 @@
   "id": "R6ahUJ7yTdA5yzS2",
   "meta": {
     "name": "Real-time Chat Translation with DeepL",
-    "id": 4532,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4532
   },
   "name": "Translate to Another Language",
   "tags": [],

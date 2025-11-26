@@ -2,8 +2,7 @@
   "id": "D5XugO8cqbM8kLgx",
   "meta": {
     "name": "Auto-Post Platform-Optimized Content to X and Threads with Late API and Google Sheets",
-    "id": 8223,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8223
   },
   "name": "X Tweet & Meta Threads Poster",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "2Sx7R4CGxcRmr5gV",
   "meta": {
     "name": "Monitor Email Data Breaches with HIBP API and Send Slack Alerts",
-    "id": 6838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6838
   },
   "name": "Automated Data Breach Monitor with  HIBP API",
   "tags": [],

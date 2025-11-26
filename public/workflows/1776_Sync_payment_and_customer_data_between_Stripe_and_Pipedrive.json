@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync payment and customer data between Stripe and Pipedrive",
-    "id": 1776,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1776
   },
   "nodes": [
     {

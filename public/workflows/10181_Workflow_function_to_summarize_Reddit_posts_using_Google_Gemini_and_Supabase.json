@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Workflow function to summarize Reddit posts using Google Gemini and Supabase",
-    "id": 10181,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10181
   },
   "nodes": [
     {

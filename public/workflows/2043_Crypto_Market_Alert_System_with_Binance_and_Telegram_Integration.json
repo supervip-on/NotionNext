@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Crypto Market Alert System with Binance and Telegram Integration",
-    "id": 2043,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2043
   },
   "nodes": [
     {

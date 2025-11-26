@@ -2,8 +2,7 @@
   "id": "BiCF5Nmdl7SK4qjp",
   "meta": {
     "name": "Automated Weather Reports with OpenWeatherMap and Telegram ☀️",
-    "id": 6176,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6176
   },
   "name": "MS_WEATHER",
   "tags": [],

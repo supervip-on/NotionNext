@@ -2,8 +2,7 @@
   "id": "oNJCLq4egGByMeSl",
   "meta": {
     "name": "Automatic Background Removal for Images in Google Drive",
-    "id": 2529,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2529
   },
   "name": "Remove Advanced Background from Google Drive Images",
   "tags": [],

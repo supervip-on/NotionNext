@@ -2,8 +2,7 @@
   "id": "Z59iv0jcVPieE4iB",
   "meta": {
     "name": "Automate ISO 26262 Compliance with GPT-4 for Automotive Safety Analysis",
-    "id": 6208,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6208
   },
   "name": "HARA_E2E_workflow",
   "tags": [

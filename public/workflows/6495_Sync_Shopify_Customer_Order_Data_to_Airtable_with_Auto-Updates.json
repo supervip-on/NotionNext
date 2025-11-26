@@ -2,8 +2,7 @@
   "id": "V4k5QjFUZSrtTDiE",
   "meta": {
     "name": "Sync Shopify Customer Order Data to Airtable with Auto-Updates",
-    "id": 6495,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6495
   },
   "name": "Shopify Customer Append/Update",
   "tags": [],

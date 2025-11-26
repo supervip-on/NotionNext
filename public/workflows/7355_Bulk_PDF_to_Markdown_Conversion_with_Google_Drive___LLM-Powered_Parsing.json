@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk PDF to Markdown Conversion with Google Drive & LLM-Powered Parsing",
-    "id": 7355,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7355
   },
   "nodes": [
     {

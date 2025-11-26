@@ -2,8 +2,7 @@
   "id": "EYffbq7nZzy74ND8",
   "meta": {
     "name": "Generate Enhanced AI Images via Telegram with DALL-E and GPT",
-    "id": 4467,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4467
   },
   "name": "PromptCraft AI",
   "tags": [],

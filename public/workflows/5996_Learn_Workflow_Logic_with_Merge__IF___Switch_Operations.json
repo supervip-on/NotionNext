@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎓 Learn Workflow Logic with Merge, IF & Switch Operations",
-    "id": 5996,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5996
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "k0dRcFrfMvlaqhT0",
   "meta": {
     "name": "Auto-Backup n8n Workflows to OneDrive with Cleanup & Email Notifications",
-    "id": 8451,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8451
   },
   "name": "Backup n8n workflows to Onedrive",
   "tags": [],

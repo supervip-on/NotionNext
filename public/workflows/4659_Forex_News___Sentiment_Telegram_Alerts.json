@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Forex News & Sentiment Telegram Alerts",
-    "id": 4659,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4659
   },
   "nodes": [
     {

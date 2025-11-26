@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Call Scheduling with Voice AI Receptionist using Vapi, Google Calendar & Airtable",
-    "id": 3427,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3427
   },
   "nodes": [
     {

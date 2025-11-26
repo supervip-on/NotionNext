@@ -2,8 +2,7 @@
   "id": "oGZBcAWL45us8pwq",
   "meta": {
     "name": "Generate Audio from Text Scripts using Self-Hosted Bark Model and Google Drive",
-    "id": 4241,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4241
   },
   "name": "Audio generator",
   "tags": [],

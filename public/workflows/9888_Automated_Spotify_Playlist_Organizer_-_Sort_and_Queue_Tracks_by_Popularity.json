@@ -2,8 +2,7 @@
   "id": "Q7bb75lt3cXobMuU",
   "meta": {
     "name": "Automated Spotify Playlist Organizer - Sort and Queue Tracks by Popularity",
-    "id": 9888,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9888
   },
   "name": "Spotify DJ AI",
   "tags": [],

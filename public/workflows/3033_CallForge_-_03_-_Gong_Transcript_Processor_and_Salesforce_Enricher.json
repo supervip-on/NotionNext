@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 03 - Gong Transcript Processor and Salesforce Enricher",
-    "id": 3033,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3033
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "IyvxP8Yujze5aEKB",
   "meta": {
     "name": "Scrape & Summarize Google Maps Businesses with APIFY + GPT-4O to Sheets",
-    "id": 10120,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10120
   },
   "name": "Scrape and Summarize Google Maps Businesses with APIFY and ChatGPT",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "Y5URlIlbX4HDzWKA",
   "meta": {
     "name": "Run Apache Airflow DAG and Retrieve XCom Value",
-    "id": 3026,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3026
   },
   "name": "airflow dag_run",
   "tags": [

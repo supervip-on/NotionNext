@@ -2,8 +2,7 @@
   "id": "VRQRmYeZgdhja9Tr",
   "meta": {
     "name": "Generate Social Media Captions for Product Images with Gemini AI and Telegram Approval",
-    "id": 8731,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8731
   },
   "name": "Social_Media_Bot",
   "tags": [

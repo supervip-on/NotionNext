@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Use an open-source LLM (via HuggingFace)",
-    "id": 1980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1980
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "6pOGYw5O3iOY1Gc6",
   "meta": {
     "name": "Remote IOT Sensor monitoring via MQTT and InfluxDB",
-    "id": 4004,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4004
   },
   "name": "Remote IOT Sensor monitoring via MQTT and InfluxDB",
   "tags": [],

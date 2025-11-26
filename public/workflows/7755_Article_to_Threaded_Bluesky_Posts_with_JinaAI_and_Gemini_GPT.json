@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Article to Threaded Bluesky Posts with JinaAI and Gemini/GPT",
-    "id": 7755,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7755
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "MQmMLg34LuvMsRan",
   "meta": {
     "name": "Send Multi-City Weather Forecasts with AI-Enhanced Formatting from OpenWeatherMap to Gmail",
-    "id": 9909,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9909
   },
   "name": "Weather prediction in 3 cities",
   "tags": [],

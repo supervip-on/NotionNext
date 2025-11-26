@@ -2,8 +2,7 @@
   "id": "1Y5FzMEqaYHEsXxR",
   "meta": {
     "name": "Auto-Generate LinkedIn Posts from Articles with Dumpling AI and GPT-4o",
-    "id": 4631,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4631
   },
   "name": "Auto-Generate LinkedIn Posts from Articles with Dumpling AI and GPT-4o",
   "tags": [],

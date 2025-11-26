@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Collect absences from Google Calendars",
-    "id": 1465,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1465
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weather Forecast Email - Receive Automated Weather Forecasts Daily",
-    "id": 7815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7815
   },
   "nodes": [
     {

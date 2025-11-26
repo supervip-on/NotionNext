@@ -2,8 +2,7 @@
   "id": "z8tZLnpHvPBBFius",
   "meta": {
     "name": "Create Zendesk Tickets from Gmail and Slack with Google Sheets Tracking",
-    "id": 8750,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8750
   },
   "name": "Automate Zendesk ticket creation from Gmail and Slack with tracking",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "QOePbDNCilLhfzbs",
   "meta": {
     "name": "Extract Thai Bank Slip Data from LINE using SpaceOCR and Save to Google Sheets",
-    "id": 3008,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3008
   },
   "name": "LINE BOT - Google Sheets Record Receipt",
   "tags": [],

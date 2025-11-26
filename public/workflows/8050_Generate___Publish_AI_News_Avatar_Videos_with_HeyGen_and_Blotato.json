@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate & Publish AI News Avatar Videos with HeyGen and Blotato",
-    "id": 8050,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8050
   },
   "name": "My workflow",
   "tags": [],

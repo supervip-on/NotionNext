@@ -2,8 +2,7 @@
   "id": "gXutAybKcZqblZjF",
   "meta": {
     "name": "Monitor Gmail and Send AI Summaries to Telegram using GPT-4o-mini and Keywords",
-    "id": 6025,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6025
   },
   "name": "My workflow",
   "tags": [],

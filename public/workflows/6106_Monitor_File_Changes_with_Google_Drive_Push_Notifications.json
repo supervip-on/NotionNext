@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor File Changes with Google Drive Push Notifications",
-    "id": 6106,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6106
   },
   "nodes": [
     {

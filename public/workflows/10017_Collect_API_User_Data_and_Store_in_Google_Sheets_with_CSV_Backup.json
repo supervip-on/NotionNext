@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Collect API User Data and Store in Google Sheets with CSV Backup",
-    "id": 10017,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10017
   },
   "nodes": [
     {

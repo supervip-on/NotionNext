@@ -2,8 +2,7 @@
   "id": "7DPLpEkww5Uctcml",
   "meta": {
     "name": "Using External Workflows as Tools in n8n",
-    "id": 2713,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2713
   },
   "name": "get_a_web_page",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "klxTlclRsNctKqg1",
   "meta": {
     "name": "Send WooCommerce Discount Coupons to Customers via WhatsApp Using Rapiwa API",
-    "id": 10140,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10140
   },
   "name": "Send WooCommerce Discount Coupons to Customers via WhatsApp Using Rapiwa API",
   "tags": [],

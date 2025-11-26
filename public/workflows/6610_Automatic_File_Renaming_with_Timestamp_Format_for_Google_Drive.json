@@ -2,8 +2,7 @@
   "id": "KcowKE6mvyQ37CQH",
   "meta": {
     "name": "Automatic File Renaming with Timestamp Format for Google Drive",
-    "id": 6610,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6610
   },
   "name": "File Renamer Bot",
   "tags": [],

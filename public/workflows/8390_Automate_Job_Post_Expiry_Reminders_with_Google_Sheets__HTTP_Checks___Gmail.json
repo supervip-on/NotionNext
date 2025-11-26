@@ -2,8 +2,7 @@
   "id": "Et2vjObBEUPt72Ff",
   "meta": {
     "name": "Automate Job Post Expiry Reminders with Google Sheets, HTTP Checks & Gmail",
-    "id": 8390,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8390
   },
   "name": "Job post expiry & refresh reminders from Google Sheets using HTTP Last‑Modified checks",
   "tags": [],

@@ -383,8 +383,7 @@
   },
   "meta": {
     "name": "Website Downtime Alert via LINE + Supabase Log",
-    "id": 4379,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4379
   },
   "id": "4379"
 }

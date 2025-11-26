@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized Email Outreach with LinkedIn & Crunchbase Data and Gemini AI Review",
-    "id": 9814,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9814
   },
   "nodes": [
     {

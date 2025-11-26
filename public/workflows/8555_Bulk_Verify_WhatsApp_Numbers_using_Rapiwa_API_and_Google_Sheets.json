@@ -2,8 +2,7 @@
   "id": "jYSZTY25ziYwwCJF",
   "meta": {
     "name": "Bulk Verify WhatsApp Numbers using Rapiwa API and Google Sheets",
-    "id": 8555,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8555
   },
   "name": "WhatsApp Bulk Number Verification in Google Sheets Using Unofficial Rapiwa API",
   "tags": [],

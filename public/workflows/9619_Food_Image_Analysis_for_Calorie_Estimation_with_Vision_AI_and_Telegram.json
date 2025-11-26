@@ -2,8 +2,7 @@
   "id": "aZU2RbdXlp3eXCZh",
   "meta": {
     "name": "Food Image Analysis for Calorie Estimation with Vision AI and Telegram",
-    "id": 9619,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9619
   },
   "name": "Infer Ingredients from a Food Image and Estimate Calories",
   "tags": [],

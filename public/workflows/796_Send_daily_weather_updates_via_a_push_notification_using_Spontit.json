@@ -82,7 +82,6 @@
   },
   "meta": {
     "name": "Send daily weather updates via a push notification using Spontit",
-    "id": 796,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 796
   }
 }

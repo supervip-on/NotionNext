@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Google Meet Notes with GPT-4.1-mini, Notion, Slack & Gmail Distribution",
-    "id": 9849,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9849
   },
   "nodes": [
     {

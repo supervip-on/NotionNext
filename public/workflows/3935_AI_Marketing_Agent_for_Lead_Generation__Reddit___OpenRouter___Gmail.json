@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Marketing Agent for Lead Generation: Reddit + OpenRouter + Gmail",
-    "id": 3935,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3935
   },
   "nodes": [
     {

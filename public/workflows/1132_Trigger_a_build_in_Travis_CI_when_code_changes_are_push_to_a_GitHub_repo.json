@@ -108,8 +108,7 @@
   },
   "meta": {
     "name": "Trigger a build in Travis CI when code changes are push to a GitHub repo",
-    "id": 1132,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1132
   },
   "id": "1132"
 }

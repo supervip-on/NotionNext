@@ -183,7 +183,6 @@
   },
   "meta": {
     "name": "Auto-Notify on New Major n8n Releases via RSS, Email & Telegram",
-    "id": 736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 736
   }
 }

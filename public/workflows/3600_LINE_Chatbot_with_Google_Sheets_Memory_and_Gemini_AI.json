@@ -2,8 +2,7 @@
   "id": "[CENSORED]",
   "meta": {
     "name": "LINE Chatbot with Google Sheets Memory and Gemini AI",
-    "id": 3600,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3600
   },
   "name": "(G) LineChatBot + Google Sheets (as a memory)",
   "tags": [

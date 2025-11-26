@@ -2,8 +2,7 @@
   "id": "A7dRnMf9WybO8O02",
   "meta": {
     "name": "Create a Session-Based Telegram Chatbot with GPT-4o-mini and Google Sheets",
-    "id": 3798,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3798
   },
   "name": "Telegram ChatBot with multiple sessions",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Customer Support with Multilingual Chatbot using GPT-5 Nano for eCommerce",
-    "id": 7590,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7590
   },
   "nodes": [
     {

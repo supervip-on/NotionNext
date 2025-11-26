@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Google Play Store and SerpApi App Rank & Rating Monitor",
-    "id": 8519,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8519
   },
   "nodes": [
     {

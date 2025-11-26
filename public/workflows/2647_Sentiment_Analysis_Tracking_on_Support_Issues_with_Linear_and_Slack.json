@@ -751,8 +751,7 @@
   },
   "meta": {
     "name": "Sentiment Analysis Tracking on Support Issues with Linear and Slack",
-    "id": 2647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2647
   },
   "id": "2647"
 }

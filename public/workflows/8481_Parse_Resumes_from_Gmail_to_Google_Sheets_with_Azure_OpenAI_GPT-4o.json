@@ -2,8 +2,7 @@
   "id": "9vkTYYMOrjBIOFub",
   "meta": {
     "name": "Parse Resumes from Gmail to Google Sheets with Azure OpenAI GPT-4o",
-    "id": 8481,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8481
   },
   "name": "Resume inbox to sheet automation",
   "tags": [],

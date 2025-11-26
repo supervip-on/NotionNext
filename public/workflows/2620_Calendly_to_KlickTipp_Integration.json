@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Calendly to KlickTipp Integration",
-    "id": 2620,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2620
   },
   "nodes": [
     {

@@ -115,8 +115,7 @@
   },
   "meta": {
     "name": "🚨 Report n8n workflow errors to Telegram",
-    "id": 2159,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2159
   },
   "id": "2159"
 }

@@ -2,8 +2,7 @@
   "id": "BN02jX48DXzgyJFd",
   "meta": {
     "name": "Audio Transcription with Telegram and Groq Whisper",
-    "id": 10037,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10037
   },
   "name": "Audio Transcript - n8n Creator (Template)",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Discover & Enrich Decision-Makers with Apollo and Human Verification",
-    "id": 3830,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3830
   },
   "nodes": [
     {

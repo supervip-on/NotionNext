@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Linkedin profile URLs stored in a Google Sheet",
-    "id": 2107,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2107
   },
   "nodes": [
     {

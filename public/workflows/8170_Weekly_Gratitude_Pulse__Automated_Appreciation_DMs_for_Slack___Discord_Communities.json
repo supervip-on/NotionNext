@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly Gratitude Pulse: Automated Appreciation DMs for Slack & Discord Communities",
-    "id": 8170,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8170
   },
   "name": "Weekly Gratitude Pulse",
   "nodes": [

@@ -2,8 +2,7 @@
   "id": "Cxs6nhHKA6YxfS9U",
   "meta": {
     "name": "Automated Slack IT Helpdesk with GPT, Supabase Vector Search, and JIRA Ticketing",
-    "id": 6549,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6549
   },
   "name": "AI Enabled Helpdesk with Supabase and JIRA",
   "tags": [

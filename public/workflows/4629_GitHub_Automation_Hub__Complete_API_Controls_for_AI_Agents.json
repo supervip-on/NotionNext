@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "GitHub Automation Hub: Complete API Controls for AI Agents",
-    "id": 4629,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4629
   },
   "nodes": [
     {

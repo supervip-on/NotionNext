@@ -2,8 +2,7 @@
   "id": "1LBhz8JFWZgT5cui",
   "meta": {
     "name": "Extract Facebook Group Posts with Airtop",
-    "id": 5138,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5138
   },
   "name": "Facebook Group Scraper",
   "tags": [],

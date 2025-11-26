@@ -2,8 +2,7 @@
   "id": "Deax1GMBbSZll9IS",
   "meta": {
     "name": "Automated Blog Content Generation with GPT-4o from Google Trends to WordPress",
-    "id": 8888,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8888
   },
   "name": "Gen_content_Trend",
   "tags": [],

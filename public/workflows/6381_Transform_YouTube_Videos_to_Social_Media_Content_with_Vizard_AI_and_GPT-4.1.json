@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform YouTube Videos to Social Media Content with Vizard AI and GPT-4.1",
-    "id": 6381,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6381
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "ptkG7VYqHjLDrrGc",
   "meta": {
     "name": "Monitor n8n Workflow Errors with Telegram Alerts (Multi-language Setup)",
-    "id": 5939,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5939
   },
   "name": "ErrorFlow",
   "tags": [],

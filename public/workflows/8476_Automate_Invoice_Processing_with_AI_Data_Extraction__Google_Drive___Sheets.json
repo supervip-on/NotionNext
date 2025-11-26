@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Invoice Processing with AI Data Extraction, Google Drive & Sheets",
-    "id": 8476,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8476
   },
   "nodes": [
     {

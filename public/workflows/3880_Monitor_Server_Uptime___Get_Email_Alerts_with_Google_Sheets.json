@@ -2,8 +2,7 @@
   "id": "pcLi17oUJK9pSaee",
   "meta": {
     "name": "Monitor Server Uptime & Get Email Alerts with Google Sheets",
-    "id": 3880,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3880
   },
   "name": "Web Server Monitor.",
   "tags": [],

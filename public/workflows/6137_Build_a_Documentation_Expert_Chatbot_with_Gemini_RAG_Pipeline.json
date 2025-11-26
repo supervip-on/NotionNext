@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🤖 Build a Documentation Expert Chatbot with Gemini RAG Pipeline",
-    "id": 6137,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6137
   },
   "nodes": [
     {

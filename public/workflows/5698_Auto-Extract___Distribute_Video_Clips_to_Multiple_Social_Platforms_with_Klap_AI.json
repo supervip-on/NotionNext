@@ -2,8 +2,7 @@
   "id": "sqMz6tkDKjYuQCif",
   "meta": {
     "name": "Auto-Extract & Distribute Video Clips to Multiple Social Platforms with Klap AI",
-    "id": 5698,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5698
   },
   "name": "Clip Video into Shorts (Template)",
   "tags": [

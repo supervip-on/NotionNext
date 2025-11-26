@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Magento 2: Auto-Fix Missing Image Alt Tags with Product Name",
-    "id": 6715,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6715
   },
   "nodes": [
     {

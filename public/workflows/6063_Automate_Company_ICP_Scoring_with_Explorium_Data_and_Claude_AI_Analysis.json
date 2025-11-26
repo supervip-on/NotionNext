@@ -2,8 +2,7 @@
   "id": "9h9ppDLnWx1FriWK",
   "meta": {
     "name": "Automate Company ICP Scoring with Explorium Data and Claude AI Analysis",
-    "id": 6063,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6063
   },
   "name": "Score Company ICP with Explorium",
   "tags": [],

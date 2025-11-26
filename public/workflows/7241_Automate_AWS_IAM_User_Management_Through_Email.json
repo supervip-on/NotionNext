@@ -2,8 +2,7 @@
   "id": "CIJpDmGwbF9xSHqc",
   "meta": {
     "name": "Automate AWS IAM User Management Through Email",
-    "id": 7241,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7241
   },
   "name": "Manage AWS IAM Users via Email",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "H0lwQeRTWnK9AfTR",
   "meta": {
     "name": "Automate Chinese Language Teaching Posts on Facebook with Gemini & Recraft.ai",
-    "id": 7533,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7533
   },
   "name": "Facebook Post Automation",
   "tags": [

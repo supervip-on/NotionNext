@@ -2,8 +2,7 @@
   "id": "unl2pTzZ5wjLa1LJ",
   "meta": {
     "name": "Track iOS App Sizes with Trend Alerts using Google Sheets and Gmail Notifications",
-    "id": 9617,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9617
   },
   "name": "n8n IPA Size Tracker Workflow",
   "tags": [],

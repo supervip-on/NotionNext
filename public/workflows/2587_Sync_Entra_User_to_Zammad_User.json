@@ -2,8 +2,7 @@
   "id": "KKCfXEpBjjhp1LC8",
   "meta": {
     "name": "Sync Entra User to Zammad User",
-    "id": 2587,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2587
   },
   "name": "Entra User to Zammad User Sync",
   "tags": [],

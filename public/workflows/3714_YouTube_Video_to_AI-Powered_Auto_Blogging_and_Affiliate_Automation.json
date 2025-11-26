@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "YouTube Video to AI-Powered Auto Blogging and Affiliate Automation",
-    "id": 3714,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3714
   },
   "nodes": [
     {

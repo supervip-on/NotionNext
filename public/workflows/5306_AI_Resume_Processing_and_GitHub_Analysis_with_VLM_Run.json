@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Resume Processing and GitHub Analysis with VLM Run",
-    "id": 5306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5306
   },
   "nodes": [
     {

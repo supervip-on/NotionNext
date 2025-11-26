@@ -2,8 +2,7 @@
   "id": "fgGjrwJD0wsrTF4C",
   "meta": {
     "name": "Automated Interview Tracker with Google Calendar, Sheets & Gmail Alerts",
-    "id": 10081,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10081
   },
   "name": "Automated Candidate Interview Tracker with Google Calendar & Gmail Alerts",
   "tags": [],

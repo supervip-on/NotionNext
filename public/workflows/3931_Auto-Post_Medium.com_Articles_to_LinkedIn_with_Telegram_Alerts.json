@@ -2,8 +2,7 @@
   "id": "yF1HNe2ucaE81fNl",
   "meta": {
     "name": "Auto-Post Medium.com Articles to LinkedIn with Telegram Alerts",
-    "id": 3931,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3931
   },
   "name": "Linkedin Automation",
   "tags": [],

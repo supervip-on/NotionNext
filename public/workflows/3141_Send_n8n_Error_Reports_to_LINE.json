@@ -2,8 +2,7 @@
   "id": "ePnGZtZ8zLcf1UZZ",
   "meta": {
     "name": "Send n8n Error Reports to LINE",
-    "id": 3141,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3141
   },
   "name": "n8n Error Report to Line",
   "tags": [

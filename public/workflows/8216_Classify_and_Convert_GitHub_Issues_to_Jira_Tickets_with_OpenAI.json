@@ -207,8 +207,7 @@
   },
   "meta": {
     "name": "Classify and Convert GitHub Issues to Jira Tickets with OpenAI",
-    "id": 8216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8216
   },
   "id": "8216"
 }

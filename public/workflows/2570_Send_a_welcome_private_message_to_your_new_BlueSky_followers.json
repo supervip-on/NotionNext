@@ -556,8 +556,7 @@
   },
   "meta": {
     "name": "Send a welcome private message to your new BlueSky followers",
-    "id": 2570,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2570
   },
   "id": "2570"
 }

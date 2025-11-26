@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Sales Assistant with GPT & Claude: Qualify Leads, Book Meetings",
-    "id": 9026,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9026
   },
   "nodes": [
     {

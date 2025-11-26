@@ -2,8 +2,7 @@
   "id": "pWwGK5GKRNhv1Lxi",
   "meta": {
     "name": "Monitor AI Research Papers with Gemini-powered Filtering and Email Summaries",
-    "id": 9859,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9859
   },
   "name": "ArXiv Curator",
   "tags": [],

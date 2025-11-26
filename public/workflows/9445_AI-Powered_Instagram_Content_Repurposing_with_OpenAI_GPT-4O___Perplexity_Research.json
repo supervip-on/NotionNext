@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Instagram Content Repurposing with OpenAI GPT-4O & Perplexity Research",
-    "id": 9445,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9445
   },
   "nodes": [
     {

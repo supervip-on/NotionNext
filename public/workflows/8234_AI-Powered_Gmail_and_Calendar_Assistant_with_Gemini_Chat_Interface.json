@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Gmail and Calendar Assistant with Gemini Chat Interface",
-    "id": 8234,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8234
   },
   "name": "Chatbot webhook",
   "tags": [],

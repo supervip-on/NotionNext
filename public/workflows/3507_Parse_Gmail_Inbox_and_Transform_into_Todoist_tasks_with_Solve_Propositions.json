@@ -2,8 +2,7 @@
   "id": "WUX0BsRA1dbzTKnl",
   "meta": {
     "name": "Parse Gmail Inbox and Transform into Todoist tasks with Solve Propositions",
-    "id": 3507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3507
   },
   "name": "Email mailbox as Todoist tasks",
   "tags": [],

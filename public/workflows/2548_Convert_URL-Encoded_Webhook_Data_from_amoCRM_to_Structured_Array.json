@@ -2,8 +2,7 @@
   "id": "5BjmEGmHyXKxm61l",
   "meta": {
     "name": "Convert URL-Encoded Webhook Data from amoCRM to Structured Array",
-    "id": 2548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2548
   },
   "name": "parse encoded WebHook for amoCRM",
   "tags": [],

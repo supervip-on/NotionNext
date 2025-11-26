@@ -2,8 +2,7 @@
   "id": "Rrs4ZCaJZKAZIHKG",
   "meta": {
     "name": "Generate & Deliver PDF Invoices from Jotform to Google Drive & Email",
-    "id": 9447,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9447
   },
   "name": "Automated Invoice Generation & Delivery for Jotform Orders",
   "tags": [

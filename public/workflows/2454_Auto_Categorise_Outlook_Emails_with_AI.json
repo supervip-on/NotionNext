@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto Categorise Outlook Emails with AI",
-    "id": 2454,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2454
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "hiFrvAExHDHKN4oj",
   "meta": {
     "name": "Real-Time MAP Enforcement & Price Violation Alerts using Google Sheets, BrowserAct & Slack",
-    "id": 9893,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9893
   },
   "name": "Real-Time MAP Enforcement & Price Violation Alerts using BrowserAct & slack",
   "tags": [],

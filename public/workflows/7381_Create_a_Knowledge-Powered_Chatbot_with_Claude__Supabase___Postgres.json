@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Knowledge-Powered Chatbot with Claude, Supabase & Postgres ",
-    "id": 7381,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7381
   },
   "nodes": [
     {

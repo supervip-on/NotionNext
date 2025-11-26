@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Daily Customer Win-Back Campaign with AI Offers",
-    "id": 4001,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4001
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "edWh6iOQTu7y6486",
   "meta": {
     "name": "Perplexity-Style Iterative Research with Gemini and Google Search",
-    "id": 4758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4758
   },
   "name": "AI Comprehensive Research on User's Query (reproduction of gemini-fullstack-langgraph-quickstart)",
   "tags": [

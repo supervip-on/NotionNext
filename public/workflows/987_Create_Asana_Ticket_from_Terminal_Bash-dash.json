@@ -86,8 +86,7 @@
   },
   "meta": {
     "name": "Create Asana Ticket from Terminal Bash-dash",
-    "id": 987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 987
   },
   "id": "987"
 }

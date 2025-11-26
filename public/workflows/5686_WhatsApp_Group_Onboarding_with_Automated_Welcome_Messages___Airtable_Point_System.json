@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp Group Onboarding with Automated Welcome Messages & Airtable Point System",
-    "id": 5686,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5686
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Targeted Leads from Google Maps & LinkedIn to Supabase using Apify",
-    "id": 8417,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8417
   },
   "nodes": [
     {

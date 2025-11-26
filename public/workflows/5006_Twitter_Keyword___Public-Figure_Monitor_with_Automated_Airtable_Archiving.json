@@ -2,8 +2,7 @@
   "id": "lPYVaz2xbN5zFDIL",
   "meta": {
     "name": "Twitter Keyword & Public-Figure Monitor with Automated Airtable Archiving",
-    "id": 5006,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5006
   },
   "name": "temp",
   "tags": [

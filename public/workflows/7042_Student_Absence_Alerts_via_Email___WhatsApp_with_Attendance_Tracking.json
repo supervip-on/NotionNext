@@ -2,8 +2,7 @@
   "id": "2IRMZQsCHLw3s6RW",
   "meta": {
     "name": "Student Absence Alerts via Email & WhatsApp with Attendance Tracking",
-    "id": 7042,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7042
   },
   "name": "Student Absence Alerts & Attendance Tracking Automation",
   "tags": [],

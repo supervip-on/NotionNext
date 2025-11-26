@@ -2,8 +2,7 @@
   "id": "76LqncXo7HU6frDp",
   "meta": {
     "name": "Automated Tour Payment Reminders via WhatsApp & Email with Payment Links",
-    "id": 9844,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9844
   },
   "name": "Send Tour Payment Reminders with Payment Links",
   "tags": [],

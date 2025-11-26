@@ -24,8 +24,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for GitHub events",
-    "id": 527,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 527
   },
   "id": "527"
 }

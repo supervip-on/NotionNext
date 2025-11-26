@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Cold Email Outreach with Gmail and Google Sheets Status Tracking",
-    "id": 4214,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4214
   },
   "nodes": [
     {

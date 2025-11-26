@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Podcast Creation with GPT, Claude & Eleven Labs Text-to-Speech",
-    "id": 10051,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10051
   },
   "name": "Podcast on Autopilot",
   "tags": [],

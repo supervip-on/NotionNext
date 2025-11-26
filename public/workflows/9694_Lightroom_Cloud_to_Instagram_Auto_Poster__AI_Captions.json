@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lightroom Cloud to Instagram Auto Poster (AI Captions)",
-    "id": 9694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9694
   },
   "nodes": [
     {

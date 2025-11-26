@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Organise an Event using Slack, Google Calendar and AI",
-    "id": 2326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2326
   },
   "nodes": [
     {

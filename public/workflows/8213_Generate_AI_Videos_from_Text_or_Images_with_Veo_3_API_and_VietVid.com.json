@@ -2,8 +2,7 @@
   "id": "D1OiajULSbxamTth",
   "meta": {
     "name": "Generate AI Videos from Text or Images with Veo 3 API and VietVid.com",
-    "id": 8213,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8213
   },
   "name": "My workflow 3",
   "tags": [],

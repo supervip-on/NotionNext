@@ -208,8 +208,7 @@
   },
   "meta": {
     "name": "Send Webflow form data to Google Sheets",
-    "id": 2555,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2555
   },
   "id": "2555"
 }

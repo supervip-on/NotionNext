@@ -2,8 +2,7 @@
   "id": "19",
   "meta": {
     "name": "Load data into Snowflake",
-    "id": 1918,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1918
   },
   "name": "Snowflake CSV",
   "tags": [],

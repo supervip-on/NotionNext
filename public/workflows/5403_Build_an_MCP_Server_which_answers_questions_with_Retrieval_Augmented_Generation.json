@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an MCP Server which answers questions with Retrieval Augmented Generation",
-    "id": 5403,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5403
   },
   "nodes": [
     {

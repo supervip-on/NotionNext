@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich company domains with business data using Perplexity AI and Google Sheets",
-    "id": 6986,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6986
   },
   "nodes": [
     {

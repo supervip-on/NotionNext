@@ -2,8 +2,7 @@
   "id": "hhg9b3hGgDJN5yu9",
   "meta": {
     "name": "Build RAG-Powered Support Agent for Jira Issues Using Pinecone and OpenAI",
-    "id": 8720,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8720
   },
   "name": "Load Jira open issues with comments into Pinecone",
   "tags": [],

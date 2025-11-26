@@ -2,8 +2,7 @@
   "id": "nSlsWDi56czfBf3u",
   "meta": {
     "name": "Manage Google Cloud Storage with AI Image Generation using GPT-4 Mini",
-    "id": 7502,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7502
   },
   "name": "Beginner’s Tutorial: Manage Google Cloud Storage Buckets and Objects with n8n",
   "tags": [

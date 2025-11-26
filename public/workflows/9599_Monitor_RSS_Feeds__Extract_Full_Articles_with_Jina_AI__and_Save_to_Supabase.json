@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor RSS Feeds, Extract Full Articles with Jina AI, and Save to Supabase",
-    "id": 9599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9599
   },
   "nodes": [
     {

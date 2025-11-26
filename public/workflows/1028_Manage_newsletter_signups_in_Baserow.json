@@ -428,7 +428,6 @@
   },
   "meta": {
     "name": "Manage newsletter signups in Baserow",
-    "id": 1028,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1028
   }
 }

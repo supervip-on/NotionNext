@@ -2,8 +2,7 @@
   "id": "5vu0NifxPdAhR0hK",
   "meta": {
     "name": "Automated Email Management with Gemini AI: Gmail Summarizing, Labeling and Notion/Sheets Logging",
-    "id": 9679,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9679
   },
   "name": "Email Agent with AI Analysis",
   "tags": [],

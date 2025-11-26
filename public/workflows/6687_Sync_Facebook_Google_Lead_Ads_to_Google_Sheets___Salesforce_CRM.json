@@ -2,8 +2,7 @@
   "id": "1",
   "meta": {
     "name": "Sync Facebook/Google Lead Ads to Google Sheets & Salesforce CRM",
-    "id": 6687,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6687
   },
   "name": "Sync Facebook Lead Ads to Google Sheets & Salesforce CRM",
   "nodes": [

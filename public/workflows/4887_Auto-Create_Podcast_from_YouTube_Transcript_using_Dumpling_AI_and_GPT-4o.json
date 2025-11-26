@@ -2,8 +2,7 @@
   "id": "I4j3HnFGPa5UWkIO",
   "meta": {
     "name": "Auto-Create Podcast from YouTube Transcript using Dumpling AI and GPT-4o",
-    "id": 4887,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4887
   },
   "name": "Auto-Create Podcast from YouTube Video Transcript using Dumpling AI and GPT-4o",
   "tags": [],

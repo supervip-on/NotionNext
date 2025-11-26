@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Parse & Evaluate HR Candidates with GPT-4.1 and LinkedIn Data in CSV/XLSX",
-    "id": 8775,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8775
   },
   "nodes": [
     {

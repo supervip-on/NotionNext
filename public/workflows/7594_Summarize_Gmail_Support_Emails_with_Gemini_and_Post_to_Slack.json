@@ -2,8 +2,7 @@
   "id": "rI3h3XeNlHNt713L",
   "meta": {
     "name": "Summarize Gmail Support Emails with Gemini and Post to Slack",
-    "id": 7594,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7594
   },
   "name": "Summarize Gmail Support Emails with Gemini and Post to Slack",
   "tags": [],

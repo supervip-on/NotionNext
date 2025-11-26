@@ -2,8 +2,7 @@
   "id": "Ov0kAaToP65xgc5h",
   "meta": {
     "name": "Automated PDF Form Processing with Web Forms and Email Delivery",
-    "id": 9404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9404
   },
   "name": "Landingpage -> PDF Form Fillout -> Email",
   "tags": [],

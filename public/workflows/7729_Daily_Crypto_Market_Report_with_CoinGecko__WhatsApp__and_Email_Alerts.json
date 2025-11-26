@@ -2,8 +2,7 @@
   "id": "65dLT87vPoyQexup",
   "meta": {
     "name": "Daily Crypto Market Report with CoinGecko, WhatsApp, and Email Alerts",
-    "id": 7729,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7729
   },
   "name": "Automated Daily Crypto Market Report - Top Gainers & Losers",
   "tags": [],

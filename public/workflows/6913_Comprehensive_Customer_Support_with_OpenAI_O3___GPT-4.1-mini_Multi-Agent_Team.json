@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Comprehensive Customer Support with OpenAI O3 + GPT-4.1-mini Multi-Agent Team",
-    "id": 6913,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6913
   },
   "name": "Support Director Agent with Customer Support Team",
   "nodes": [

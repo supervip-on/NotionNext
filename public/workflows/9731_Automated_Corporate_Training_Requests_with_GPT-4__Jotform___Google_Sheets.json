@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Corporate Training Requests with GPT-4, Jotform & Google Sheets",
-    "id": 9731,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9731
   },
   "nodes": [
     {

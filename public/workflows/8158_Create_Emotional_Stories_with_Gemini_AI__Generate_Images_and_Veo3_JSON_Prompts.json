@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Emotional Stories with Gemini AI: Generate Images and Veo3 JSON Prompts",
-    "id": 8158,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8158
   },
   "nodes": [
     {

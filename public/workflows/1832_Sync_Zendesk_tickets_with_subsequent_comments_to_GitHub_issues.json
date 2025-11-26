@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Zendesk tickets with subsequent comments to GitHub issues",
-    "id": 1832,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1832
   },
   "nodes": [
     {

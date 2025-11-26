@@ -2,8 +2,7 @@
   "id": "DzNTc1Td148ti7RU",
   "meta": {
     "name": "Automatically Delete Spam Emails in Gmail on Schedule",
-    "id": 4285,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4285
   },
   "name": "Automatically delete SPAM emails",
   "tags": [

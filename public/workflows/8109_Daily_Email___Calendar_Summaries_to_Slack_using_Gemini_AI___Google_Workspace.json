@@ -2,8 +2,7 @@
   "id": "86qWVU9iA1LQM3pC",
   "meta": {
     "name": "Daily Email & Calendar Summaries to Slack using Gemini AI & Google Workspace",
-    "id": 8109,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8109
   },
   "name": "Daily Email & Calendar Summaries to Slack with Gemini AI & Google Workspace",
   "tags": [],

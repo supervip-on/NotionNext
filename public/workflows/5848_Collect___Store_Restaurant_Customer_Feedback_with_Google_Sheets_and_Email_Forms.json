@@ -2,8 +2,7 @@
   "id": "RoxQsRKHo66PYIoi",
   "meta": {
     "name": "Collect & Store Restaurant Customer Feedback with Google Sheets and Email Forms",
-    "id": 5848,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5848
   },
   "name": "Customer Feedback Collector – Food & Restaurant Experience",
   "tags": [],

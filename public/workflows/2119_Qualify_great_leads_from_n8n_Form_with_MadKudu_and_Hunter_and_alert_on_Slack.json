@@ -310,8 +310,7 @@
   },
   "meta": {
     "name": "Qualify great leads from n8n Form with MadKudu and Hunter and alert on Slack",
-    "id": 2119,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2119
   },
   "id": "2119"
 }

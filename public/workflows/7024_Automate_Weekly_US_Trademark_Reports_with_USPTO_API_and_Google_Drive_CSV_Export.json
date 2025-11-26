@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Weekly US Trademark Reports with USPTO API and Google Drive CSV Export",
-    "id": 7024,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7024
   },
   "nodes": [
     {

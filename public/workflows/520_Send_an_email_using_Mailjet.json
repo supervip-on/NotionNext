@@ -45,8 +45,7 @@
   },
   "meta": {
     "name": "Send an email using Mailjet",
-    "id": 520,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 520
   },
   "id": "520"
 }

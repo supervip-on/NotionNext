@@ -2,8 +2,7 @@
   "id": "8v4dynjkHSLVGJSG",
   "meta": {
     "name": "Real-time Crypto News & Sentiment Analysis via Telegram with GPT-4o",
-    "id": 3751,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3751
   },
   "name": "Crypto News & Sentiment",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Attach a default error handler to all active workflows",
-    "id": 2312,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2312
   },
   "nodes": [
     {

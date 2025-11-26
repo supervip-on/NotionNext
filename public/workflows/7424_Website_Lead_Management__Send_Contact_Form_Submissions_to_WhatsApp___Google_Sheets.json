@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Website Lead Management: Send Contact Form Submissions to WhatsApp & Google Sheets",
-    "id": 7424,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7424
   },
   "nodes": [
     {

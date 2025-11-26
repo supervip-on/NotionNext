@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "JavaScriptSentry: Detect Sensitive Information in JavaScript",
-    "id": 5497,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5497
   },
   "nodes": [
     {

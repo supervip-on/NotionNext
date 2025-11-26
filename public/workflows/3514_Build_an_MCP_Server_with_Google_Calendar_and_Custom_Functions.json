@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an MCP Server with Google Calendar and Custom Functions",
-    "id": 3514,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3514
   },
   "nodes": [
     {

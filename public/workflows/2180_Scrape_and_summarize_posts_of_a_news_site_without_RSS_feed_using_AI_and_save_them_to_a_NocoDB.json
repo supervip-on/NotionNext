@@ -2,8 +2,7 @@
   "id": "xM8Z5vZVNTNjCySL",
   "meta": {
     "name": "Scrape and summarize posts of a news site without RSS feed using AI and save them to a NocoDB",
-    "id": 2180,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2180
   },
   "name": "News Extraction",
   "tags": [],

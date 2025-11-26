@@ -2,8 +2,7 @@
   "id": "DqvkhR9nzoPQKxGh",
   "meta": {
     "name": "Scrape Trustpilot Reviews to Google Sheets + HelpfulCrowd compatible csv",
-    "id": 3168,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3168
   },
   "name": "Scrape Trustpilot Reviews to Google Sheets",
   "tags": [],

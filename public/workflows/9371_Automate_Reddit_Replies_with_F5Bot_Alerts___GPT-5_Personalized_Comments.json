@@ -2,8 +2,7 @@
   "id": "GrveDEE7fH9mRpAI",
   "meta": {
     "name": "Automate Reddit Replies with F5Bot Alerts & GPT-5 Personalized Comments",
-    "id": 9371,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9371
   },
   "name": "Reddit Assistant",
   "tags": [

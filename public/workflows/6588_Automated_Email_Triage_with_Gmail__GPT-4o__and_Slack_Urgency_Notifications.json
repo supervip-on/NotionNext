@@ -2,8 +2,7 @@
   "id": "Yg8U1sA0hSJJ6p3D",
   "meta": {
     "name": "Automated Email Triage with Gmail, GPT-4o, and Slack Urgency Notifications",
-    "id": 6588,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6588
   },
   "name": "AI Email Assistant: Prioritize Gmail with ChatGPT Summaries and Slack Digests",
   "tags": [],

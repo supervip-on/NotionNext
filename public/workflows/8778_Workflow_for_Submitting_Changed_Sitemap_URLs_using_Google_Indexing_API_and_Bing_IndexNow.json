@@ -2,8 +2,7 @@
   "id": "Mbf12LrYQKTF8pv3",
   "meta": {
     "name": "Workflow for Submitting Changed Sitemap URLs using Google Indexing API and Bing IndexNow",
-    "id": 8778,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8778
   },
   "name": "Public SEO - Google & Bing Index Automation",
   "tags": [],

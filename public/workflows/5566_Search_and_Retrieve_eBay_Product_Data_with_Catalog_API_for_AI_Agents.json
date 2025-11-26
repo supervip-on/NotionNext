@@ -2,8 +2,7 @@
   "id": "kLilCPfOCFZKuEmb",
   "meta": {
     "name": "Search and Retrieve eBay Product Data with Catalog API for AI Agents",
-    "id": 5566,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5566
   },
   "name": "[eBay] Catalog API MCP Server",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Images, Videos, Documents & Audio with Gemini Tools and Qwen LLM Agent",
-    "id": 7026,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7026
   },
   "nodes": [
     {

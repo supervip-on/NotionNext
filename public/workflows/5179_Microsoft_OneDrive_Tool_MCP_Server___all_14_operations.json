@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Microsoft OneDrive Tool MCP Server 💪 all 14 operations",
-    "id": 5179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5179
   },
   "nodes": [
     {

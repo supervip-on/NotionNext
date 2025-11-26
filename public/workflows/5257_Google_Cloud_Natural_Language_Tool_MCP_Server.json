@@ -2,8 +2,7 @@
   "id": "ngDKN5MVrH1ch8i6",
   "meta": {
     "name": "Google Cloud Natural Language Tool MCP Server",
-    "id": 5257,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5257
   },
   "name": "Google Cloud Natural Language Tool MCP Server",
   "tags": [],

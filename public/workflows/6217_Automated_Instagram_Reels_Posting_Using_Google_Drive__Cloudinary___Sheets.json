@@ -2,8 +2,7 @@
   "id": "JEi8YuD1uPNaoepv",
   "meta": {
     "name": "Automated Instagram Reels Posting Using Google Drive, Cloudinary & Sheets",
-    "id": 6217,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6217
   },
   "name": "N0006_Schedule Instagram Reels (local timezone) with Google Sheets, Drive & Cloudinary",
   "tags": [],

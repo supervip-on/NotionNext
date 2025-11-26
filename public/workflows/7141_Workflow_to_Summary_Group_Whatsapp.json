@@ -2,8 +2,7 @@
   "id": "O7q3gHu1yd1THJjl",
   "meta": {
     "name": "Workflow to Summary Group Whatsapp",
-    "id": 7141,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7141
   },
   "name": "Daily WhatsApp Summary with Group-Level Control",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "pQKFJUEwOALQ4cKH",
   "meta": {
     "name": "Expose AWS Budgets API Operations to AI Agents via MCP Server",
-    "id": 5499,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5499
   },
   "name": "AWS Budgets MCP Server",
   "tags": [],

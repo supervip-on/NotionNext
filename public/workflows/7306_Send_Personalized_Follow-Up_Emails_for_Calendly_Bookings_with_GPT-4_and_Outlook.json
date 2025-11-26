@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Personalized Follow-Up Emails for Calendly Bookings with GPT-4 and Outlook",
-    "id": 7306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7306
   },
   "nodes": [
     {

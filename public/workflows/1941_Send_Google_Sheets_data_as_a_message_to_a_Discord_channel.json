@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Google Sheets data as a message to a Discord channel",
-    "id": 1941,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1941
   },
   "nodes": [
     {

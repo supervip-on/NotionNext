@@ -511,7 +511,6 @@
   },
   "meta": {
     "name": "Analyze emails with S1EM",
-    "id": 1602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1602
   }
 }

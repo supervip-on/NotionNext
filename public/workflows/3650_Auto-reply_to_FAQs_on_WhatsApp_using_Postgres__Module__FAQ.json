@@ -2,8 +2,7 @@
   "id": "GBuLBrPlWxWejX9i",
   "meta": {
     "name": "Auto-reply to FAQs on WhatsApp using Postgres (Module \"FAQ\")",
-    "id": 3650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3650
   },
   "name": "WA-Bot-Module-FAQ-v1-db-sell-full",
   "tags": [

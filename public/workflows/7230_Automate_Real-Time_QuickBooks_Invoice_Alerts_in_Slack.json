@@ -2,8 +2,7 @@
   "id": "HryakGwRjy2LO1wa",
   "meta": {
     "name": "Automate Real-Time QuickBooks Invoice Alerts in Slack",
-    "id": 7230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7230
   },
   "name": "Real-Time QuickBooks Invoice Sync to Slack",
   "tags": [],

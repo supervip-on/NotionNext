@@ -2,8 +2,7 @@
   "id": "y1ZOHX6Zq13C68dP",
   "meta": {
     "name": "Auto-Sync Local Events to Google Calendar with n8n",
-    "id": 5216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5216
   },
   "name": "AutoSync_Local_Events_to_Google_Calendar",
   "tags": [],

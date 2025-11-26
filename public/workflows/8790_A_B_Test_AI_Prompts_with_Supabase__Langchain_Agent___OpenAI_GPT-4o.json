@@ -2,8 +2,7 @@
   "id": "TEA7K9MSVQGCWKe6",
   "meta": {
     "name": "A/B Test AI Prompts with Supabase, Langchain Agent & OpenAI GPT-4o",
-    "id": 8790,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8790
   },
   "name": "A/B Split Testing",
   "tags": [],

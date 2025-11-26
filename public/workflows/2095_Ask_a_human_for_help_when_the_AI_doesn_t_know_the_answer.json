@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Ask a human for help when the AI doesn't know the answer",
-    "id": 2095,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2095
   },
   "nodes": [
     {

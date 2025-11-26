@@ -2,8 +2,7 @@
   "id": "NESyp0PWCUmIyVaM",
   "meta": {
     "name": "Daily Calendar Digest: Format Google Calendar Events with Claude 3.5 Sonnet for Telegram",
-    "id": 7266,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7266
   },
   "name": "Daily Calendar Digest: Send Events from Google Calendar to Telegram with Claude AI",
   "tags": [

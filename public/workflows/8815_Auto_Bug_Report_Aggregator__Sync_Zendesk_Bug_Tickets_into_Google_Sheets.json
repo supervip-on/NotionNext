@@ -2,8 +2,7 @@
   "id": "kIN8X8CkweB2yEiP",
   "meta": {
     "name": "Auto Bug Report Aggregator: Sync Zendesk Bug Tickets into Google Sheets",
-    "id": 8815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8815
   },
   "name": "Bugs Aggregator",
   "tags": [],

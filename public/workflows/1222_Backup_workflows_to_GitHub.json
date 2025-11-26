@@ -300,8 +300,7 @@
   },
   "meta": {
     "name": "Backup workflows to GitHub",
-    "id": 1222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1222
   },
   "id": "1222"
 }

@@ -798,8 +798,7 @@
   },
   "meta": {
     "name": "Export Search Console Results to Google Sheets",
-    "id": 2613,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2613
   },
   "id": "2613"
 }

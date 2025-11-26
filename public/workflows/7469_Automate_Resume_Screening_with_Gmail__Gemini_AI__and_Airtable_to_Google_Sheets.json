@@ -2,8 +2,7 @@
   "id": "eRS0KpRKSwAZs7rW",
   "meta": {
     "name": "Automate Resume Screening with Gmail, Gemini AI, and Airtable to Google Sheets",
-    "id": 7469,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7469
   },
   "name": "ResumeRadar",
   "tags": [],

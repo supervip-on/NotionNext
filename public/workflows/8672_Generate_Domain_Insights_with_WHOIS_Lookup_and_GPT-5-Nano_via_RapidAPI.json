@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Domain Insights with WHOIS Lookup and GPT-5-Nano via RapidAPI",
-    "id": 8672,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8672
   },
   "nodes": [
     {

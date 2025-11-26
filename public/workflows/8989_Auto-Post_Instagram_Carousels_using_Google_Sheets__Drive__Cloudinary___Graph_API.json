@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Post Instagram Carousels using Google Sheets, Drive, Cloudinary & Graph API",
-    "id": 8989,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8989
   },
   "nodes": [
     {

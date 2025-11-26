@@ -2,8 +2,7 @@
   "id": "B1Tn4E0X4IfTUiHw",
   "meta": {
     "name": "Meetup Registration System with PostgreSQL Database & Interactive Giveaway Tool",
-    "id": 5758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5758
   },
   "name": "Meetup Participant Registration & Giveaway App",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "okMME97B70fXzK5U",
   "meta": {
     "name": "Send file to kindle with Telegram Bot and Outlook",
-    "id": 2387,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2387
   },
   "name": "send file to kindle through telegram bot",
   "tags": [],

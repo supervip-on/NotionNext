@@ -2,8 +2,7 @@
   "id": "VoLT6Omw9KMQgPum",
   "meta": {
     "name": "Weekly Shodan Query - Report Accidents",
-    "id": 1977,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1977
   },
   "name": "Weekly_Shodan_Query___Report_Accidents__no_function_node_",
   "tags": [

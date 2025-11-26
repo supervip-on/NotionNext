@@ -2,8 +2,7 @@
   "id": "tpXEt8k7YAJ2EC64",
   "meta": {
     "name": "AI Email Reply Based on HubSpot Data + Slack Approval",
-    "id": 8967,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8967
   },
   "name": "AI email reply based on HubSpot data + Slack approval",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "01UHgh673YDyv5xN",
   "meta": {
     "name": "IOT device control with MQTT and webhook",
-    "id": 4211,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4211
   },
   "name": "IOT control via MQTT and webhook",
   "tags": [],

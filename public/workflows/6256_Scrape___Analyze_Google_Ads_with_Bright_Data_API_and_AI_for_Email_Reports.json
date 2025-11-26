@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape & Analyze Google Ads with Bright Data API and AI for Email Reports",
-    "id": 6256,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6256
   },
   "nodes": [
     {

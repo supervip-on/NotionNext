@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track LLM Token Costs per Customer Using the Langchain Code Node ",
-    "id": 3440,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3440
   },
   "nodes": [
     {

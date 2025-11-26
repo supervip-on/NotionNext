@@ -2,8 +2,7 @@
   "id": "6GzSyLakqBN2hYIe",
   "meta": {
     "name": "JSON String Validator via Webhook",
-    "id": 4704,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4704
   },
   "name": "JSON String Validator via Webhook",
   "tags": [],

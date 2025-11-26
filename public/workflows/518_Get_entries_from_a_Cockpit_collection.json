@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Get entries from a Cockpit collection",
-    "id": 518,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 518
   },
   "id": "518"
 }

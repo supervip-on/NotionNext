@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Form-Triggered Instagram Video Downloads to Google Drive with Sheets Logging",
-    "id": 8364,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8364
   },
   "nodes": [
     {

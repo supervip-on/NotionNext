@@ -2,8 +2,7 @@
   "id": "1Pv5C6tDnHKLP42m",
   "meta": {
     "name": "⚛️🐋🤖 Extract Data from YAPE Receipts via Telegram OCR and Store in Google Sheets",
-    "id": 3073,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3073
   },
   "name": "Extract Data from YAPE Receipts via Telegram OCR and Store in Google Sheets",
   "tags": [

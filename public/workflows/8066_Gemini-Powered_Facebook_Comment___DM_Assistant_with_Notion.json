@@ -2,8 +2,7 @@
   "id": "[YOUR_WORKFLOW_ID]",
   "meta": {
     "name": "Gemini-Powered Facebook Comment & DM Assistant with Notion",
-    "id": 8066,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8066
   },
   "name": "Facebook Moderator Webhook & Message Template",
   "tags": [],

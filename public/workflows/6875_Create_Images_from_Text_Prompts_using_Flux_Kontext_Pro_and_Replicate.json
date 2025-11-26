@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Images from Text Prompts using Flux Kontext Pro and Replicate",
-    "id": 6875,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6875
   },
   "name": "black-forest-labs/flux-kontext-pro - Image Generator",
   "nodes": [

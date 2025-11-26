@@ -2,8 +2,7 @@
   "id": "Fdbft9uw8mLGXMoE",
   "meta": {
     "name": "AI Speech Coach & Generator using Telegram, Open AI and Gemini",
-    "id": 3889,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3889
   },
   "name": "Speech Support Workflow",
   "tags": [

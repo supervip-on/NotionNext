@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "English Vocabulary Bot for Telegram with Gemini & Random Word API",
-    "id": 8256,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8256
   },
   "nodes": [
     {

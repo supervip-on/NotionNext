@@ -2,8 +2,7 @@
   "id": "KifsNxjgoHTGzDxt",
   "meta": {
     "name": "Enrich HubSpot Companies with Polish CEIDG Data using NIP Identifiers",
-    "id": 10125,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10125
   },
   "name": "Auto-populate HubSpot company from Polish NIP",
   "tags": [

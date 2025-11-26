@@ -2,8 +2,7 @@
   "id": "CvIOr50bDG2t7vHO",
   "meta": {
     "name": "Process Receipts with Google Vision OCR, AI & Telegram to Google Sheets",
-    "id": 6359,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6359
   },
   "name": "Automated Financial Reporting Using Google Vision OCR, Telegram & Google Sheets",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "dI8MDIAVRPRIMA9K",
   "meta": {
     "name": "Auto-Delete SPAM, Social, and Promotions Emails in Gmail",
-    "id": 4358,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4358
   },
   "name": "Clean My Mail",
   "tags": [],

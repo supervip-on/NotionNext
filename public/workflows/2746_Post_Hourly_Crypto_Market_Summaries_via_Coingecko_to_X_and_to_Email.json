@@ -127,8 +127,7 @@
   },
   "meta": {
     "name": "Post Hourly Crypto Market Summaries via Coingecko to X and to Email",
-    "id": 2746,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2746
   },
   "id": "2746"
 }

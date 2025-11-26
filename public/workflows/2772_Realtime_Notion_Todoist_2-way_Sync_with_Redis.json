@@ -2,8 +2,7 @@
   "id": "k9abwUyVzl7OCsAl",
   "meta": {
     "name": "Realtime Notion Todoist 2-way Sync with Redis",
-    "id": 2772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2772
   },
   "name": "Realtime Notion Todoist 2-way Sync Template",
   "tags": [

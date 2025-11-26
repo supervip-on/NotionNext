@@ -512,8 +512,7 @@
   },
   "meta": {
     "name": "Export all Strava Activity Data to Google Sheets",
-    "id": 2678,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2678
   },
   "id": "2678"
 }

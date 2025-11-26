@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate and Split Sample Data Records using JavaScript and Python",
-    "id": 8230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8230
   },
   "nodes": [
     {

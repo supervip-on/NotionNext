@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate Competitive Battlecards with AI, Slack & Notion (Klue Alternative)",
-    "id": 10205,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10205
   },
   "name": "Automated Competitive Battlecard Generation with Real-Time Sales Intelligence",
   "tags": [],

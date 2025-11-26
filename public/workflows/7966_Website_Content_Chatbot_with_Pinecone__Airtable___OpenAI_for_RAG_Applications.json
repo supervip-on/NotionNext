@@ -2,8 +2,7 @@
   "id": "vgHm3xR0KrPRtInw",
   "meta": {
     "name": "Website Content Chatbot with Pinecone, Airtable & OpenAI for RAG Applications",
-    "id": 7966,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7966
   },
   "name": "Build a chatbot on website content and Airtable data for RAG applications",
   "tags": [],

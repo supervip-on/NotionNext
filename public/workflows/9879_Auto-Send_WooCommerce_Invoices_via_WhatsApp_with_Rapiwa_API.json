@@ -2,8 +2,7 @@
   "id": "ze5g8DGP9lpajRcO",
   "meta": {
     "name": "Auto-Send WooCommerce Invoices via WhatsApp with Rapiwa API",
-    "id": 9879,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9879
   },
   "name": "Send WooCommerce Invoices on WhatsApp Automatically Using Rapiwa API",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "EkrH16IadUZrhHQT",
   "meta": {
     "name": "Smart Email Triage with Gmail, GPT-4, Slack and Google Sheets",
-    "id": 9680,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9680
   },
   "name": "AI-Powered Email Triage from Gmail to Slack and Sheets",
   "tags": [],

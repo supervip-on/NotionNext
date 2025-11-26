@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Lyrics Study Bot for Telegram — Translation, Summary, Vocabulary",
-    "id": 7195,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7195
   },
   "nodes": [
     {

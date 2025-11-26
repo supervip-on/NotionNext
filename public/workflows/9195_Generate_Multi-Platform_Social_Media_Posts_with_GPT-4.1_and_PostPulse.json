@@ -2,8 +2,7 @@
   "id": "FS1zmh5zmaLSg0jw",
   "meta": {
     "name": "Generate Multi-Platform Social Media Posts with GPT-4.1 and PostPulse",
-    "id": 9195,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9195
   },
   "name": "AI Social Publisher via PostPulse",
   "tags": [],

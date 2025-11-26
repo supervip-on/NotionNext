@@ -2,8 +2,7 @@
   "id": "MoDcla5XtsTZBDyz",
   "meta": {
     "name": "Employee Attendance Tracker with Telegram Bot and Google Sheets",
-    "id": 8335,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8335
   },
   "name": "Attendance Telegram App",
   "tags": [],

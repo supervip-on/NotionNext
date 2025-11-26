@@ -2,8 +2,7 @@
   "id": "EDZcm0r7Lp2uIkTn",
   "meta": {
     "name": "Build Persistent Chat Memory with GPT-4o-mini and Qdrant Vector Database",
-    "id": 6829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6829
   },
   "name": "LLM_TEMPLATE",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "BYzxNRz3ownaQd4R",
   "meta": {
     "name": "Automated Invoice-PO Matching with Google Gemini AI and Email Notifications",
-    "id": 10123,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10123
   },
   "name": "PO_Invoice_Matching_V1",
   "tags": [],

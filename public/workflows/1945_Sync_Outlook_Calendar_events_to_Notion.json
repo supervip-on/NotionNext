@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Outlook Calendar events to Notion",
-    "id": 1945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1945
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "F45TTZf5JIuQ8mdg",
   "meta": {
     "name": "Enrich Company Profiles with Explorium MCP and Claude AI for GTM Research",
-    "id": 6064,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6064
   },
   "name": "AI web researcher for sales",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🌳 EU Green Legislation Tracker with GPT-4o, Google Sheets and Tasks",
-    "id": 3644,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3644
   },
   "nodes": [
     {

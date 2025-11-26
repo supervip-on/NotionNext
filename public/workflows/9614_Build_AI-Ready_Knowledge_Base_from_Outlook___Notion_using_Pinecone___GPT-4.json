@@ -2,8 +2,7 @@
   "id": "xA9J9DImm49HURF3",
   "meta": {
     "name": "Build AI-Ready Knowledge Base from Outlook & Notion using Pinecone & GPT-4",
-    "id": 9614,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9614
   },
   "name": "Outlook and Notion knowledge base",
   "tags": [],

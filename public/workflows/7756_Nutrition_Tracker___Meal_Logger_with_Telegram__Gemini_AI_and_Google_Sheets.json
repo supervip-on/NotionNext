@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Nutrition Tracker & Meal Logger with Telegram, Gemini AI and Google Sheets",
-    "id": 7756,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7756
   },
   "nodes": [
     {

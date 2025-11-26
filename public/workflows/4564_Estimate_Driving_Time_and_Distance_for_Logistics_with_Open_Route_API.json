@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🚚 Estimate Driving Time and Distance for Logistics with Open Route API",
-    "id": 4564,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4564
   },
   "nodes": [
     {

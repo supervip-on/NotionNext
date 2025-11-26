@@ -77,8 +77,7 @@
   },
   "meta": {
     "name": "Transfer JSON data to CSV file",
-    "id": 1791,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1791
   },
   "id": "1791"
 }

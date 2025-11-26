@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate PDF Invoices from Google Sheets with PDF.co",
-    "id": 7859,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7859
   },
   "nodes": [
     {

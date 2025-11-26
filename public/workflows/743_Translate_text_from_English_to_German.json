@@ -47,7 +47,6 @@
   },
   "meta": {
     "name": "Translate text from English to German",
-    "id": 743,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 743
   }
 }

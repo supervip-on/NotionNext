@@ -2,8 +2,7 @@
   "id": "YeYi657TmrNBAlHy",
   "meta": {
     "name": "Airtable Base Backups to S3",
-    "id": 4302,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4302
   },
   "name": "Airtable Full Backup",
   "tags": [],

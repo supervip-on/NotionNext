@@ -2,8 +2,7 @@
   "id": "cmncRJ2rlecEwZxU",
   "meta": {
     "name": "Free AI Image Generator - n8n Automation Workflow with Gemini/ChatGPT",
-    "id": 5626,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5626
   },
   "name": "[Agent Circle's N8N Workflow] Automated AI Image Creator",
   "tags": [],

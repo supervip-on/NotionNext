@@ -2,8 +2,7 @@
   "id": "A73D8rbRrwu9XDZu",
   "meta": {
     "name": "Enforce Pre-Release Compliance with Jira, Monday.com, and Slack Alerts",
-    "id": 9838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9838
   },
   "name": "Release Readiness Gatekeeper (Jira)",
   "tags": [],

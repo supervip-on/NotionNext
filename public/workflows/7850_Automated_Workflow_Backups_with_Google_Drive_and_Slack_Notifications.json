@@ -2,8 +2,7 @@
   "id": "vnlmgDq8SZlzMcfi",
   "meta": {
     "name": "Automated Workflow Backups with Google Drive and Slack Notifications",
-    "id": 7850,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7850
   },
   "name": "Backup all n8n workflows to Google Drive every 4 hours",
   "tags": [],

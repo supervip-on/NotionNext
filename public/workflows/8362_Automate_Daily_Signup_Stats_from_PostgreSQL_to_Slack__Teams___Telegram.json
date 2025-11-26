@@ -213,8 +213,7 @@
   },
   "meta": {
     "name": "Automate Daily Signup Stats from PostgreSQL to Slack, Teams & Telegram",
-    "id": 8362,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8362
   },
   "id": "8362"
 }

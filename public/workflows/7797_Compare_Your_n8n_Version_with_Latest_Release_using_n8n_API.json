@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Compare Your n8n Version with Latest Release using n8n API",
-    "id": 7797,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7797
   },
   "nodes": [
     {

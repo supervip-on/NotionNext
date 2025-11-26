@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich up to 1500 emails per hour with Dropcontact batch requests",
-    "id": 2272,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2272
   },
   "nodes": [
     {

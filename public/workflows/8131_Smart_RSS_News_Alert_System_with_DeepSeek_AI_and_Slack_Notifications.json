@@ -2,8 +2,7 @@
   "id": "cZqsFsT0dT7XJO3K",
   "meta": {
     "name": "Smart RSS News Alert System with DeepSeek AI and Slack Notifications",
-    "id": 8131,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8131
   },
   "name": "RSS AI News Slack Automation v010925",
   "tags": [

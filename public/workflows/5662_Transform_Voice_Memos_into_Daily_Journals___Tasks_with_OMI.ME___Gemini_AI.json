@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Voice Memos into Daily Journals & Tasks with OMI.ME & Gemini AI",
-    "id": 5662,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5662
   },
   "nodes": [
     {

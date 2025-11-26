@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Customer Support Triage with GPT, Gmail, Slack & Analytics Dashboard",
-    "id": 10283,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10283
   },
   "nodes": [
     {

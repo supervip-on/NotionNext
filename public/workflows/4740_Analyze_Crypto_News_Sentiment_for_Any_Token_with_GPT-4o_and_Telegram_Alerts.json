@@ -2,8 +2,7 @@
   "id": "f8Zow3PmilvRq85m",
   "meta": {
     "name": "Analyze Crypto News Sentiment for Any Token with GPT-4o and Telegram Alerts",
-    "id": 4740,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4740
   },
   "name": "Binance SM News and Sentiment Analyst Webhook Tool",
   "tags": [],

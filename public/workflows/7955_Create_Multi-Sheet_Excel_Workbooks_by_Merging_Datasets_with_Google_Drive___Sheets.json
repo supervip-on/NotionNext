@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Multi-Sheet Excel Workbooks by Merging Datasets with Google Drive & Sheets",
-    "id": 7955,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7955
   },
   "nodes": [
     {

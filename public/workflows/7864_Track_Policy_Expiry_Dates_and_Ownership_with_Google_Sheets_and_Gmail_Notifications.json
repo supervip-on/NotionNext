@@ -2,8 +2,7 @@
   "id": "NBP9VDzT8zFtkYfy",
   "meta": {
     "name": "Track Policy Expiry Dates and Ownership with Google Sheets and Gmail Notifications",
-    "id": 7864,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7864
   },
   "name": "GRC Module 4 - Policy Lifecycle Tracker",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "xWJadnVEYEmfvsH5",
   "meta": {
     "name": "Synchronizing WooCommerce Inventory and Creating Products with Google Gemini AI and BrowserAct",
-    "id": 10089,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10089
   },
   "name": "Advanced WooCommerce Product Reconciliation & Synchronization",
   "tags": [],

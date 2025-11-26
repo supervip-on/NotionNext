@@ -2,8 +2,7 @@
   "id": "JORMNG6XHP1Akgbo",
   "meta": {
     "name": "Track Shipments with DHL/Delhivery APIs & Send Google Sheets Updates to Customers via WhatsApp/Email",
-    "id": 6650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6650
   },
   "name": "Daily Shipment Tracker with Courier API Updates & Customer Alerts",
   "tags": [],

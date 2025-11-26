@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Freelance Project Intake with Custom Proposals using Jotform & Gemini",
-    "id": 9577,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9577
   },
   "nodes": [
     {

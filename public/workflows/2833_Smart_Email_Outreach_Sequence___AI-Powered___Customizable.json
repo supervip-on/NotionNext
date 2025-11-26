@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Email Outreach Sequence – AI-Powered & Customizable",
-    "id": 2833,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2833
   },
   "nodes": [
     {

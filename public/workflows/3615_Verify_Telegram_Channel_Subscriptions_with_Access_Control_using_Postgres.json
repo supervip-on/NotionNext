@@ -2,8 +2,7 @@
   "id": "At3piGg3jQlWocQ0",
   "meta": {
     "name": "Verify Telegram Channel Subscriptions with Access Control using Postgres",
-    "id": 3615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3615
   },
   "name": "TG-Bot-Module-Check_Subscription-v4-db-sell-full",
   "tags": [

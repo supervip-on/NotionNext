@@ -2,8 +2,7 @@
   "id": "bCM3L5So04TaTb3I",
   "meta": {
     "name": "Generate blog posts from keywords to Webflow",
-    "id": 9191,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9191
   },
   "name": "Generate blog posts from keywords to Webflow",
   "tags": [

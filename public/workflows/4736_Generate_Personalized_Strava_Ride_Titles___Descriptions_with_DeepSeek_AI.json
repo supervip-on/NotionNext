@@ -2,8 +2,7 @@
   "id": "SoJXbESQ4lWQWcVt",
   "meta": {
     "name": "Generate Personalized Strava Ride Titles & Descriptions with DeepSeek AI",
-    "id": 4736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4736
   },
   "name": "Strava Social Manager (AI Title & Description Generation)",
   "tags": [

@@ -26,8 +26,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for Eventbrite events",
-    "id": 538,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 538
   },
   "id": "538"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Readwise Highlights into Weekly Content Ideas with Gemini AI",
-    "id": 10217,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10217
   },
   "nodes": [
     {

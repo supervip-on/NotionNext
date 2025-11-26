@@ -2,8 +2,7 @@
   "id": "9ep4J2EilLwr2Qv8",
   "meta": {
     "name": "Automated Video Translation & Distribution with DubLab to Multiple Platforms",
-    "id": 4751,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4751
   },
   "name": "DubLab App Video Dubbing and Translate",
   "tags": [],

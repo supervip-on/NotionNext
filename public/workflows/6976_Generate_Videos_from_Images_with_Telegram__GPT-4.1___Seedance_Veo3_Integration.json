@@ -2,8 +2,7 @@
   "id": "TSFFd1ASpZ68AGua",
   "meta": {
     "name": "Generate Videos from Images with Telegram, GPT-4.1 & Seedance/Veo3 Integration",
-    "id": 6976,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6976
   },
   "name": "Combined Image-to-video Agent",
   "tags": [],

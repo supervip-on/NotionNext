@@ -2,8 +2,7 @@
   "id": "Gd16MTYoXemtNKQV",
   "meta": {
     "name": "Monitor PKI Certificates & CRLs for Expiration with Telegram & SMS Alerts",
-    "id": 9865,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9865
   },
   "name": "PKI Certificate & CRL Monitor - Auto Expiration Alert System",
   "tags": [],

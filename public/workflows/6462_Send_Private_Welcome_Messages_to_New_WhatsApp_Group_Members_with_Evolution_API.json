@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Private Welcome Messages to New WhatsApp Group Members with Evolution API",
-    "id": 6462,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6462
   },
   "nodes": [
     {

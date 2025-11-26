@@ -2,8 +2,7 @@
   "id": "HdSUjNHdVNGiveKd",
   "meta": {
     "name": "Travel Itinerary Reminders with Google Calendar, Excel, and SMS/Email Alerts",
-    "id": 9846,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9846
   },
   "name": "Automated Journey Scheduler & SMS/Email Alerts",
   "tags": [],

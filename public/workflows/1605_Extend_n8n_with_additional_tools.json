@@ -592,8 +592,7 @@
   },
   "meta": {
     "name": "Extend n8n with additional tools",
-    "id": 1605,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1605
   },
   "id": "1605"
 }

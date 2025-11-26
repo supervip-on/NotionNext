@@ -2,8 +2,7 @@
   "id": "ko4fOc1jV3wKbt7T",
   "meta": {
     "name": "Extract & Search ProductHunt Data with Bright Data MCP and Google Gemini AI",
-    "id": 4823,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4823
   },
   "name": "AI Agent Driven ProductHunt Data Extract & Search with Bright Data & Google Gemini",
   "tags": [

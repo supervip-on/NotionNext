@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Voice Activated Multi-Agent Demo for Vagent.io using Notion and Google Calendar",
-    "id": 2446,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2446
   },
   "nodes": [
     {

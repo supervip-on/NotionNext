@@ -2,8 +2,7 @@
   "id": "MqHZXsobgwvx8B1f",
   "meta": {
     "name": "Enhance AI Chatbot Responses with InfraNodus Knowledge Graph Reasoning & GraphRAG",
-    "id": 6887,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6887
   },
   "name": "Augment Your Prompt with a Knowledge Graph Ontology Expert",
   "tags": [

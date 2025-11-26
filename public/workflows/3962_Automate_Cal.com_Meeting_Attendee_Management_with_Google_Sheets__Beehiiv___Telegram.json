@@ -2,8 +2,7 @@
   "id": "xe9sXQUc7yW8P8im",
   "meta": {
     "name": "Automate Cal.com Meeting Attendee Management with Google Sheets, Beehiiv & Telegram",
-    "id": 3962,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3962
   },
   "name": "Meeting booked - to newsletter and CRM",
   "tags": [

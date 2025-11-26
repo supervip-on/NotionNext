@@ -2,8 +2,7 @@
   "id": "xQ0xqhNzFeEdBpFK",
   "meta": {
     "name": "Generate 360° Virtual Try-on Videos for Clothing with Kling API (unofficial)",
-    "id": 3411,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3411
   },
   "name": "Generate 360° Virtual Try-on Videos for Clothing with Kling API",
   "tags": [],

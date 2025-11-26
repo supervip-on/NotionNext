@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Complete Airtable Database Management with AI Agents and Redis Storage",
-    "id": 8081,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8081
   },
   "nodes": [
     {

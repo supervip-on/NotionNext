@@ -2,8 +2,7 @@
   "id": "ymg0bc27jttcvbcj",
   "meta": {
     "name": "Real-time Vtiger Support Tickets to Telegram with Auto Status Updates",
-    "id": 6329,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6329
   },
   "name": "Auto-Send Vtiger Support Tickets to Telegram (with Status Update)",
   "tags": [],

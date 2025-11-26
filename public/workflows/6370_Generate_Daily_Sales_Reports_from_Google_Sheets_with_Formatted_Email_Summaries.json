@@ -2,8 +2,7 @@
   "id": "zSBNXj6rphbGp4Or",
   "meta": {
     "name": "Generate Daily Sales Reports from Google Sheets with Formatted Email Summaries",
-    "id": 6370,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6370
   },
   "name": "Daily sales report",
   "tags": [],

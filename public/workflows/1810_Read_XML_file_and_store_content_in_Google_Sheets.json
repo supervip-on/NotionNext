@@ -268,8 +268,7 @@
   },
   "meta": {
     "name": "Read XML file and store content in Google Sheets",
-    "id": 1810,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1810
   },
   "id": "1810"
 }

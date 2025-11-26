@@ -2,8 +2,7 @@
   "id": "6QvxWwgaPghd06wj",
   "meta": {
     "name": "Create a CRUD REST API with Google Sheets Database",
-    "id": 8085,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8085
   },
   "name": "REST API with Google Sheets",
   "tags": [],

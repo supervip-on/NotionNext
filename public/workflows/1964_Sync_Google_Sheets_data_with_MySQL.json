@@ -2,8 +2,7 @@
   "id": "VtiRiIGkdeUhyh0N",
   "meta": {
     "name": "Sync Google Sheets data with MySQL",
-    "id": 1964,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1964
   },
   "name": "GoogleSheets MySQL Integration",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "lsU5Gl4n2A1ubHRO",
   "meta": {
     "name": "Daily News Summarization with OpenAI & Perplexity AI Delivered via Zalo & Telegram",
-    "id": 7627,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7627
   },
   "name": "News Sum",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "♻️ AI Multi-Stop Planner for Circular Logistics with GPT-4o & Open Route API",
-    "id": 4753,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4753
   },
   "nodes": [
     {

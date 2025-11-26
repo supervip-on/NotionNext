@@ -2,8 +2,7 @@
   "id": "u6seZCMlUCt4sZqF",
   "meta": {
     "name": "AI Resume Analysis & Candidate Evaluation with Slack and Google Sheets",
-    "id": 7708,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7708
   },
   "name": "Building an AI-Powered Chatbot for Candidate Evaluation on Slack",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Voice Creation, TTS, Sound Effects, Voicechanger & more! 🎧 Elevenlabs MCP Server",
-    "id": 4672,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4672
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "AS2Rj41p6OyA0xZK",
   "meta": {
     "name": "User verification and login using Auth0",
-    "id": 2408,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2408
   },
   "name": "Auth0 User Login",
   "tags": [],

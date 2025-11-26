@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate And Post Tweet Threads Based On Google Trends Using Gemini AI",
-    "id": 3978,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3978
   },
   "nodes": [
     {

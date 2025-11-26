@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor and Track brand Sentiment on Facebook Groups with Bright data",
-    "id": 4235,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4235
   },
   "nodes": [
     {

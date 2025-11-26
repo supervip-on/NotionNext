@@ -2,8 +2,7 @@
   "id": "IXx6s3iehIS02UoN",
   "meta": {
     "name": "TechCrunch AI Article Scraper & Classifier with GPT-4.1-nano to Sheets & Telegram",
-    "id": 5914,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5914
   },
   "name": "NewScraper_TechCrunchNews-AI1",
   "tags": [],

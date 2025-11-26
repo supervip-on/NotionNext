@@ -2,8 +2,7 @@
   "id": "6Yzmlp5xF6oHo1VW",
   "meta": {
     "name": "Convert text to speech with OpenAI",
-    "id": 2092,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2092
   },
   "name": "Text to Speech (OpenAI)",
   "tags": [],

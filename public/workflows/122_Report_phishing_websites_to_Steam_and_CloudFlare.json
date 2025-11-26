@@ -256,8 +256,7 @@
   },
   "meta": {
     "name": "Report phishing websites to Steam and CloudFlare",
-    "id": 122,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 122
   },
   "id": "122"
 }

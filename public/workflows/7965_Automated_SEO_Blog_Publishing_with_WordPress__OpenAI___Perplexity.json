@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated SEO Blog Publishing with WordPress, OpenAI & Perplexity",
-    "id": 7965,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7965
   },
   "nodes": [
     {

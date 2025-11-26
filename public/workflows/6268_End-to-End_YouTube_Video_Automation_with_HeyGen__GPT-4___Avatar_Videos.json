@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "End-to-End YouTube Video Automation with HeyGen, GPT-4 & Avatar Videos",
-    "id": 6268,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6268
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "4BOP29RhumejWZ6r",
   "meta": {
     "name": "Sentiment Analytics Visualizer",
-    "id": 5204,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5204
   },
   "name": "Sentiment Analyzer",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "lOnfQBQ1O7BLR1S5",
   "meta": {
     "name": "Convert RSS News to AI Avatar Videos with Heygen & GPT-4o",
-    "id": 4288,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4288
   },
   "name": "AI-Powered News to Video Generator with Heygen & GPT4o",
   "tags": [],

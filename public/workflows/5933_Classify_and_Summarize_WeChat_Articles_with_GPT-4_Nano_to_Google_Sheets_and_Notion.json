@@ -2,8 +2,7 @@
   "id": "KJI3ivu0QdOeWQnp",
   "meta": {
     "name": "Classify and Summarize WeChat Articles with GPT-4 Nano to Google Sheets and Notion",
-    "id": 5933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5933
   },
   "name": "Classify and Summarize WeChat Articles to Google Sheets and Notion",
   "tags": [],

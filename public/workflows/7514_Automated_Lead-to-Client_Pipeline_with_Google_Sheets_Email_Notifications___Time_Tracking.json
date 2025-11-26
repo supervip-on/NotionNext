@@ -2,8 +2,7 @@
   "id": "sbTxG7FVDyFq0sLR",
   "meta": {
     "name": "Automated Lead-to-Client Pipeline with Google Sheets Email Notifications & Time Tracking",
-    "id": 7514,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7514
   },
   "name": "GSheets CRM",
   "tags": [],

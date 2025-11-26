@@ -66,8 +66,7 @@
   },
   "meta": {
     "name": "Download a file from Google Drive",
-    "id": 515,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 515
   },
   "id": "515"
 }

@@ -2,8 +2,7 @@
   "id": "3Jcxl4sB315JKDVn",
   "meta": {
     "name": "Daily AI News Monitoring and Summarization with GPT-4 from Google & Hacker News to Telegram",
-    "id": 9155,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9155
   },
   "name": "AI News Daily Monitor",
   "tags": [],

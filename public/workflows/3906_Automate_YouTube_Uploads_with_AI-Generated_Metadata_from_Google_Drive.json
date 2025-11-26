@@ -2,8 +2,7 @@
   "id": "gIZpJgLpUgdoNNDZ",
   "meta": {
     "name": "Automate YouTube Uploads with AI-Generated Metadata from Google Drive",
-    "id": 3906,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3906
   },
   "name": "YT New Video Upload",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "7604ck94MeYXMHpN",
   "meta": {
     "name": "Read RSS feed from two different sources",
-    "id": 687,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 687
   },
   "name": "Read RSS feed from two different sources",
   "tags": [],

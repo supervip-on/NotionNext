@@ -2,8 +2,7 @@
   "id": "QHTTTSIjepK3ipPO",
   "meta": {
     "name": "Automate Invoice Processing with Gmail, OCR.space, Slack & Xero",
-    "id": 9905,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9905
   },
   "name": "Invoice Processing System for submission",
   "tags": [

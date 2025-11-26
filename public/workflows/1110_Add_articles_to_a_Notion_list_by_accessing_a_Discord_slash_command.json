@@ -214,8 +214,7 @@
   },
   "meta": {
     "name": "Add articles to a Notion list by accessing a Discord slash command",
-    "id": 1110,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1110
   },
   "id": "1110"
 }

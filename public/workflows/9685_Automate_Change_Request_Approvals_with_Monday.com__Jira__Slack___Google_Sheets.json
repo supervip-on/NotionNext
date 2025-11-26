@@ -2,8 +2,7 @@
   "id": "qcrbyv2z8OnQhJ8F",
   "meta": {
     "name": "Automate Change Request Approvals with Monday.com, Jira, Slack & Google Sheets",
-    "id": 9685,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9685
   },
   "name": "Automate Change Request Approvals with Monday.com, Jira, Slack & Google Sheets",
   "tags": [],

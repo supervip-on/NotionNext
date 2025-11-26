@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated SSL Certificate Monitoring and Renewal with Notion and Telegram",
-    "id": 4973,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4973
   },
   "nodes": [
     {

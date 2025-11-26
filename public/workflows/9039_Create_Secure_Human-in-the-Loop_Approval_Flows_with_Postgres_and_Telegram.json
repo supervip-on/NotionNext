@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Secure Human-in-the-Loop Approval Flows with Postgres and Telegram",
-    "id": 9039,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9039
   },
   "name": "My workflow",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Selective Forex Factory Calendar Import & Cleanup for Google Calendar",
-    "id": 8327,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8327
   },
   "nodes": [
     {

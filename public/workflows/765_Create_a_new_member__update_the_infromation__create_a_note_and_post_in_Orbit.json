@@ -144,7 +144,6 @@
   },
   "meta": {
     "name": "Create a new member, update the infromation, create a note and post in Orbit",
-    "id": 765,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 765
   }
 }

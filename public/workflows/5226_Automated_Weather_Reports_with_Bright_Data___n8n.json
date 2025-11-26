@@ -2,8 +2,7 @@
   "id": "2v8K3VanHj11PubB",
   "meta": {
     "name": "Automated Weather Reports with Bright Data & n8n",
-    "id": 5226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5226
   },
   "name": "Weather_Report_Scraper_via_Bright_Data",
   "tags": [],

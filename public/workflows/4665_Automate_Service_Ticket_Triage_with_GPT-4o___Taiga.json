@@ -2,8 +2,7 @@
   "id": "YMlKRgPrCs1HCvXm",
   "meta": {
     "name": "Automate Service Ticket Triage with GPT-4o & Taiga",
-    "id": 4665,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4665
   },
   "name": "Service Ticket Triage Helper",
   "tags": [],

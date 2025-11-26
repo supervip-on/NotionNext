@@ -2,8 +2,7 @@
   "id": "M89fT5k4IFlyOZCF",
   "meta": {
     "name": "Prevent Prompt Injection Attacks with a GPT-4O Security Defense System",
-    "id": 7453,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7453
   },
   "name": "AI Security Pipeline using GPT-4O",
   "tags": [

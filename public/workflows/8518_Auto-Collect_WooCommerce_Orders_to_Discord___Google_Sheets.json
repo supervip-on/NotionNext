@@ -2,8 +2,7 @@
   "id": "zonJvk4B9Hisfacz",
   "meta": {
     "name": "Auto-Collect WooCommerce Orders to Discord & Google Sheets",
-    "id": 8518,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8518
   },
   "name": "Automate Collect and Notify Wocommerce Order",
   "tags": [],

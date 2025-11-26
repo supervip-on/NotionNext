@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Two-Stage Document Retrieval Chatbot with OpenAI and Supabase Vector Search",
-    "id": 5436,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5436
   },
   "nodes": [
     {

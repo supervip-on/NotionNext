@@ -112,7 +112,6 @@
   },
   "meta": {
     "name": "Create, update and get a subscriber using the MailerLite node",
-    "id": 751,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 751
   }
 }

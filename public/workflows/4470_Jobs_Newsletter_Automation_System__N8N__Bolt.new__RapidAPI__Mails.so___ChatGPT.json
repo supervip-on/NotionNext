@@ -2,8 +2,7 @@
   "id": "ypa8bWM40du6QADu",
   "meta": {
     "name": "Jobs Newsletter Automation System (N8N, Bolt.new, RapidAPI, Mails.so & ChatGPT)",
-    "id": 4470,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4470
   },
   "name": "Newsletter Management (n8n + Bolt.new)",
   "tags": [],

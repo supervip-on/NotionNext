@@ -2,8 +2,7 @@
   "id": "uD31xU0VYjogxWoY",
   "meta": {
     "name": "Create Unique Jira tickets from Splunk alerts",
-    "id": 1970,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1970
   },
   "name": "Create_Unique_Jira_tickets_from_Splunk_alerts",
   "tags": [

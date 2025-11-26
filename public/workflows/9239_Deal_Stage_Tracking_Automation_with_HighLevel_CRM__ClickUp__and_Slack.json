@@ -2,8 +2,7 @@
   "id": "dcvRJhH1gqWvdOil",
   "meta": {
     "name": "Deal Stage Tracking Automation with HighLevel CRM, ClickUp, and Slack",
-    "id": 9239,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9239
   },
   "name": "Deal Stage to ClickUp Automation",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "X7pMjJBOk8H2tj1W",
   "meta": {
     "name": "🎙️ VoiceFlow AI: Telegram + Deepgram + OpenAI + Supabase Audio Assistant",
-    "id": 4638,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4638
   },
   "name": "AI Audio Assistant",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "K67zdPMDUtledQFV",
   "meta": {
     "name": "Detect Holiday Conflicts & Suggest Meeting Reschedules with Google Calendar and Slack",
-    "id": 10144,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10144
   },
   "name": "Global Holiday Conflict Detector and Meeting Rescheduler",
   "tags": [],

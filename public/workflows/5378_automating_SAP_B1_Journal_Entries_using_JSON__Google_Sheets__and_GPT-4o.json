@@ -2,8 +2,7 @@
   "id": "6f68qrMxAD14jS4i",
   "meta": {
     "name": "automating SAP B1 Journal Entries using JSON, Google Sheets, and GPT-4o",
-    "id": 5378,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5378
   },
   "name": "My workflow 4",
   "tags": [

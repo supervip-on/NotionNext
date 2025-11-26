@@ -2,8 +2,7 @@
   "id": "oDayLpms5q2aFCKw",
   "meta": {
     "name": "Automated AWS S3 / Azure / Google to local MinIO Object Backup with Scheduling",
-    "id": 7284,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7284
   },
   "name": "Automated AWS/Azure/GCP to MinIO Backup",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "ExmRkYWlTAPhA2IQ",
   "meta": {
     "name": "Extract and Structure Hacker News Job Posts with Gemini AI and Save to Airtable",
-    "id": 4278,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4278
   },
   "name": "HN Jobs update",
   "tags": [],

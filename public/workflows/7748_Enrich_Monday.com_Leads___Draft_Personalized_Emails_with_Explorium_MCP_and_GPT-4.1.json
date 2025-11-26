@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Monday.com Leads & Draft Personalized Emails with Explorium MCP and GPT-4.1",
-    "id": 7748,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7748
   },
   "nodes": [
     {

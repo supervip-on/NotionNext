@@ -2,8 +2,7 @@
   "id": "zeyTmqqmXaQIFWzV",
   "meta": {
     "name": "Authenticate a user in a workflow with openid connect",
-    "id": 1997,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1997
   },
   "name": "OIDC client workflow",
   "tags": [],

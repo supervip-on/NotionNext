@@ -2,8 +2,7 @@
   "id": "10163",
   "meta": {
     "name": "Create Verified User Profiles with Email Validation, PDF Generation & Gmail Delivery",
-    "id": 10163,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10163
   },
   "name": "Verified User Profile Creation",
   "tags": [],

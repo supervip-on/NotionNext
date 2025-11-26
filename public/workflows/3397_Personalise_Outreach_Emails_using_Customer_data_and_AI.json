@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalise Outreach Emails using Customer data and AI",
-    "id": 3397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3397
   },
   "nodes": [
     {

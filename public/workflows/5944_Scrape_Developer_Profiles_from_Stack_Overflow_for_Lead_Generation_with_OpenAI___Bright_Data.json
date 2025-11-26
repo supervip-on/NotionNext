@@ -2,8 +2,7 @@
   "id": "Nc381f2WfFyzrJvl",
   "meta": {
     "name": "Scrape Developer Profiles from Stack Overflow for Lead Generation with OpenAI & Bright Data",
-    "id": 5944,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5944
   },
   "name": "1. Scrape Stack Overflow for Leads",
   "tags": [],

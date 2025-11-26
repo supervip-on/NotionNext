@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Save Zoom Recordings to Google Drive + Log Meetings in Airtable",
-    "id": 8056,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8056
   },
   "nodes": [
     {

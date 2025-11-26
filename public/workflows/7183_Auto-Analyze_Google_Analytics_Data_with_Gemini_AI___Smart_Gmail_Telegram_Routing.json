@@ -2,8 +2,7 @@
   "id": "zFO2MKhe5TtfOLB9",
   "meta": {
     "name": "Auto-Analyze Google Analytics Data with Gemini AI & Smart Gmail/Telegram Routing",
-    "id": 7183,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7183
   },
   "name": "Google Analytics Insight",
   "tags": [],

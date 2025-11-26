@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate HighLevel CRM with GPT-5, Knowledge Retrieval & Document Context",
-    "id": 7345,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7345
   },
   "nodes": [
     {

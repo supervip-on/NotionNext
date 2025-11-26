@@ -2,8 +2,7 @@
   "id": "fvYgcG9s1pqP5cQ6",
   "meta": {
     "name": "Automate Product Hunt Discovery with Airtop and Slack",
-    "id": 3481,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3481
   },
   "name": "Monitor ProductHunt",
   "tags": [

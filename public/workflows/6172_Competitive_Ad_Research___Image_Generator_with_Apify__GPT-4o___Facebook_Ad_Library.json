@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Competitive Ad Research & Image Generator with Apify, GPT-4o & Facebook Ad Library",
-    "id": 6172,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6172
   },
   "name": "My workflow",
   "tags": [

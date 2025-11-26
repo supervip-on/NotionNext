@@ -363,8 +363,7 @@
   },
   "meta": {
     "name": "Automated Ticket Triage for HaloPSA with Gemini AI Summary Generation",
-    "id": 7557,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7557
   },
   "id": "7557"
 }

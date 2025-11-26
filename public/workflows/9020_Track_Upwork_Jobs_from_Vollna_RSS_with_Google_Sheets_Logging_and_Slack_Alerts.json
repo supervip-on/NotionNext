@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Upwork Jobs from Vollna RSS with Google Sheets Logging and Slack Alerts",
-    "id": 9020,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9020
   },
   "nodes": [
     {

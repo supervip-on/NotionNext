@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Safely Update n8n with Version Checks and Telegram Notifications",
-    "id": 9792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9792
   },
   "name": "Auto update your n8n instance with Telegram alerts",
   "tags": [],

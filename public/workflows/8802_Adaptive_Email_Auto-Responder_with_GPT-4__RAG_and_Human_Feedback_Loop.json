@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Adaptive Email Auto-Responder with GPT-4, RAG and Human Feedback Loop",
-    "id": 8802,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8802
   },
   "nodes": [
     {

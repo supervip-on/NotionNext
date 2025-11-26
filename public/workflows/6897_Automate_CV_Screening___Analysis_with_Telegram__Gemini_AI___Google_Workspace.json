@@ -2,8 +2,7 @@
   "id": "[WORKFLOW_ID_REMOVED]",
   "meta": {
     "name": "Automate CV Screening & Analysis with Telegram, Gemini AI & Google Workspace",
-    "id": 6897,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6897
   },
   "name": "HR CVs Filter",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Label Gmail Emails using Gemini 2.5 Pro AI Classification",
-    "id": 8357,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8357
   },
   "nodes": [
     {

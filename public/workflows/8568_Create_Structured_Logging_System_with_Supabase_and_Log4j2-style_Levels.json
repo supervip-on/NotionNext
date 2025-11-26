@@ -2,8 +2,7 @@
   "id": "0twZGM6kPlG2rFsv",
   "meta": {
     "name": "Create Structured Logging System with Supabase and Log4j2-style Levels",
-    "id": 8568,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8568
   },
   "name": "TEMPL - Logger Sub-Workflow",
   "tags": [],

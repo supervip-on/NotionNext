@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Invoice Processing with OCR, GPT-4 & Salesforce Opportunity Creation",
-    "id": 10029,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10029
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "📦 Electronic Data Interchange (EDI) Message Parsing with Gmail and Google Sheet",
-    "id": 3221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3221
   },
   "nodes": [
     {

@@ -19,8 +19,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates on emails sent via Mailjet",
-    "id": 521,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 521
   },
   "id": "521"
 }

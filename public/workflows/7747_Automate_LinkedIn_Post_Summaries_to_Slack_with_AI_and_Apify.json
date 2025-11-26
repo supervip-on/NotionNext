@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate LinkedIn Post Summaries to Slack with AI and Apify",
-    "id": 7747,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7747
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "j1FtJoAyaYNpmJzT",
   "meta": {
     "name": "AI-Powered Contact Management in KlickTipp with MCP Server",
-    "id": 5884,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5884
   },
   "name": "Manage contacts in KlickTipp via MCP server",
   "tags": [

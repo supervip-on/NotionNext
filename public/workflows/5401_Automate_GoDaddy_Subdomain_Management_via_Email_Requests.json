@@ -2,8 +2,7 @@
   "id": "qhFnUCIvmwP47FhK",
   "meta": {
     "name": "Automate GoDaddy Subdomain Management via Email Requests",
-    "id": 5401,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5401
   },
   "name": "GoDaddy Subdomain Management Workflow using n8n & GoDaddy API",
   "tags": [],

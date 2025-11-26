@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Indeed Job Listings for Hiring Signals Using Bright Data and LLMs",
-    "id": 3601,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3601
   },
   "nodes": [
     {

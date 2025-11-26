@@ -2,8 +2,7 @@
   "id": "Vz7fCuVAkUFMUjHC",
   "meta": {
     "name": "Clean and Log IoT Sensor Data to InfluxDB (Webhook | Function | HTTP)",
-    "id": 7248,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7248
   },
   "name": "IoT Sensor Data Cleaner + InfluxDB Logger (n8n | Webhook | Function | InfluxDB)",
   "tags": [],

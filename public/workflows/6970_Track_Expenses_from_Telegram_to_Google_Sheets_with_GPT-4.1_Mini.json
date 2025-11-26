@@ -2,8 +2,7 @@
   "id": "RYrAtaZopeMoGvwC",
   "meta": {
     "name": "Track Expenses from Telegram to Google Sheets with GPT-4.1 Mini",
-    "id": 6970,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6970
   },
   "name": "Telegram Expense Tracker to Google Sheets with GPT-4.1",
   "tags": [

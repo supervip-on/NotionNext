@@ -390,8 +390,7 @@
   },
   "meta": {
     "name": "Send follow-ups using Gmail to Hubspot contacts",
-    "id": 2118,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2118
   },
   "id": "2118"
 }

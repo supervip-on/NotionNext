@@ -867,8 +867,7 @@
   },
   "meta": {
     "name": "Create YouTube Video RSS Feed with Redis Caching and Embedded Video Player",
-    "id": 6646,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6646
   },
   "id": "6646"
 }

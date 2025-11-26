@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Email Replies with Spam Filtering & FAQ Lookup using GPT-4o mini & Pinecone",
-    "id": 5142,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5142
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "PDF RAG Agent with Telegram Chat & Auto-Ingestion from Google Drive",
-    "id": 8860,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8860
   },
   "nodes": [
     {

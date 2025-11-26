@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized Email Icebreakers with GPT-4.1 and Instantly.ai Integration",
-    "id": 9737,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9737
   },
   "nodes": [
     {

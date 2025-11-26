@@ -2,8 +2,7 @@
   "id": "w81HWc1M5MNHepZT",
   "meta": {
     "name": "Create eBay Listing Drafts with AI Agents via MCP Server",
-    "id": 5575,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5575
   },
   "name": "[eBay] Listing API MCP Server",
   "tags": [],

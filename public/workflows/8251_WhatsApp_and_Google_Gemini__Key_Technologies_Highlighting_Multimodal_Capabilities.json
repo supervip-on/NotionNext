@@ -2,8 +2,7 @@
   "id": "{{CREDENTIAL_ID}}",
   "meta": {
     "name": "WhatsApp and Google Gemini: Key Technologies Highlighting Multimodal Capabilities",
-    "id": 8251,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8251
   },
   "name": "voice and audio chatbot",
   "tags": [],

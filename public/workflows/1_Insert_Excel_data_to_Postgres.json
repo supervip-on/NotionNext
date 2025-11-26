@@ -65,8 +65,7 @@
   },
   "meta": {
     "name": "Insert Excel data to Postgres",
-    "id": 1,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1
   },
   "id": "1"
 }

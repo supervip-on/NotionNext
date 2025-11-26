@@ -2,8 +2,7 @@
   "id": "alHsXe0YAu9A3KBX",
   "meta": {
     "name": "AI Guest Post Generator with OpenAI & Google Sheets Automation",
-    "id": 7666,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7666
   },
   "name": "Guest Post Automation",
   "tags": [

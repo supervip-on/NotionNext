@@ -2,8 +2,7 @@
   "id": "aC1k1pYeeq4depUi",
   "meta": {
     "name": "Parse Natural Language Dates with OpenAI GPT-4o for Smart Scheduling",
-    "id": 5460,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5460
   },
   "name": "AI-Powered Natural Language Date Parser with 96% Accuracy",
   "tags": [],

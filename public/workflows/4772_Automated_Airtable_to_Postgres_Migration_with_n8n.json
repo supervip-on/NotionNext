@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Airtable to Postgres Migration with n8n",
-    "id": 4772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4772
   },
   "nodes": [
     {

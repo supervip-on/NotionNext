@@ -2,8 +2,7 @@
   "id": "MkRETKpIFPWYCRiM",
   "meta": {
     "name": "Auto-Label Gmail Messages with Custom Categories using GPT-4o-mini",
-    "id": 7477,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7477
   },
   "name": "Smart Gmail Classifier: Classify & Label with openAI",
   "tags": [],

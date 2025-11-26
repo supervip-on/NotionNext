@@ -2,8 +2,7 @@
   "id": "iA0rm7IWi7xmY5sQ",
   "meta": {
     "name": "Get Long Lived Facebook User or Page Access Token",
-    "id": 2535,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2535
   },
   "name": "Get Long Lived Facebook User or Page Access Token",
   "tags": [],

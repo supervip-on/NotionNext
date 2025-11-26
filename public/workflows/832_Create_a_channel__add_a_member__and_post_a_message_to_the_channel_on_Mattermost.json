@@ -106,7 +106,6 @@
   },
   "meta": {
     "name": "Create a channel, add a member, and post a message to the channel on Mattermost",
-    "id": 832,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 832
   }
 }

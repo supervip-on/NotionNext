@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Website Chatbot with Google Drive Knowledge Base using GPT-4 and Mistral AI",
-    "id": 10142,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10142
   },
   "nodes": [
     {

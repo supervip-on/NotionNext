@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Monday item on a new Mautic contact",
-    "id": 1823,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1823
   },
   "nodes": [
     {

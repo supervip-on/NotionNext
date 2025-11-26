@@ -2,8 +2,7 @@
   "id": "K4XpJbwBJYnDiYkF",
   "meta": {
     "name": "Generate Invoices, Save to Drive and Send Email to Customer with JS + G Sheets",
-    "id": 4105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4105
   },
   "name": "Generate Invoices",
   "tags": [],

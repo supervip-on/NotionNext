@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Translate WordPress Blog Posts to Any Language with AI Translate Pro to Google Docs",
-    "id": 6559,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6559
   },
   "nodes": [
     {

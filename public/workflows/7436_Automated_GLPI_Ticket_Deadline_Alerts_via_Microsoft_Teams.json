@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated GLPI Ticket Deadline Alerts via Microsoft Teams",
-    "id": 7436,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7436
   },
   "nodes": [
     {

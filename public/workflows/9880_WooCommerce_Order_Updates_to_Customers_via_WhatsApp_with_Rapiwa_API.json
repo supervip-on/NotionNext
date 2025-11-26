@@ -2,8 +2,7 @@
   "id": "weZ2L2zuYZi2oWKR",
   "meta": {
     "name": "WooCommerce Order Updates to Customers via WhatsApp with Rapiwa API",
-    "id": 9880,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9880
   },
   "name": "Send WooCommerce Order Status Updates to Customers via WhatsApp Using Rapiwa API",
   "tags": [],

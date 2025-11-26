@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily MLB Pitcher vs. Batter Matchup Analysis with Google Sheets and Telegram",
-    "id": 7252,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7252
   },
   "nodes": [
     {

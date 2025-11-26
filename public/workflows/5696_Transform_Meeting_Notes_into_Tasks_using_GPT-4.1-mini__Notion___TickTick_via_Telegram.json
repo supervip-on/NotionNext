@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Meeting Notes into Tasks using GPT-4.1-mini, Notion & TickTick via Telegram",
-    "id": 5696,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5696
   },
   "nodes": [
     {

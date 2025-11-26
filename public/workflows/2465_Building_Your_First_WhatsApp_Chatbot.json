@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Building Your First WhatsApp Chatbot",
-    "id": 2465,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2465
   },
   "nodes": [
     {

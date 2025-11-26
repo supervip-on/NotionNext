@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate & Post Animated Anime Wallpapers to TikTok with Flux AI and Fal AI",
-    "id": 8641,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8641
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Aggregate Marketing Spend Data with Custom Pivots & VLOOKUPs in Google Sheets",
-    "id": 8069,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8069
   },
   "nodes": [
     {

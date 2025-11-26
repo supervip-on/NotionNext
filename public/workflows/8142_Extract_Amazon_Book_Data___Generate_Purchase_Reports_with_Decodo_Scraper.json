@@ -2,8 +2,7 @@
   "id": "PhWv95onl9vhiYWZ",
   "meta": {
     "name": "Extract Amazon Book Data & Generate Purchase Reports with Decodo Scraper",
-    "id": 8142,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8142
   },
   "name": "Decodo Scraper API Workflow Template (n8n Automation Amazon Book Purchase Report)",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "aaktvyaSrq2i9cyq",
   "meta": {
     "name": "Scrape & Import Shoe Products to Shopify with BrowserAct (with Variants & Images)",
-    "id": 9946,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9946
   },
   "name": "Scrape & Import Products to Shopify from Any Site (with Variants & Images) (Optimized for shoes - NIKE-To-Shopify)",
   "tags": [],

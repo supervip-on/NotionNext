@@ -2,8 +2,7 @@
   "id": "do05AK6BdVAE5AWC",
   "meta": {
     "name": "Generate Event Speaker Recommendations with Claude AI and Google Sheets",
-    "id": 10221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10221
   },
   "name": "AI-Driven Speaker & Session Recommendation Engine",
   "tags": [],

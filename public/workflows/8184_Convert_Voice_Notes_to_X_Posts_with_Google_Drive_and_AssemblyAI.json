@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎙️ Convert Voice Notes to X Posts with Google Drive and AssemblyAI",
-    "id": 8184,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8184
   },
   "name": "Voice Note to Tweet",
   "nodes": [

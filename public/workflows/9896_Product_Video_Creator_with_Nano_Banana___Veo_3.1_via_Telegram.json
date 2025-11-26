@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Product Video Creator with Nano Banana & Veo 3.1 via Telegram",
-    "id": 9896,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9896
   },
   "nodes": [
     {

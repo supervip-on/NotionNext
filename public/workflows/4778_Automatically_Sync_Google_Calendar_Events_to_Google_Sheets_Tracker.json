@@ -2,8 +2,7 @@
   "id": "tpJVuoH0Z7kyiXZH",
   "meta": {
     "name": "Automatically Sync Google Calendar Events to Google Sheets Tracker",
-    "id": 4778,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4778
   },
   "name": "google-calendar-shees-template-v1.0",
   "tags": [],

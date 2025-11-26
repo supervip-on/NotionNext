@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Academic Literature Reviews with GPT-4 and Multi-Database Search",
-    "id": 8503,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8503
   },
   "nodes": [
     {

@@ -118,8 +118,7 @@
   },
   "meta": {
     "name": "🚨 Report n8n workflow errors to Slack",
-    "id": 2150,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2150
   },
   "id": "2150"
 }

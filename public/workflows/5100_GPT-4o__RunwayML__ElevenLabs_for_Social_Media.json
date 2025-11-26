@@ -2,8 +2,7 @@
   "id": "4NsA2v65bcNNwBsy",
   "meta": {
     "name": "GPT-4o, RunwayML, ElevenLabs for Social Media",
-    "id": 5100,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5100
   },
   "name": "AI Tour Video Generator with GPT-4o, RunwayML & ElevenLabs for Social Media",
   "tags": [

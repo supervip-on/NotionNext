@@ -2,8 +2,7 @@
   "id": "MGxb1ugenLCp7pGW",
   "meta": {
     "name": "Summarize Content from URLs, Text & PDFs using OpenAI ",
-    "id": 8210,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8210
   },
   "name": "AI content summarization from URLs, text, and PDFs using OpenAI and n8n",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "LYAnJfzpvewwxal6",
   "meta": {
     "name": "Secure Web Form to Odoo CRM Lead Creation with UTM Tracking",
-    "id": 7289,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7289
   },
   "name": "Send Lead from Web to Odoo",
   "tags": [],

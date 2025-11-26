@@ -2,8 +2,7 @@
   "id": "iVTZsAycgjyOlvXA",
   "meta": {
     "name": "Fireflies Transcripts to Meeting Summaries & Task Extractor to Slack & ClickUp",
-    "id": 8592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8592
   },
   "name": "3rd meeting summary, tasks",
   "tags": [],

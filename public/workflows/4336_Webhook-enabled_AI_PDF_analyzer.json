@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Webhook-enabled AI PDF analyzer",
-    "id": 4336,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4336
   },
   "nodes": [
     {

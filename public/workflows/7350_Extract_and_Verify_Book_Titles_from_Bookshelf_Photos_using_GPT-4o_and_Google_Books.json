@@ -2,8 +2,7 @@
   "id": "n1UbcJnl7I5rMDIe",
   "meta": {
     "name": "Extract and Verify Book Titles from Bookshelf Photos using GPT-4o and Google Books",
-    "id": 7350,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7350
   },
   "name": "n8n submission book scanner",
   "tags": [],

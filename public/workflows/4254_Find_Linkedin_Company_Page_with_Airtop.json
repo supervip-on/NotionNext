@@ -2,8 +2,7 @@
   "id": "JuW1Q92YSk4ErvvC",
   "meta": {
     "name": "Find Linkedin Company Page with Airtop",
-    "id": 4254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4254
   },
   "name": "Get Company LinkedIn Page",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID",
   "meta": {
     "name": "Generate Horror Faceless Shorts with OpenAI TTS, Replicate Video, and YouTube Upload",
-    "id": 10103,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10103
   },
   "name": "Horror Faceless Shorts with Replicate and OpenAI",
   "tags": [],

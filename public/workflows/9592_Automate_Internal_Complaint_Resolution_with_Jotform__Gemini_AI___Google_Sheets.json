@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Internal Complaint Resolution with Jotform, Gemini AI & Google Sheets",
-    "id": 9592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9592
   },
   "nodes": [
     {

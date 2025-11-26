@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Natural Language Q&A for Pipedrive Leads using GPT-4o-mini",
-    "id": 7670,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7670
   },
   "nodes": [
     {

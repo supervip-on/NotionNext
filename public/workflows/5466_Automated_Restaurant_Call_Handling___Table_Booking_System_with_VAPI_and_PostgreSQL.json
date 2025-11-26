@@ -2,8 +2,7 @@
   "id": "s5rkGHiTGnf7F9PT",
   "meta": {
     "name": "Automated Restaurant Call Handling & Table Booking System with VAPI and PostgreSQL",
-    "id": 5466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5466
   },
   "name": "Restaurant Virtual Receptionist & Table Booking with VAPI and n8n",
   "tags": [],

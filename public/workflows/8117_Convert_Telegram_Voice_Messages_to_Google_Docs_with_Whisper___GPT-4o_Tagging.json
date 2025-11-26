@@ -2,8 +2,7 @@
   "id": "14MB25tL8q23UC6z",
   "meta": {
     "name": "Convert Telegram Voice Messages to Google Docs with Whisper & GPT-4o Tagging",
-    "id": 8117,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8117
   },
   "name": "Audio-Notizen zu Google Docs",
   "tags": [],

@@ -136,7 +136,6 @@
   },
   "meta": {
     "name": "Create, add an attachment, and send a draft using Microsoft Outlook",
-    "id": 867,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 867
   }
 }

@@ -106,8 +106,7 @@
   },
   "meta": {
     "name": "Add Google Sheets data to the Mautic contact",
-    "id": 636,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 636
   },
   "id": "636"
 }

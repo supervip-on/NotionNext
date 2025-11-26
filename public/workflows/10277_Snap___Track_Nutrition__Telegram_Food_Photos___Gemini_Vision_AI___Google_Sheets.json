@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Snap & Track Nutrition: Telegram Food Photos → Gemini Vision AI → Google Sheets",
-    "id": 10277,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10277
   },
   "nodes": [
     {

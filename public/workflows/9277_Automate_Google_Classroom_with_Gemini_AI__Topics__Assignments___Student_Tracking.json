@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Google Classroom with Gemini AI: Topics, Assignments & Student Tracking",
-    "id": 9277,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9277
   },
   "nodes": [
     {

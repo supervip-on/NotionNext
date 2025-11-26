@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Facebook/Meta Conversion API for eCommerce Leads/Orders",
-    "id": 5136,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5136
   },
   "nodes": [
     {

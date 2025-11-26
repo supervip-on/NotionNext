@@ -2,8 +2,7 @@
   "id": "IMVycpyABaGuD1hq",
   "meta": {
     "name": "Analyze CrowdStrike Detections - Search for IOCs in VirusTotal - Create a Ticket in Jira, and Post a Message in Slack",
-    "id": 1973,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1973
   },
   "name": "Analyze_Crowdstrike_Detections__search_for_IOCs_in_VirusTotal__create_a_ticket_in_Jira_and_post_a_message_in_Slack",
   "tags": [

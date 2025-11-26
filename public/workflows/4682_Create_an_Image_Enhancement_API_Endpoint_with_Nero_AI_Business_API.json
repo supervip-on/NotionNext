@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create an Image Enhancement API Endpoint with Nero AI Business API",
-    "id": 4682,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4682
   },
   "nodes": [
     {

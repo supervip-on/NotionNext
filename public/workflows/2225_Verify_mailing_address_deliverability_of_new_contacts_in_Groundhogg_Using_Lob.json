@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Verify mailing address deliverability of new contacts in Groundhogg Using Lob",
-    "id": 2225,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2225
   },
   "nodes": [
     {

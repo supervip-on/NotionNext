@@ -2,8 +2,7 @@
   "id": "UVicuO5jaXNi4v7p",
   "meta": {
     "name": "AI-Powered Internal Helpdesk in Slack with GPT-4o & Email Escalation",
-    "id": 6000,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6000
   },
   "name": "HelpDesk Workflow",
   "tags": [],

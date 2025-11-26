@@ -2,8 +2,7 @@
   "id": "gemC8tYGZk3LtBHG",
   "meta": {
     "name": "Spotify Sync Liked Songs to Playlist",
-    "id": 2634,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2634
   },
   "name": "Spotify Sync Liked Songs to Playlist",
   "tags": [

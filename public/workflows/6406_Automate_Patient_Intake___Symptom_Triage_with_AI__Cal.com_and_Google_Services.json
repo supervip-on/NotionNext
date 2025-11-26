@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Patient Intake & Symptom Triage with AI, Cal.com and Google Services",
-    "id": 6406,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6406
   },
   "nodes": [
     {

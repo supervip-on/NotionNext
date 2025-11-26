@@ -2,8 +2,7 @@
   "id": "5Y8QXJ3N67wnmR2R",
   "meta": {
     "name": "Create a Pizza Ordering Chatbot with GPT-3.5 - Menu, Orders & Status Tracking",
-    "id": 3049,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3049
   },
   "name": "POC - Chatbot Order by Sheet Data",
   "tags": [],

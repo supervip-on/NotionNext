@@ -43,8 +43,7 @@
   },
   "meta": {
     "name": "Get all contacts from Mautic",
-    "id": 549,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 549
   },
   "id": "549"
 }

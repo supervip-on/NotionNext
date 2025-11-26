@@ -2,8 +2,7 @@
   "id": "RAGbASSkkdJed4ur",
   "meta": {
     "name": "Daily BGV Status Digest: Track Verifications with Google Sheets to Gmail Alerts",
-    "id": 8114,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8114
   },
   "name": "BGV Tracker",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "r3qHlCVCczqTw3pP",
   "meta": {
     "name": "Reusable Subworkflow Zip Multiple Files Dynamically (Compress)",
-    "id": 2690,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2690
   },
   "name": "Zip multiple files",
   "tags": [],

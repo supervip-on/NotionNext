@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram Research Assistant for Academic Papers Using Gemini AI and Decodo",
-    "id": 9966,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9966
   },
   "nodes": [
     {

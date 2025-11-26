@@ -2,8 +2,7 @@
   "id": "06v55r6E13Wfvo66",
   "meta": {
     "name": "Capture Gumroad sales, add buyer to MailerLite group, log to Google Sheets CRM",
-    "id": 3676,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3676
   },
   "name": "Gumroad sale trigger",
   "tags": [],

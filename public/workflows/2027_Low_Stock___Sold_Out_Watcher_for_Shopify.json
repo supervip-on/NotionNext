@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Low Stock & Sold Out Watcher for Shopify",
-    "id": 2027,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2027
   },
   "nodes": [
     {

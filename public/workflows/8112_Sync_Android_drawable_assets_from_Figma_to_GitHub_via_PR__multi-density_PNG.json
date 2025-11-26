@@ -2,8 +2,7 @@
   "id": "Wyw2TmhKVujBRhkZ",
   "meta": {
     "name": "Sync Android drawable assets from Figma to GitHub via PR (multi-density PNG)",
-    "id": 8112,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8112
   },
   "name": "Sync Android drawable assets from Figma to GitHub",
   "tags": [],

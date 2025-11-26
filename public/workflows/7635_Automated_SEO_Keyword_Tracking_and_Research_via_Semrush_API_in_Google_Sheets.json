@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated SEO Keyword Tracking and Research via Semrush API in Google Sheets",
-    "id": 7635,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7635
   },
   "nodes": [
     {

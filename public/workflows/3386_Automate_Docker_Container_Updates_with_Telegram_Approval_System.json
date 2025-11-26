@@ -2,8 +2,7 @@
   "id": "PVBUCGQUOiOrIfli",
   "meta": {
     "name": "Automate Docker Container Updates with Telegram Approval System",
-    "id": 3386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3386
   },
   "name": "n8n update",
   "tags": [

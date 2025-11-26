@@ -2,8 +2,7 @@
   "id": "ZI0PxugfKsyepqeH",
   "meta": {
     "name": "Automate Your UTM Campaign Tracking: Shopify, n8n to Baserow",
-    "id": 2126,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2126
   },
   "name": "Shopify order UTM to Baserow",
   "tags": [],

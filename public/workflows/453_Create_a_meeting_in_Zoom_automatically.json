@@ -52,7 +52,6 @@
   },
   "meta": {
     "name": "Create a meeting in Zoom automatically",
-    "id": 453,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 453
   }
 }

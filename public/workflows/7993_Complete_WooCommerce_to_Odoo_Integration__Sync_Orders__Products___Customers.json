@@ -2,8 +2,7 @@
   "id": "FiP7kJNDMc4TUq7X",
   "meta": {
     "name": "Complete WooCommerce to Odoo Integration: Sync Orders, Products & Customers",
-    "id": 7993,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7993
   },
   "name": "WooCommerce Connector - Vivek",
   "tags": [],

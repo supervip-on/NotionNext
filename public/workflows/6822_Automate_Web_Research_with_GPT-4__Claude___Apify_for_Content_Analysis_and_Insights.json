@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Web Research with GPT-4, Claude & Apify for Content Analysis and Insights",
-    "id": 6822,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6822
   },
   "nodes": [
     {

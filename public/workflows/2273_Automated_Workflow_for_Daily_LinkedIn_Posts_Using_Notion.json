@@ -2,8 +2,7 @@
   "id": "0pVPSW4PzJZLLqSf",
   "meta": {
     "name": "Automated Workflow for Daily LinkedIn Posts Using Notion",
-    "id": 2273,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2273
   },
   "name": "Notion to Linkedin",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "6naAx0wcjHZbs2pM",
   "meta": {
     "name": "Build a RAG Knowledge Chatbot with OpenAI, Google Drive, and Supabase",
-    "id": 8245,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8245
   },
   "name": "RAG chatbot using Google Drive",
   "tags": [],

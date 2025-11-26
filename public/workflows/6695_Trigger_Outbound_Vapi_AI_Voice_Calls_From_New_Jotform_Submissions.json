@@ -2,8 +2,7 @@
   "id": "98aUzWGBxKfoUunX",
   "meta": {
     "name": "Trigger Outbound Vapi AI Voice Calls From New Jotform Submissions",
-    "id": 6695,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6695
   },
   "name": "Trigger Outbound Vapi AI Voice Calls From New Jotform Submissions",
   "tags": [],

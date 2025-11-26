@@ -2,8 +2,7 @@
   "id": "FQVkQc57GUYlurVw",
   "meta": {
     "name": "AI Candidate Screening Pipeline: LinkedIn to Telegram with Gemini & Apify",
-    "id": 10045,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10045
   },
   "name": "First-Round Telegram and LinkedIn Fast Track AI Recruiter Assistant",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "YPNkjx8auXlpf6bE",
   "meta": {
     "name": "Automatically Create Trello Cards from Google Forms Lead Submissions",
-    "id": 4946,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4946
   },
   "name": "[Google Forms + Trello] New Form -> Create Card",
   "tags": [

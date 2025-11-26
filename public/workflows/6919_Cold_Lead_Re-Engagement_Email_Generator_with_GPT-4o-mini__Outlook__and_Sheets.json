@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Cold Lead Re-Engagement Email Generator with GPT-4o-mini, Outlook, and Sheets",
-    "id": 6919,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6919
   },
   "nodes": [
     {

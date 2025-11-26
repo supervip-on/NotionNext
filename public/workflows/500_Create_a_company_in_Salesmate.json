@@ -48,7 +48,6 @@
   },
   "meta": {
     "name": "Create a company in Salesmate",
-    "id": 500,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 500
   }
 }

@@ -2,8 +2,7 @@
   "id": "K8HZyU1t1T1fkCAC",
   "meta": {
     "name": "Role-Based Access Control (RBAC) for Telegram Automations",
-    "id": 10171,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10171
   },
   "name": "Role-Based Access Control (RBAC) for Telegram Automations",
   "tags": [],

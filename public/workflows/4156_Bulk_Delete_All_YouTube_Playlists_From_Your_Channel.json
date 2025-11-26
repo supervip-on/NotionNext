@@ -2,8 +2,7 @@
   "id": "J25SBmxAuoN5dvuY",
   "meta": {
     "name": "Bulk Delete All YouTube Playlists From Your Channel",
-    "id": 4156,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4156
   },
   "name": "🧹 Delete all playlists from a YouTube channel",
   "tags": [],

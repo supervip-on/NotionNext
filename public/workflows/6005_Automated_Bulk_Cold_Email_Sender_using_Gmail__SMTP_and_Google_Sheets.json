@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Bulk Cold Email Sender using Gmail, SMTP and Google Sheets",
-    "id": 6005,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6005
   },
   "nodes": [
     {

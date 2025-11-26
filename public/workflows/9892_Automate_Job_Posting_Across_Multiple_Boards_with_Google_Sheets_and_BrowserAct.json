@@ -2,8 +2,7 @@
   "id": "qMwMfHxAAddl6h5v",
   "meta": {
     "name": "Automate Job Posting Across Multiple Boards with Google Sheets and BrowserAct",
-    "id": 9892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9892
   },
   "name": "Post Jobs to Multiple Boards from Google Sheets using BrowerAct",
   "tags": [],

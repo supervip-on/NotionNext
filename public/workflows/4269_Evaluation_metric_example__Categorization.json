@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Evaluation metric example: Categorization",
-    "id": 4269,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4269
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "wnEDtKnbAvH6Nwzl",
   "meta": {
     "name": "Recover failed Stripe payments with AI emails (by FlyCode)",
-    "id": 8794,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8794
   },
   "name": "stripe-failed-payment-recovery-ai-emails-by-flycode",
   "tags": [],

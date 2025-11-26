@@ -2,8 +2,7 @@
   "id": "GWZAhBLEL8cESN3X",
   "meta": {
     "name": "Auto-Generate and Post Social Media Content to Bluesky using Groq LLM",
-    "id": 3455,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3455
   },
   "name": "bsky_social_llm_n8n_workflow",
   "tags": [],

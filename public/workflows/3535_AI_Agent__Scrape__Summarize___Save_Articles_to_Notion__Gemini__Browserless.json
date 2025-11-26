@@ -2,8 +2,7 @@
   "id": "4sKJLlAF2vqpkk2I",
   "meta": {
     "name": "AI Agent: Scrape, Summarize & Save Articles to Notion (Gemini, Browserless)",
-    "id": 3535,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3535
   },
   "name": "Research AI Agent: Scrape and Summarize Articles and save to Notion (Gemini, Browserless)",
   "tags": [],

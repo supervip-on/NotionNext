@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enhance Customer Chat by Buffering Messages with Twilio and Redis",
-    "id": 2346,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2346
   },
   "nodes": [
     {

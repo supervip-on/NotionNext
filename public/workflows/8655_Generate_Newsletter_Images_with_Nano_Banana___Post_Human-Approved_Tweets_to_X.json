@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Newsletter Images with Nano Banana & Post Human-Approved Tweets to X",
-    "id": 8655,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8655
   },
   "nodes": [
     {

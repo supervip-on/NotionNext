@@ -2,8 +2,7 @@
   "id": "LvEhaVWxPx14FYiD",
   "meta": {
     "name": "Transform Travel Photos into Narrative Stories with GPT-4O Vision",
-    "id": 7161,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7161
   },
   "name": "TripTeller",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "n3Pu61XoZKS5Rnqz",
   "meta": {
     "name": "Automated Invoice Payment Reminders with Google Sheets and Gmail",
-    "id": 6316,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6316
   },
   "name": "Automated Invoice Reminder",
   "tags": [],

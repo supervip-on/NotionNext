@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Company Data Enrichment with ZoomInfo, Serper & Oxylabs to Google Sheets",
-    "id": 7030,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7030
   },
   "nodes": [
     {

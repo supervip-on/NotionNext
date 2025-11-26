@@ -2,8 +2,7 @@
   "id": "DswhuYzoemjA6iNN",
   "meta": {
     "name": "Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV",
-    "id": 3701,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3701
   },
   "name": "Scrape Books from URL with Dumpling AI, Clean HTML, Save to Sheets, Email as CSV",
   "tags": [

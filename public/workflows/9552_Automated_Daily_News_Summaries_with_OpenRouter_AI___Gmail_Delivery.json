@@ -2,8 +2,7 @@
   "id": "QiL5QGmjTyMdvxHW",
   "meta": {
     "name": "Automated Daily News Summaries with OpenRouter AI & Gmail Delivery",
-    "id": 9552,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9552
   },
   "name": "Daily AI News Summary & Gmail Delivery",
   "tags": [],

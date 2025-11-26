@@ -2,8 +2,7 @@
   "id": "io8TtPZaVjpZaVrf",
   "meta": {
     "name": "Score Person ICP (Ideal Customer Profile) with Airtop",
-    "id": 4258,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4258
   },
   "name": "Person ICP Scoring with Linkedin",
   "tags": [],

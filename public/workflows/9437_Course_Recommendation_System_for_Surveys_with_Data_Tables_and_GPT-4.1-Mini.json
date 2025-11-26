@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Course Recommendation System for Surveys with Data Tables and GPT-4.1-Mini",
-    "id": 9437,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9437
   },
   "nodes": [
     {

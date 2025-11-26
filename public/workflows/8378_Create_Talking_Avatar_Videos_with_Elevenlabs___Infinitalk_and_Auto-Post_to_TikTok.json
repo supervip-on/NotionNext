@@ -2,8 +2,7 @@
   "id": "XZSeWj4y0SWnp94K",
   "meta": {
     "name": "Create Talking Avatar Videos with Elevenlabs & Infinitalk and Auto-Post to TikTok",
-    "id": 8378,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8378
   },
   "name": "Generate a talking avatar video and post to TikTok",
   "tags": [],

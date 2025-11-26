@@ -430,7 +430,6 @@
   },
   "meta": {
     "name": "Sync timer entries from Clockify to Syncro",
-    "id": 1488,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1488
   }
 }

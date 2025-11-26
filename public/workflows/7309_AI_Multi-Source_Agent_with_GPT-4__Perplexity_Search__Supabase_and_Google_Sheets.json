@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Multi-Source Agent with GPT-4, Perplexity Search, Supabase and Google Sheets",
-    "id": 7309,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7309
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "0HVA2TOmkdNpH5DP",
   "meta": {
     "name": "Sync Google Calendar Events to Outlook",
-    "id": 2528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2528
   },
   "name": "Google calendar to Outlook",
   "tags": [],

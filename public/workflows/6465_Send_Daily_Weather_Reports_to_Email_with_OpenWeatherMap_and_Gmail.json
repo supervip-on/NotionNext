@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Daily Weather Reports to Email with OpenWeatherMap and Gmail",
-    "id": 6465,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6465
   },
   "nodes": [
     {

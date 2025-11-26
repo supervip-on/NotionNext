@@ -2,8 +2,7 @@
   "id": "6978",
   "meta": {
     "name": "Automate Wazuh Alert Triage and Reporting with GPT-4o-mini and Telegram",
-    "id": 6978,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6978
   },
   "name": "Wazuh_Alert_Investigation copy",
   "tags": [

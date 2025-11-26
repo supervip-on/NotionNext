@@ -2,8 +2,7 @@
   "id": "wVyITwYqnefPnuMN",
   "meta": {
     "name": "Create Ideal Customer Profile from Websites Content to Google Doc",
-    "id": 8461,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8461
   },
   "name": "[TEMPLATE] ICP Creator",
   "tags": [],

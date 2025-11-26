@@ -2,8 +2,7 @@
   "id": "nJMmIY6LcqteZAxs",
   "meta": {
     "name": "Generate QR Codes from URLs with QR Server API and Downloadable Images",
-    "id": 5124,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5124
   },
   "name": "QR code generation via form submission",
   "tags": [],

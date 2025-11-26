@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate SEO Blog Pipeline from Keywords to WordPress with GPT-5 & fal.ai Images",
-    "id": 9120,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9120
   },
   "nodes": [
     {

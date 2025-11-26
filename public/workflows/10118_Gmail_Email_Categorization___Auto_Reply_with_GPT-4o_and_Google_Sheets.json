@@ -2,8 +2,7 @@
   "id": "6MZqIrk7nB6lc4vB",
   "meta": {
     "name": "Gmail Email Categorization & Auto Reply with GPT-4o and Google Sheets",
-    "id": 10118,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10118
   },
   "name": "Gmail Auto Reply & Categorization with AI",
   "tags": [],

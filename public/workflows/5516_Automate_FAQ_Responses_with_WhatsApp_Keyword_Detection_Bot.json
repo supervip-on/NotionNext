@@ -2,8 +2,7 @@
   "id": "AJtSW2QeCg45qtIh",
   "meta": {
     "name": "Automate FAQ Responses with WhatsApp Keyword Detection Bot",
-    "id": 5516,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5516
   },
   "name": "Support bot",
   "tags": [],

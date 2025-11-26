@@ -2,8 +2,7 @@
   "id": "uFO3zp2bl5cqZqMS",
   "meta": {
     "name": "Find Quality YouTube Videos with Automated Filtering & Relevance Scoring to Google Sheets",
-    "id": 5797,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5797
   },
   "name": "YouTube Crawler",
   "tags": [],

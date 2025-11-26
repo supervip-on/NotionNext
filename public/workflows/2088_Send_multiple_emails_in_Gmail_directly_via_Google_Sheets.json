@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send multiple emails in Gmail directly via Google Sheets",
-    "id": 2088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2088
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate LinkedIn Posts from Books using OpenAI, LangChain & Pinecone Vector Search",
-    "id": 6198,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6198
   },
   "nodes": [
     {

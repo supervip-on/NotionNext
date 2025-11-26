@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Beginner's Guide to Workflow Automation with OpenAI, LangChain & API Integrations",
-    "id": 9306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9306
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Generation with Apollo, AI Scoring and Brevo Email Outreach",
-    "id": 4539,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4539
   },
   "nodes": [
     {

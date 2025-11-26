@@ -2,8 +2,7 @@
   "id": "1q1EuK6N4ULsoeUA",
   "meta": {
     "name": "Fetch Real-Time MEXC Spot Market Data with GPT-4.1-mini and Telegram",
-    "id": 8612,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8612
   },
   "name": "MEXC AI Agent v1.02",
   "tags": [],

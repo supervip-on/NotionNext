@@ -99,7 +99,6 @@
   },
   "meta": {
     "name": "Create new member in Mailchimp from Airtable",
-    "id": 898,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 898
   }
 }

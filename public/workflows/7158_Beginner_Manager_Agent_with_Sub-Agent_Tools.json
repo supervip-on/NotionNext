@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Beginner Manager Agent with Sub-Agent Tools",
-    "id": 7158,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7158
   },
   "nodes": [
     {

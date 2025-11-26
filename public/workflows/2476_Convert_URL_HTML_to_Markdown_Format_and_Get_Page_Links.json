@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert URL HTML to Markdown Format and Get Page Links",
-    "id": 2476,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2476
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "ZERshfQgsDcG6A5Y",
   "meta": {
     "name": "Simple SMS Messaging System with Textbelt API Integration",
-    "id": 6228,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6228
   },
   "name": "Sending SMS via Textbelt API",
   "tags": [],

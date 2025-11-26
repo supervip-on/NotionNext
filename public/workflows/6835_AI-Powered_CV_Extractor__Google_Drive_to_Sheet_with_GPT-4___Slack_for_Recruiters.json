@@ -2,8 +2,7 @@
   "id": "9VCREU4uPSEXk3NC",
   "meta": {
     "name": "AI-Powered CV Extractor: Google Drive to Sheet with GPT-4 + Slack for Recruiters",
-    "id": 6835,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6835
   },
   "name": "CV Extractor: Google Drive to Sheet + Slack Update for Recruiters",
   "tags": [

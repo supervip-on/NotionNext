@@ -2,8 +2,7 @@
   "id": "zX0SNUBqlonCm9UQ",
   "meta": {
     "name": "Generate Template Descriptions from Google Drive with Azure GPT-4",
-    "id": 9344,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9344
   },
   "name": "Generate n8n template descriptions from Google Drive",
   "tags": [],

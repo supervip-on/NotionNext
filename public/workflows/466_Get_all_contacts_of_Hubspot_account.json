@@ -48,7 +48,6 @@
   },
   "meta": {
     "name": "Get all contacts of Hubspot account",
-    "id": 466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 466
   }
 }

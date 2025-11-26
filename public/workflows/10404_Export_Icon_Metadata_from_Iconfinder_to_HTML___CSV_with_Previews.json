@@ -2,8 +2,7 @@
   "id": "qdS91sG3hztdG5ph",
   "meta": {
     "name": "Export Icon Metadata from Iconfinder to HTML & CSV with Previews",
-    "id": 10404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10404
   },
   "name": "Icon Metadata Exporter for Iconfinder",
   "tags": [

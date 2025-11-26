@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Simple Lead Capture and Follow-on with n8n Multi-Forms",
-    "id": 2581,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2581
   },
   "nodes": [
     {

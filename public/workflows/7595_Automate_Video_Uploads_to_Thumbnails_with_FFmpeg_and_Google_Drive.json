@@ -2,8 +2,7 @@
   "id": "W69y1dllbQpuNZQ0",
   "meta": {
     "name": "Automate Video Uploads to Thumbnails with FFmpeg and Google Drive",
-    "id": 7595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7595
   },
   "name": "Automate Video Upload → Auto-Thumbnail → Google Drive",
   "tags": [],

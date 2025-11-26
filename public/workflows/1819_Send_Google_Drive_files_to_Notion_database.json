@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Google Drive files to Notion database",
-    "id": 1819,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1819
   },
   "nodes": [
     {

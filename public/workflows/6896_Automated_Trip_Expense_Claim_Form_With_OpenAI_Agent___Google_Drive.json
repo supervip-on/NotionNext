@@ -2,8 +2,7 @@
   "id": "r6Clz7C4iBTnB3ar",
   "meta": {
     "name": "Automated Trip Expense Claim Form With OpenAI Agent & Google Drive",
-    "id": 6896,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6896
   },
   "name": "Automated Trip Expense Reporting Workflow With gpt-4.1-mini",
   "tags": [

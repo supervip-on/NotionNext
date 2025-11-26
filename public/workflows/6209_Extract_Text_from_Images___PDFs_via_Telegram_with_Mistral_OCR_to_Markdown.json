@@ -1428,8 +1428,7 @@
   },
   "meta": {
     "name": "Extract Text from Images & PDFs via Telegram with Mistral OCR to Markdown",
-    "id": 6209,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6209
   },
   "id": "6209"
 }

@@ -2,8 +2,7 @@
   "id": "TnwffwDzH9RBOYrl",
   "meta": {
     "name": "Automate Security Incident Response with Google Sheets, Email Alerts and EDR Isolation",
-    "id": 6413,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6413
   },
   "name": "M5 - Auto-Responder",
   "tags": [],

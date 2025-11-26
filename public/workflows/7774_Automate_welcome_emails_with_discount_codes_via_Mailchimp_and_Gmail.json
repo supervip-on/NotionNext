@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate welcome emails with discount codes via Mailchimp and Gmail",
-    "id": 7774,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7774
   },
   "nodes": [
     {

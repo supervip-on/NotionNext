@@ -2,8 +2,7 @@
   "id": "Ipc5s7U9UzuqexMI",
   "meta": {
     "name": "Extract Company Data and Calculate ICP Score with Airtop",
-    "id": 4260,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4260
   },
   "name": "Extract company data and calculate ICP",
   "tags": [],

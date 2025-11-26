@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Telegram Bot Agent: Smart Assistant & Content Summarizer",
-    "id": 4457,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4457
   },
   "nodes": [
     {

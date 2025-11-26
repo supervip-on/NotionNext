@@ -2,8 +2,7 @@
   "id": "1FISjXuv3wcHwVKc",
   "meta": {
     "name": "Automated Payment Reminders with Grouped QuickBooks Invoices via Email",
-    "id": 6959,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6959
   },
   "name": "Quickbook Invoice Reminder",
   "tags": [],

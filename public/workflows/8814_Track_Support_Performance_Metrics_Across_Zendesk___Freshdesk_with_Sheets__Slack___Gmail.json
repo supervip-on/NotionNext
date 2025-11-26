@@ -2,8 +2,7 @@
   "id": "QyegIMfwfC0kN3kN",
   "meta": {
     "name": "Track Support Performance Metrics Across Zendesk & Freshdesk with Sheets, Slack & Gmail",
-    "id": 8814,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8814
   },
   "name": "Unified Support Team Performance Dashboard (Zendesk & Freshdesk → Google Sheets + Slack + Gmail)",
   "tags": [],

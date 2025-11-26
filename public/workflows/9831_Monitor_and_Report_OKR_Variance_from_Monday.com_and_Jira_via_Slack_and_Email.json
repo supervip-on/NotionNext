@@ -2,8 +2,7 @@
   "id": "BwSY1V0DCKKvUUeq",
   "meta": {
     "name": "Monitor and Report OKR Variance from Monday.com and Jira via Slack and Email",
-    "id": 9831,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9831
   },
   "name": "Monitor and Report OKR Variance from Monday.com and Jira via Slack and Email",
   "tags": [],

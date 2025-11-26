@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Stripe charges to HubSpot contacts",
-    "id": 1855,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1855
   },
   "nodes": [
     {

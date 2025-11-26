@@ -2,8 +2,7 @@
   "id": "IwtOfHq5pZQNDAF0",
   "meta": {
     "name": "Build a PDF Document RAG System with Mistral OCR, Qdrant and Gemini AI",
-    "id": 4400,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4400
   },
   "name": "Complete RAG from PDF with Mistral OCR",
   "tags": [],

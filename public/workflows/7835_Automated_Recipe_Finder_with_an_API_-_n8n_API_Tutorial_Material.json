@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Recipe Finder with an API - n8n API Tutorial Material",
-    "id": 7835,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7835
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Bulk Update Magento 2 Product Prices via Google Sheets",
-    "id": 6933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6933
   },
   "nodes": [
     {

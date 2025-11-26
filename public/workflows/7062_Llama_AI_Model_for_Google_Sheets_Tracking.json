@@ -2,8 +2,7 @@
   "id": "7W7d0YwVNAq2e1ia",
   "meta": {
     "name": "Llama AI Model for Google Sheets Tracking",
-    "id": 7062,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7062
   },
   "name": "Template to extract PDFs",
   "tags": [],

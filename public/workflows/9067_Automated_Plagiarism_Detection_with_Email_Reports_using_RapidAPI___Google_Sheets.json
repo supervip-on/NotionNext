@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Plagiarism Detection with Email Reports using RapidAPI & Google Sheets",
-    "id": 9067,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9067
   },
   "nodes": [
     {

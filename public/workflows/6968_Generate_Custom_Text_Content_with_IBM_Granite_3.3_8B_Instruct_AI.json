@@ -2,8 +2,7 @@
   "id": "nwJlb1WVmjMS08l8",
   "meta": {
     "name": "Generate Custom Text Content with IBM Granite 3.3 8B Instruct AI",
-    "id": 6968,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6968
   },
   "name": "1. Generate Custom Text Content with IBM Granite 3.3 8B Instruct AI",
   "tags": [],

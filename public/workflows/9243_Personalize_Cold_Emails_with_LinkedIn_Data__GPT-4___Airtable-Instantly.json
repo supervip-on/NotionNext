@@ -2,8 +2,7 @@
   "id": "dqadS3ZrqFWZn5MU",
   "meta": {
     "name": "Personalize Cold Emails with LinkedIn Data, GPT-4 & Airtable-Instantly",
-    "id": 9243,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9243
   },
   "name": "Enrich Airtable leads with insights from LinkedIn posts using OpenAI",
   "tags": [

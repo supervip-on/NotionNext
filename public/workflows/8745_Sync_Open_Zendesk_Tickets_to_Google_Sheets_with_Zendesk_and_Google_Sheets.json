@@ -2,8 +2,7 @@
   "id": "ziHPRREYcqeZYu2b",
   "meta": {
     "name": "Sync Open Zendesk Tickets to Google Sheets with Zendesk and Google Sheets",
-    "id": 8745,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8745
   },
   "name": "Advanced Zendesk Tickets Sync with Analytics & Notifications",
   "tags": [

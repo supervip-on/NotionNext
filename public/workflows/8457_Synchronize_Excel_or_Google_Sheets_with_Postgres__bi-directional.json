@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Synchronize Excel or Google Sheets with Postgres (bi-directional)",
-    "id": 8457,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8457
   },
   "nodes": [
     {

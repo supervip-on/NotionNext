@@ -2,8 +2,7 @@
   "id": "DE9G0H2GoX4JpP2C",
   "meta": {
     "name": "Generate Custom Cake Images with OpenAI GPT & Replicate Flux Schnell",
-    "id": 6161,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6161
   },
   "name": "Cake Image Generator",
   "tags": [],

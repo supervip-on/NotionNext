@@ -2,8 +2,7 @@
   "id": "4aKofiCShqdDSsIS",
   "meta": {
     "name": "Import Odoo Product Images from Google Drive",
-    "id": 3181,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3181
   },
   "name": "Import Odoo Product Images from Google Drive",
   "tags": [],

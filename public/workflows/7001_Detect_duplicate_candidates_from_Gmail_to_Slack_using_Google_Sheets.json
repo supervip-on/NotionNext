@@ -2,8 +2,7 @@
   "id": "7pODvUSdP3WtnM5C",
   "meta": {
     "name": "Detect duplicate candidates from Gmail to Slack using Google Sheets",
-    "id": 7001,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7001
   },
   "name": "Detect duplicate candidates by email/phone from Gmail to Slack using Google Sheets",
   "tags": [],

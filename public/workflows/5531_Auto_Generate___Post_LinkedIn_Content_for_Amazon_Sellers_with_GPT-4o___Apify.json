@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto Generate & Post LinkedIn Content for Amazon Sellers with GPT-4o & Apify",
-    "id": 5531,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5531
   },
   "nodes": [
     {

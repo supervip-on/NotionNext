@@ -2,8 +2,7 @@
   "id": "h7YubkTUmnZrsMQs",
   "meta": {
     "name": "Automatically Sync Notion Contacts to Google Contacts with Group Labels",
-    "id": 5590,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5590
   },
   "name": "Sync Contacts from Notion to Google Contacts with Group Labels",
   "tags": [],

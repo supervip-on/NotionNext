@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized Thank-You Emails with Website Scraping, GPT-4o, and Gmail",
-    "id": 6533,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6533
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "8EmNhftXznAGV3dR",
   "meta": {
     "name": "Phishing Analysis - URLScan.io and VirusTotal",
-    "id": 1992,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1992
   },
   "name": "Phishing_analysis__URLScan_io_and_Virustotal_",
   "tags": [

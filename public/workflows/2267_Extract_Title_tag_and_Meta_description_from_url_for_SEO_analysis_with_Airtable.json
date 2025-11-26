@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Title tag and Meta description from url for SEO analysis with Airtable",
-    "id": 2267,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2267
   },
   "nodes": [
     {

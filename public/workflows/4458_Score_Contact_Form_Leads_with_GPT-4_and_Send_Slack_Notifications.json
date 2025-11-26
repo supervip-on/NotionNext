@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Score Contact Form Leads with GPT-4 and Send Slack Notifications",
-    "id": 4458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4458
   },
   "nodes": [
     {

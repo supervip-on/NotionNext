@@ -2,8 +2,7 @@
   "id": "xExUyHjRkpcuKuOY",
   "meta": {
     "name": "Analyze Weekly Notes with GPT-4 for Actionable Tasks & Summaries",
-    "id": 8119,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8119
   },
   "name": "Weekly review",
   "tags": [],

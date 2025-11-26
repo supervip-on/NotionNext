@@ -2,8 +2,7 @@
   "id": "YyMOJKUM7DmZpySf",
   "meta": {
     "name": "Control Your 3D Printer with GPT-4o and OctoPrint API Conversations",
-    "id": 4222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4222
   },
   "name": "OctoPrint Manager",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Employee Database Management via Telegram using OpenAI and Airtable",
-    "id": 4545,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4545
   },
   "nodes": [
     {

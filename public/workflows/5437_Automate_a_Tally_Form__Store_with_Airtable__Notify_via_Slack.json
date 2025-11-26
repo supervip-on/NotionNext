@@ -2,8 +2,7 @@
   "id": "FAXXZxHUVDbVzDdf",
   "meta": {
     "name": "Automate a Tally Form: Store with Airtable, Notify via Slack",
-    "id": 5437,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5437
   },
   "name": "Daily Task Reminder System : Airtable to Slack Automated Notifications",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "7gbO6txgnBCmDw7c",
   "meta": {
     "name": "Automated Hourly n8n Error Monitoring with Slack Notifications",
-    "id": 7076,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7076
   },
   "name": "Send n8n failed execution alerts to a Slack channel",
   "tags": [],

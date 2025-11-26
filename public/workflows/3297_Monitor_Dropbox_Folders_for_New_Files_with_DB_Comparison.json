@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Dropbox Folders for New Files with DB Comparison",
-    "id": 3297,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3297
   },
   "nodes": [
     {

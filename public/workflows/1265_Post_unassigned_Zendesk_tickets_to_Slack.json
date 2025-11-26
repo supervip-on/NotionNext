@@ -138,7 +138,6 @@
   },
   "meta": {
     "name": "Post unassigned Zendesk tickets to Slack",
-    "id": 1265,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1265
   }
 }

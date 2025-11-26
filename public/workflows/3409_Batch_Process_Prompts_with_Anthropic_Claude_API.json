@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Batch Process Prompts with Anthropic Claude API",
-    "id": 3409,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3409
   },
   "nodes": [
     {

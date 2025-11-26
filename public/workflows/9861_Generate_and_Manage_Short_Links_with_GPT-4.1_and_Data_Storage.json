@@ -2,8 +2,7 @@
   "id": "WmHtnpnkARE1wVqs",
   "meta": {
     "name": "Generate and Manage Short Links with GPT-4.1 and Data Storage",
-    "id": 9861,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9861
   },
   "name": "AI Agent - Short Link Generator",
   "tags": [],

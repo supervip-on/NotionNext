@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Browser Tasks with Airtop & GPT-4 - Reddit Posting Example",
-    "id": 6638,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6638
   },
   "nodes": [
     {

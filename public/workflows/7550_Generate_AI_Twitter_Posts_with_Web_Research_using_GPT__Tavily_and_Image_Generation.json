@@ -2,8 +2,7 @@
   "id": "Qo06ih7GNFqFJJ1c",
   "meta": {
     "name": "Generate AI Twitter Posts with Web Research using GPT, Tavily and Image Generation",
-    "id": 7550,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7550
   },
   "name": "Twitter Content Engine",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "pCfyeWKAejNPSLzR",
   "meta": {
     "name": "Create and Join Call Sessions with Plivo and UltraVox AI Voice Assistant",
-    "id": 3392,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3392
   },
   "name": "Call Sessions with Plivo and UltraVox AI Voice Assistant",
   "tags": [],

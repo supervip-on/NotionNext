@@ -2,8 +2,7 @@
   "id": "AJrzScGasCkGFkT7",
   "meta": {
     "name": "Query MySQL Database with Natural Language using GPT AI",
-    "id": 6291,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6291
   },
   "name": "Query your database using natural language",
   "tags": [],

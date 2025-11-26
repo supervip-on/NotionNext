@@ -2,8 +2,7 @@
   "id": "AhLdSHGzYENHBtdk",
   "meta": {
     "name": "Schedule Food Photo Sharing to Pinterest with GPT-3.5 Captions and Google Sheets",
-    "id": 5989,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5989
   },
   "name": "Automated Food Photo Sharing with AI Captions – Pinterest Scheduler",
   "tags": [],

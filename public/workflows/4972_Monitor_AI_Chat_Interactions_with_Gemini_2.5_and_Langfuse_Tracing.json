@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor AI Chat Interactions with Gemini 2.5 and Langfuse Tracing",
-    "id": 4972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4972
   },
   "nodes": [
     {

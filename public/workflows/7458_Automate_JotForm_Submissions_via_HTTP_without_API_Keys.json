@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate JotForm Submissions via HTTP without API Keys",
-    "id": 7458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7458
   },
   "nodes": [
     {

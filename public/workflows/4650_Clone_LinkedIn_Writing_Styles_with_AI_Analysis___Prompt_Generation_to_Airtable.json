@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Clone LinkedIn Writing Styles with AI Analysis & Prompt Generation to Airtable",
-    "id": 4650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4650
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 02 - Prep Gong Calls with Sheets & Notion for AI Summarization",
-    "id": 3032,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3032
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Web Research in Google Sheets with GPT and Bright Data",
-    "id": 10119,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10119
   },
   "nodes": [
     {

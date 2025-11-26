@@ -2,8 +2,7 @@
   "id": "IOWmWdoiFYtZFoQ7",
   "meta": {
     "name": "Automated Meeting Recording & AI Summaries with Google Calendar, Vexa & Llama 3.2",
-    "id": 5197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5197
   },
   "name": "Auto Meeting Record, Transcribe & Email Summaries with Vexa & Llama AI",
   "tags": [],

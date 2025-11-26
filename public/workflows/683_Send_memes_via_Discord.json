@@ -141,7 +141,6 @@
   },
   "meta": {
     "name": "Send memes via Discord",
-    "id": 683,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 683
   }
 }

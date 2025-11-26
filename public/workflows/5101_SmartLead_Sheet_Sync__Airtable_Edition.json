@@ -2,8 +2,7 @@
   "id": "bdce0nHPmO7XTznp",
   "meta": {
     "name": "SmartLead Sheet Sync (Airtable Edition)",
-    "id": 5101,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5101
   },
   "name": "SmartLead Sheet Sync: Auto-Capture Client Inquiries to Airtable",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated AI Cold Calling System with VAPI.ai, Airtable, and Smart Follow-ups",
-    "id": 4940,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4940
   },
   "nodes": [
     {

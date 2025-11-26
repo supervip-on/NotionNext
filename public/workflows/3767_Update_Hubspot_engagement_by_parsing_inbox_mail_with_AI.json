@@ -402,8 +402,7 @@
   },
   "meta": {
     "name": "Update Hubspot engagement by parsing inbox mail with AI",
-    "id": 3767,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3767
   },
   "id": "3767"
 }

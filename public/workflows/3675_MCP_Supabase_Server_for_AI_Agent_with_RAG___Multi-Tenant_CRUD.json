@@ -2,8 +2,7 @@
   "id": "oowUGM7ey6gWxzEG",
   "meta": {
     "name": "MCP Supabase Server for AI Agent with RAG & Multi-Tenant CRUD",
-    "id": 3675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3675
   },
   "name": "MCP_SUPABASE_AGENT",
   "tags": [],

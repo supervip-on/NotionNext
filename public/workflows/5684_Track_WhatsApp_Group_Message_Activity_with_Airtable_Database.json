@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track WhatsApp Group Message Activity with Airtable Database",
-    "id": 5684,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5684
   },
   "nodes": [
     {

@@ -51,8 +51,7 @@
   },
   "meta": {
     "name": "Send notification when deployment fails",
-    "id": 1255,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1255
   },
   "id": "1255"
 }

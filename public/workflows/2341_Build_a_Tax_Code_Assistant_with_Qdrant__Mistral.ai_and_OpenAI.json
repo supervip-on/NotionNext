@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Tax Code Assistant with Qdrant, Mistral.ai and OpenAI",
-    "id": 2341,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2341
   },
   "nodes": [
     {

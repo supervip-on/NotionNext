@@ -23,8 +23,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates from HubSpot on a new contact creation",
-    "id": 628,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 628
   },
   "id": "628"
 }

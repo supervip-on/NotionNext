@@ -2,8 +2,7 @@
   "id": "pfmUDAfMnmwHPCSC",
   "meta": {
     "name": "Chat with Internal Documents using Ollama, Supabase Vector DB & Google Drive",
-    "id": 6894,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6894
   },
   "name": "Chat-internal-documents",
   "tags": [],

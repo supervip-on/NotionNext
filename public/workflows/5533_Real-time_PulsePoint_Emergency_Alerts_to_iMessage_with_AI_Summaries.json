@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Real-time PulsePoint Emergency Alerts to iMessage with AI Summaries",
-    "id": 5533,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5533
   },
   "nodes": [
     {

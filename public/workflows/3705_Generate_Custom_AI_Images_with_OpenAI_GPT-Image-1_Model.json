@@ -2,8 +2,7 @@
   "id": "FyoPGDh8r3pxcGxo",
   "meta": {
     "name": "Generate Custom AI Images with OpenAI GPT-Image-1 Model",
-    "id": 3705,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3705
   },
   "name": "New OpenAI Image Generation",
   "tags": [

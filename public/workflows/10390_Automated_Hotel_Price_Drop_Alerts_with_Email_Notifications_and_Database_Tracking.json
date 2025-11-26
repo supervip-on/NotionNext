@@ -2,8 +2,7 @@
   "id": "32sZD8EotVPD5r21",
   "meta": {
     "name": "Automated Hotel Price Drop Alerts with Email Notifications and Database Tracking",
-    "id": 10390,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10390
   },
   "name": "Hotel Room Price Checker",
   "tags": [],

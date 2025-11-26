@@ -2,8 +2,7 @@
   "id": "RcWm1VlQCiJ2MMOB",
   "meta": {
     "name": "Automated Job Finder Agent",
-    "id": 5737,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5737
   },
   "name": "Automated Job Finder Agent with Scrapeless and Google Sheets",
   "tags": [],

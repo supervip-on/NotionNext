@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Videos from Telegram Messages with Nano Banana & Veo-3",
-    "id": 8189,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8189
   },
   "nodes": [
     {

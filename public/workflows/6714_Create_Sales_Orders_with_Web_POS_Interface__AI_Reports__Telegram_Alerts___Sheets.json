@@ -2,8 +2,7 @@
   "id": "XRTJrZHlkDjGCLDq",
   "meta": {
     "name": "Create Sales Orders with Web POS Interface, AI Reports, Telegram Alerts & Sheets",
-    "id": 6714,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6714
   },
   "name": "Smart POS System with Live Updates to Telegram & Sheets",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Conversational Lead Capture with Gemini 2.0 Flash AI and Google Sheets",
-    "id": 5427,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5427
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate BigQuery SQL from Natural Language Queries using GPT-4o Chat",
-    "id": 6745,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6745
   },
   "nodes": [
     {

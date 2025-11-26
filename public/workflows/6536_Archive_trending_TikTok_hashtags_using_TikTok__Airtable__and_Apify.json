@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Archive trending TikTok hashtags using TikTok, Airtable, and Apify",
-    "id": 6536,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6536
   },
   "nodes": [
     {

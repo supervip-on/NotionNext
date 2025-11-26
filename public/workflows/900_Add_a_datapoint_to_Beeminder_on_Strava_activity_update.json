@@ -55,7 +55,6 @@
   },
   "meta": {
     "name": "Add a datapoint to Beeminder on Strava activity update",
-    "id": 900,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 900
   }
 }

@@ -2,8 +2,7 @@
   "id": "ZjUre23aXOZMuoc4",
   "meta": {
     "name": "Sprint Cycle Announcements with Form Input, GPT-4 and Slack",
-    "id": 4510,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4510
   },
   "name": "Cycle Summary to Slack Template",
   "tags": [],

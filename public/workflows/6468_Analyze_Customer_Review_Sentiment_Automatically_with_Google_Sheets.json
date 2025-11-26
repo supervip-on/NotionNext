@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Customer Review Sentiment Automatically with Google Sheets",
-    "id": 6468,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6468
   },
   "nodes": [
     {

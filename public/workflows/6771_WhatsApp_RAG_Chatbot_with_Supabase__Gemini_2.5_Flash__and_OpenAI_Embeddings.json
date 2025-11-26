@@ -2,8 +2,7 @@
   "id": "InxpOwOAX7qfXIvX",
   "meta": {
     "name": "WhatsApp RAG Chatbot with Supabase, Gemini 2.5 Flash, and OpenAI Embeddings",
-    "id": 6771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6771
   },
   "name": "WhatsApp RAG Chatbot with Supabase, Gemini 2.5 Flash, and OpenAI Embeddings",
   "tags": [],

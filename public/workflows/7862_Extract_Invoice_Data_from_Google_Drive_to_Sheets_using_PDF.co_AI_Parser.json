@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Invoice Data from Google Drive to Sheets using PDF.co AI Parser",
-    "id": 7862,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7862
   },
   "nodes": [
     {

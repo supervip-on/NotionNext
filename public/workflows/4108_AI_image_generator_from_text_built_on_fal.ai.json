@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI image generator from text built on fal.ai",
-    "id": 4108,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4108
   },
   "nodes": [
     {

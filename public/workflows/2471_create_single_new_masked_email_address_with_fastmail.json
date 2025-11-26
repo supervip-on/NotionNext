@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "create single new masked email address with fastmail",
-    "id": 2471,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2471
   },
   "nodes": [
     {

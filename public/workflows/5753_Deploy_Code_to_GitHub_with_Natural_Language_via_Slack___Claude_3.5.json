@@ -2,8 +2,7 @@
   "id": "zBUd6Sdh1oAUmTYd",
   "meta": {
     "name": "Deploy Code to GitHub with Natural Language via Slack & Claude 3.5",
-    "id": 5753,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5753
   },
   "name": "GithubDeployer",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated YouTube Video Uploads with 12h Interval Scheduling in JST",
-    "id": 10098,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10098
   },
   "nodes": [
     {

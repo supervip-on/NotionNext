@@ -2,8 +2,7 @@
   "id": "ibBeVW3tpY92HUpA",
   "meta": {
     "name": "Automate a 'Chat with your PDF' Bot on Telegram with Google Gemini & Pinecone",
-    "id": 10077,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10077
   },
   "name": "Development Done - Chat with PDF via Telegram",
   "tags": [

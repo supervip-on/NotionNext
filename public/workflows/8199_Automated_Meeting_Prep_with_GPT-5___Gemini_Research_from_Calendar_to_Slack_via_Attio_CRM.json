@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Meeting Prep with GPT-5 & Gemini Research from Calendar to Slack via Attio CRM",
-    "id": 8199,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8199
   },
   "nodes": [
     {

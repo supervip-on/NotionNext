@@ -2,8 +2,7 @@
   "id": "2NhqmUqW3KruEkaE",
   "meta": {
     "name": "Exponential Backoff for Google APIs",
-    "id": 2556,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2556
   },
   "name": "Exponential Backoff for Google APIs",
   "tags": [

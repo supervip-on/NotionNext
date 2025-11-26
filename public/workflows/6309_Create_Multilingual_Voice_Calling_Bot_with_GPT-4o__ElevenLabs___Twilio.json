@@ -2,8 +2,7 @@
   "id": "ai-voice-calling-bot",
   "meta": {
     "name": "Create Multilingual Voice Calling Bot with GPT-4o, ElevenLabs & Twilio",
-    "id": 6309,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6309
   },
   "name": "AI Voice Calling Bot - OpenAI GPT-4o + ElevenLabs + Twilio Integration",
   "tags": [

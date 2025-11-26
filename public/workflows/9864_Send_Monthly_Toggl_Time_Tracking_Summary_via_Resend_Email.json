@@ -2,8 +2,7 @@
   "id": "LLC5sbrvJwsCxFXq",
   "meta": {
     "name": "Send Monthly Toggl Time Tracking Summary via Resend Email",
-    "id": 9864,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9864
   },
   "name": "n8n template - toggle raport with projects",
   "tags": [

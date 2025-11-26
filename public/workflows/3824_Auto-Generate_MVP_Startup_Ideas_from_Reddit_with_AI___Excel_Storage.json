@@ -2,8 +2,7 @@
   "id": "foXkX0nL4cnf9Dgv",
   "meta": {
     "name": "Auto-Generate MVP Startup Ideas from Reddit with AI & Excel Storage",
-    "id": 3824,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3824
   },
   "name": "Reddit MVP Generator",
   "tags": [],

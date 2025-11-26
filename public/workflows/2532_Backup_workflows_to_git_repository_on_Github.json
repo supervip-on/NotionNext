@@ -468,8 +468,7 @@
   },
   "meta": {
     "name": "Backup workflows to git repository on Github",
-    "id": 2532,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2532
   },
   "id": "2532"
 }

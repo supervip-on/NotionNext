@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Instagram Reels Posting from Airtable Content Calendar",
-    "id": 8098,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8098
   },
   "nodes": [
     {

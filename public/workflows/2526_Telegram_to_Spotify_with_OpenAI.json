@@ -2,8 +2,7 @@
   "id": "F7CfIF10XjXhqbGb",
   "meta": {
     "name": "Telegram to Spotify with OpenAI",
-    "id": 2526,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2526
   },
   "name": "Play with Spotify from Telegram",
   "tags": [],

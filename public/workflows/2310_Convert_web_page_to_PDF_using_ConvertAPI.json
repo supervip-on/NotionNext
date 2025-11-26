@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert web page to PDF using ConvertAPI",
-    "id": 2310,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2310
   },
   "nodes": [
     {

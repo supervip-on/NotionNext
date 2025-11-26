@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Trustpilot Reviews Using Bright Data & GPT-4o-mini for Winning Ad Copy",
-    "id": 3610,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3610
   },
   "nodes": [
     {

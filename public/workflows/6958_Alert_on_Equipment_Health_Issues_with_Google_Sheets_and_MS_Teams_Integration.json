@@ -2,8 +2,7 @@
   "id": "CirUj0MHUPmdvfKX",
   "meta": {
     "name": "Alert on Equipment Health Issues with Google Sheets and MS Teams Integration",
-    "id": 6958,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6958
   },
   "name": "Advanced Equipment Health Monitor with MS Teams Integration (n8n | API | Google Sheets)",
   "tags": [],

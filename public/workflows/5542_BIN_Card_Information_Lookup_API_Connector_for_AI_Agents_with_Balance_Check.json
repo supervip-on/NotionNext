@@ -2,8 +2,7 @@
   "id": "92bdHzSdLed9qonz",
   "meta": {
     "name": "BIN Card Information Lookup API Connector for AI Agents with Balance Check",
-    "id": 5542,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5542
   },
   "name": "BIN Lookup API MCP Server",
   "tags": [],

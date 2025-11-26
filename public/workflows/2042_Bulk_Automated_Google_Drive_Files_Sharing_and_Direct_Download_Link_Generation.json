@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk Automated Google Drive Files Sharing and Direct Download Link Generation",
-    "id": 2042,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2042
   },
   "nodes": [
     {

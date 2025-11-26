@@ -144,8 +144,7 @@
   },
   "meta": {
     "name": "Auto-Start Tagged Workflows Using n8n API after Deployment",
-    "id": 3996,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3996
   },
   "id": "3996"
 }

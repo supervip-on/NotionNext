@@ -2,8 +2,7 @@
   "id": "Y4SJP07CnkFr6gvM",
   "meta": {
     "name": "Monitor Remote Server File Integrity with SSH and Slack Alerts",
-    "id": 6814,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6814
   },
   "name": "Automated File Integrity Check with Slack",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "CQ33IAKSfdDbLzmK",
   "meta": {
     "name": "Automated Gold Price Threshold Alerts via LINE with Web Scraping",
-    "id": 6265,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6265
   },
   "name": "Gold Price Alert",
   "tags": [],

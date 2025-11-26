@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Doctor Appointment Management System with Gemini AI, WhatsApp, Stripe & Google Sheets",
-    "id": 8825,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8825
   },
   "nodes": [
     {

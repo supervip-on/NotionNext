@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated AI image analysis and response via Telegram",
-    "id": 2235,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2235
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "CsAeAdjSA8YRn8rh",
   "meta": {
     "name": "Generate Job Application Icebreakers with GPT-4 and Indeed Data from Google Sheets",
-    "id": 6113,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6113
   },
   "name": "Personalize IJSHI",
   "tags": [],

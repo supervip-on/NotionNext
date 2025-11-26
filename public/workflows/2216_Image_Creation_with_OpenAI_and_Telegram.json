@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Image Creation with OpenAI and Telegram",
-    "id": 2216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2216
   },
   "nodes": [
     {

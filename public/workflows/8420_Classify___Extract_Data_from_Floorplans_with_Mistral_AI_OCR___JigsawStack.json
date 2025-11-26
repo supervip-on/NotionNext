@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Classify & Extract Data from Floorplans with Mistral AI OCR & JigsawStack",
-    "id": 8420,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8420
   },
   "nodes": [
     {

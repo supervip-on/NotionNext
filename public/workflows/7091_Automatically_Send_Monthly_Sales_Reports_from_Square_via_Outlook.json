@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Send Monthly Sales Reports from Square via Outlook",
-    "id": 7091,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7091
   },
   "nodes": [
     {

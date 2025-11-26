@@ -2,8 +2,7 @@
   "id": "XbA6Q2NrTmh3RvvK",
   "meta": {
     "name": "Generate Lead Magnet Ideas from Google Sheets using RapidAPI AI",
-    "id": 5880,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5880
   },
   "name": "Lead Magnet Generation",
   "tags": [],

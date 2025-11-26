@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Create YouTube Metadata with AI",
-    "id": 2976,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2976
   },
   "nodes": [
     {

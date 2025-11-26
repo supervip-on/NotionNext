@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Complete B2B Sales Pipeline: Apollo Lead Gen, Mailgun Outreach & AI Reply Management",
-    "id": 7410,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7410
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Vkw2rLJx7PuE9ev2",
   "meta": {
     "name": "Telegram giveaways among channel subscribers (Module \"Giveaway\")",
-    "id": 3611,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3611
   },
   "name": "TG-Bot-Module-Giveaway-v4-db-sell-full",
   "tags": [

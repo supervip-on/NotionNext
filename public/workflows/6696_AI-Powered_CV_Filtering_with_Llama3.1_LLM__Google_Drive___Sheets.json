@@ -2,8 +2,7 @@
   "id": "7wkmOQEEUAJIwFEP",
   "meta": {
     "name": "AI-Powered CV Filtering with Llama3.1 LLM, Google Drive & Sheets",
-    "id": 6696,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6696
   },
   "name": "cv-tool",
   "tags": [],

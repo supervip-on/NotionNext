@@ -2,8 +2,7 @@
   "id": "cwQ0qCmS7slatyQr",
   "meta": {
     "name": "Post Long-Form Threads to X / Twitter, Threads, and Bluesky",
-    "id": 8538,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8538
   },
   "name": "2 Email to Long-Form Thread",
   "tags": [],

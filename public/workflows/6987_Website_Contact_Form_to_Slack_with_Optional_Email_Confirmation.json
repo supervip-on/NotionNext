@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Website Contact Form to Slack with Optional Email Confirmation",
-    "id": 6987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6987
   },
   "nodes": [
     {

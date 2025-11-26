@@ -2,8 +2,7 @@
   "id": "wMHxY36nQRWVRkqH",
   "meta": {
     "name": "Twitch Auto-Clip-Generator: Fetch from Streamers, Clip & Edit on Autopilot",
-    "id": 3521,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3521
   },
   "name": "Twitch Clipping Automation Workflow",
   "tags": [],

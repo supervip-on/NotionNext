@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Data from Documents with GPT-4, PDFVector & PostgreSQL Export",
-    "id": 7357,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7357
   },
   "nodes": [
     {

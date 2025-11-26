@@ -2,8 +2,7 @@
   "id": "CUKGI0izi0AiPcTi",
   "meta": {
     "name": "AI-Powered Gmail Customer Support with OpenRouter & Pinecone Knowledge Base",
-    "id": 9414,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9414
   },
   "name": "Customer Support Workflow",
   "tags": [],

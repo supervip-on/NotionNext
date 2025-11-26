@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Avatar Videos with HeyGen and Google Sheets Integration",
-    "id": 5027,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5027
   },
   "nodes": [
     {

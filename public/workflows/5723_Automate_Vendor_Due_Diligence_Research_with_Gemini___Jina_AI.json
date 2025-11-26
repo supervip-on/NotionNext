@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Vendor Due Diligence Research with Gemini & Jina AI",
-    "id": 5723,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5723
   },
   "nodes": [
     {

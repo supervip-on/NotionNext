@@ -2,8 +2,7 @@
   "id": "Z3wOGZdXKSlSWzgO",
   "meta": {
     "name": "Gmail Attachment Manager with Google Drive Upload and Smart Filtering",
-    "id": 10347,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10347
   },
   "name": "TEMPLATE Process attached files in Gmail",
   "tags": [],

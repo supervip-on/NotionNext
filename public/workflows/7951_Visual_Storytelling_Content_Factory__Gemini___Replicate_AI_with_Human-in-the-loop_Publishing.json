@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Visual Storytelling Content Factory: Gemini & Replicate AI with Human-in-the-loop Publishing",
-    "id": 7951,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7951
   },
   "nodes": [
     {

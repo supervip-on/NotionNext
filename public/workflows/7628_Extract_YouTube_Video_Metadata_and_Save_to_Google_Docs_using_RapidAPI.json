@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract YouTube Video Metadata and Save to Google Docs using RapidAPI",
-    "id": 7628,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7628
   },
   "nodes": [
     {

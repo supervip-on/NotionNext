@@ -2,8 +2,7 @@
   "id": "UN5orqkCo7Cpl3s1",
   "meta": {
     "name": "Scheduled Daily Affirmations via Email and Telegram using Cron",
-    "id": 7421,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7421
   },
   "name": "Schedule daily affirmations to your inbox using Cron (optional Telegram)",
   "tags": [],

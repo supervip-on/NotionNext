@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated IMDB Video Downloader with Google Drive Upload & Email Alerts",
-    "id": 9066,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9066
   },
   "nodes": [
     {

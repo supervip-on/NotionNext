@@ -2,8 +2,7 @@
   "id": "PUBLIC_LINKEDIN_WORKFLOW_ID",
   "meta": {
     "name": "Automate LinkedIn Comment Replies with GPT-3.5 & Track in Google Sheets",
-    "id": 7806,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7806
   },
   "name": "17 - AI LinkedIn Responder",
   "tags": [],

@@ -92,7 +92,6 @@
   },
   "meta": {
     "name": "Notify on Slack when new product is added in WooCommerce",
-    "id": 1458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1458
   }
 }

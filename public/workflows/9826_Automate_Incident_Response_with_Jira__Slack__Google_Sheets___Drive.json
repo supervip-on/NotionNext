@@ -2,8 +2,7 @@
   "id": "J93LxYXb9IHdMR7s",
   "meta": {
     "name": "Automate Incident Response with Jira, Slack, Google Sheets & Drive",
-    "id": 9826,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9826
   },
   "name": "Incident Management Workflow",
   "tags": [],

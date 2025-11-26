@@ -2,8 +2,7 @@
   "id": "xRclXA5QzrT3c6U8",
   "meta": {
     "name": "Control your discord server with natural language via GPT4o and MCP Client",
-    "id": 3945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3945
   },
   "name": "Discord MCP Chat Agent",
   "tags": [],

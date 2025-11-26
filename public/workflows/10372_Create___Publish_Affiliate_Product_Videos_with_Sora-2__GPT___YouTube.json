@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create & Publish Affiliate Product Videos with Sora-2, GPT & YouTube",
-    "id": 10372,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10372
   },
   "nodes": [
     {

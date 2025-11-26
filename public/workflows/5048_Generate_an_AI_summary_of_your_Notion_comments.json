@@ -2,8 +2,7 @@
   "id": "VkMKwxev9DEtmKjz",
   "meta": {
     "name": "Generate an AI summary of your Notion comments",
-    "id": 5048,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5048
   },
   "name": "Notion AI summary property",
   "tags": [],

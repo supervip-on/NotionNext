@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto Remediate Endpoint Infections with Wazuh, ClamAV, and GPT-4",
-    "id": 7022,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7022
   },
   "nodes": [
     {

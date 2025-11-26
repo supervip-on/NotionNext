@@ -509,8 +509,7 @@
   },
   "meta": {
     "name": "GitHub to Jira Bug Sync with GPT-4o Analysis & Team Alerts",
-    "id": 9246,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9246
   },
   "id": "9246"
 }

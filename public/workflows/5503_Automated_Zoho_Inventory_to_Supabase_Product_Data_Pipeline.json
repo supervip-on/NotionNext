@@ -2,8 +2,7 @@
   "id": "sezfOd4PU3efRizo",
   "meta": {
     "name": "Automated Zoho Inventory to Supabase Product Data Pipeline",
-    "id": 5503,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5503
   },
   "name": "Zoho Inventory to Supabase",
   "tags": [],

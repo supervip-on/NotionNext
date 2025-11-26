@@ -2,8 +2,7 @@
   "id": "jYwQ5Z3sYPGhW7Q9",
   "meta": {
     "name": "Turn Monoprix Delivery Emails into Calendar Events using ChatGPT and Google Calendar",
-    "id": 4771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4771
   },
   "name": "Monoprix Order email to Family GCal event",
   "tags": [

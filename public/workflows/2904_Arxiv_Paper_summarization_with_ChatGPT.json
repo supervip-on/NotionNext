@@ -2,8 +2,7 @@
   "id": "5IAbyLhZX99QS1ff",
   "meta": {
     "name": "Arxiv Paper summarization with ChatGPT",
-    "id": 2904,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2904
   },
   "name": "Webhook | Paper Summarization",
   "tags": [],

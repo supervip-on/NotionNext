@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Google Ad Copy Automatically with Claude 3.5, Channable & Relevance AI",
-    "id": 10057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10057
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "6017",
   "meta": {
     "name": "Build a Customer Support Agent with Grok-4, Google Docs, and Telegram [RAG]",
-    "id": 6017,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6017
   },
   "name": "Grok-4 Customer Support Agent [RAG]",
   "tags": [],

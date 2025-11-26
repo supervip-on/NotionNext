@@ -2,8 +2,7 @@
   "id": "WceMkVib0VLlF1BZ",
   "meta": {
     "name": "📥 Transform Google Drive Documents into Vector Embeddings",
-    "id": 3647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3647
   },
   "name": "Vector DB Loader from Google Drive",
   "tags": [

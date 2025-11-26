@@ -2,8 +2,7 @@
   "id": "3SNBO1RAF0ZIyido",
   "meta": {
     "name": "Web Site Scraper for LLMs with Airtop",
-    "id": 4252,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4252
   },
   "name": "Website scraper",
   "tags": [],

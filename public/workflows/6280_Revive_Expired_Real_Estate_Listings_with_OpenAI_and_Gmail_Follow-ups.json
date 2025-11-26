@@ -2,8 +2,7 @@
   "id": "mGgu1ixSHq7uKR9J",
   "meta": {
     "name": "Revive Expired Real Estate Listings with OpenAI and Gmail Follow-ups",
-    "id": 6280,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6280
   },
   "name": "Expired Listing Revival Agent",
   "tags": [],

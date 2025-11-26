@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Knowledge Base Builder — Auto-Convert Websites into AI Training Data",
-    "id": 7260,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7260
   },
   "nodes": [
     {

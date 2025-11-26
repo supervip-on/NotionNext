@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Personalized Multi-Product Email Outreach with SMTP Rotation (GPT-4o/o3-mini)",
-    "id": 3758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3758
   },
   "nodes": [
     {

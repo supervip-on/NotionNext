@@ -2,8 +2,7 @@
   "id": "z3NcE289JQQEj23s",
   "meta": {
     "name": "EPA Environmental Compliance Data API for AI Agents with MCP Server",
-    "id": 5636,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5636
   },
   "name": "U.S. EPA Enforcement and Compliance History Online (ECHO) - Resource Conservation and Recovery Act  MCP Server",
   "tags": [],

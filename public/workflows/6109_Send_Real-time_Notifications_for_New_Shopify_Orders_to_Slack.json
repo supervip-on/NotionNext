@@ -2,8 +2,7 @@
   "id": "5GKBzwMfZ69VyCKH",
   "meta": {
     "name": "Send Real-time Notifications for New Shopify Orders to Slack",
-    "id": 6109,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6109
   },
   "name": "SHOPIFY ORDER → SLACK ALERT",
   "tags": [],

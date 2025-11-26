@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🍅 Custom Pomodoro Tracker using Telegram and Google Sheet",
-    "id": 3307,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3307
   },
   "nodes": [
     {

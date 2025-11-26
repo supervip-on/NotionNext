@@ -2,8 +2,7 @@
   "id": "2DzQ1FH11S3Gp6wn",
   "meta": {
     "name": "Get Daily Exercise Plan with Flex Message via LINE",
-    "id": 2988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2988
   },
   "name": "YogiAI",
   "tags": [],

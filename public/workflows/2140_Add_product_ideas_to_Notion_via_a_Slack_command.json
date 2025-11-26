@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add product ideas to Notion via a Slack command",
-    "id": 2140,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2140
   },
   "nodes": [
     {

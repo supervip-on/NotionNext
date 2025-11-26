@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Verify & enrich form leads with Hunter and Clearbit then add them to Pipedrive",
-    "id": 2136,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2136
   },
   "nodes": [
     {

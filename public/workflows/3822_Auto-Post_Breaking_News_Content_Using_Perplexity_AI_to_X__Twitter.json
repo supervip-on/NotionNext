@@ -2,8 +2,7 @@
   "id": "v9K61fCQhrG6gt6Z",
   "meta": {
     "name": "Auto-Post Breaking News Content Using Perplexity AI to X (Twitter)",
-    "id": 3822,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3822
   },
   "name": "Search news using Perplexity AI and post to X (Twitter)",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "V2Kh7IOk04hNteH9",
   "meta": {
     "name": "Connect AI to any chats in Kommo",
-    "id": 2841,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2841
   },
   "name": "Connect AI to Kommo",
   "tags": [],

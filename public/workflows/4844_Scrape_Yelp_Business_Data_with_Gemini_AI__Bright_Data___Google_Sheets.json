@@ -2,8 +2,7 @@
   "id": "a7VCjCT0yD0Ej6Wm",
   "meta": {
     "name": "Scrape Yelp Business Data with Gemini AI, Bright Data & Google Sheets",
-    "id": 4844,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4844
   },
   "name": "Yelp Business Finder: Scraping Local Businesses by Keyword, Category & Location Using Bright Data and Google Sheets",
   "tags": [],

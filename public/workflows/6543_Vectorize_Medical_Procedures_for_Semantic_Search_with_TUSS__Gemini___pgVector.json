@@ -2,8 +2,7 @@
   "id": "6nPKaWcXqc2YPy87",
   "meta": {
     "name": "Vectorize Medical Procedures for Semantic Search with TUSS, Gemini & pgVector",
-    "id": 6543,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6543
   },
   "name": "VECTORIZE TUSS TABLE",
   "tags": [],

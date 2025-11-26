@@ -2,8 +2,7 @@
   "id": "MeGFzR7Shfx70wMV",
   "meta": {
     "name": "Weekly Notion Journal & Task Summarization with GPT-4.1 to Discord",
-    "id": 7032,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7032
   },
   "name": "Weekly Journal Summary",
   "tags": [

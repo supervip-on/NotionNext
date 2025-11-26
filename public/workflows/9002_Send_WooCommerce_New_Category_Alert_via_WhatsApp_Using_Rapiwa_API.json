@@ -2,8 +2,7 @@
   "id": "SKKy045wmeQJJw0r",
   "meta": {
     "name": "Send WooCommerce New Category Alert via WhatsApp Using Rapiwa API",
-    "id": 9002,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9002
   },
   "name": "Send WooCommerce New Category Alert via WhatsApp Using Rapiwa API",
   "tags": [],

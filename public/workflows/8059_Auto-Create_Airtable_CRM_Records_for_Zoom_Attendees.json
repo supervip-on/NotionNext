@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Create Airtable CRM Records for Zoom Attendees",
-    "id": 8059,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8059
   },
   "nodes": [
     {

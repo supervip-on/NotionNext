@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Research Assistant via Telegram (GPT-4o mini + DeepSeek R1 + SerpAPI)",
-    "id": 5924,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5924
   },
   "nodes": [
     {

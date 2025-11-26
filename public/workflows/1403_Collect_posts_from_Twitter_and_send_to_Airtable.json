@@ -254,7 +254,6 @@
   },
   "meta": {
     "name": "Collect posts from Twitter and send to Airtable",
-    "id": 1403,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1403
   }
 }

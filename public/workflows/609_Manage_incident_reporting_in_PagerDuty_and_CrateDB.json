@@ -261,7 +261,6 @@
   },
   "meta": {
     "name": "Manage incident reporting in PagerDuty and CrateDB",
-    "id": 609,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 609
   }
 }

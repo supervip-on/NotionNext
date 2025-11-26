@@ -2,8 +2,7 @@
   "id": "0G6evny3MkWG2m0e",
   "meta": {
     "name": "AI Voice & Text Note-Taking with LINE Messaging, Supabase Vector DB & Gmail",
-    "id": 7508,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7508
   },
   "name": "export_dian-memo_03",
   "tags": [],

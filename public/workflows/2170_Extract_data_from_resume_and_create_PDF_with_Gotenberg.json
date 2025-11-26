@@ -1142,8 +1142,7 @@
   },
   "meta": {
     "name": "Extract data from resume and create PDF with Gotenberg",
-    "id": 2170,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2170
   },
   "id": "2170"
 }

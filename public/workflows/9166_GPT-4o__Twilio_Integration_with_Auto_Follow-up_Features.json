@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "GPT-4o: Twilio Integration with Auto Follow-up Features",
-    "id": 9166,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9166
   },
   "nodes": [
     {

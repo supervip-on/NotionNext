@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Viral Facebook Posts with Gemini 2.0 & AI Image Generation",
-    "id": 8756,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8756
   },
   "nodes": [
     {

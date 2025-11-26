@@ -2,8 +2,7 @@
   "id": "EzIYrjuXVZ487IfB",
   "meta": {
     "name": "Generate stock market investment reports from FinancialDatasets.ai with AI",
-    "id": 3179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3179
   },
   "name": "AI Swarm Hedge Fund",
   "tags": [],

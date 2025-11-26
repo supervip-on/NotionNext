@@ -2,8 +2,7 @@
   "id": "nRx93htY4oXoKnTw",
   "meta": {
     "name": "Fetch Random Dog Images from Dog CEO API via Webhook",
-    "id": 4598,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4598
   },
   "name": "Random Dog Image via Webhook",
   "tags": [],

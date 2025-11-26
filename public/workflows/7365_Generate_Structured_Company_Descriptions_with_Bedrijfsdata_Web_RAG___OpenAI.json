@@ -2,8 +2,7 @@
   "id": "bHudG0m9SkFKGeOr",
   "meta": {
     "name": "Generate Structured Company Descriptions with Bedrijfsdata Web RAG & OpenAI",
-    "id": 7365,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7365
   },
   "name": "TEMPLATE - Create Synthetic Content by Prospect ID",
   "tags": [],

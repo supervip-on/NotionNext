@@ -2,8 +2,7 @@
   "id": "7w2fAlYbwQEQL0hI",
   "meta": {
     "name": "YouTube Video Content Analyzer & Summarizer with Gemini AI",
-    "id": 6152,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6152
   },
   "name": "Analyze YouTube Videos and Generate Summaries with Gemini AI",
   "tags": [],

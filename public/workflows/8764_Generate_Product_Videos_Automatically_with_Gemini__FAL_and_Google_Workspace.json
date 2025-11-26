@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Product Videos Automatically with Gemini, FAL and Google Workspace",
-    "id": 8764,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8764
   },
   "nodes": [
     {

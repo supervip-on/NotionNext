@@ -2,8 +2,7 @@
   "id": "Viv8fgIQ3YahLz3q",
   "meta": {
     "name": "Automated Event Management with Typeform, Stripe, Google Tools & Slack Notifications",
-    "id": 10117,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10117
   },
   "name": "Event Participant Management and Automated Follow-up System",
   "tags": [],

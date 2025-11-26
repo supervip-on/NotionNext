@@ -2,8 +2,7 @@
   "id": "OuHrYOR3uWGmrhWQ",
   "meta": {
     "name": "AI-powered email processing autoresponder and response approval (Yes/No)",
-    "id": 2861,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2861
   },
   "name": "AI Email processing autoresponder with approval (Yes/No)",
   "tags": [],

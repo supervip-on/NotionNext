@@ -2,8 +2,7 @@
   "id": "hN9echP2rG1fuKXH",
   "meta": {
     "name": "Scan URLs for Security Threats with urlscan.io and GPT-4o mini",
-    "id": 7159,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7159
   },
   "name": "AI-Powered Link Checker",
   "tags": [],

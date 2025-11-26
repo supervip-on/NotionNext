@@ -179,7 +179,6 @@
   },
   "meta": {
     "name": "Create, update, and get a document in Google Cloud Firestore",
-    "id": 839,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 839
   }
 }

@@ -2,8 +2,7 @@
   "id": "RMxcTgpFGpE3RdLZ",
   "meta": {
     "name": "Check Tron Wallet USDT Blacklist Status via Telegram",
-    "id": 3797,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3797
   },
   "name": "Telegram Tron Wallet Blacklist Checker",
   "tags": [],

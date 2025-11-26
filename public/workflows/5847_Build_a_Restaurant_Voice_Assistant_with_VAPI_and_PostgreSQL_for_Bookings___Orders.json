@@ -2,8 +2,7 @@
   "id": "FBguDlbJmbBGngKf",
   "meta": {
     "name": "Build a Restaurant Voice Assistant with VAPI and PostgreSQL for Bookings & Orders",
-    "id": 5847,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5847
   },
   "name": "Voice Assistant – Restaurant Booking, Orders & Info System",
   "tags": [],

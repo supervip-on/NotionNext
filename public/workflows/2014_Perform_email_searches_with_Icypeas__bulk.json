@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Perform email searches with Icypeas (bulk)",
-    "id": 2014,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2014
   },
   "nodes": [
     {

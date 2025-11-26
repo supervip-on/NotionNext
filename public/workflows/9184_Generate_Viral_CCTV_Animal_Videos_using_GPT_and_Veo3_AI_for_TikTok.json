@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Viral CCTV Animal Videos using GPT and Veo3 AI for TikTok",
-    "id": 9184,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9184
   },
   "nodes": [
     {

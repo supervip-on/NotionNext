@@ -2,8 +2,7 @@
   "id": "2qIFnWXdHJJs4oBk",
   "meta": {
     "name": "Generate & Email Personalized Certificates from Google Forms with Score Threshold",
-    "id": 3771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3771
   },
   "name": "DSP Certificate w/ Google Forms",
   "tags": [],

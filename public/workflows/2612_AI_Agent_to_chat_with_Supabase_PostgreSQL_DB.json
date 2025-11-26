@@ -260,8 +260,7 @@
   },
   "meta": {
     "name": "AI Agent to chat with Supabase/PostgreSQL DB",
-    "id": 2612,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2612
   },
   "id": "2612"
 }

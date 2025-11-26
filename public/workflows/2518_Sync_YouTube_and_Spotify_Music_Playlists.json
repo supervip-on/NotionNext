@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎵 Sync YouTube and Spotify Music Playlists",
-    "id": 2518,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2518
   },
   "nodes": [
     {

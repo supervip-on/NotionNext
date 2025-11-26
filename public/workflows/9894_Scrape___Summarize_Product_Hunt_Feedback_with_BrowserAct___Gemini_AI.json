@@ -2,8 +2,7 @@
   "id": "ps9FWi8KPM1vbxYU",
   "meta": {
     "name": "Scrape & Summarize Product Hunt Feedback with BrowserAct & Gemini AI",
-    "id": 9894,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9894
   },
   "name": "Product Hunt Launch Monitor (producthunt.com)",
   "tags": [],

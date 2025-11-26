@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Task Tracking & Notifications with Motion and Airtable",
-    "id": 7383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7383
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "QuickBooks Online AI Agent - Chat with Quickbooks Data with GPT Agent",
-    "id": 7841,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7841
   },
   "nodes": [
     {

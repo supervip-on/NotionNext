@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID",
   "meta": {
     "name": "Automated Blog Generation with Gemini AI, GitHub & Jekyll Publishing",
-    "id": 6357,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6357
   },
   "name": "My blog",
   "tags": [],

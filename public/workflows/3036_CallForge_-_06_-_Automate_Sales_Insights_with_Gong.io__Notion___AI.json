@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 06 - Automate Sales Insights with Gong.io, Notion & AI",
-    "id": 3036,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3036
   },
   "nodes": [
     {

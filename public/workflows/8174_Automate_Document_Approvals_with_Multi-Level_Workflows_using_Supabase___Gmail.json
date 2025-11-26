@@ -2,8 +2,7 @@
   "id": "5myl9GWWVupDIebk",
   "meta": {
     "name": "Automate Document Approvals with Multi-Level Workflows using Supabase & Gmail",
-    "id": 8174,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8174
   },
   "name": "Multi-Level Document Approval & Audit Workflow",
   "tags": [],

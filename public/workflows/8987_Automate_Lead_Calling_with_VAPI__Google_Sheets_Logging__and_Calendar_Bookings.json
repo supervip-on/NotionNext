@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Calling with VAPI, Google Sheets Logging, and Calendar Bookings",
-    "id": 8987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8987
   },
   "nodes": [
     {

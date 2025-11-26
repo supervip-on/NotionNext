@@ -2,8 +2,7 @@
   "id": "H95uJY2gjSOsxRps",
   "meta": {
     "name": "Extract Amazon Best Seller Electronic Info with Bright Data and Google Gemini",
-    "id": 3681,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3681
   },
   "name": "Extract Amazon Best Seller Electronic Information with Bright Data and Google Gemini",
   "tags": [

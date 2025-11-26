@@ -2,8 +2,7 @@
   "id": "Zrd98BnbmN1Px9an",
   "meta": {
     "name": "Youtube Outlier Detector (Find trending content based on your competitors)",
-    "id": 2903,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2903
   },
   "name": "Youtube Searcher",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Time Tracking Enforcement & Cleanup for Awork Tasks",
-    "id": 4805,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4805
   },
   "nodes": [
     {

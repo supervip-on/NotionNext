@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Clinical Data from Medical Documents with PDF Vector & HIPAA Compliance",
-    "id": 8502,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8502
   },
   "nodes": [
     {

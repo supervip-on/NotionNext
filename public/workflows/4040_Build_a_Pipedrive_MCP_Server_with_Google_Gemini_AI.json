@@ -2,8 +2,7 @@
   "id": "wQ7y8grS10XllodU",
   "meta": {
     "name": "Build a Pipedrive MCP Server with Google Gemini AI",
-    "id": 4040,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4040
   },
   "name": "pipedrive mcp",
   "tags": [],

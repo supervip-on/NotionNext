@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "GPT 4.1 - Freelancer.com Job Alert System with Auto Proposal Generator",
-    "id": 9270,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9270
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Qsx3VDr6JAHBYiU1",
   "meta": {
     "name": "Aggregate Twitter/X Content to Telegram Channel with BrowserAct & Google Gemini",
-    "id": 9055,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9055
   },
   "name": "Automate social media content aggregation to a Telegram channel",
   "tags": [],

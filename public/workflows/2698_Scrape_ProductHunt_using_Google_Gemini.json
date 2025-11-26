@@ -2,8 +2,7 @@
   "id": "PjmORR4QITmw1TSm",
   "meta": {
     "name": "Scrape ProductHunt using Google Gemini",
-    "id": 2698,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2698
   },
   "name": "My workflow",
   "tags": [],

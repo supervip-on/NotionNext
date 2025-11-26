@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Viral Content Creation with OpenAI, ElevenLabs, and Fal.ai for Videos, Podcasts, and ASMR",
-    "id": 5383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5383
   },
   "nodes": [
     {

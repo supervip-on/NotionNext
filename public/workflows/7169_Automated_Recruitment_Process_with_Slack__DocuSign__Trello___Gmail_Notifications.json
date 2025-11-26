@@ -2,8 +2,7 @@
   "id": "H13mJEhIlYYkldke",
   "meta": {
     "name": "Automated Recruitment Process with Slack, DocuSign, Trello & Gmail Notifications",
-    "id": 7169,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7169
   },
   "name": "Automated Candidate Management & Feedback System with DocuSign & Trello",
   "tags": [],

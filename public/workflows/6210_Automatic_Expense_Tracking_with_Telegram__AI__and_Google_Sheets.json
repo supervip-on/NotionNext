@@ -2,8 +2,7 @@
   "id": "B1P6d8Jusl69JubP",
   "meta": {
     "name": "Automatic Expense Tracking with Telegram, AI, and Google Sheets",
-    "id": 6210,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6210
   },
   "name": "MS_SPEND_TRACKER",
   "tags": [],

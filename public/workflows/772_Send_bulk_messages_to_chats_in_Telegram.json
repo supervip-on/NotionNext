@@ -137,8 +137,7 @@
   },
   "meta": {
     "name": "Send bulk messages to chats in Telegram",
-    "id": 772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 772
   },
   "id": "772"
 }

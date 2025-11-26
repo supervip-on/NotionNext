@@ -2,8 +2,7 @@
   "id": "LiwuEEnCyNMbGxbh",
   "meta": {
     "name": "Expose File, Form, & Hook Operations to AI Agents - KoBoToolbox Tool MCP Server",
-    "id": 5235,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5235
   },
   "name": "KoBoToolbox Tool MCP Server",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Facebook Group Posting with Telegram Messages and Google Sheets",
-    "id": 8165,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8165
   },
   "name": "My workflow",
   "tags": [],

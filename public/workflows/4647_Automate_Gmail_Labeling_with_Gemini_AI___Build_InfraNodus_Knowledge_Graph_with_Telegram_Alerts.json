@@ -2,8 +2,7 @@
   "id": "kuHROEwShNrG11Ea",
   "meta": {
     "name": "Automate Gmail Labeling with Gemini AI & Build InfraNodus Knowledge Graph with Telegram Alerts",
-    "id": 4647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4647
   },
   "name": "Label Incoming Messages, Build a Knowledge Graph, Notify via Telegram",
   "tags": [

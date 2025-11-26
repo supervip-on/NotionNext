@@ -120,8 +120,7 @@
   },
   "meta": {
     "name": "Validate emails in a table using Mailcheck",
-    "id": 1055,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1055
   },
   "id": "1055"
 }

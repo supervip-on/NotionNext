@@ -2,8 +2,7 @@
   "id": "UM5yN01ZX3V2f256",
   "meta": {
     "name": "Generate UGC Images from Form Submissions with Google Gemini and Telegram",
-    "id": 9922,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9922
   },
   "name": "UGC Image Generator from Form Submission using NanoBanana 🍌 and Telegram",
   "tags": [],

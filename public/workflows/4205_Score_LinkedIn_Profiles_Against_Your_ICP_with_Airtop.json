@@ -2,8 +2,7 @@
   "id": "io8TtPZaVjpZaVrf",
   "meta": {
     "name": "Score LinkedIn Profiles Against Your ICP with Airtop",
-    "id": 4205,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4205
   },
   "name": "Person ICP Scoring with Linkedin",
   "tags": [],

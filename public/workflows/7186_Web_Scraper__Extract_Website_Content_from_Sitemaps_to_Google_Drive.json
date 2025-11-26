@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID_HERE",
   "meta": {
     "name": "Web Scraper: Extract Website Content from Sitemaps to Google Drive",
-    "id": 7186,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7186
   },
   "name": "Simple Working Scraper",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "SYrpMRFFGu2Y96eE",
   "meta": {
     "name": "YouTube Trends Finding Agent",
-    "id": 7888,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7888
   },
   "name": "YouTube Trends Finder",
   "tags": [],

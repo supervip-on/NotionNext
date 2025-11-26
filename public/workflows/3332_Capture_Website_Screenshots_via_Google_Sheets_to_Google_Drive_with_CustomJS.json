@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Capture Website Screenshots via Google Sheets to Google Drive with CustomJS",
-    "id": 3332,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3332
   },
   "nodes": [
     {

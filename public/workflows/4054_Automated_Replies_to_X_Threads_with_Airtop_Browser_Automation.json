@@ -2,8 +2,7 @@
   "id": "62A1O15JXFJXEhYH",
   "meta": {
     "name": "Automated Replies to X Threads with Airtop Browser Automation",
-    "id": 4054,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4054
   },
   "name": "X - Response in thread",
   "tags": [],

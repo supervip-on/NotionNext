@@ -203,7 +203,6 @@
   },
   "meta": {
     "name": "Add data from a photo to Google Sheets",
-    "id": 684,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 684
   }
 }

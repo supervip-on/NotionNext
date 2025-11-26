@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ ProfitWell Tool MCP Server 💪 both operations",
-    "id": 5092,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5092
   },
   "nodes": [
     {

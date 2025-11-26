@@ -2,8 +2,7 @@
   "id": "8ApgcB6nkfmr6TOG",
   "meta": {
     "name": "AI Image Nudity Detection Tool with Image Moderation API",
-    "id": 5661,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5661
   },
   "name": "Image Moderation MCP Server",
   "tags": [],

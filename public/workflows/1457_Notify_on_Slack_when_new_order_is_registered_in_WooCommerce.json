@@ -128,7 +128,6 @@
   },
   "meta": {
     "name": "Notify on Slack when new order is registered in WooCommerce",
-    "id": 1457,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1457
   }
 }

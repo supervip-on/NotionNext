@@ -89,8 +89,7 @@
   },
   "meta": {
     "name": "Import data from Google Sheets into MySQL",
-    "id": 1752,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1752
   },
   "id": "1752"
 }

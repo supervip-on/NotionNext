@@ -2,8 +2,7 @@
   "id": "6593",
   "meta": {
     "name": "Personalized Weather Assistant with Google Calendar, WeatherAPI, Gemini & Telegram",
-    "id": 6593,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6593
   },
   "name": "Personalized Weather Assistant with Google Calendar, Weatherapi, AI & Telegram",
   "tags": [],

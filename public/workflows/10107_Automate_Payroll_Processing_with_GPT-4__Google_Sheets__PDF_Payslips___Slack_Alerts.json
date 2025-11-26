@@ -2,8 +2,7 @@
   "id": "DxYWzfjdkoT4gsJP",
   "meta": {
     "name": "Automate Payroll Processing with GPT-4, Google Sheets, PDF Payslips & Slack Alerts",
-    "id": 10107,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10107
   },
   "name": "Payroll Automation & Employee Salary Notification System for Finance",
   "tags": [],

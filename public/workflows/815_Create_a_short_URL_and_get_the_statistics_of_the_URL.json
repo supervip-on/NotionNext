@@ -75,7 +75,6 @@
   },
   "meta": {
     "name": "Create a short URL and get the statistics of the URL",
-    "id": 815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 815
   }
 }

@@ -2,8 +2,7 @@
   "id": "8UQEEzm7Vbhc46n5",
   "meta": {
     "name": "Generate Weekly Grocery Lists in Notion with Automated Email Notifications",
-    "id": 7427,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7427
   },
   "name": "Plan weekly meals and add groceries to Notion (Cron + Email)",
   "tags": [],

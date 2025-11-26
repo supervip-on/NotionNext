@@ -2,8 +2,7 @@
   "id": "M0TnkjeDHSBlsVLQ",
   "meta": {
     "name": "Track Top YouTube Videos by View Count with Google Sheets",
-    "id": 5668,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5668
   },
   "name": "Add the most popular videos from a specific YT channel to sheets",
   "tags": [],

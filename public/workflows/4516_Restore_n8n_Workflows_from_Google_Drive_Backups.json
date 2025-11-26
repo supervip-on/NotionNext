@@ -2,8 +2,7 @@
   "id": "4Uwsl8NFCbGfns09",
   "meta": {
     "name": "Restore n8n Workflows from Google Drive Backups",
-    "id": 4516,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4516
   },
   "name": "AIAutomationPro Restore All Workflows From Google Drive v1",
   "tags": [],

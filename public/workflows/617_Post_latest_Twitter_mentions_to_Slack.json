@@ -165,7 +165,6 @@
   },
   "meta": {
     "name": "Post latest Twitter mentions to Slack",
-    "id": 617,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 617
   }
 }

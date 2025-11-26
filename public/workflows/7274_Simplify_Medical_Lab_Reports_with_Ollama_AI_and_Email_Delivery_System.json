@@ -2,8 +2,7 @@
   "id": "1PvO16aHWZcyFf6B",
   "meta": {
     "name": "Simplify Medical Lab Reports with Ollama AI and Email Delivery System",
-    "id": 7274,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7274
   },
   "name": "AI-Powered Lab Report Simplifier with Precautions",
   "tags": [],

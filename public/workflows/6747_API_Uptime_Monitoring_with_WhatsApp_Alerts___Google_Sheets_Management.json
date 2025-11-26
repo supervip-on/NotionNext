@@ -2,8 +2,7 @@
   "id": "pc2HHg8DLhcpoMg5",
   "meta": {
     "name": "API Uptime Monitoring with WhatsApp Alerts & Google Sheets Management",
-    "id": 6747,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6747
   },
   "name": "Automated API Uptime Monitoring with Instant Downtime Alerts",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create new wordpress posts with a featured Image with Airtable",
-    "id": 2281,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2281
   },
   "nodes": [
     {

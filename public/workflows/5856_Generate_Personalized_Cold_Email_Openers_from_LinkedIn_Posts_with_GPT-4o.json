@@ -2,8 +2,7 @@
   "id": "oJXYeAsW2fEXu2CM",
   "meta": {
     "name": "Generate Personalized Cold Email Openers from LinkedIn Posts with GPT-4o",
-    "id": 5856,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5856
   },
   "name": "LinkedIn Post To Personalized Opener",
   "tags": [],

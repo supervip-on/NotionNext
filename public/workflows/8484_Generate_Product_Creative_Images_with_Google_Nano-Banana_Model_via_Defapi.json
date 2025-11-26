@@ -2,8 +2,7 @@
   "id": "GMfEqz8V4eeXfCDn",
   "meta": {
     "name": "Generate Product Creative Images with Google Nano-Banana Model via Defapi",
-    "id": 8484,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8484
   },
   "name": "Product Creative Generator using Nano Banana API",
   "tags": [],

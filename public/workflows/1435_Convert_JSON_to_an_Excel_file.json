@@ -103,8 +103,7 @@
   },
   "meta": {
     "name": "Convert JSON to an Excel file",
-    "id": 1435,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1435
   },
   "id": "1435"
 }

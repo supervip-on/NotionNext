@@ -2,8 +2,7 @@
   "id": "rV1w47cZn1rsk7MP",
   "meta": {
     "name": "Build a PDF Search System with Mistral OCR and Weaviate DB",
-    "id": 7339,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7339
   },
   "name": "PDF to Vector RAG System: Mistral OCR, Weaviate Database and MCP Server",
   "tags": [],

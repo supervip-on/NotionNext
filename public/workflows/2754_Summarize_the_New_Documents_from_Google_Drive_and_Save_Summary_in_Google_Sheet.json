@@ -2,8 +2,7 @@
   "id": "aswQJmksAOmHmn8c",
   "meta": {
     "name": "Summarize the New Documents from Google Drive and Save Summary in Google Sheet",
-    "id": 2754,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2754
   },
   "name": "Fetch the Most Recent Document from Google Drive",
   "tags": [

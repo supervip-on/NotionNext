@@ -1799,8 +1799,7 @@
   },
   "meta": {
     "name": "Prevent Concurrent Workflow Runs Using Redis",
-    "id": 3976,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3976
   },
   "id": "3976"
 }

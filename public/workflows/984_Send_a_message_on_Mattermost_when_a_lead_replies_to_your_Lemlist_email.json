@@ -53,8 +53,7 @@
   },
   "meta": {
     "name": "Send a message on Mattermost when a lead replies to your Lemlist email",
-    "id": 984,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 984
   },
   "id": "984"
 }

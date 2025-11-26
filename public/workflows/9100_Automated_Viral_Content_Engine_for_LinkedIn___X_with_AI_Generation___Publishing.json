@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Viral Content Engine for LinkedIn & X with AI Generation & Publishing",
-    "id": 9100,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9100
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "uoBZx3eMvLMxlHCS",
   "meta": {
     "name": "Restore backed up workflows from GitHub to n8n",
-    "id": 2289,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2289
   },
   "name": "[OPS] Restore workflows from GitHub to n8n",
   "tags": [],

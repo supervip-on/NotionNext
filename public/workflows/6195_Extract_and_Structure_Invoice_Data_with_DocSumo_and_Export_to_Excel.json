@@ -2,8 +2,7 @@
   "id": "5s26gAyizRhbNI15",
   "meta": {
     "name": "Extract and Structure Invoice Data with DocSumo and Export to Excel",
-    "id": 6195,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6195
   },
   "name": "DocSumo Invoice Parser",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "TtoDcjgthgA4NTkU",
   "meta": {
     "name": "AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs",
-    "id": 2405,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2405
   },
   "name": "AI Voice Chat using Webhook, Memory Manager, OpenAI, Google Gemini & ElevenLabs",
   "tags": [

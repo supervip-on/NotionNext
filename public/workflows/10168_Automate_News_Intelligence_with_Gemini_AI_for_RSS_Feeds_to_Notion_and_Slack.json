@@ -2,8 +2,7 @@
   "id": "L75BmalAEZZ1orS5",
   "meta": {
     "name": "Automate News Intelligence with Gemini AI for RSS Feeds to Notion and Slack",
-    "id": 10168,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10168
   },
   "name": "RSS Feed Intelligence Hub with Daily Slack Digest",
   "tags": [],

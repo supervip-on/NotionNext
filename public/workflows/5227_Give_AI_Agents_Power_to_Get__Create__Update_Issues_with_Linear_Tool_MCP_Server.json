@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Give AI Agents Power to Get, Create, Update Issues with Linear Tool MCP Server 💪",
-    "id": 5227,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5227
   },
   "nodes": [
     {

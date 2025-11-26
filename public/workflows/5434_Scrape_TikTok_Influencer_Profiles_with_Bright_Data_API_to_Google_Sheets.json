@@ -2,8 +2,7 @@
   "id": "51mGQheuAtcpMIni",
   "meta": {
     "name": "Scrape TikTok Influencer Profiles with Bright Data API to Google Sheets",
-    "id": 5434,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5434
   },
   "name": "TikTok Influencer Scraper (URL Input) via Bright Data + n8n & Sheets",
   "tags": [],

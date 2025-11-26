@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Sprint Review Summaries from Transcripts with OpenAI and Google Sheets",
-    "id": 8400,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8400
   },
   "nodes": [
     {

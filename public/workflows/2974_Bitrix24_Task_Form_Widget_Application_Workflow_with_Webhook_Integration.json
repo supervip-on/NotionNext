@@ -2,8 +2,7 @@
   "id": "ZDL9028SnyCxS5tf",
   "meta": {
     "name": "Bitrix24 Task Form Widget Application Workflow with Webhook Integration",
-    "id": 2974,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2974
   },
   "name": "Bitrix24 Task Form Widget Application Workflow example with Webhook Integration",
   "tags": [],

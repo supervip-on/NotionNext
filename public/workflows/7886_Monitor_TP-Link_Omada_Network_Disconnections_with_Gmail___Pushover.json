@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor TP-Link Omada Network Disconnections with Gmail & Pushover",
-    "id": 7886,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7886
   },
   "nodes": [
     {

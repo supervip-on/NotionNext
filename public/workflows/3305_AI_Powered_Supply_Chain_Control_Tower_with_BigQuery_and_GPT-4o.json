@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🗼 AI Powered Supply Chain Control Tower with BigQuery and GPT-4o",
-    "id": 3305,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3305
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "O0C6dgSlC6BHD8cN",
   "meta": {
     "name": "Real-time Error Monitoring with WhatsApp Alerts & Multi-language Setup",
-    "id": 6327,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6327
   },
   "name": "ErrorFlow WhatsApp Alarm",
   "tags": [],

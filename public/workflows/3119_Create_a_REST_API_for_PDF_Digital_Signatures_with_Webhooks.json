@@ -2,8 +2,7 @@
   "id": "V1vbO2m79cFNH59h",
   "meta": {
     "name": "Create a REST API for PDF Digital Signatures with Webhooks",
-    "id": 3119,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3119
   },
   "name": "Basic PDF Digital Sign Service",
   "tags": [],

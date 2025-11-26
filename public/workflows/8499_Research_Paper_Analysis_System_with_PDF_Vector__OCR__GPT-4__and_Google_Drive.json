@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Research Paper Analysis System with PDF Vector, OCR, GPT-4, and Google Drive",
-    "id": 8499,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8499
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Complete SEO Audits with Apify, Claude Sonnet 4, and Gmail Delivery",
-    "id": 6403,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6403
   },
   "nodes": [
     {

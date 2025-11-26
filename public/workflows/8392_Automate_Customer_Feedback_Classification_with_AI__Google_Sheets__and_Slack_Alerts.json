@@ -2,8 +2,7 @@
   "id": "bAczIXMBSsZulax7",
   "meta": {
     "name": "Automate Customer Feedback Classification with AI, Google Sheets, and Slack Alerts",
-    "id": 8392,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8392
   },
   "name": "Customer Feedback Loop Analyzer",
   "tags": [],

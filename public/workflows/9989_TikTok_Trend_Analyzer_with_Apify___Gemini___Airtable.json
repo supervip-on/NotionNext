@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "TikTok Trend Analyzer with Apify + Gemini + Airtable",
-    "id": 9989,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9989
   },
   "nodes": [
     {

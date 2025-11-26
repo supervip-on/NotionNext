@@ -2,8 +2,7 @@
   "id": "M7saccCy1gO4g2zr",
   "meta": {
     "name": "Build Custom Workflows Automatically with GPT-4o, RAG, and Web Search",
-    "id": 5024,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5024
   },
   "name": "Agent_Builder",
   "tags": [],

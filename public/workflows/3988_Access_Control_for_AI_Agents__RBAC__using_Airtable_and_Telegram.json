@@ -2,8 +2,7 @@
   "id": "fa2TGWrY9rPurC30",
   "meta": {
     "name": "Access Control for AI Agents (RBAC) using Airtable and Telegram",
-    "id": 3988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3988
   },
   "name": "Agent Access Control Template",
   "tags": [

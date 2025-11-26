@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Gmail Organization: Weekly Newsletter Archiving and Receipt Labeling",
-    "id": 7980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7980
   },
   "name": "Sunday Sweep Gmail Zero",
   "nodes": [

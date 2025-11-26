@@ -2,8 +2,7 @@
   "id": "O6pQd3qfUMhHS7ci",
   "meta": {
     "name": "Turn YouTube Comments into Content Ideas with GPT-4.1-mini, Tavily & Apify",
-    "id": 7479,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7479
   },
   "name": "Turn YouTube Comments into Content Ideas using n8n & OpenAI",
   "tags": [],

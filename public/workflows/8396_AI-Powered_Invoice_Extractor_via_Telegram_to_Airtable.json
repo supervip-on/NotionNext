@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Invoice Extractor via Telegram to Airtable",
-    "id": 8396,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8396
   },
   "nodes": [
     {

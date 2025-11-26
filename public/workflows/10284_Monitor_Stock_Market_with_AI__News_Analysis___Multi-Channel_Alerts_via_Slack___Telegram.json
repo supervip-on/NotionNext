@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Stock Market with AI: News Analysis & Multi-Channel Alerts via Slack & Telegram",
-    "id": 10284,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10284
   },
   "nodes": [
     {

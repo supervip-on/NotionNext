@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Agentic News Event Monitoring with perplexity.ai",
-    "id": 2458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2458
   },
   "nodes": [
     {

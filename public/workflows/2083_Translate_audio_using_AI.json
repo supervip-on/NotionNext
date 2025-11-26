@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Translate audio using AI",
-    "id": 2083,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2083
   },
   "nodes": [
     {

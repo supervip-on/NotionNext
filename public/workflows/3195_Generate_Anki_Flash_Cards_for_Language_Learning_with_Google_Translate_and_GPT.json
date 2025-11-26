@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🉑 Generate Anki Flash Cards for Language Learning with Google Translate and GPT",
-    "id": 3195,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3195
   },
   "nodes": [
     {

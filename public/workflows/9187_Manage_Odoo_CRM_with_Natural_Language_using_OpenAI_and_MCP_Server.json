@@ -2,8 +2,7 @@
   "id": "V5LSgbewzeJtKVKo",
   "meta": {
     "name": "Manage Odoo CRM with Natural Language using OpenAI and MCP Server",
-    "id": 9187,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9187
   },
   "name": "OdooMCP",
   "tags": [],

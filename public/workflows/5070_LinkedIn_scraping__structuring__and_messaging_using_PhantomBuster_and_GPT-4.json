@@ -2,8 +2,7 @@
   "id": "Bo012Ve1xjb2UvGz",
   "meta": {
     "name": "LinkedIn scraping, structuring, and messaging using PhantomBuster and GPT-4",
-    "id": 5070,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5070
   },
   "name": "LinkedIn Profile Scraping & Structured Data Extraction with PhantomBuster & GPT-4",
   "tags": [],

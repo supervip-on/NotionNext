@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Google Search Rankings with Bright Data, Google Sheets & Gmail",
-    "id": 4310,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4310
   },
   "nodes": [
     {

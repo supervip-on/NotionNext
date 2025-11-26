@@ -168,8 +168,7 @@
   },
   "meta": {
     "name": "Create an issue on GitLab on every GitHub release",
-    "id": 1349,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1349
   },
   "id": "1349"
 }

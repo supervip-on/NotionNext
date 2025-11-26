@@ -2,8 +2,7 @@
   "id": "TS1wT16JCcy1Dt9Q",
   "meta": {
     "name": "Automate Web Interactions with Claude 3.5 Haiku and Airtop Browser Agent",
-    "id": 3592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3592
   },
   "name": "Airtop Web Agent",
   "tags": [

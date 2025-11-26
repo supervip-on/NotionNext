@@ -2,8 +2,7 @@
   "id": "HJ1BFDzLA4ywrHt5",
   "meta": {
     "name": "Website Lead Capture with Apollo.io Enrichment, HubSpot Storage & Gmail Notifications",
-    "id": 4618,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4618
   },
   "name": "Website Inbound Lead Collection & CRM Integration with Enrichment",
   "nodes": [

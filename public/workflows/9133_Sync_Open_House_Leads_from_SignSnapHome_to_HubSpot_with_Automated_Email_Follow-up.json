@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Open House Leads from SignSnapHome to HubSpot with Automated Email Follow-up",
-    "id": 9133,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9133
   },
   "nodes": [
     {

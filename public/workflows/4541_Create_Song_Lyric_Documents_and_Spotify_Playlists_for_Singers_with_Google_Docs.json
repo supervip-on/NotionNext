@@ -2,8 +2,7 @@
   "id": "ThUxnc7za8J4uyXG",
   "meta": {
     "name": "Create Song Lyric Documents and Spotify Playlists for Singers with Google Docs",
-    "id": 4541,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4541
   },
   "name": "Setlist_Manager",
   "tags": [],

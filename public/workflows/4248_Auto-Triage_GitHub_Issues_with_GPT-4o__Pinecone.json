@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Triage GitHub Issues with GPT-4o, Pinecone",
-    "id": 4248,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4248
   },
   "nodes": [
     {

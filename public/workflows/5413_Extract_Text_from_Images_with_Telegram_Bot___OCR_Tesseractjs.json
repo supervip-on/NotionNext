@@ -2,8 +2,7 @@
   "id": "M4IIL41O16twgImq",
   "meta": {
     "name": "Extract Text from Images with Telegram Bot & OCR Tesseractjs",
-    "id": 5413,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5413
   },
   "name": "Image Reader",
   "tags": [],

@@ -439,8 +439,7 @@
   },
   "meta": {
     "name": "Create a new user in Notion based on the signup form submission",
-    "id": 1373,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1373
   },
   "id": "1373"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Messages from AI Agents with Mandrill Tool MCP Server",
-    "id": 5206,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5206
   },
   "nodes": [
     {

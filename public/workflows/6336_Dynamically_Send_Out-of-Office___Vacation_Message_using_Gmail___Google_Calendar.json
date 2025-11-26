@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Dynamically Send Out-of-Office / Vacation Message using Gmail & Google Calendar",
-    "id": 6336,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6336
   },
   "nodes": [
     {

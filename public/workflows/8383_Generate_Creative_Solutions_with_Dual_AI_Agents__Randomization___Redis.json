@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Creative Solutions with Dual AI Agents, Randomization & Redis",
-    "id": 8383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8383
   },
   "nodes": [
     {

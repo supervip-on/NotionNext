@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Execution Cleanup System with n8n API and Custom Retention Rules",
-    "id": 6833,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6833
   },
   "nodes": [
     {

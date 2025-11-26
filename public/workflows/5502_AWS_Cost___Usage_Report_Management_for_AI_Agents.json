@@ -2,8 +2,7 @@
   "id": "PC34zn93Tjcxxnnk",
   "meta": {
     "name": "AWS Cost & Usage Report Management for AI Agents",
-    "id": 5502,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5502
   },
   "name": "AWS Cost and Usage Report Service MCP Server",
   "tags": [],

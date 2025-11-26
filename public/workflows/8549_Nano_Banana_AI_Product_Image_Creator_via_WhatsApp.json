@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Nano Banana AI Product Image Creator via WhatsApp",
-    "id": 8549,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8549
   },
   "nodes": [
     {

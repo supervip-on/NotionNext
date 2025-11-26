@@ -2,8 +2,7 @@
   "id": "FKbKIlRnRWzCMkUZ",
   "meta": {
     "name": "Generate Research Ideas from PDFs using InfraNodus GraphRAG Content Gap Analysis",
-    "id": 5746,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5746
   },
   "name": "Generate Research Ideas from PDF Documents based on Content Gaps",
   "tags": [

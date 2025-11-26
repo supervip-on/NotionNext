@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🏠 Find your Home with Real Estate Agent and Bright Data",
-    "id": 4872,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4872
   },
   "nodes": [
     {

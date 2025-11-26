@@ -151,8 +151,7 @@
   },
   "meta": {
     "name": "Avoid rate limiting by batching HTTP requests",
-    "id": 1243,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1243
   },
   "id": "1243"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Load and summarize Google Drive files with AI",
-    "id": 1962,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1962
   },
   "nodes": [
     {

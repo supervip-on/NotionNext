@@ -2,8 +2,7 @@
   "id": "zs6lfzSj2s6LtrMh",
   "meta": {
     "name": "Conversational Kubernetes Management with GPT-4o and MCP Integration",
-    "id": 4023,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4023
   },
   "name": "k8s -asistant2",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Degree Audit System with Google Sheets and GPT-5",
-    "id": 8093,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8093
   },
   "nodes": [
     {

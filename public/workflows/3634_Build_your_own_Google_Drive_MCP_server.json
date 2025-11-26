@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build your own Google Drive MCP server",
-    "id": 3634,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3634
   },
   "nodes": [
     {

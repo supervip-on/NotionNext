@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail campaign sender: Bulk-send emails and follow up automatically if no reply",
-    "id": 2137,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2137
   },
   "nodes": [
     {

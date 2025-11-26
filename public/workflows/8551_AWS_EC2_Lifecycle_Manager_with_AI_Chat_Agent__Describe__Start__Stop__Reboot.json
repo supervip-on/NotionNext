@@ -2,8 +2,7 @@
   "id": "ikTVURA2ASogFn99",
   "meta": {
     "name": "AWS EC2 Lifecycle Manager with AI Chat Agent (Describe, Start, Stop, Reboot)",
-    "id": 8551,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8551
   },
   "name": "EC2 Lifecycle Manager with AI Chat Agent (Describe, Start, Stop, Reboot, Terminate)",
   "tags": [

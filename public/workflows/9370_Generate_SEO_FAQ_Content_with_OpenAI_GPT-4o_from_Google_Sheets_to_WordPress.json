@@ -2,8 +2,7 @@
   "id": "RYcoxYMGXy8I4MaS",
   "meta": {
     "name": "Generate SEO FAQ Content with OpenAI GPT-4o from Google Sheets to WordPress",
-    "id": 9370,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9370
   },
   "name": "FAQ Generator with AI Agent",
   "tags": [],

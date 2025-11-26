@@ -2,8 +2,7 @@
   "id": "LVoDtVFQ069sOYcC",
   "meta": {
     "name": "Auto-Generate Product Descriptions with Azure OpenAI for Adobe Commerce/Magento",
-    "id": 8475,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8475
   },
   "name": "Automated Product Description Generation for Adobe Commerce (Magento 2)",
   "tags": [],

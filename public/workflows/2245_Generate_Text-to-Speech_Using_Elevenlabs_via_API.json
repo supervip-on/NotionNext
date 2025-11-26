@@ -185,8 +185,7 @@
   },
   "meta": {
     "name": "Generate Text-to-Speech Using Elevenlabs via API",
-    "id": 2245,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2245
   },
   "id": "2245"
 }

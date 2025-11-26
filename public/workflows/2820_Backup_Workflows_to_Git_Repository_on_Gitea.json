@@ -2,8 +2,7 @@
   "id": "Ef2uEM6H19K2DGUO",
   "meta": {
     "name": "Backup Workflows to Git Repository on Gitea",
-    "id": 2820,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2820
   },
   "name": "Backup workflows to git repository on Gitea",
   "tags": [

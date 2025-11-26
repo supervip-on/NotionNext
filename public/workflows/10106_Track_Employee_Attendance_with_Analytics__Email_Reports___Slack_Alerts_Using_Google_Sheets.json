@@ -2,8 +2,7 @@
   "id": "QaExWEuXV0wzelZO",
   "meta": {
     "name": "Track Employee Attendance with Analytics, Email Reports & Slack Alerts Using Google Sheets",
-    "id": 10106,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10106
   },
   "name": "Employee Attendance Tracker with Daily Summary",
   "tags": [],

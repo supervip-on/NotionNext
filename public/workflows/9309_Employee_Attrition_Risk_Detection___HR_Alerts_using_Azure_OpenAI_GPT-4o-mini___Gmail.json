@@ -2,8 +2,7 @@
   "id": "ONqZuWnwkE64Mm4F",
   "meta": {
     "name": "Employee Attrition Risk Detection & HR Alerts using Azure OpenAI GPT-4o-mini & Gmail",
-    "id": 9309,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9309
   },
   "name": "Attrition Risk Alert Workflow (Azure OpenAI + n8n)",
   "tags": [],

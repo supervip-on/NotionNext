@@ -2,8 +2,7 @@
   "id": "6SOSDrfhrqAX7DBS",
   "meta": {
     "name": "Auto-Post X Videos with OpenRouter AI Captions & Google Sheets Deduplication",
-    "id": 9748,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9748
   },
   "name": "Deduplicate and auto-post X videos with AI captions from a user",
   "tags": [],

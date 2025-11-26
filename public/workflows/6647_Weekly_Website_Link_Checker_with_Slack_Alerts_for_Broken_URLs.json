@@ -2,8 +2,7 @@
   "id": "KtRHK31mHsMCH2kS",
   "meta": {
     "name": "Weekly Website Link Checker with Slack Alerts for Broken URLs",
-    "id": 6647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6647
   },
   "name": "Weekly Website Link Checker with Auto Alerts for Broken URLs",
   "tags": [],

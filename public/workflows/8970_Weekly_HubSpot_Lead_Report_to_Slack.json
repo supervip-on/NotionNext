@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly HubSpot Lead Report to Slack",
-    "id": 8970,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8970
   },
   "nodes": [
     {

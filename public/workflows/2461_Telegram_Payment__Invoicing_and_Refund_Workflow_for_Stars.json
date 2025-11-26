@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram Payment, Invoicing and Refund Workflow for Stars",
-    "id": 2461,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2461
   },
   "nodes": [
     {

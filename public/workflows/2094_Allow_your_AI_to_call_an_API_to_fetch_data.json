@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Allow your AI to call an API to fetch data",
-    "id": 2094,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2094
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Google Sheets Duplication & Enrichment Automation",
-    "id": 4865,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4865
   },
   "name": "Google Sheets Duplication Workflow",
   "tags": [],

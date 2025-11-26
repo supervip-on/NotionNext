@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Parse Incoming Invoices From Outlook using AI Document Understanding",
-    "id": 3396,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3396
   },
   "nodes": [
     {

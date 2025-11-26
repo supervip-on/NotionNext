@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Google Ads Campaign Reporting to Google Sheets with Airtable",
-    "id": 7387,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7387
   },
   "nodes": [
     {

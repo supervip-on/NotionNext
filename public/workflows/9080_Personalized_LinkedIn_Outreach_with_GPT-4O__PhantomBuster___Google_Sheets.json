@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized LinkedIn Outreach with GPT-4O, PhantomBuster & Google Sheets",
-    "id": 9080,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9080
   },
   "nodes": [
     {

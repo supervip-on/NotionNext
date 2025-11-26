@@ -2388,8 +2388,7 @@
   },
   "meta": {
     "name": "Host Your Own JWT Authentication System with Data Tables and Token Management",
-    "id": 9660,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9660
   },
   "id": "9660"
 }

@@ -2,8 +2,7 @@
   "id": "7ijhwXKPf6M2ZUBM",
   "meta": {
     "name": "Convert Addresses to LatLong with Google Sheets and Google Maps API",
-    "id": 2739,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2739
   },
   "name": "Convert Addresses to LatLong with Google Sheets and Google Maps API",
   "tags": [],

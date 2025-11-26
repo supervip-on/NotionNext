@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add new products to Stripe when product added to Pipedrive",
-    "id": 1777,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1777
   },
   "nodes": [
     {

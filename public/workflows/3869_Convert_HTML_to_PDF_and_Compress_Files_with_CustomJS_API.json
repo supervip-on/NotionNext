@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert HTML to PDF and Compress Files with CustomJS API",
-    "id": 3869,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3869
   },
   "nodes": [
     {

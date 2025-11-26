@@ -2,8 +2,7 @@
   "id": "VYmYeHeu5eKYVLXA",
   "meta": {
     "name": "FinnHub API and Slack Template",
-    "id": 5418,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5418
   },
   "name": "Market Watcher Bot",
   "tags": [

@@ -122,8 +122,7 @@
   },
   "meta": {
     "name": "Manage folders automatically in Dropbox",
-    "id": 615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 615
   },
   "id": "615"
 }

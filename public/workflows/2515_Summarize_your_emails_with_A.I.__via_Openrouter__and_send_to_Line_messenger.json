@@ -2,8 +2,7 @@
   "id": "NuEN2uwPicogoHom",
   "meta": {
     "name": "Summarize your emails with A.I. (via Openrouter) and send to Line messenger",
-    "id": 2515,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2515
   },
   "name": "Gmail to line",
   "tags": [],

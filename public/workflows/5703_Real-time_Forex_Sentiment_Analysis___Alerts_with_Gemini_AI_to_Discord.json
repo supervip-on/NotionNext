@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Real-time Forex Sentiment Analysis & Alerts with Gemini AI to Discord",
-    "id": 5703,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5703
   },
   "nodes": [
     {

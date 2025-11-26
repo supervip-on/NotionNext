@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🤖🚚 AI agent for Transportation Orders Management with GPT-4o and Open Route API",
-    "id": 4692,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4692
   },
   "nodes": [
     {

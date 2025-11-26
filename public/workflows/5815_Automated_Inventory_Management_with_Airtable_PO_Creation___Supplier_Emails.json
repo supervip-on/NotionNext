@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Inventory Management with Airtable PO Creation & Supplier Emails",
-    "id": 5815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5815
   },
   "nodes": [
     {

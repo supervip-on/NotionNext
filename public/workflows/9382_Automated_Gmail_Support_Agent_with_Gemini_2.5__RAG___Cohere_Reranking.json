@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Gmail Support Agent with Gemini 2.5, RAG & Cohere Reranking",
-    "id": 9382,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9382
   },
   "nodes": [
     {

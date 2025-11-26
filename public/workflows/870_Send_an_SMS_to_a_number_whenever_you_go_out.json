@@ -53,7 +53,6 @@
   },
   "meta": {
     "name": "Send an SMS to a number whenever you go out",
-    "id": 870,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 870
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create new Clickup Tasks from Slack commands",
-    "id": 2190,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2190
   },
   "nodes": [
     {

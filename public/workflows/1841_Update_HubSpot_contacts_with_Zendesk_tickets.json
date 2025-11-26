@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Update HubSpot contacts with Zendesk tickets",
-    "id": 1841,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1841
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smartlead to HubSpot Performance Analytics",
-    "id": 2610,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2610
   },
   "nodes": [
     {

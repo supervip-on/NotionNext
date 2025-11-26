@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Dutch Public Procurement Data Collection with TenderNed",
-    "id": 10076,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10076
   },
   "nodes": [
     {

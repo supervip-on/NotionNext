@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Twitter Brand Promotion with Anthropic Claude AI & Google Sheets Reporting",
-    "id": 7131,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7131
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Crypto Market Analysis with Chart-img, BrowserAI & GPT Insights to Telegram",
-    "id": 8252,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8252
   },
   "nodes": [
     {

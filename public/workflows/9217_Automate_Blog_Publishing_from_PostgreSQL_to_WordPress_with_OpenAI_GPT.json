@@ -2,8 +2,7 @@
   "id": "ai-wordpress-blog-automation",
   "meta": {
     "name": "Automate Blog Publishing from PostgreSQL to WordPress with OpenAI GPT",
-    "id": 9217,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9217
   },
   "name": "AI-Powered WordPress Content Workflow",
   "tags": [],

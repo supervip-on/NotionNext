@@ -2,8 +2,7 @@
   "id": "DzlbbUj5ydTqDTF5",
   "meta": {
     "name": "Generate AI Stock Images with Flux1-schnell, Metadata Tagging & Google Integration",
-    "id": 4445,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4445
   },
   "name": "Adobe stock workflow",
   "tags": [],

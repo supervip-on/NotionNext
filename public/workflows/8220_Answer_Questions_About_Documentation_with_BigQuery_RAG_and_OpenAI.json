@@ -2,8 +2,7 @@
   "id": "8220",
   "meta": {
     "name": "Answer Questions About Documentation with BigQuery RAG and OpenAI",
-    "id": 8220,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8220
   },
   "name": "BigQuery RAG With OpenAI Embedding",
   "tags": [],

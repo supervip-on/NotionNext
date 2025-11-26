@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Qualification with AI Voice Calls using GPT-3.5, Notion and Vapi",
-    "id": 9803,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9803
   },
   "nodes": [
     {

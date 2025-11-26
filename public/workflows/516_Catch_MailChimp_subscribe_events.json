@@ -27,8 +27,7 @@
   "connections": {},
   "meta": {
     "name": "Catch MailChimp subscribe events",
-    "id": 516,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 516
   },
   "id": "516"
 }

@@ -253,8 +253,7 @@
   },
   "meta": {
     "name": "Automatically Update YouTube Video Descriptions with Inserted Text",
-    "id": 3080,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3080
   },
   "id": "3080"
 }

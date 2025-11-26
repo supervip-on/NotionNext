@@ -2,8 +2,7 @@
   "id": "wQIlBiGuRAehquVv",
   "meta": {
     "name": "Manage User Authentication with Telegram, Redis Cache and Google Sheets",
-    "id": 4548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4548
   },
   "name": "Login System",
   "tags": [],

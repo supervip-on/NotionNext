@@ -2,8 +2,7 @@
   "id": "UKluUCTyo3t8l8GF",
   "meta": {
     "name": "Auto-Tag High-Value Sales Orders in Zoho CRM with VIP Alert",
-    "id": 6681,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6681
   },
   "name": "VIP order Alert",
   "tags": [],

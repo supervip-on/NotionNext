@@ -2,8 +2,7 @@
   "id": "iRaDuebfCVnNBqF1",
   "meta": {
     "name": "Sync NetSuite Customers to Salesforce Accounts & Contacts with Auto Upserts",
-    "id": 9695,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9695
   },
   "name": "Sync NetSuite Customers to Salesforce Accounts and Contacts",
   "tags": [],

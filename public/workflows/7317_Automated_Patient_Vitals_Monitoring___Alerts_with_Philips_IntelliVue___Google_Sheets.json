@@ -2,8 +2,7 @@
   "id": "ZglHLOi9fxEH6oKT",
   "meta": {
     "name": "Automated Patient Vitals Monitoring & Alerts with Philips IntelliVue & Google Sheets",
-    "id": 7317,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7317
   },
   "name": "Real-Time Patient Monitoring with Philips IntelliVue Devices",
   "tags": [],

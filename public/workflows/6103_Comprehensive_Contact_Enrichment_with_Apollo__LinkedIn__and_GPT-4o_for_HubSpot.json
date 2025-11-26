@@ -2,8 +2,7 @@
   "id": "t7e4sQzh96e0xaq7",
   "meta": {
     "name": "Comprehensive Contact Enrichment with Apollo, LinkedIn, and GPT-4o for HubSpot",
-    "id": 6103,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6103
   },
   "name": "contact enrichment",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "YCQFaJdmJc6Rx4o7",
   "meta": {
     "name": "Sync Jira issues with subsequent comments to Notion database",
-    "id": 1831,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1831
   },
   "name": "Sync Jira issues with subsequent comments to Notion database",
   "tags": [

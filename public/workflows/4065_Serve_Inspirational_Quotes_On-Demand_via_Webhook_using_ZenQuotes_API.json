@@ -2,8 +2,7 @@
   "id": "VQKwOBOL659w93wt",
   "meta": {
     "name": "Serve Inspirational Quotes On-Demand via Webhook using ZenQuotes API",
-    "id": 4065,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4065
   },
   "name": "Serve Inspirational Quotes On-Demand via Webhook using ZenQuotes API",
   "tags": [

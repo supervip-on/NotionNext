@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "User-Friendly Technical Support Portal for GLPI Ticket Management",
-    "id": 7392,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7392
   },
   "nodes": [
     {

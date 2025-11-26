@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Professional Animated Videos with Bytedance Omni-Human AI via Replicate",
-    "id": 6788,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6788
   },
   "name": "bytedance/omni-human - Video Generator",
   "nodes": [

@@ -2,8 +2,7 @@
   "id": "SHpLY12UobbcWRnl",
   "meta": {
     "name": "Slack AI Chatbot for business team with RAG, Claude 3.7 Sonnet and Google Drive",
-    "id": 3414,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3414
   },
   "name": "Slack AI Chatbot with RAG for company staff",
   "tags": [],

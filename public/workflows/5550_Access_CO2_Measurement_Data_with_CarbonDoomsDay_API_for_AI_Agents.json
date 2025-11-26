@@ -2,8 +2,7 @@
   "id": "4jp6Z6pafierPUNA",
   "meta": {
     "name": "Access CO2 Measurement Data with CarbonDoomsDay API for AI Agents",
-    "id": 5550,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5550
   },
   "name": "CarbonDoomsDay MCP Server",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "QGCfa3ryox2OEBTG",
   "meta": {
     "name": "Customer Support Chatbot with RAG using OpenAI and Pinecone",
-    "id": 7561,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7561
   },
   "name": "Simple RAG chatbot",
   "tags": [],

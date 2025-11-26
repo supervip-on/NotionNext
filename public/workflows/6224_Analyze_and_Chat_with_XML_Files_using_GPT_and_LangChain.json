@@ -2,8 +2,7 @@
   "id": "1pfNtfDuGq3yud8G",
   "meta": {
     "name": "Analyze and Chat with XML Files using GPT and LangChain",
-    "id": 6224,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6224
   },
   "name": "Chat with XML File",
   "tags": [],

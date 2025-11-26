@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Text to Speech with Local KOKORO TTS",
-    "id": 3547,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3547
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "DTAMHkTadEbS2Xsv",
   "meta": {
     "name": "Evaluate Animal Advocacy Text with Hugging Face Open Paws AI Models",
-    "id": 5587,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5587
   },
   "name": "Scoring Text (Sub-Workflow)",
   "tags": [],

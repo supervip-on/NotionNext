@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Meeting Research & Daily Agenda with Google Calendar, Attio CRM, and Slack",
-    "id": 7968,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7968
   },
   "nodes": [
     {

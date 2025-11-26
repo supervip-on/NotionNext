@@ -2,8 +2,7 @@
   "id": "JH0OhDnJCwPxBJZX",
   "meta": {
     "name": "Monitor SSL Certificate Expiry with Google Sheets and Multi-Channel Alert",
-    "id": 3493,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3493
   },
   "name": "Template - SSL Expiry Alert System",
   "tags": [

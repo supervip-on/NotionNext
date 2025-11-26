@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Custom Deal Recommendations by Email using Forms, Bright Data & GPT-4o-mini",
-    "id": 3304,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3304
   },
   "nodes": [
     {

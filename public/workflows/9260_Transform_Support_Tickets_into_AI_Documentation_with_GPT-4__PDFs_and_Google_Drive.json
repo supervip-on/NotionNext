@@ -2,8 +2,7 @@
   "id": "support-ticket-documentation",
   "meta": {
     "name": "Transform Support Tickets into AI Documentation with GPT-4, PDFs and Google Drive",
-    "id": 9260,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9260
   },
   "name": "Customer Support Ticket Workflow Automation",
   "tags": [],

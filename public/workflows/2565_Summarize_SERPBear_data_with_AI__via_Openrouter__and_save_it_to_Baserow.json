@@ -2,8 +2,7 @@
   "id": "qmmXKcpJOCm9qaCk",
   "meta": {
     "name": "Summarize SERPBear data with AI (via Openrouter) and save it to Baserow",
-    "id": 2565,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2565
   },
   "name": "SERPBear analytics template",
   "tags": [],

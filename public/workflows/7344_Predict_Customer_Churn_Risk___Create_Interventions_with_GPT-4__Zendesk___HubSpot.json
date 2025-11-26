@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Predict Customer Churn Risk & Create Interventions with GPT-4, Zendesk & HubSpot",
-    "id": 7344,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7344
   },
   "nodes": [
     {

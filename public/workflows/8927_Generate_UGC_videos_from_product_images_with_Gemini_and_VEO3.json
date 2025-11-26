@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate UGC videos from product images with Gemini and VEO3",
-    "id": 8927,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8927
   },
   "nodes": [
     {

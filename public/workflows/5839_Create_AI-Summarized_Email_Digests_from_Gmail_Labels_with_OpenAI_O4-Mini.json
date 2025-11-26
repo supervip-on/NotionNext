@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI-Summarized Email Digests from Gmail Labels with OpenAI O4-Mini",
-    "id": 5839,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5839
   },
   "name": "Daily Email Digest with AI Summarization",
   "tags": [],

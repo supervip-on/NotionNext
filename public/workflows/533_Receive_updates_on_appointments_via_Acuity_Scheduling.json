@@ -20,8 +20,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates on appointments via Acuity Scheduling",
-    "id": 533,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 533
   },
   "id": "533"
 }

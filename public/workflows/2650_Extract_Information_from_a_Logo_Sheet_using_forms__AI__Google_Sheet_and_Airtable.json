@@ -2,8 +2,7 @@
   "id": "dDAqkobn2pqgdl2N",
   "meta": {
     "name": "Extract Information from a Logo Sheet using forms, AI, Google Sheet and Airtable",
-    "id": 2650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2650
   },
   "name": "AI Logo Sheet Extractor to Airtable",
   "tags": [],

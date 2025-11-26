@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Images from Text with Fire Flux Model on Replicate API",
-    "id": 6792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6792
   },
   "name": "fire/flux - Image Generator",
   "nodes": [

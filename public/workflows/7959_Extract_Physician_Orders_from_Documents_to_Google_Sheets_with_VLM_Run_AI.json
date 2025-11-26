@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Physician Orders from Documents to Google Sheets with VLM Run AI",
-    "id": 7959,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7959
   },
   "nodes": [
     {

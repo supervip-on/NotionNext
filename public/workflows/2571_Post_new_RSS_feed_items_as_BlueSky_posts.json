@@ -272,8 +272,7 @@
   },
   "meta": {
     "name": "Post new RSS feed items as BlueSky posts",
-    "id": 2571,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2571
   },
   "id": "2571"
 }

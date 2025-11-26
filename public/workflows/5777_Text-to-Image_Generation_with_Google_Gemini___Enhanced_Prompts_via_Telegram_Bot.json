@@ -2,8 +2,7 @@
   "id": "0tEmax45Rzaq4xP9",
   "meta": {
     "name": "Text-to-Image Generation with Google Gemini & Enhanced Prompts via Telegram Bot",
-    "id": 5777,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5777
   },
   "name": "Telegram Image Gen",
   "tags": [

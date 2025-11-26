@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Overlay or Watermark Images by Merging with Another Image",
-    "id": 2459,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2459
   },
   "nodes": [
     {

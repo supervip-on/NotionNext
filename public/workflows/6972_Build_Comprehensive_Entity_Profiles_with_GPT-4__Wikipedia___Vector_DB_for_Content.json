@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Comprehensive Entity Profiles with GPT-4, Wikipedia & Vector DB for Content",
-    "id": 6972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6972
   },
   "nodes": [
     {

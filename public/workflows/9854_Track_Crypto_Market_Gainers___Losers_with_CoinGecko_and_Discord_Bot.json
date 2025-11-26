@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Crypto Market Gainers & Losers with CoinGecko and Discord Bot",
-    "id": 9854,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9854
   },
   "nodes": [
     {

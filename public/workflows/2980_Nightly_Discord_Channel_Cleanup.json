@@ -2,8 +2,7 @@
   "id": "QCbb7Bm12gDIH0mI",
   "meta": {
     "name": "Nightly Discord Channel Cleanup",
-    "id": 2980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2980
   },
   "name": "Keep discord clean",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "ER0P5gVPl7ARd3cU",
   "meta": {
     "name": "Predict Restaurant Food Waste with Gemini AI and Google Sheets Reporting",
-    "id": 5982,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5982
   },
   "name": "Restaurant food waste prediction System",
   "tags": [],

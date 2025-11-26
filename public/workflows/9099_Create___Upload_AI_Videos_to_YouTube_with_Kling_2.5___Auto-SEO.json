@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create & Upload AI Videos to YouTube with Kling 2.5 & Auto-SEO",
-    "id": 9099,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9099
   },
   "nodes": [
     {

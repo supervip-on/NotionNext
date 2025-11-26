@@ -189,8 +189,7 @@
   },
   "meta": {
     "name": "CYBERPULSE AI RedOps: Validate Email Security Gateways Generated Payloads",
-    "id": 6507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6507
   },
   "id": "6507"
 }

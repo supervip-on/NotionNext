@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Property Inventory Survey with Image Recognition and AI Agent",
-    "id": 2330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2330
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "aLTkMiEDYXbMK4fT",
   "meta": {
     "name": "Simple Expense Tracker with n8n Chat, AI Agent and Google Sheets",
-    "id": 2819,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2819
   },
   "name": "AI agent: expense tracker in Google Sheets and n8n chat",
   "tags": [],

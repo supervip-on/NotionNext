@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Zalo OA Token Management with OAuth and Webhook Integration",
-    "id": 8675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8675
   },
   "nodes": [
     {

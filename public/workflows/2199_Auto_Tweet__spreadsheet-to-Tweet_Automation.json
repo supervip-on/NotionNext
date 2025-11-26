@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto Tweet: spreadsheet-to-Tweet Automation",
-    "id": 2199,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2199
   },
   "nodes": [
     {

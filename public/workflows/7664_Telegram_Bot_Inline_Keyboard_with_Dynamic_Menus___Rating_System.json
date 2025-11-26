@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram Bot Inline Keyboard with Dynamic Menus & Rating System",
-    "id": 7664,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7664
   },
   "nodes": [
     {

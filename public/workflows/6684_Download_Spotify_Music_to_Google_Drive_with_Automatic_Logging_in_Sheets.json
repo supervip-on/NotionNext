@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Spotify Music to Google Drive with Automatic Logging in Sheets",
-    "id": 6684,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6684
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "kKdyG8BnQcQ6re5y",
   "meta": {
     "name": "AI-Powered Email Support Router with Gmail, ChatGPT-4o, and Slack",
-    "id": 9376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9376
   },
   "name": "Gmail-Slack",
   "tags": [],

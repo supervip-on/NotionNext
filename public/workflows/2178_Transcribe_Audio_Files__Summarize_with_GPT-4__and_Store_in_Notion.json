@@ -2,8 +2,7 @@
   "id": "TWcBOEMLFs7e6KjP",
   "meta": {
     "name": "Transcribe Audio Files, Summarize with GPT-4, and Store in Notion",
-    "id": 2178,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2178
   },
   "name": "Whisper Transkription copy",
   "tags": [],

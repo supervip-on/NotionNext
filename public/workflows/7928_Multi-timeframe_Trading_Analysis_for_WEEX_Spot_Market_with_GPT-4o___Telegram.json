@@ -2,8 +2,7 @@
   "id": "5PAMTCoQrOzWgfwA",
   "meta": {
     "name": "Multi-timeframe Trading Analysis for WEEX Spot Market with GPT-4o & Telegram",
-    "id": 7928,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7928
   },
   "name": "WEEX Spot Market Quant AI Agent release",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert boring images to stunning photos and videos",
-    "id": 4275,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4275
   },
   "nodes": [
     {

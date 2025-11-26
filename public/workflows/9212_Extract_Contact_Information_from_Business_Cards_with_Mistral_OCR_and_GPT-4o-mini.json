@@ -2,8 +2,7 @@
   "id": "96Ab7Pgv1EJuTmxK",
   "meta": {
     "name": "Extract Contact Information from Business Cards with Mistral OCR and GPT-4o-mini",
-    "id": 9212,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9212
   },
   "name": "Business card scanner",
   "tags": [

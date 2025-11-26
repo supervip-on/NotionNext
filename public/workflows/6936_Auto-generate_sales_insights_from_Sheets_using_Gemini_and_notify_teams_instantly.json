@@ -2,8 +2,7 @@
   "id": "coBopLGa9cP3cCp0",
   "meta": {
     "name": "Auto-generate sales insights from Sheets using Gemini and notify teams instantly",
-    "id": 6936,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6936
   },
   "name": "Monitoring Business Daily Metrics",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Renew, Get Certs 🛠️ Venafi TLS Protect Cloud Tool MCP Server 💪 all 8 operations",
-    "id": 5064,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5064
   },
   "nodes": [
     {

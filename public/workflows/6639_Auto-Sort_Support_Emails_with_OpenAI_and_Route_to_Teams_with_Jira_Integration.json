@@ -2,8 +2,7 @@
   "id": "Eael5MC2doHgipoj",
   "meta": {
     "name": "Auto-Sort Support Emails with OpenAI and Route to Teams with Jira Integration",
-    "id": 6639,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6639
   },
   "name": "Auto-Sort Support Emails with AI and Route to Teams",
   "tags": [],

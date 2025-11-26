@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Evaluation metric example: RAG document relevance",
-    "id": 4273,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4273
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "YouTube Video Summaries with GPT-4o, Slack Approvals & Reddit Posting",
-    "id": 4581,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4581
   },
   "nodes": [
     {

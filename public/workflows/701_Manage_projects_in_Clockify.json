@@ -146,7 +146,6 @@
   },
   "meta": {
     "name": "Manage projects in Clockify",
-    "id": 701,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 701
   }
 }

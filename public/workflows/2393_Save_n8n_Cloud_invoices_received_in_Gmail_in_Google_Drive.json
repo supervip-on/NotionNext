@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Save n8n Cloud invoices received in Gmail in Google Drive",
-    "id": 2393,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2393
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Facebook Videos to Google Drive with Automated Logging in Sheets",
-    "id": 6923,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6923
   },
   "nodes": [
     {

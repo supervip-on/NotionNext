@@ -48,8 +48,7 @@
   "connections": {},
   "meta": {
     "name": "Create a new DigitalOcean Droplet",
-    "id": 435,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 435
   },
   "id": "435"
 }

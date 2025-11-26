@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Telegram Mental Health Support Bot with GPT-4o",
-    "id": 6556,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6556
   },
   "nodes": [
     {

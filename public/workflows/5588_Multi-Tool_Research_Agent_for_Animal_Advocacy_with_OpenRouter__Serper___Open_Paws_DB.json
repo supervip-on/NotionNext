@@ -2,8 +2,7 @@
   "id": "gONpHTHkittovaKB",
   "meta": {
     "name": "Multi-Tool Research Agent for Animal Advocacy with OpenRouter, Serper & Open Paws DB",
-    "id": 5588,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5588
   },
   "name": "[TEMPLATE] General Research & Tool-Use Agent for Animal Advocacy",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multi-Platform AI Sales Agent with RAG, CRM Logging & Appointment Booking ",
-    "id": 4508,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4508
   },
   "nodes": [
     {

@@ -507,8 +507,7 @@
   },
   "meta": {
     "name": "Translate PDF documents from Google drive folder with DeepL",
-    "id": 2179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2179
   },
   "id": "2179"
 }

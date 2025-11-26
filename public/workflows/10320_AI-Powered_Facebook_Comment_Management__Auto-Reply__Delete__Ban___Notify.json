@@ -2,8 +2,7 @@
   "id": "SBjR4bQC0vCCx5nI",
   "meta": {
     "name": "AI-Powered Facebook Comment Management: Auto-Reply, Delete, Ban & Notify",
-    "id": 10320,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10320
   },
   "name": "Facebook Page Comment Management Bot: Reply, Delete, Ban & Notify",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "s9tAZpHcsRFJjK3A",
   "meta": {
     "name": "Automatic Topic & Sentiment Extraction from Jotform Responses with Google Gemini",
-    "id": 9350,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9350
   },
   "name": "Automatic Topic & Sentiment Extraction from Jotform Responses with Google Gemini",
   "tags": [

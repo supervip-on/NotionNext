@@ -2,8 +2,7 @@
   "id": "I2RxYTHy30vIWRmh",
   "meta": {
     "name": "Extract Skill Matrix to Google Sheets with Google Drive and GPT-4o",
-    "id": 8530,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8530
   },
   "name": "Skill matrix extractor",
   "tags": [],

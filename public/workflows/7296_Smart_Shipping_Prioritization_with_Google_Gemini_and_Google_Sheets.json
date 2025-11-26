@@ -2,8 +2,7 @@
   "id": "TEMPLATE_ID",
   "meta": {
     "name": "Smart Shipping Prioritization with Google Gemini and Google Sheets",
-    "id": 7296,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7296
   },
   "name": "n8n Terminal",
   "tags": [],

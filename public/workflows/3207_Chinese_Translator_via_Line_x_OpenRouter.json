@@ -2,8 +2,7 @@
   "id": "iFkGAiVn3yBlykIG",
   "meta": {
     "name": "Chinese Translator via Line x OpenRouter",
-    "id": 3207,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3207
   },
   "name": "Chinese Translator",
   "tags": [

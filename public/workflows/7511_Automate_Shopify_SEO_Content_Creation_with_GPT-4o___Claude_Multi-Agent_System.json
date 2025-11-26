@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Shopify SEO Content Creation with GPT-4o & Claude Multi-Agent System",
-    "id": 7511,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7511
   },
   "nodes": [
     {

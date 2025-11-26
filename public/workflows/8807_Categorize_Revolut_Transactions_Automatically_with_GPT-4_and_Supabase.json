@@ -2,8 +2,7 @@
   "id": "qfdeygimBULYjsqJ",
   "meta": {
     "name": "Categorize Revolut Transactions Automatically with GPT-4 and Supabase",
-    "id": 8807,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8807
   },
   "name": "Revolut Expenses Manual",
   "tags": [

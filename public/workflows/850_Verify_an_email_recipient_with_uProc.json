@@ -100,7 +100,6 @@
   },
   "meta": {
     "name": "Verify an email recipient with uProc",
-    "id": 850,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 850
   }
 }

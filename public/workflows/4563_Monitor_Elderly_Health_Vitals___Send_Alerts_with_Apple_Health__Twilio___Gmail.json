@@ -2,8 +2,7 @@
   "id": "O4tdYnKCcAztd79t",
   "meta": {
     "name": "Monitor Elderly Health Vitals & Send Alerts with Apple Health, Twilio & Gmail",
-    "id": 4563,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4563
   },
   "name": "Elderwatch",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "8dpOtivR6zGMa8Nf",
   "meta": {
     "name": "Automate Business Lead Scraping from Apify to Google Sheets with Data Cleaning",
-    "id": 4295,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4295
   },
   "name": "Automated Lead Scraper: Apify to Google Sheets",
   "tags": [],

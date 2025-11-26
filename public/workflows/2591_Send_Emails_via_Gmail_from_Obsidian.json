@@ -2,8 +2,7 @@
   "id": "DNqCvzBvS7GAFWm4",
   "meta": {
     "name": "Send Emails via Gmail from Obsidian",
-    "id": 2591,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2591
   },
   "name": "Send Emails from Obsidian",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weather Alerts via SMS (OpenWeather + Twilio)",
-    "id": 8040,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8040
   },
   "nodes": [
     {

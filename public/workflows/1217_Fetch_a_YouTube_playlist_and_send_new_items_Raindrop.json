@@ -161,7 +161,6 @@
   },
   "meta": {
     "name": "Fetch a YouTube playlist and send new items Raindrop",
-    "id": 1217,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1217
   }
 }

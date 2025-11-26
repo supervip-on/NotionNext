@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Stock Trades with AI-Driven Technical Analysis & Alpaca Trading",
-    "id": 7240,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7240
   },
   "nodes": [
     {

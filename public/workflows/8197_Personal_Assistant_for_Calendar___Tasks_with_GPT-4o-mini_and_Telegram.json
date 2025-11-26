@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personal Assistant for Calendar & Tasks with GPT-4o-mini and Telegram",
-    "id": 8197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8197
   },
   "nodes": [
     {

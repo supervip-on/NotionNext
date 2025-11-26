@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Tech News Curation with RSS, GPT-4o-Mini, and Gmail Delivery",
-    "id": 7874,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7874
   },
   "nodes": [
     {

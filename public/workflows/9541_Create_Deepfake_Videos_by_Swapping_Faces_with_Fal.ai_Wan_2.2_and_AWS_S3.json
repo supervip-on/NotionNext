@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Deepfake Videos by Swapping Faces with Fal.ai Wan 2.2 and AWS S3",
-    "id": 9541,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9541
   },
   "nodes": [
     {

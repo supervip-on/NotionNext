@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an On-Premises AI Kaggle Competition Assistant with Qdrant RAG and Ollama",
-    "id": 3967,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3967
   },
   "nodes": [
     {

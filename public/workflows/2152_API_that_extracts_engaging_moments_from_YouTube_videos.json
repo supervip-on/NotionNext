@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "API that extracts engaging moments from YouTube videos ",
-    "id": 2152,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2152
   },
   "nodes": [
     {

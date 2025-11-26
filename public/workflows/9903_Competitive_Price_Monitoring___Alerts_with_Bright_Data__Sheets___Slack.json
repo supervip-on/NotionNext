@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Competitive Price Monitoring & Alerts with Bright Data, Sheets & Slack",
-    "id": 9903,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9903
   },
   "nodes": [
     {

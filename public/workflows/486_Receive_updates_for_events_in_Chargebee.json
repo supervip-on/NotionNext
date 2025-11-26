@@ -22,7 +22,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for events in Chargebee",
-    "id": 486,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 486
   }
 }

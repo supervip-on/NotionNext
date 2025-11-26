@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Score Product-Qualified Leads with Amplitude, Claude & PDL for Sales Routing",
-    "id": 10010,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10010
   },
   "name": "PQL + Amplitude",
   "tags": [],

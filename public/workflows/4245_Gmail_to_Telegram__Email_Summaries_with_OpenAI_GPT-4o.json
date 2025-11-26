@@ -2,8 +2,7 @@
   "id": "c0Ti00TfFE1MdpZd",
   "meta": {
     "name": "Gmail to Telegram: Email Summaries with OpenAI GPT-4o",
-    "id": 4245,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4245
   },
   "name": "📨 Send AI summaries of incoming emails from Gmail to Telegram",
   "tags": [],

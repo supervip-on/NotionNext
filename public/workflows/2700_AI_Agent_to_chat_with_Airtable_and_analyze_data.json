@@ -1396,8 +1396,7 @@
   },
   "meta": {
     "name": "AI Agent to chat with Airtable and analyze data",
-    "id": 2700,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2700
   },
   "id": "2700"
 }

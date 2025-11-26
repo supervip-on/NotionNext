@@ -2,8 +2,7 @@
   "id": "p8bHqYEvjtOrvz3q",
   "meta": {
     "name": "Answer Questions from Documents with RAG using Supabase, OpenAI & Cohere Reranker",
-    "id": 6345,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6345
   },
   "name": "RAG Reranking",
   "tags": [],

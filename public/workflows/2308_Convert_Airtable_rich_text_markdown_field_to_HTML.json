@@ -2,8 +2,7 @@
   "id": "LMMle9xFHQxXUWQy",
   "meta": {
     "name": "Convert Airtable rich text markdown field to HTML",
-    "id": 2308,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2308
   },
   "name": "Airtable markdown to html",
   "tags": [],

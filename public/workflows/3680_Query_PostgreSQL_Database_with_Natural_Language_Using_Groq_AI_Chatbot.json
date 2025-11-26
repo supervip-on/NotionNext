@@ -2,8 +2,7 @@
   "id": "ow1aBANn8lQH0TbA",
   "meta": {
     "name": "Query PostgreSQL Database with Natural Language Using Groq AI Chatbot",
-    "id": 3680,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3680
   },
   "name": "My workflow 4",
   "tags": [],

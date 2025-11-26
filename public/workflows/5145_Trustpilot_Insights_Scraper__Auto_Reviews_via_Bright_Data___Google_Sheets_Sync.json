@@ -2,8 +2,7 @@
   "id": "LVt5qJz73ARtrzki",
   "meta": {
     "name": "Trustpilot Insights Scraper: Auto Reviews via Bright Data + Google Sheets Sync",
-    "id": 5145,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5145
   },
   "name": "Trustpilot Insights Scraper: Auto Reviews via Bright Data + Google Sheets Sync",
   "tags": [],

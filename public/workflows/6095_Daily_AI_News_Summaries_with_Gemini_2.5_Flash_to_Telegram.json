@@ -2,8 +2,7 @@
   "id": "zDkzvOtSzX6bWfNH",
   "meta": {
     "name": "Daily AI News Summaries with Gemini 2.5 Flash to Telegram",
-    "id": 6095,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6095
   },
   "name": "AI News to Telegram",
   "tags": [],

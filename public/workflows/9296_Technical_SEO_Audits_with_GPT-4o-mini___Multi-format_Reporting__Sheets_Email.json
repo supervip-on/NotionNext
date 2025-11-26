@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Technical SEO Audits with GPT-4o-mini & Multi-format Reporting (Sheets/Email)",
-    "id": 9296,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9296
   },
   "nodes": [
     {

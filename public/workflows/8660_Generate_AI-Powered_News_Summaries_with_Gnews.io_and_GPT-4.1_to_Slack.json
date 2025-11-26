@@ -2,8 +2,7 @@
   "id": "yX0GguuTfJTMO5fn",
   "meta": {
     "name": "Generate AI-Powered News Summaries with Gnews.io and GPT-4.1 to Slack",
-    "id": 8660,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8660
   },
   "name": "Daily News AI Agent using Gnews.io",
   "tags": [],

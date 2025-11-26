@@ -2,8 +2,7 @@
   "id": "PtPKIqDlz5xrrvHP",
   "meta": {
     "name": "Sync tasks automatically from Todoist to Notion",
-    "id": 1778,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1778
   },
   "name": "Sync Todoist tasks to Notion",
   "tags": [],

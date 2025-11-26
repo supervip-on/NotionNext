@@ -2,8 +2,7 @@
   "id": "AwApYNYyap3QWQCh",
   "meta": {
     "name": "Implement Intelligent Message Buffering for AI Chats with Redis and GPT-4-mini",
-    "id": 8238,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8238
   },
   "name": "Implementing a Scalable Message Buffer for Natural AI Conversations in n8n",
   "tags": [],

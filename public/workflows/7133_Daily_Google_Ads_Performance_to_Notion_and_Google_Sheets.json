@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Google Ads Performance to Notion and Google Sheets",
-    "id": 7133,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7133
   },
   "nodes": [
     {

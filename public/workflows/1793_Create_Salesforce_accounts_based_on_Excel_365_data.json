@@ -384,8 +384,7 @@
   },
   "meta": {
     "name": "Create Salesforce accounts based on Excel 365 data",
-    "id": 1793,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1793
   },
   "id": "1793"
 }

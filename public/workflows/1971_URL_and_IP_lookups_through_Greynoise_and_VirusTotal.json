@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "URL and IP lookups through Greynoise and VirusTotal",
-    "id": 1971,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1971
   },
   "nodes": [
     {

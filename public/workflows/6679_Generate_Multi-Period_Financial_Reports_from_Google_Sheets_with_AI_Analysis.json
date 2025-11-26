@@ -2,8 +2,7 @@
   "id": "p3BhWvtYryFCnIMZ",
   "meta": {
     "name": "Generate Multi-Period Financial Reports from Google Sheets with AI Analysis",
-    "id": 6679,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6679
   },
   "name": "Google Report",
   "tags": [],

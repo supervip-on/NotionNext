@@ -122,8 +122,7 @@
   },
   "meta": {
     "name": "Manage folders in Nextcloud",
-    "id": 620,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 620
   },
   "id": "620"
 }

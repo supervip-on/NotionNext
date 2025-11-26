@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate LinkedIn Content Using Viral Post Analysis with Gemini AI & Flux Image Generation",
-    "id": 7973,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7973
   },
   "nodes": [
     {

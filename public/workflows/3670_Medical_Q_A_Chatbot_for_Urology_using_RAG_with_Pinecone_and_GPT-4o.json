@@ -2,8 +2,7 @@
   "id": "q07AalYfXfiMc0p2",
   "meta": {
     "name": "Medical Q&A Chatbot for Urology using RAG with Pinecone and GPT-4o",
-    "id": 3670,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3670
   },
   "name": "Medical Q&A Assistant for Urology using RAG with Pinecone and GPT-4o",
   "tags": [],

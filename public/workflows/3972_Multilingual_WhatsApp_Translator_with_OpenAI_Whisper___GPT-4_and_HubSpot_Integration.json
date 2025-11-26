@@ -2,8 +2,7 @@
   "id": "g16MRt8h8jL18fqA",
   "meta": {
     "name": "Multilingual WhatsApp Translator with OpenAI Whisper & GPT-4 and HubSpot Integration",
-    "id": 3972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3972
   },
   "name": "🌍 AI WhatsApp Translator + Voice Transcriber with HubSpot Integration",
   "tags": [

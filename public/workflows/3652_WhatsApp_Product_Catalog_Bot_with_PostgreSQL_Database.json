@@ -2,8 +2,7 @@
   "id": "einrgpZs8WKQAqu1",
   "meta": {
     "name": "WhatsApp Product Catalog Bot with PostgreSQL Database",
-    "id": 3652,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3652
   },
   "name": "WA-Bot-Module-Catalog-v1-db-sell-full",
   "tags": [

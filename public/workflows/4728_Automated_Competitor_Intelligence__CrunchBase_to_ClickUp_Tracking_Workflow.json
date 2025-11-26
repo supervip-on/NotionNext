@@ -2,8 +2,7 @@
   "id": "7ITgmmCKTMFGlTYD",
   "meta": {
     "name": "Automated Competitor Intelligence: CrunchBase to ClickUp Tracking Workflow",
-    "id": 4728,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4728
   },
   "name": "Competitor tracking on CrunchBase",
   "tags": [],

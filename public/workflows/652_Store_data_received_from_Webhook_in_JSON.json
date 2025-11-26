@@ -89,8 +89,7 @@
   },
   "meta": {
     "name": "Store data received from Webhook in JSON",
-    "id": 652,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 652
   },
   "id": "652"
 }

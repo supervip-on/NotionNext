@@ -2,8 +2,7 @@
   "id": "t1P14FvfibKYCh3E",
   "meta": {
     "name": "AI Automated HR Workflow for CV Analysis and Candidate Evaluation",
-    "id": 2860,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2860
   },
   "name": "HR-focused automation pipeline with AI",
   "tags": [],

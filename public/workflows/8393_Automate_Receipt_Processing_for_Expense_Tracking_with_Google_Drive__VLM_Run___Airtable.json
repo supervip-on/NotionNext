@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Receipt Processing for Expense Tracking with Google Drive, VLM Run & Airtable",
-    "id": 8393,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8393
   },
   "nodes": [
     {

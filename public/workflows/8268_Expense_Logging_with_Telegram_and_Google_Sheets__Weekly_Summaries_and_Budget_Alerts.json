@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Expense Logging with Telegram and Google Sheets: Weekly Summaries and Budget Alerts",
-    "id": 8268,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8268
   },
   "nodes": [
     {

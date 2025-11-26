@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI: Ask questions about any data source (using the n8n workflow retriever)",
-    "id": 1958,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1958
   },
   "nodes": [
     {

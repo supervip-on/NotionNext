@@ -2,8 +2,7 @@
   "id": "ceWLt9HQyWq1CZ6U",
   "meta": {
     "name": "AI Agent Creates Content to Be Picked by ChatGPT, Gemini, Google",
-    "id": 4652,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4652
   },
   "name": "GEO/SEO content engine",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Customer Financial Report Delivery System with Telegram and Google Sheets",
-    "id": 10377,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10377
   },
   "nodes": [
     {

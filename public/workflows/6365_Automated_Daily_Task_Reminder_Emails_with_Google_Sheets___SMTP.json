@@ -2,8 +2,7 @@
   "id": "4CEVNvAxTcHxo9DD",
   "meta": {
     "name": "Automated Daily Task Reminder Emails with Google Sheets & SMTP",
-    "id": 6365,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6365
   },
   "name": "Reminder email",
   "tags": [],

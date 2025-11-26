@@ -2,8 +2,7 @@
   "id": "X2u0Wnuo2Yp8dSaq",
   "meta": {
     "name": "Automate Invoice Generation & Email Delivery with Jotform, Xero & GPT-4o-mini",
-    "id": 9796,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9796
   },
   "name": "Generate Invoices for Customers with Jotform, Xero and Slack",
   "tags": [],

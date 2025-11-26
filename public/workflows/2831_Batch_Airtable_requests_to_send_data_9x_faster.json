@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Batch Airtable requests to send data 9x faster",
-    "id": 2831,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2831
   },
   "nodes": [
     {

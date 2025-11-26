@@ -2,8 +2,7 @@
   "id": "jBgzLQDvUfBwo5rG",
   "meta": {
     "name": "Summarize News Articles & Auto-Post to Social Media with GPT-4 and GetLate",
-    "id": 8694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8694
   },
   "name": "🗞️ News Summarizer & Auto-Poster for Social Media - Late",
   "tags": [

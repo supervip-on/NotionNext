@@ -2,8 +2,7 @@
   "id": "AlEVIPHR3dMJkYWt",
   "meta": {
     "name": "Monitor USDT ERC-20 Wallet Balance with Etherscan and Telegram Notifications",
-    "id": 3330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3330
   },
   "name": "Monitor USDT ERC-20 Wallet Balance with Etherscan and Telegram Notifications",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "H39e9rSjzJIcbpt4",
   "meta": {
     "name": "Sync KPI Metrics from ClickUp and Google Sheets to Slack and Gmail",
-    "id": 9464,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9464
   },
   "name": "Sync KPI Metrics from ClickUp and Google Sheets to Slack and Gmail",
   "tags": [],

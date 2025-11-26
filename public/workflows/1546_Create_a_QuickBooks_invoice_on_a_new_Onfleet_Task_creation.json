@@ -53,8 +53,7 @@
   },
   "meta": {
     "name": "Create a QuickBooks invoice on a new Onfleet Task creation",
-    "id": 1546,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1546
   },
   "id": "1546"
 }

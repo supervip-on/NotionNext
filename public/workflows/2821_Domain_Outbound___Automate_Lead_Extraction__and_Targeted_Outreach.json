@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Domain Outbound : Automate Lead Extraction, and Targeted Outreach",
-    "id": 2821,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2821
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "oOxhkss1gOyLvJyf",
   "meta": {
     "name": "Generate Research Questions from PDFs using InfraNodus Content Gap Analysis",
-    "id": 5744,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5744
   },
   "name": "Generate Research Questions and AI Prompts from PDF Documents based on Content Gaps",
   "tags": [

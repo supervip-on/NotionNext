@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate & Upload Images with Leonardo AI, WordPress and Twitter",
-    "id": 6363,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6363
   },
   "nodes": [
     {

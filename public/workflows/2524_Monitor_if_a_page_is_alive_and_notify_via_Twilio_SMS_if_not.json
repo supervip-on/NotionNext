@@ -2,8 +2,7 @@
   "id": "ppsHlJlSpHPQJp4Q",
   "meta": {
     "name": "Monitor if a page is alive and notify via Twilio SMS if not",
-    "id": 2524,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2524
   },
   "tags": [],
   "nodes": [

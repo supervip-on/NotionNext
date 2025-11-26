@@ -112,8 +112,7 @@
   },
   "meta": {
     "name": "Demonstrates the use of the $item(index) method",
-    "id": 1330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1330
   },
   "id": "1330"
 }

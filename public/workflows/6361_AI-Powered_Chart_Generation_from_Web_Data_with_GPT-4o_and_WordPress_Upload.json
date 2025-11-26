@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Chart Generation from Web Data with GPT-4o and WordPress Upload",
-    "id": 6361,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6361
   },
   "nodes": [
     {

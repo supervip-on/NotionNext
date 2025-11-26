@@ -2,8 +2,7 @@
   "id": "5oytfka3VbKglzBE",
   "meta": {
     "name": "Verify Linkedin Company Page by Domain with Airtop",
-    "id": 4263,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4263
   },
   "name": "Verify Company LinkedIn Page by Domain",
   "tags": [],

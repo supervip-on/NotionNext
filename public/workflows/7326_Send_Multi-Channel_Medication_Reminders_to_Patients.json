@@ -2,8 +2,7 @@
   "id": "tlSpKOkePu86NbpC",
   "meta": {
     "name": "Send Multi-Channel Medication Reminders to Patients",
-    "id": 7326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7326
   },
   "name": "Send Automated Medication Reminders to Patients",
   "tags": [],

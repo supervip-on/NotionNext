@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract High-Engagement YouTube Keyword Trends for Content Strategy",
-    "id": 8091,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8091
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "wDD4XugmHIvx3KMT",
   "meta": {
     "name": "Synchronize your Google Sheets with Postgres",
-    "id": 2081,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2081
   },
   "name": "Synchronize your Google Sheets with Postgres",
   "tags": [],

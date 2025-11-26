@@ -2,8 +2,7 @@
   "id": "VSUVQ0IMSqJG3w9T",
   "meta": {
     "name": "Automate CVE Monitoring with OpenAI Processing for ServiceNow Security Incidents",
-    "id": 7224,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7224
   },
   "name": "Extract and Create Vulnerabilities in ServiceNow",
   "tags": [],

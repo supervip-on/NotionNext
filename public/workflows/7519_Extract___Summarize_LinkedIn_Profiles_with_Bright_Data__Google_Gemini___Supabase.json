@@ -2,8 +2,7 @@
   "id": "8A9m8RyPKJZGTLQO",
   "meta": {
     "name": "Extract & Summarize LinkedIn Profiles with Bright Data, Google Gemini & Supabase",
-    "id": 7519,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7519
   },
   "name": "LinkedIn Scraper with Deep Extract, Summarize with Google Gemini & Supabase",
   "tags": [

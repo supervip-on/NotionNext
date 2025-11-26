@@ -47,7 +47,6 @@
   },
   "meta": {
     "name": "Send a message to a channel on Twake",
-    "id": 595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 595
   }
 }

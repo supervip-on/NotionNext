@@ -62,7 +62,6 @@
   },
   "meta": {
     "name": "Assign values to variables using the Set node",
-    "id": 526,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 526
   }
 }

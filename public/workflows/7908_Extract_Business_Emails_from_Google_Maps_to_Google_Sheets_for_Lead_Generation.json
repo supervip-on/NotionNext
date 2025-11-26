@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Business Emails from Google Maps to Google Sheets for Lead Generation",
-    "id": 7908,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7908
   },
   "nodes": [
     {

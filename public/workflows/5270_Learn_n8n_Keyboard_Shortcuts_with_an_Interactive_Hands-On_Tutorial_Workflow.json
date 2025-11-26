@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎓 Learn n8n Keyboard Shortcuts with an Interactive Hands-On Tutorial Workflow",
-    "id": 5270,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5270
   },
   "nodes": [
     {

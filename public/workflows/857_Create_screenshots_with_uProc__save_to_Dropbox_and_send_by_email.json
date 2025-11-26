@@ -271,7 +271,6 @@
   },
   "meta": {
     "name": "Create screenshots with uProc, save to Dropbox and send by email",
-    "id": 857,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 857
   }
 }

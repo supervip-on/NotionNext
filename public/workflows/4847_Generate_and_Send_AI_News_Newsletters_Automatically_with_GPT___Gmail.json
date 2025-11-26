@@ -2,8 +2,7 @@
   "id": "DSxmKG8H861zKUw8",
   "meta": {
     "name": "Generate and Send AI News Newsletters Automatically with GPT & Gmail",
-    "id": 4847,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4847
   },
   "name": "AI Generated Email Newsletter",
   "tags": [],

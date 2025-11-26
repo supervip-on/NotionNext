@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Agile Project Generator with ClickUp Task Hierarchy using GPT-5 & Forms",
-    "id": 8102,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8102
   },
   "nodes": [
     {

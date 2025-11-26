@@ -136,7 +136,6 @@
   },
   "meta": {
     "name": "Gender inclusive language bot for Mattermost",
-    "id": 982,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 982
   }
 }

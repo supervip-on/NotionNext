@@ -2,8 +2,7 @@
   "id": "TEMPLATE_WORKFLOW_ID",
   "meta": {
     "name": "Automate Newsletter Creation & Client Delivery with GPT-4O, Google Sheets",
-    "id": 5694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5694
   },
   "name": "Newsletter",
   "tags": [],

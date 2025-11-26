@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Sonarr Missing Episode Finder with Quality & Language Filtering",
-    "id": 5927,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5927
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Instagram Comments to Leads with KlickTipp & Custom DMs",
-    "id": 9947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9947
   },
   "nodes": [
     {

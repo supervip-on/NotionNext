@@ -2,8 +2,7 @@
   "id": "oWTmtu5Euv0y5n13",
   "meta": {
     "name": "Facebook Comment AI Moderator with Notion & Gemini",
-    "id": 7660,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7660
   },
   "name": "Facebook Comments Moderator",
   "tags": [],

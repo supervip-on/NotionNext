@@ -2,8 +2,7 @@
   "id": "nbTOk6E6xwPG6iHB",
   "meta": {
     "name": "Unix Timestamp to ISO Date Converter",
-    "id": 4623,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4623
   },
   "name": "Unix Timestamp to ISO Date Converter",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "oqitoUUaeO8RP9XO",
   "meta": {
     "name": "Summarize RSS News with Gemini AI and Store in Google Sheets",
-    "id": 8024,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8024
   },
   "name": "News",
   "tags": [],

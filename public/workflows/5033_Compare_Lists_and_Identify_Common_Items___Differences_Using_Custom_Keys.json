@@ -2,8 +2,7 @@
   "id": "6oFu27D3MfMM86Oz",
   "meta": {
     "name": "Compare Lists and Identify Common Items & Differences Using Custom Keys",
-    "id": 5033,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5033
   },
   "name": "comparer",
   "tags": [],

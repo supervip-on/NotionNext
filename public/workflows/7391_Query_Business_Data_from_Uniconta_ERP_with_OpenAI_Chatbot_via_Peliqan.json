@@ -2,8 +2,7 @@
   "id": "L7gGUWkvL3u0OG4p",
   "meta": {
     "name": "Query Business Data from Uniconta ERP with OpenAI Chatbot via Peliqan",
-    "id": 7391,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7391
   },
   "name": "Peliqan AI Agent Uniconta ERP",
   "tags": [],

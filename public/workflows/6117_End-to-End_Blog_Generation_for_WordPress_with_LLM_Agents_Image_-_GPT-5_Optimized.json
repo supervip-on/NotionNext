@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "End-to-End Blog Generation for WordPress with LLM Agents&Image - GPT-5 Optimized",
-    "id": 6117,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6117
   },
   "nodes": [
     {

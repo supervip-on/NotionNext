@@ -2,8 +2,7 @@
   "id": "lovWsa7STX2WKfCd",
   "meta": {
     "name": "Automate RSS Content with AI: Summarize, Notify & Archive",
-    "id": 4503,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4503
   },
   "name": "RSS AI Summarizer",
   "tags": [],

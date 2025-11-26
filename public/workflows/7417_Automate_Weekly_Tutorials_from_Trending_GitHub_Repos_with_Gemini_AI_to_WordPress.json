@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Weekly Tutorials from Trending GitHub Repos with Gemini AI to WordPress",
-    "id": 7417,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7417
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Appointment Approval System with GPT-4 Mini, JotForm, and Telegram",
-    "id": 9466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9466
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "pQsIsuD3FqbyPYgJ",
   "meta": {
     "name": "Automatically Post Latest Reddit Content to Discord with Image Extraction",
-    "id": 5105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5105
   },
   "name": "Reddit Poster to Discord",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "cN4nA1LigjoreUYv",
   "meta": {
     "name": "Build and Update RAG System with Google Drive, Qdrant, and Gemini Chat",
-    "id": 5140,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5140
   },
   "name": "Enables updates to documents in RAG",
   "tags": [

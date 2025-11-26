@@ -2,8 +2,7 @@
   "id": "[WORKFLOW_ID_REMOVED]",
   "meta": {
     "name": "Automate Calendly to HubSpot: Contact Updates & Meeting Logging",
-    "id": 8438,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8438
   },
   "name": "26 - Calendly Engagement Sync",
   "tags": [

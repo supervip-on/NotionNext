@@ -80,7 +80,6 @@
   },
   "meta": {
     "name": "Get Weather Forecast via Telegram",
-    "id": 346,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 346
   }
 }

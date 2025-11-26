@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate Tech News Blog Posts with NewsAPI & Google Gemini to WordPress",
-    "id": 7397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7397
   },
   "nodes": [
     {

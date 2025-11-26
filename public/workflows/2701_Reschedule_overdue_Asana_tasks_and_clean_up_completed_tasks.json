@@ -2,8 +2,7 @@
   "id": "RJ4PaYq0JBr29KJm",
   "meta": {
     "name": "Reschedule overdue Asana tasks and clean up completed tasks",
-    "id": 2701,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2701
   },
   "name": "Reschedule overdue Asana tasks and clean up completed tasks",
   "tags": [

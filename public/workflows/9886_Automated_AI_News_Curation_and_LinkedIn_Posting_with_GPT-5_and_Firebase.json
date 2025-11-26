@@ -2,8 +2,7 @@
   "id": "e4i8hT22bMxGlNho",
   "meta": {
     "name": "Automated AI News Curation and LinkedIn Posting with GPT-5 and Firebase",
-    "id": 9886,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9886
   },
   "name": "LinkedIn autoposting workflow",
   "tags": [],

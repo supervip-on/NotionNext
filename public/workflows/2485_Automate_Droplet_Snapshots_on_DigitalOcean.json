@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Droplet Snapshots on DigitalOcean",
-    "id": 2485,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2485
   },
   "nodes": [
     {

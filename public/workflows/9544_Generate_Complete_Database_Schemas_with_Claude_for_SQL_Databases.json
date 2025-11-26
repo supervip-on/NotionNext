@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Complete Database Schemas with Claude for SQL Databases",
-    "id": 9544,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9544
   },
   "nodes": [
     {

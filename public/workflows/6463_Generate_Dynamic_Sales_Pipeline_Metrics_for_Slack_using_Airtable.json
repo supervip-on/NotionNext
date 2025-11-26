@@ -2,8 +2,7 @@
   "id": "53Zi0qKV30N2PZq9",
   "meta": {
     "name": "Generate Dynamic Sales Pipeline Metrics for Slack using Airtable",
-    "id": 6463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6463
   },
   "name": "Weekly Slack Sales Report (Airtable Edition)",
   "tags": [],

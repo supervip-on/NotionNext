@@ -2,8 +2,7 @@
   "id": "2Eba0OHGtOmoTWOU",
   "meta": {
     "name": "Build a Document QA System with RAG using Milvus, Cohere, and OpenAI for Google Drive",
-    "id": 3848,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3848
   },
   "name": "RAG AI Agent with Milvus and Cohere",
   "tags": [

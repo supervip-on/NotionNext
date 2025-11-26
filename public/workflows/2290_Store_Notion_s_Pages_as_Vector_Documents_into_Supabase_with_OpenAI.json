@@ -2,8 +2,7 @@
   "id": "DvP6IHWymTIVg8Up",
   "meta": {
     "name": "Store Notion's Pages as Vector Documents into Supabase with OpenAI",
-    "id": 2290,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2290
   },
   "name": "Store Notion's Pages as Vector Documents into Supabase with OpenAI",
   "tags": [],

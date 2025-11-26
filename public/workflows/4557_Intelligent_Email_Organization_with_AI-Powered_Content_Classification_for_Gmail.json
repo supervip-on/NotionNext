@@ -2,8 +2,7 @@
   "id": "MKPGGcZ4kNS2VaAd",
   "meta": {
     "name": "Intelligent Email Organization with AI-Powered Content Classification for Gmail",
-    "id": 4557,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4557
   },
   "name": "Auto Gmail Labeling (Powered by OpenAI)",
   "tags": [

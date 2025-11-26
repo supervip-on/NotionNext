@@ -2,8 +2,7 @@
   "id": "IvgAFAUOSI3biT4L",
   "meta": {
     "name": "Translate Telegram audio messages with AI (55 supported languages)",
-    "id": 2206,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2206
   },
   "name": "Translate Telegram audio messages with AI (55 supported languages) v1",
   "tags": [],

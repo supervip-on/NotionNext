@@ -2,8 +2,7 @@
   "id": "GWXjIqENWvx6OqvX",
   "meta": {
     "name": "Build an endpoint to perform CRUD operations with multiple HTTP methods",
-    "id": 2490,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2490
   },
   "name": "TEMPLATE - Multi Methods API Endpoint",
   "tags": [],

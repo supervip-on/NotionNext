@@ -2,8 +2,7 @@
   "id": "7np7XO05qTRGi5Fr",
   "meta": {
     "name": "Process Documents & Build Semantic Search with OpenAI, Gemini & Qdrant",
-    "id": 7882,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7882
   },
   "name": "Store Files in Qdrant CLOUD Fairwork",
   "tags": [],

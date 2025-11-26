@@ -272,8 +272,7 @@
   },
   "meta": {
     "name": "Generate Weekly Document Digests from Google Docs with GPT-4 and Email Delivery",
-    "id": 8039,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8039
   },
   "id": "8039"
 }

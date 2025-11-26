@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Query Slack Channel History with Natural Language using OpenAI",
-    "id": 7669,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7669
   },
   "nodes": [
     {

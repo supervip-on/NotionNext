@@ -2,8 +2,7 @@
   "id": "T07dgMHOSZIFln2L",
   "meta": {
     "name": "Smart Meeting Rescheduler: Gmail + Calendar + Sheets Automation",
-    "id": 8509,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8509
   },
   "name": "No-Show Follow-Up and Rescheduling",
   "tags": [],

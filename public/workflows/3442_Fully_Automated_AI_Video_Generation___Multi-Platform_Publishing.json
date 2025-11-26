@@ -2,8 +2,7 @@
   "id": "KY0vB3hifSrA24k2",
   "meta": {
     "name": "Fully Automated AI Video Generation & Multi-Platform Publishing",
-    "id": 3442,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3442
   },
   "name": "AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all social networks",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "NypEKbAcGEmuEpCP",
   "meta": {
     "name": "Scrape Google Events data to Google Sheets via SerpApi",
-    "id": 6105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6105
   },
   "name": "Google Events API",
   "tags": [],

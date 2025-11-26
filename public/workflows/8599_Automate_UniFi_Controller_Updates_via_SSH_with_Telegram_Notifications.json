@@ -294,8 +294,7 @@
   },
   "meta": {
     "name": "Automate UniFi Controller Updates via SSH with Telegram Notifications",
-    "id": 8599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8599
   },
   "id": "8599"
 }

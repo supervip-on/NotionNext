@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered MIS Agent",
-    "id": 4341,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4341
   },
   "nodes": [
     {

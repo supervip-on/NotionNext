@@ -2,8 +2,7 @@
   "id": "Rptc1H55PaNYDVZa",
   "meta": {
     "name": "Auto-Renew AWS Certificates with Slack Approval Workflow",
-    "id": 7490,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7490
   },
   "name": "AWS ACM Certificate Auto-Renew with Slack approval",
   "tags": [],

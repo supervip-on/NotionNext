@@ -2,8 +2,7 @@
   "id": "cwrarZxOJMtWX52O",
   "meta": {
     "name": "IP Geolocation Lookup with BigDataCloud API for AI Agents",
-    "id": 5539,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5539
   },
   "name": "IP Geolocation API MCP Server",
   "tags": [],

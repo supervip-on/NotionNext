@@ -2,8 +2,7 @@
   "id": "WhaOZtqmJ5c3XITs",
   "meta": {
     "name": "Multi-User Telegram Bot to Summarize & Repurpose YouTube Videos with GPT-4o",
-    "id": 5468,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5468
   },
   "name": "multi-user-yt-summarizer-telegram-bot",
   "tags": [

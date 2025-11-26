@@ -2,8 +2,7 @@
   "id": "NKH75Yw8BamfkKSH",
   "meta": {
     "name": "Automate Blog Post Publishing from Airtable to Hashnode with API Integration",
-    "id": 7063,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7063
   },
   "name": "Airtable-to-HashNode",
   "tags": [

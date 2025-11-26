@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "2-way sync Notion and Google Calendar",
-    "id": 2351,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2351
   },
   "nodes": [
     {

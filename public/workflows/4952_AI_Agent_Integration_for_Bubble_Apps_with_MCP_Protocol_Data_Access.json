@@ -2,8 +2,7 @@
   "id": "CqlwywHbmlc7eHNT",
   "meta": {
     "name": "AI Agent Integration for Bubble Apps with MCP Protocol Data Access",
-    "id": 4952,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4952
   },
   "name": "Bubble MCP server",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Salon Appointment Management with WhatsApp, GPT & Google Calendar",
-    "id": 4926,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4926
   },
   "nodes": [
     {

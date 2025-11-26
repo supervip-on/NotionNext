@@ -2,8 +2,7 @@
   "id": "kJfDku2rYe5QZdCO",
   "meta": {
     "name": "AI-Generated Weather Analysis with NWS Alerts, Radar Imagery, and Home Assistant",
-    "id": 6188,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6188
   },
   "name": "National Weather Service AI Analysis",
   "tags": [],

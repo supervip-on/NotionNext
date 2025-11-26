@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Ad Spend Monitoring with Google Sheets and Slack Threshold Alerts",
-    "id": 6990,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6990
   },
   "nodes": [
     {

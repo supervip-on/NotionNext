@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Summarise MS Teams Channel Activity for Weekly Reports with AI",
-    "id": 3971,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3971
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "mfAxsn2XqfEzDtYr",
   "meta": {
     "name": "Automate GitHub PR Linting with Google Gemini AI and Auto-Fix PRs",
-    "id": 4073,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4073
   },
   "name": "LintBot: Your Automated Code Quality Assistant",
   "tags": [],

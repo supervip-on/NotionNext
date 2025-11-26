@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Write a WordPress post with AI (starting from a few keywords)",
-    "id": 2187,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2187
   },
   "nodes": [
     {

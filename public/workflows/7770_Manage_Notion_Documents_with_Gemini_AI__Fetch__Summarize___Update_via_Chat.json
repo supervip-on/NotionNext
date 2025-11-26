@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage Notion Documents with Gemini AI: Fetch, Summarize & Update via Chat",
-    "id": 7770,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7770
   },
   "nodes": [
     {

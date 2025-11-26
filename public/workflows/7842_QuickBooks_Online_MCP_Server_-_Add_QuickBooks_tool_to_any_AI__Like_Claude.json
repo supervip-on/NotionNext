@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "QuickBooks Online MCP Server - Add QuickBooks tool to any AI (Like Claude)",
-    "id": 7842,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7842
   },
   "nodes": [
     {

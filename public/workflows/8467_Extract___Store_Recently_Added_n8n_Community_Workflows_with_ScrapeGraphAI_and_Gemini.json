@@ -2,8 +2,7 @@
   "id": "OiCx43rgyxTX9aX2",
   "meta": {
     "name": "Extract & Store Recently Added n8n Community Workflows with ScrapeGraphAI and Gemini",
-    "id": 8467,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8467
   },
   "name": "Extract Recently added WF on n8n Community with ScrapeGraph AI",
   "tags": [],

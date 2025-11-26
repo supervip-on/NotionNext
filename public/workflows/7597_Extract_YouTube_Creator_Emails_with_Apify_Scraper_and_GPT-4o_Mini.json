@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract YouTube Creator Emails with Apify Scraper and GPT-4o Mini",
-    "id": 7597,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7597
   },
   "nodes": [
     {

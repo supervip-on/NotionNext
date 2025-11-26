@@ -2,8 +2,7 @@
   "id": "GHDkm5yryfu6FoXN",
   "meta": {
     "name": "Automate Twitter Sentiment Analysis with OpenAI, Google Sheets, and Slack Alerts",
-    "id": 6119,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6119
   },
   "name": "Twitter Monitoring Workflow",
   "tags": [],

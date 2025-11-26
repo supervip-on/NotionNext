@@ -2,8 +2,7 @@
   "id": "A0Db66VzkRkoTQtL",
   "meta": {
     "name": "Query and Monitor Shopify Orders via Telegram Bot Commands",
-    "id": 4714,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4714
   },
   "name": "Query and Monitor Shopify Orders via Telegram Bot Commands",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "j2cXjrAKmMW32GkS",
   "meta": {
     "name": "Create Google Calendar Events from Natural Language Chat using GPT",
-    "id": 7910,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7910
   },
   "name": "Google Event Generator",
   "tags": [],

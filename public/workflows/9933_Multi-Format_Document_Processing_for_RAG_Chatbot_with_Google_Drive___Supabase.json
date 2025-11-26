@@ -2,8 +2,7 @@
   "id": "vAtv4ejDkrQLAj9t",
   "meta": {
     "name": "Multi-Format Document Processing for RAG Chatbot with Google Drive & Supabase",
-    "id": 9933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9933
   },
   "name": "RAG System V2 - Upload Doc",
   "tags": [

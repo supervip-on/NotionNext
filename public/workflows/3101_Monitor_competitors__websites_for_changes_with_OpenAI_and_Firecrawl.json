@@ -2,8 +2,7 @@
   "id": "aOP0D1cAqzGv7Xa8",
   "meta": {
     "name": "Monitor competitors' websites for changes with OpenAI and Firecrawl",
-    "id": 3101,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3101
   },
   "name": "spy tool",
   "tags": [],

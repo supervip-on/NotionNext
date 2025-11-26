@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated YouTube Subscription Notifications with RSS and Email",
-    "id": 3216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3216
   },
   "nodes": [
     {

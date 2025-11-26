@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🌲 AI Agent for Sustainability Report Audit with Gmail and GPT-40",
-    "id": 3420,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3420
   },
   "nodes": [
     {

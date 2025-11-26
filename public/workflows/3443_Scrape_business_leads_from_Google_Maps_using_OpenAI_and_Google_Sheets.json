@@ -2,8 +2,7 @@
   "id": "qhZvZVCoV3HLjRkq",
   "meta": {
     "name": "Scrape business leads from Google Maps using OpenAI and Google Sheets",
-    "id": 3443,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3443
   },
   "name": "Google Maps FULL",
   "tags": [],

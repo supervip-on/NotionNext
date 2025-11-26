@@ -2,8 +2,7 @@
   "id": "yNlNZi8P0wL4Tj5u",
   "meta": {
     "name": "Generate Natural Voices with Google Text-to-Speech, Drive & Airtable",
-    "id": 5779,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5779
   },
   "name": "Google Text-to-Speech Generator",
   "tags": [],

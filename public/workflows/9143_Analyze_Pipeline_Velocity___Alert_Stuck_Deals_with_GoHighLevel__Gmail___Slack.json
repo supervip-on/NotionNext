@@ -2,8 +2,7 @@
   "id": "7Mu8qjTtj8d94K08",
   "meta": {
     "name": "Analyze Pipeline Velocity & Alert Stuck Deals with GoHighLevel, Gmail & Slack",
-    "id": 9143,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9143
   },
   "name": "GoHighLevel Pipeline Velocity Tracker & Automated Stuck Deal Alerts",
   "tags": [],

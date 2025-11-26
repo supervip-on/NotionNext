@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Chat Routing Between Gemini and GPT Models Based on Query Complexity",
-    "id": 9247,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9247
   },
   "nodes": [
     {

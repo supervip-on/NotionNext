@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Content Factory with OpenAI Research & Replicate Branded Images",
-    "id": 8686,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8686
   },
   "nodes": [
     {

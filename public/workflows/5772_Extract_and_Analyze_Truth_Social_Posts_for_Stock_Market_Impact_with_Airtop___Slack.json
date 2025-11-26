@@ -2,8 +2,7 @@
   "id": "puzC1akjHG3456ue",
   "meta": {
     "name": "Extract and Analyze Truth Social Posts for Stock Market Impact with Airtop & Slack",
-    "id": 5772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5772
   },
   "name": "Trump-o-meter Template",
   "tags": [],

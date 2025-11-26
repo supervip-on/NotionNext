@@ -2,8 +2,7 @@
   "id": "1M8eORwpbrr0gS6O",
   "meta": {
     "name": "Real-time Error Detection with Slack Alerts and Jira Ticket Creation for Production",
-    "id": 6644,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6644
   },
   "name": "Instant Error Alert Bot for Production Downtime Prevention",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Email Marketing Campaign Workflow ",
-    "id": 2452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2452
   },
   "nodes": [
     {

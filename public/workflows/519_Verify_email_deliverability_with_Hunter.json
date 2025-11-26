@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Verify email deliverability with Hunter",
-    "id": 519,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 519
   },
   "id": "519"
 }

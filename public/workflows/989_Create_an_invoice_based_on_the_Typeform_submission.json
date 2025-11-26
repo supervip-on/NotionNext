@@ -55,8 +55,7 @@
   },
   "meta": {
     "name": "Create an invoice based on the Typeform submission",
-    "id": 989,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 989
   },
   "id": "989"
 }

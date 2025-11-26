@@ -2,8 +2,7 @@
   "id": "v6LyGtVBk8ZTj5mE",
   "meta": {
     "name": "Create a WHOIS API Interface for AI Agents with 8 Domain Management Operations",
-    "id": 5528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5528
   },
   "name": "Bulk WHOIS API MCP Server",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Domains with SimilarWeb Traffic Analytics in Google Sheets & Airtable",
-    "id": 7623,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7623
   },
   "name": "14 - Domain Traffic Enricher",
   "tags": [],

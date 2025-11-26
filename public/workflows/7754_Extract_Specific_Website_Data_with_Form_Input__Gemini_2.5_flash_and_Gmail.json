@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Specific Website Data with Form Input, Gemini 2.5 flash and Gmail",
-    "id": 7754,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7754
   },
   "nodes": [
     {

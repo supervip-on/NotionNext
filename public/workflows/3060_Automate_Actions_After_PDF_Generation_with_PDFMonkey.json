@@ -2,8 +2,7 @@
   "id": "s6nTFZfg6xjWyJRX",
   "meta": {
     "name": "Automate Actions After PDF Generation with PDFMonkey",
-    "id": 3060,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3060
   },
   "name": "React to PDFMonkey Callback",
   "tags": [],

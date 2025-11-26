@@ -46,8 +46,7 @@
   },
   "meta": {
     "name": "Translate cocktail instructions using DeepL",
-    "id": 998,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 998
   },
   "id": "998"
 }

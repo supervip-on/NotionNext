@@ -2,8 +2,7 @@
   "id": "AjxolVhM49WYCeRP",
   "meta": {
     "name": "Automate Payment Tracking with Google Sheets, ClickUp, Gmail and Slack",
-    "id": 9228,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9228
   },
   "name": "Payment Pending Automation - ClickUp Integration",
   "tags": [],

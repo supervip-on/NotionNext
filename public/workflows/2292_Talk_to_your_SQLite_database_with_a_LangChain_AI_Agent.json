@@ -2,8 +2,7 @@
   "id": "AQJ6QnF2yVdCWMnx",
   "meta": {
     "name": "Talk to your SQLite database with a LangChain AI Agent 🧠💬  ",
-    "id": 2292,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2292
   },
   "name": "SQL agent with memory",
   "tags": [],

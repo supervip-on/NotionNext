@@ -87,8 +87,7 @@
   },
   "meta": {
     "name": "Send feedback from Google Sheets to Mattermost",
-    "id": 731,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 731
   },
   "id": "731"
 }

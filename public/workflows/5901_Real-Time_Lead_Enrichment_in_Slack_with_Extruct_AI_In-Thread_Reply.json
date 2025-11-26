@@ -2,8 +2,7 @@
   "id": "I4JZs4ZoF6uGWA6K",
   "meta": {
     "name": "Real-Time Lead Enrichment in Slack with Extruct AI In-Thread Reply",
-    "id": 5901,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5901
   },
   "name": "Slack Lead Enricher",
   "tags": [],

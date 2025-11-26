@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate GLPI Support Performance Reports with SLA Tracking & Email Delivery",
-    "id": 9210,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9210
   },
   "nodes": [
     {

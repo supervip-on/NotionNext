@@ -2,8 +2,7 @@
   "id": "EA4KBc02CzW5rsGe",
   "meta": {
     "name": "Automated Jira Ticket Responses with GPT-4 and Pinecone Knowledge Base",
-    "id": 9087,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9087
   },
   "name": "Jira Knowledge Sync - Minimal (Summary → Comment & Assignee)",
   "tags": [],

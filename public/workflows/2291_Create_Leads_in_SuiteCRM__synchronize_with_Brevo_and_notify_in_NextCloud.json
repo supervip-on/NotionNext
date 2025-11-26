@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Leads in SuiteCRM, synchronize with Brevo and notify in NextCloud",
-    "id": 2291,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2291
   },
   "nodes": [
     {

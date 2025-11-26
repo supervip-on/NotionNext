@@ -2,8 +2,7 @@
   "id": "5jm27UVaH8DXL977",
   "meta": {
     "name": "Generate Personalized Cold Email Icebreakers from sites with GPT-4 & G-Sheets",
-    "id": 9882,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9882
   },
   "name": "icebraker Generator powered with Cha GPT",
   "tags": [],

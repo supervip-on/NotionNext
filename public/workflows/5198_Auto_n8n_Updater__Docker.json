@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Auto n8n Updater (Docker)",
-    "id": 5198,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5198
   },
   "nodes": [
     {

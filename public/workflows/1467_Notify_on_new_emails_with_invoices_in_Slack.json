@@ -225,7 +225,6 @@
   },
   "meta": {
     "name": "Notify on new emails with invoices in Slack",
-    "id": 1467,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1467
   }
 }

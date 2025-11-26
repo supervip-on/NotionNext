@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Internal Links from a Webpage",
-    "id": 3167,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3167
   },
   "nodes": [
     {

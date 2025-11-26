@@ -2,8 +2,7 @@
   "id": "zgVjyTFdUx4JfRnv",
   "meta": {
     "name": "Automate Construction Site Attendance Tracking with Geofencing, Google Sheets & Email Alerts",
-    "id": 6774,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6774
   },
   "name": "Track site attendance when construction worker checks in by GPS",
   "tags": [],

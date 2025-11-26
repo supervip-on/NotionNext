@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Unsubscribe Mautic contacts from automated unsubscribe emails",
-    "id": 2241,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2241
   },
   "name": "Unsubscribe Mautic contacts from automated unsubscribe emails",
   "tags": [],

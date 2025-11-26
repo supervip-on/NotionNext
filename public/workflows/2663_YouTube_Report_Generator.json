@@ -2,8 +2,7 @@
   "id": "nP0jpScffi653CjX",
   "meta": {
     "name": "YouTube Report Generator",
-    "id": 2663,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2663
   },
   "name": "YouTube Subtitles Report Generator",
   "tags": [],

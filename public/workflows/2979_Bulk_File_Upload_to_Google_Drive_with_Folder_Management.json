@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bulk File Upload to Google Drive with Folder Management",
-    "id": 2979,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2979
   },
   "nodes": [
     {

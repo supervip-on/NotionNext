@@ -2,8 +2,7 @@
   "id": "GWfJ5QEvxgj7hwGk",
   "meta": {
     "name": "Create Viral Videos from Reference Images with VIDU & Upload to YouTube/TikTok",
-    "id": 8709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8709
   },
   "name": "Generate video clips from your multiple image references",
   "tags": [],

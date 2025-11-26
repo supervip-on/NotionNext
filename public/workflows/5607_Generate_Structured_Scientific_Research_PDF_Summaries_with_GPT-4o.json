@@ -2,8 +2,7 @@
   "id": "z1y59Ygza4dbq9vD",
   "meta": {
     "name": "Generate Structured Scientific Research PDF Summaries with GPT-4o",
-    "id": 5607,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5607
   },
   "name": "Automatically Generate Structured Summaries of Scientific Research PDFs with GPT-4o",
   "tags": [],

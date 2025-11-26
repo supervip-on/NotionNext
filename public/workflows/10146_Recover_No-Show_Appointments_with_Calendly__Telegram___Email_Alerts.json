@@ -2,8 +2,7 @@
   "id": "MRS85XLwuma7aEeY",
   "meta": {
     "name": "Recover No-Show Appointments with Calendly, Telegram & Email Alerts",
-    "id": 10146,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10146
   },
   "name": "No-Show Appointment Recovery Bot",
   "tags": [],

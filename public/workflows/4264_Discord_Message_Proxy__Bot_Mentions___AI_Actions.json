@@ -2,8 +2,7 @@
   "id": "Fd7Bx75kjh5OtKnH",
   "meta": {
     "name": "🤖 Discord Message Proxy: Bot Mentions → AI Actions",
-    "id": 4264,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4264
   },
   "name": "Automatic [slow] Discord Task Worker with no community Trigger node (This is a bad way to do this and you should probably not)",
   "tags": [],

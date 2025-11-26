@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Batch process domains/companies in Google Sheet with Icypeas (Bulk Search)",
-    "id": 2015,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2015
   },
   "nodes": [
     {

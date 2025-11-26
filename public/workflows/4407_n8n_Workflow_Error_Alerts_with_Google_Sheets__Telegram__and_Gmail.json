@@ -2,8 +2,7 @@
   "id": "Yb92Z9P4HSj7JLuW",
   "meta": {
     "name": "n8n Workflow Error Alerts with Google Sheets, Telegram, and Gmail",
-    "id": 4407,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4407
   },
   "name": "Error handling alerts with Google Sheets, Telegram and Gmail",
   "tags": [],

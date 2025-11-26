@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Job Searching & Resume Customization with Mistral AI, LinkedIn & Google Sheets",
-    "id": 10256,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10256
   },
   "nodes": [
     {

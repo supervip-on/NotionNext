@@ -2,8 +2,7 @@
   "id": "SyvBl5gLjnsRxFno",
   "meta": {
     "name": "Google Maps Reviews to Google Sheets Sync using SerpApi",
-    "id": 8371,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8371
   },
   "name": "Sync Google Maps Reviews to Google Sheets for Any Google Maps Query",
   "tags": [],

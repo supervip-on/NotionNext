@@ -2,8 +2,7 @@
   "id": "JQP0dkQCszkc3cZy",
   "meta": {
     "name": "Team Morale Monitoring from Teams/Slack Messages with Gemini AI",
-    "id": 9926,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9926
   },
   "name": "AI Team Morale Monitor",
   "tags": [],

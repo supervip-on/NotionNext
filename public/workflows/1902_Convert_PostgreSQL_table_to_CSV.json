@@ -2,8 +2,7 @@
   "id": "39",
   "meta": {
     "name": "Convert PostgreSQL table to CSV",
-    "id": 1902,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1902
   },
   "name": "PostgreSQL export to CSV",
   "tags": [],

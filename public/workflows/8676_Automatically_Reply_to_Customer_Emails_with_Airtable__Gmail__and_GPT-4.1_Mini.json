@@ -2,8 +2,7 @@
   "id": "GcjeYFWFTeThFDR3",
   "meta": {
     "name": "Automatically Reply to Customer Emails with Airtable, Gmail, and GPT-4.1 Mini",
-    "id": 8676,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8676
   },
   "name": "Automatically Reply to Customer Emails with Airtable, Gmail, and OpenAI",
   "tags": [],

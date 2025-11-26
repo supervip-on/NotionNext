@@ -2,8 +2,7 @@
   "id": "jDO3Mna9FMs6rTdJ",
   "meta": {
     "name": "Automate WooCommerce Image Product Background Removal using API and Google Sheet",
-    "id": 4488,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4488
   },
   "name": "Remove background from WooCommerce product images",
   "tags": [],

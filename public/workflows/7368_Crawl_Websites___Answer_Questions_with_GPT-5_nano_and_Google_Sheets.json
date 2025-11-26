@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Crawl Websites & Answer Questions with GPT-5 nano and Google Sheets",
-    "id": 7368,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7368
   },
   "nodes": [
     {

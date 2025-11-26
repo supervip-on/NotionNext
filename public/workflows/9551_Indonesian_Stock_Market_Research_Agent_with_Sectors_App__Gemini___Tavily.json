@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Indonesian Stock Market Research Agent with Sectors App, Gemini & Tavily",
-    "id": 9551,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9551
   },
   "nodes": [
     {

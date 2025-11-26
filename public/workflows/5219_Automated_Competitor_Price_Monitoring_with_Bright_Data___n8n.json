@@ -2,8 +2,7 @@
   "id": "6RP5sxs8BvIIinq2",
   "meta": {
     "name": "Automated Competitor Price Monitoring with Bright Data & n8n",
-    "id": 5219,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5219
   },
   "name": "Competitor_Price_Monitoring_via_Bright_Data",
   "tags": [],

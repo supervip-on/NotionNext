@@ -2,8 +2,7 @@
   "id": "kZarev2IMUaKHhCI",
   "meta": {
     "name": "Watchdog: Auto Resume Workflows",
-    "id": 2166,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2166
   },
   "name": "Auto - Resume Disabled Workflows",
   "tags": [

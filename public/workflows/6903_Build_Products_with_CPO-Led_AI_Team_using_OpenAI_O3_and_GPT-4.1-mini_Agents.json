@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Products with CPO-Led AI Team using OpenAI O3 and GPT-4.1-mini Agents",
-    "id": 6903,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6903
   },
   "name": "CPO Agent with Product Team",
   "nodes": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Children's English Storytelling on Telegram with OpenAI",
-    "id": 2233,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2233
   },
   "nodes": [
     {

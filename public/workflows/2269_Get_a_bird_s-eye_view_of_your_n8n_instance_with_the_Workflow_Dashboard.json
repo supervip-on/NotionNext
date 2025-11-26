@@ -2,8 +2,7 @@
   "id": "D0I76cew5KOnlem0",
   "meta": {
     "name": "🦅 Get a bird's-eye view of your n8n instance with the Workflow Dashboard!",
-    "id": 2269,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2269
   },
   "name": "Workflow stats",
   "tags": [],

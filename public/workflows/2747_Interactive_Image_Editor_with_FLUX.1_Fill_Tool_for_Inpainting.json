@@ -2,8 +2,7 @@
   "id": "OvuZIXwt9mdU2JGK",
   "meta": {
     "name": "🎨 Interactive Image Editor with FLUX.1 Fill Tool for Inpainting",
-    "id": 2747,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2747
   },
   "name": "FLUX-fill standalone",
   "tags": [],

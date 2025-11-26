@@ -2,8 +2,7 @@
   "id": "RGhbI0ICGWVFNcVv",
   "meta": {
     "name": "Enrich and Score Leads Automatically with Claude AI, PDL and Perplexity",
-    "id": 9433,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9433
   },
   "name": "Enrich and score leads with AI",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Document-based AI Chatbot with RAG, OpenAI and Cohere Reranker",
-    "id": 6401,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6401
   },
   "nodes": [
     {

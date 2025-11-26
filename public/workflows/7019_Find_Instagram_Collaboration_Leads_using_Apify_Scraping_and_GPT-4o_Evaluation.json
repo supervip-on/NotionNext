@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find Instagram Collaboration Leads using Apify Scraping and GPT-4o Evaluation",
-    "id": 7019,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7019
   },
   "nodes": [
     {

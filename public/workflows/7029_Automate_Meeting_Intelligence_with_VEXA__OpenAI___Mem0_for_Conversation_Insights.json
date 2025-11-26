@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Meeting Intelligence with VEXA, OpenAI & Mem0 for Conversation Insights",
-    "id": 7029,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7029
   },
   "nodes": [
     {

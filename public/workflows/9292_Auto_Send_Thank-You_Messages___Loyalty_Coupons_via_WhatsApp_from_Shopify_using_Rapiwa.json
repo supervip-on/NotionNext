@@ -2,8 +2,7 @@
   "id": "TZh5DGrhbMLuufLR",
   "meta": {
     "name": "Auto Send Thank-You Messages & Loyalty Coupons via WhatsApp from Shopify using Rapiwa",
-    "id": 9292,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9292
   },
   "name": "Shopify Auto Send WhatsApp Thank-You Messages & Loyalty Coupon Using Rapiwa API",
   "tags": [],

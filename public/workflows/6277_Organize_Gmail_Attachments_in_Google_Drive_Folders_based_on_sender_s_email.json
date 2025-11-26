@@ -2,8 +2,7 @@
   "id": "kAiLbJeChaiOyg6T",
   "meta": {
     "name": "Organize Gmail Attachments in Google Drive Folders based on sender’s email",
-    "id": 6277,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6277
   },
   "name": "Organize Email Attachments in Google Drive Folders",
   "tags": [],

@@ -231,8 +231,7 @@
   },
   "meta": {
     "name": "Push JSON data into an App or to Spreadsheet file",
-    "id": 1933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1933
   },
   "id": "1933"
 }

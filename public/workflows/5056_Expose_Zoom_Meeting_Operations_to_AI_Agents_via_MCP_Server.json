@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Expose Zoom Meeting Operations to AI Agents via MCP Server",
-    "id": 5056,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5056
   },
   "nodes": [
     {

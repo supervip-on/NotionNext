@@ -2,8 +2,7 @@
   "id": "VlCgU5K9SYQbdxTa",
   "meta": {
     "name": "Generate 9:16 Images from Content and Brand Guidelines",
-    "id": 2662,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2662
   },
   "name": "Content to 9:16 Aspect Image Generator v1",
   "tags": [

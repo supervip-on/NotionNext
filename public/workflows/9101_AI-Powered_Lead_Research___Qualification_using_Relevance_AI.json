@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Lead Research & Qualification using Relevance AI",
-    "id": 9101,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9101
   },
   "nodes": [
     {

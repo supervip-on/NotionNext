@@ -2,8 +2,7 @@
   "id": "dCLvOuZgc8tToQwu",
   "meta": {
     "name": "Add new incoming emails to a Google Sheets spreadsheet as a new row",
-    "id": 3319,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3319
   },
   "name": "Add new incoming emails to a Google Sheets spreadsheet as a new row.",
   "tags": [],

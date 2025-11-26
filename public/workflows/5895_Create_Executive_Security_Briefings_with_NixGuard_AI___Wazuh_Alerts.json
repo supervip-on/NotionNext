@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Executive Security Briefings with NixGuard AI & Wazuh Alerts",
-    "id": 5895,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5895
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "enqUom6Fs1WaDOCW",
   "meta": {
     "name": "Automate Facebook Page Token Renewal with Data Tables Storage",
-    "id": 10038,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10038
   },
   "name": "Get long facebook access token with data tables",
   "tags": [],

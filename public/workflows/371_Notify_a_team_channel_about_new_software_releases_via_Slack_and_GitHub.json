@@ -58,7 +58,6 @@
   },
   "meta": {
     "name": "Notify a team channel about new software releases via Slack and GitHub",
-    "id": 371,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 371
   }
 }

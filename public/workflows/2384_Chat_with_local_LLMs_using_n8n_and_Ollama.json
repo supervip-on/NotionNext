@@ -2,8 +2,7 @@
   "id": "af8RV5b2TWB2LclA",
   "meta": {
     "name": "Chat with local LLMs using n8n and Ollama",
-    "id": 2384,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2384
   },
   "name": "Chat with local LLMs using n8n and Ollama",
   "tags": [],

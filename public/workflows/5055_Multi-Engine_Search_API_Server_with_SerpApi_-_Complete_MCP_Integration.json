@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multi-Engine Search API Server with SerpApi - Complete MCP Integration",
-    "id": 5055,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5055
   },
   "nodes": [
     {

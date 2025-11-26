@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find step-by-step recipes from API Ninjas Recipe API in an n8n AI agent",
-    "id": 7837,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7837
   },
   "nodes": [
     {

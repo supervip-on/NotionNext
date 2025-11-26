@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WhatsApp Virtual Receptionist with Gemini AI - Handles Text & Voice with Knowledge Base",
-    "id": 10033,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10033
   },
   "nodes": [
     {

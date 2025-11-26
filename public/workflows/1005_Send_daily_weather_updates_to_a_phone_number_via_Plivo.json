@@ -75,8 +75,7 @@
   },
   "meta": {
     "name": "Send daily weather updates to a phone number via Plivo",
-    "id": 1005,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1005
   },
   "id": "1005"
 }

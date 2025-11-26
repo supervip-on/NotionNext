@@ -2,8 +2,7 @@
   "id": "Cki3H3LKIaoXKG1r",
   "meta": {
     "name": "Multiple Websites Monitoring with Notifications including Phone Calls",
-    "id": 4833,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4833
   },
   "name": "Website Down Time Monitoring for n8n",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "FAXXZxHUVDbVzDdf",
   "meta": {
     "name": "Daily Task Reminder System: Airtable to Slack Automated Notifications",
-    "id": 5672,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5672
   },
   "name": "Daily Task Reminder System: Airtable to Slack Automated Notifications",
   "tags": [],

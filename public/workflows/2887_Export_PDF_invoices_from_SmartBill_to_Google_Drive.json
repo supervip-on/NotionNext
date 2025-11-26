@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export PDF invoices from SmartBill to Google Drive",
-    "id": 2887,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2887
   },
   "nodes": [
     {

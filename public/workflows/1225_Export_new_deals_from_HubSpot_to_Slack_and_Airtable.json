@@ -329,8 +329,7 @@
   },
   "meta": {
     "name": "Export new deals from HubSpot to Slack and Airtable",
-    "id": 1225,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1225
   },
   "id": "1225"
 }

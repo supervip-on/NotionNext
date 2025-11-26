@@ -2,8 +2,7 @@
   "id": "7fdJOvYNILCr24fH",
   "meta": {
     "name": "Extract & Process Specific Links from sitemap.xml",
-    "id": 3133,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3133
   },
   "name": "Read sitemap and filter URLs",
   "tags": [],

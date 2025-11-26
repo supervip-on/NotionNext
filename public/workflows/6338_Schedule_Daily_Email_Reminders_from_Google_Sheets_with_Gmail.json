@@ -2,8 +2,7 @@
   "id": "Aj0B0tfHgAYgFAZh",
   "meta": {
     "name": "Schedule Daily Email Reminders from Google Sheets with Gmail",
-    "id": 6338,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6338
   },
   "name": "Daily Mail Scheduler",
   "tags": [],

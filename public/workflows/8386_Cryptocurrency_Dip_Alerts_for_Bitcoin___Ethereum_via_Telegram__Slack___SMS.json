@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Cryptocurrency Dip Alerts for Bitcoin & Ethereum via Telegram, Slack & SMS",
-    "id": 8386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8386
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "81aN6oJGMho5kCvQ",
   "meta": {
     "name": "OpenAI ImageGen1 via HTTP Request (Edit Image)",
-    "id": 3858,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3858
   },
   "name": "OpenAI ImageGen1 Template",
   "tags": [],

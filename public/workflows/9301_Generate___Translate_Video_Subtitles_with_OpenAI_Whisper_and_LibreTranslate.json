@@ -2,8 +2,7 @@
   "id": "w2qeYCgIcuMglLEB",
   "meta": {
     "name": "Generate & Translate Video Subtitles with OpenAI Whisper and LibreTranslate",
-    "id": 9301,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9301
   },
   "name": "Generate Subtitles for Videos",
   "tags": [],

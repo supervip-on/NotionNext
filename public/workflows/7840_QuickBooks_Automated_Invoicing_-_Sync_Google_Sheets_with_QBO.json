@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "QuickBooks Automated Invoicing - Sync Google Sheets with QBO",
-    "id": 7840,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7840
   },
   "nodes": [
     {

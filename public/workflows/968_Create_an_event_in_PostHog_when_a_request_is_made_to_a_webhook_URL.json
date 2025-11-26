@@ -47,8 +47,7 @@
   },
   "meta": {
     "name": "Create an event in PostHog when a request is made to a webhook URL",
-    "id": 968,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 968
   },
   "id": "968"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Telegram Task Manager with MCP Server",
-    "id": 3656,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3656
   },
   "nodes": [
     {

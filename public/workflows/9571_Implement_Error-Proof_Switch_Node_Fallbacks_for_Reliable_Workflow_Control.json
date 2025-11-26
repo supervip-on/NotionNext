@@ -2,8 +2,7 @@
   "id": "0j8KmcwbaWnKR8Vb",
   "meta": {
     "name": "Implement Error-Proof Switch Node Fallbacks for Reliable Workflow Control",
-    "id": 9571,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9571
   },
   "name": "Fallback on any Switch Node v1.0",
   "tags": [

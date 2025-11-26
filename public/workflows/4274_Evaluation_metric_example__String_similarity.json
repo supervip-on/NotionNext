@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Evaluation metric example: String similarity",
-    "id": 4274,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4274
   },
   "nodes": [
     {

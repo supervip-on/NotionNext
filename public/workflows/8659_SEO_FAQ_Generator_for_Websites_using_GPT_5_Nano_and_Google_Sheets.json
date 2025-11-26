@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "SEO FAQ Generator for Websites using GPT 5 Nano and Google Sheets",
-    "id": 8659,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8659
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Meeting Scheduling through Telegram with Google Calendar & Notion CRM",
-    "id": 8593,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8593
   },
   "name": "Automate client nurture emails and testimonial collection from Notion",
   "tags": [],

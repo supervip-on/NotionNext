@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload Binary Images to X (Twitter) from Google Drive or AI Sources",
-    "id": 6340,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6340
   },
   "nodes": [
     {

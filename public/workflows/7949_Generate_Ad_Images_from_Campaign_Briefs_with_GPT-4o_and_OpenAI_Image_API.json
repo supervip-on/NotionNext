@@ -2,8 +2,7 @@
   "id": "QHlBdxNaOW5x9gm3",
   "meta": {
     "name": "Generate Ad Images from Campaign Briefs with GPT-4o and OpenAI Image API",
-    "id": 7949,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7949
   },
   "name": "Ads Image generator",
   "tags": [],

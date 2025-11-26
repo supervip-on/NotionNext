@@ -2,8 +2,7 @@
   "id": "pgpdUduSobC5XGsE",
   "meta": {
     "name": "Automatic Blog Post Generation from WooCommerce Products with GPT-4.1-mini",
-    "id": 5445,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5445
   },
   "name": "OpenAi Blog Post Writer",
   "tags": [],

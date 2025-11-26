@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID",
   "meta": {
     "name": "Generate and Post Viral Memes to Instagram with MagicHour AI and GPT-4",
-    "id": 8545,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8545
   },
   "name": "🤖 AI Instagram Meme Generator",
   "tags": [

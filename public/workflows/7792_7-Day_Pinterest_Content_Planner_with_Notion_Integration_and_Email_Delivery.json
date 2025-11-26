@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "7-Day Pinterest Content Planner with Notion Integration and Email Delivery",
-    "id": 7792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7792
   },
   "name": "Blush Pin Week — 7-Day Pinterest Planner (n8n + Notion)",
   "nodes": [

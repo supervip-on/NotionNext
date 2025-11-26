@@ -2,8 +2,7 @@
   "id": "EkiPj955iLTz4N2X",
   "meta": {
     "name": "Discord Daily Digest for Multiple Google Analytics Accounts",
-    "id": 5470,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5470
   },
   "name": "google analytics to discord",
   "tags": [

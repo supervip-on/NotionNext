@@ -75,7 +75,6 @@
   },
   "meta": {
     "name": "Purge n8n execution history located in Mysql",
-    "id": 700,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 700
   }
 }

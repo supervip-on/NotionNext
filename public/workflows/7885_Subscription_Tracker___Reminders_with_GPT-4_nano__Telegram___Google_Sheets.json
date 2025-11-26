@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Subscription Tracker & Reminders with GPT-4 nano, Telegram & Google Sheets",
-    "id": 7885,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7885
   },
   "nodes": [
     {

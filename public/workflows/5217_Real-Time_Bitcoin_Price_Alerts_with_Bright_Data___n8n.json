@@ -2,8 +2,7 @@
   "id": "HPuntqVPRH2UITi4",
   "meta": {
     "name": "Real-Time Bitcoin Price Alerts with Bright Data & n8n",
-    "id": 5217,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5217
   },
   "name": "Bitcoin_Price_Drop_Alert_System_via_Bright_Data",
   "tags": [],

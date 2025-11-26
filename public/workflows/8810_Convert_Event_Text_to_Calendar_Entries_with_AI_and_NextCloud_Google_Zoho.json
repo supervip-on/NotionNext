@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Event Text to Calendar Entries with AI and NextCloud/Google/Zoho",
-    "id": 8810,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8810
   },
   "nodes": [
     {

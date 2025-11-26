@@ -2,8 +2,7 @@
   "id": "zCg4z524oOeWzzH9",
   "meta": {
     "name": "Jotform Automated Commerce Sync: Telegram Confirmation & Zoho Invoice",
-    "id": 9526,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9526
   },
   "name": "Jotform-Telegram Order Sync (Submitted)",
   "tags": [],

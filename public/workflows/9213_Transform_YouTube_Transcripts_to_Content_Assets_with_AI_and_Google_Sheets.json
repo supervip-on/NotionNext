@@ -2,8 +2,7 @@
   "id": "bpbWpCDROyuqmTJj",
   "meta": {
     "name": "Transform YouTube Transcripts to Content Assets with AI and Google Sheets",
-    "id": 9213,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9213
   },
   "name": "Extract YouTube Transcripts",
   "tags": [],

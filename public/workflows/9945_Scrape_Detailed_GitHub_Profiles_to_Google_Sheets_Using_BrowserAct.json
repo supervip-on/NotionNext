@@ -2,8 +2,7 @@
   "id": "d2wBhCQb4NmmVxvP",
   "meta": {
     "name": "Scrape Detailed GitHub Profiles to Google Sheets Using BrowserAct",
-    "id": 9945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9945
   },
   "name": "GitHub User Activity & Data Scraper (Data Enrichment Engine)",
   "tags": [],

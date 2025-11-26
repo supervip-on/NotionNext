@@ -2,8 +2,7 @@
   "id": "qxecimVbLMgxfjK3",
   "meta": {
     "name": "Generate AI-Powered End-of-Day Reports from ClickUp & GoHighLevel to Multi-Channel",
-    "id": 9463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9463
   },
   "name": "Automate End-of-Day Report Generation from ClickUp and GoHighLevel to Slack, Email, and Google Drive",
   "tags": [],

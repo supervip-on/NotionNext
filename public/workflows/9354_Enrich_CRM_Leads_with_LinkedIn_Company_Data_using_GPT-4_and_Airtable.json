@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich CRM Leads with LinkedIn Company Data using GPT-4 and Airtable",
-    "id": 9354,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9354
   },
   "name": "Enrich CRM leads with LinkedIn company data using AI",
   "tags": [],

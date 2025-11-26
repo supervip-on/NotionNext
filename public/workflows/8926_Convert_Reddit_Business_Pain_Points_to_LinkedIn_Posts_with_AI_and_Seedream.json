@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Reddit Business Pain Points to LinkedIn Posts with AI and Seedream",
-    "id": 8926,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8926
   },
   "nodes": [
     {

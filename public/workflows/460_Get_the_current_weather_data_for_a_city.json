@@ -50,7 +50,6 @@
   },
   "meta": {
     "name": "Get the current weather data for a city",
-    "id": 460,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 460
   }
 }

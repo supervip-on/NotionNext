@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Natural Language Database Queries with Dual-Agent AI & PostgreSQL Integration",
-    "id": 5012,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5012
   },
   "nodes": [
     {

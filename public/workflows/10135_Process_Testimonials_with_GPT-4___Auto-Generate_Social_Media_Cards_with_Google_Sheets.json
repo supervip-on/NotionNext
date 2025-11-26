@@ -2,8 +2,7 @@
   "id": "10135",
   "meta": {
     "name": "Process Testimonials with GPT-4 & Auto-Generate Social Media Cards with Google Sheets",
-    "id": 10135,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10135
   },
   "name": "Automated testimonial workflow",
   "tags": [],

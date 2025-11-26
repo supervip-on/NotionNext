@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Arxiv paper trend search using AI, write article, send email",
-    "id": 2404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2404
   },
   "nodes": [
     {

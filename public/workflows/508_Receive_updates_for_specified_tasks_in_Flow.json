@@ -24,7 +24,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for specified tasks in Flow",
-    "id": 508,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 508
   }
 }

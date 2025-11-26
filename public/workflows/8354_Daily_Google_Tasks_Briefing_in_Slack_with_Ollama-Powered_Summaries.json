@@ -2,8 +2,7 @@
   "id": "7oFFGgWK8j6WPZQS",
   "meta": {
     "name": "Daily Google Tasks Briefing in Slack with Ollama-Powered Summaries",
-    "id": 8354,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8354
   },
   "name": "Tasks Briefing",
   "tags": [],

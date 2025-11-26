@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Amazon Shopping Assistant with Gemini AI and Telegram",
-    "id": 6384,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6384
   },
   "nodes": [
     {

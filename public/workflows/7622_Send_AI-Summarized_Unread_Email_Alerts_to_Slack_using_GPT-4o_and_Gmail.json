@@ -217,8 +217,7 @@
   },
   "meta": {
     "name": "Send AI-Summarized Unread Email Alerts to Slack using GPT-4o and Gmail",
-    "id": 7622,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7622
   },
   "id": "7622"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Trello Board Cleanup by Removing Cards with Specific Labels",
-    "id": 7619,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7619
   },
   "nodes": [
     {

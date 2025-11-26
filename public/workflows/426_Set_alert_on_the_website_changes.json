@@ -123,7 +123,6 @@
   },
   "meta": {
     "name": "Set alert on the website changes",
-    "id": 426,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 426
   }
 }

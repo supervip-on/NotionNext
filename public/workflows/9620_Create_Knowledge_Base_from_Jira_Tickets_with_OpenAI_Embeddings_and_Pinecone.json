@@ -2,8 +2,7 @@
   "id": "nYXuCXZGkJtkCBVN",
   "meta": {
     "name": "Create Knowledge Base from Jira Tickets with OpenAI Embeddings and Pinecone",
-    "id": 9620,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9620
   },
   "name": "Jira Vector - Register Minimal",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "HKTeS8KymXB9q4oR",
   "meta": {
     "name": "Auto-translate Blog Articles with Google Translate and Airtable Storage",
-    "id": 6825,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6825
   },
   "name": "Blog Post Translator",
   "tags": [],

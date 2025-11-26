@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an AI Marketing Team with OpenAI O3 and GPT-4.1-mini for Automated Content Creation",
-    "id": 6898,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6898
   },
   "nodes": [
     {

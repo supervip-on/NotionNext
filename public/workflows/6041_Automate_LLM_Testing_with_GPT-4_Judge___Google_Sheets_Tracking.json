@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate LLM Testing with GPT-4 Judge & Google Sheets Tracking",
-    "id": 6041,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6041
   },
   "nodes": [
     {

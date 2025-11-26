@@ -2,8 +2,7 @@
   "id": "8qlWHFgfTXIg4fe2",
   "meta": {
     "name": "Stripe Dispute Management with Google Sheets Ledger & Gmail Notifications",
-    "id": 8954,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8954
   },
   "name": "Refund Sync + Customer Notification",
   "tags": [],

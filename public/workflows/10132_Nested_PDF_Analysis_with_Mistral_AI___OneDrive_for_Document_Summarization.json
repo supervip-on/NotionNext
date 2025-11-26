@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Nested PDF Analysis with Mistral AI & OneDrive for Document Summarization",
-    "id": 10132,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10132
   },
   "nodes": [
     {

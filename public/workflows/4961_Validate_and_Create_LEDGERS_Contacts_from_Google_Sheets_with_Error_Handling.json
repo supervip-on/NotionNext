@@ -2,8 +2,7 @@
   "id": "LWUeLMrYSdCmTIl2",
   "meta": {
     "name": "Validate and Create LEDGERS Contacts from Google Sheets with Error Handling",
-    "id": 4961,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4961
   },
   "name": "My workflow",
   "tags": [],

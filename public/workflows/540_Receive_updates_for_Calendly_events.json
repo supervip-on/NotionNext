@@ -23,8 +23,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for Calendly events",
-    "id": 540,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 540
   },
   "id": "540"
 }

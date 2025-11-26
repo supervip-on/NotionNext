@@ -2,8 +2,7 @@
   "id": "orfFmTSduPuXzA9M",
   "meta": {
     "name": "Flexible Currency Rate Uploads for SAP B1 with AI Validation & Multiple Sources",
-    "id": 4931,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4931
   },
   "name": "SAP SetCurrencyRate publicar",
   "tags": [],

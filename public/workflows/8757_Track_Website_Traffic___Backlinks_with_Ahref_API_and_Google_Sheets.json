@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Website Traffic & Backlinks with Ahref API and Google Sheets",
-    "id": 8757,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8757
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "EIOmLVu0xM1NA4BP",
   "meta": {
     "name": "Supabase Storage Tutorial: Upload, Fetch, Sign & List Files",
-    "id": 8228,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8228
   },
   "name": "Learn Supabase Storage Fundamental",
   "tags": [],

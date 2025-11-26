@@ -2,8 +2,7 @@
   "id": "mYOyC65TtRuJhvzs",
   "meta": {
     "name": "AI-Powered Gmail Assistant: send replies by analyzing Thread ID with Sonnet 4.5",
-    "id": 9193,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9193
   },
   "name": "Send Gmail replies by analyzing Thread ID",
   "tags": [],

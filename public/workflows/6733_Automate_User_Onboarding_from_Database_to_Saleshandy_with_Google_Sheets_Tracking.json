@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate User Onboarding from Database to Saleshandy with Google Sheets Tracking",
-    "id": 6733,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6733
   },
   "nodes": [
     {

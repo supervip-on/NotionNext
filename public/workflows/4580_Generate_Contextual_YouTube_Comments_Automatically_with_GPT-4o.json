@@ -2,8 +2,7 @@
   "id": "xc36kbxHODDBimC1",
   "meta": {
     "name": "Generate Contextual YouTube Comments Automatically with GPT-4o",
-    "id": 4580,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4580
   },
   "name": "Youtube commentor",
   "tags": [],

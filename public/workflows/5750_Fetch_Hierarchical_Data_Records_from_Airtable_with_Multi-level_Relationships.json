@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Fetch Hierarchical Data Records from Airtable with Multi-level Relationships",
-    "id": 5750,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5750
   },
   "nodes": [
     {

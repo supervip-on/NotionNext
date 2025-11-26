@@ -46,7 +46,6 @@
   },
   "meta": {
     "name": "Get details of a forum in Disqus",
-    "id": 493,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 493
   }
 }

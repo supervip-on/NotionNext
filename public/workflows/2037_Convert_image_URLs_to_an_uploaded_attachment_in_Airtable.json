@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert image URLs to an uploaded attachment in Airtable",
-    "id": 2037,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2037
   },
   "nodes": [
     {

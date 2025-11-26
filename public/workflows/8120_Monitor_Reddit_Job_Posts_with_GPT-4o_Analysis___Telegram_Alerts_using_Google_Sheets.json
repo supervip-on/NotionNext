@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Reddit Job Posts with GPT-4o Analysis & Telegram Alerts using Google Sheets",
-    "id": 8120,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8120
   },
   "nodes": [
     {

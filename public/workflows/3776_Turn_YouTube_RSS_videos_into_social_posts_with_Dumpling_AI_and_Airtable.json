@@ -2,8 +2,7 @@
   "id": "Idv3YrtHuN8pEkbi",
   "meta": {
     "name": "Turn YouTube RSS videos into social posts with Dumpling AI and Airtable",
-    "id": 3776,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3776
   },
   "name": "Repurpose YouTube videos to social media posts with RSS, Dumpling AI, Airtable",
   "tags": [

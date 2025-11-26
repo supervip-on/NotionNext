@@ -2,8 +2,7 @@
   "id": "NTSkPEG2pcvG3qoH",
   "meta": {
     "name": "SSL Certificate Expiry Notifier (No Paid APIs)",
-    "id": 4643,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4643
   },
   "name": "SSL Expiry Notifier",
   "tags": [

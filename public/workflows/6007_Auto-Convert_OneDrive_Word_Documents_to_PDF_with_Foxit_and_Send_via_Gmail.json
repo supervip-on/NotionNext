@@ -2,8 +2,7 @@
   "id": "qrBRgBi0nd8VY7sc",
   "meta": {
     "name": "Auto-Convert OneDrive Word Documents to PDF with Foxit and Send via Gmail",
-    "id": 6007,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6007
   },
   "name": "Convert OneDrive Word doc to PDF",
   "tags": [

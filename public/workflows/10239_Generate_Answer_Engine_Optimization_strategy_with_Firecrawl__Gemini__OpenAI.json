@@ -2,8 +2,7 @@
   "id": "KKe195nI9HsFACnH",
   "meta": {
     "name": "Generate Answer Engine Optimization strategy with Firecrawl, Gemini, OpenAI",
-    "id": 10239,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10239
   },
   "name": "Generate AEO strategy from brand input using AI competitor analysis",
   "tags": [],

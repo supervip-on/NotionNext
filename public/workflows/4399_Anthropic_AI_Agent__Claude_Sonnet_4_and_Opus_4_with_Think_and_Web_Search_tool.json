@@ -2,8 +2,7 @@
   "id": "qjLD1os0l5ISHRFO",
   "meta": {
     "name": "Anthropic AI Agent: Claude Sonnet 4 and Opus 4 with Think and Web Search tool",
-    "id": 4399,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4399
   },
   "name": "Agent AI Anthropic Opus 4 and Sonnet 4",
   "tags": [],

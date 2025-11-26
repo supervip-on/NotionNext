@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized Lead Nurturing with GPT-4.1 Based on Commitment Scoring via Google Sheets",
-    "id": 6099,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6099
   },
   "nodes": [
     {

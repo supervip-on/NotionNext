@@ -2,8 +2,7 @@
   "id": "TBiW9x7O4ijo4yOX",
   "meta": {
     "name": "Bitrix24 AI-Powered RAG Chatbot for Open Line Channels",
-    "id": 3094,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3094
   },
   "name": "Bitrix24 Open Chanel RAG Chatbot Application Workflow example with Webhook Integration",
   "tags": [

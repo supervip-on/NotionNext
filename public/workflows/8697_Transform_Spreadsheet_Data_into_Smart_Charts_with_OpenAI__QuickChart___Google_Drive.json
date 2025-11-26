@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Spreadsheet Data into Smart Charts with OpenAI, QuickChart & Google Drive",
-    "id": 8697,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8697
   },
   "nodes": [
     {

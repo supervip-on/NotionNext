@@ -2,8 +2,7 @@
   "id": "1PsfrGmuCPYsCgOZ",
   "meta": {
     "name": "Digitize Business Cards to Notion Database with Gemini Vision OCR",
-    "id": 9180,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9180
   },
   "name": "📇 Business Card OCR → Notion Database",
   "tags": [],

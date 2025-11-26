@@ -2,8 +2,7 @@
   "id": "tGB3Dw1JjDFCrHuL",
   "meta": {
     "name": "Sync GitHub Workflows to n8n After Pull Request Merges",
-    "id": 4500,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4500
   },
   "name": "Restore workflows from GitHub",
   "tags": [],

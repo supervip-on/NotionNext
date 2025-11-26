@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Google Maps Business Scraper with Enrichment & Export to Sheets",
-    "id": 6439,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6439
   },
   "nodes": [
     {

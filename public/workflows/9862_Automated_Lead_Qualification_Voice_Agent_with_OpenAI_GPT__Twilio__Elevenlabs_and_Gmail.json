@@ -2,8 +2,7 @@
   "id": "o6QHC3fXUypkp711",
   "meta": {
     "name": "Automated Lead Qualification Voice Agent with OpenAI GPT, Twilio, Elevenlabs and Gmail",
-    "id": 9862,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9862
   },
   "name": "Lead Qualification Voice Agent",
   "tags": [],

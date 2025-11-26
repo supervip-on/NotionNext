@@ -2,8 +2,7 @@
   "id": "cipxQrfbgVK7Pvdw",
   "meta": {
     "name": "Financial reporting AI: concise SEC 10-K/10-Q briefs via OpenRouter + Perplexity",
-    "id": 8313,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8313
   },
   "name": "FinancialReportingTool",
   "tags": [],

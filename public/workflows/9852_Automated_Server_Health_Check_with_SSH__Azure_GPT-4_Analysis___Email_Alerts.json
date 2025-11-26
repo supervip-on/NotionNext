@@ -2,8 +2,7 @@
   "id": "ZrSNA55iSMYyBkl5",
   "meta": {
     "name": "Automated Server Health Check with SSH, Azure GPT-4 Analysis & Email Alerts",
-    "id": 9852,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9852
   },
   "name": "Automated Health Check for Servers via HTTP and Email Alerts",
   "tags": [],

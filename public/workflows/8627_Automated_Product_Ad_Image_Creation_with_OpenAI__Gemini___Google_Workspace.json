@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Product Ad Image Creation with OpenAI, Gemini & Google Workspace",
-    "id": 8627,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8627
   },
   "name": "AI Product Image Generator - Public Template",
   "tags": [],

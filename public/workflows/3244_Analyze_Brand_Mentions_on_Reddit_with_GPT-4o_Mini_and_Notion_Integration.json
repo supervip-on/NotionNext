@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Brand Mentions on Reddit with GPT-4o Mini and Notion Integration",
-    "id": 3244,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3244
   },
   "nodes": [
     {

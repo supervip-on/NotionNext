@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Landing Page Analysis & Optimization with Claude's 4-Agent AI System",
-    "id": 9545,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9545
   },
   "nodes": [
     {

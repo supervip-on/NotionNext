@@ -2,8 +2,7 @@
   "id": "erj9VZBeJsCXdIsB",
   "meta": {
     "name": "Sync Events from Excel to Google Calendar with GPT-4o-Mini Smart Summaries",
-    "id": 10376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10376
   },
   "name": "Automate Event Calendar Sync from Excel with GPT-4o-Mini-Powered Smart Summaries",
   "tags": [],

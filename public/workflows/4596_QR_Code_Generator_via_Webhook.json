@@ -2,8 +2,7 @@
   "id": "2Ttwb1pfwNkhBDuB",
   "meta": {
     "name": "QR Code Generator via Webhook",
-    "id": 4596,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4596
   },
   "name": "QR Code Generator via Webhook",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "rVKBWXqaa79EfTVA",
   "meta": {
     "name": "Automate Loan Document Analysis with Mistral OCR and GPT for Underwriting Decisions",
-    "id": 10369,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10369
   },
   "name": "UnderwritingLoanAnalysis",
   "tags": [],

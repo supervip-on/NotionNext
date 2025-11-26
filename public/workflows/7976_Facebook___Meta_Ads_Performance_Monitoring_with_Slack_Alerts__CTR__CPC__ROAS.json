@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Facebook / Meta Ads Performance Monitoring with Slack Alerts (CTR, CPC, ROAS)",
-    "id": 7976,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7976
   },
   "nodes": [
     {

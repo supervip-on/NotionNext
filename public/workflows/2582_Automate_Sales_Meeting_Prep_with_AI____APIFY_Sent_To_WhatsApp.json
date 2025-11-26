@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Sales Meeting Prep with AI &  APIFY Sent To WhatsApp",
-    "id": 2582,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2582
   },
   "nodes": [
     {

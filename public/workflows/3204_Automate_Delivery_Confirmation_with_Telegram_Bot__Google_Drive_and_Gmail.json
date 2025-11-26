@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🚚 Automate Delivery Confirmation with Telegram Bot, Google Drive and Gmail",
-    "id": 3204,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3204
   },
   "nodes": [
     {

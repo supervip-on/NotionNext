@@ -301,8 +301,7 @@
   },
   "meta": {
     "name": "Automatically Rename Gmail Attachments with GPT-4o and Save to Google Drive",
-    "id": 7585,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7585
   },
   "id": "7585"
 }

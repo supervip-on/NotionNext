@@ -2,8 +2,7 @@
   "id": "Nj73lhp3xoOM5vJR",
   "meta": {
     "name": "Automate Email Triage with GPT-4.1-mini Classification and Gmail Auto-Replies",
-    "id": 7399,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7399
   },
   "name": "AI-Powered Email Classification and Auto-Reply System with Gmail and GPT",
   "tags": [],

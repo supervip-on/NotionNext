@@ -2,8 +2,7 @@
   "id": "a45d1jkHh90Cr2bF",
   "meta": {
     "name": "Send Scheduled RSS News Digest Emails with Formatted HTML in Gmail",
-    "id": 6223,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6223
   },
   "name": "Scheduled RSS News Digest Emails with Gmail",
   "tags": [],

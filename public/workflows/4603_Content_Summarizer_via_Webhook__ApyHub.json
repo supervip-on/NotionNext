@@ -2,8 +2,7 @@
   "id": "OxmCguByCxCKPcQm",
   "meta": {
     "name": "Content Summarizer via Webhook (ApyHub)",
-    "id": 4603,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4603
   },
   "name": "Content Summarizer via Webhook (ApyHub)",
   "tags": [],

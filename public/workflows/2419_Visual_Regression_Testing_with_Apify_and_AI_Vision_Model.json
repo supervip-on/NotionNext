@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Visual Regression Testing with Apify and AI Vision Model",
-    "id": 2419,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2419
   },
   "nodes": [
     {

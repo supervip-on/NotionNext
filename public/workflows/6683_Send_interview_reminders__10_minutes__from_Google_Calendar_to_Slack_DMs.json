@@ -2,8 +2,7 @@
   "id": "HrXWJRDS0O4PpRJ5",
   "meta": {
     "name": "Send interview reminders (10 minutes) from Google Calendar to Slack DMs",
-    "id": 6683,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6683
   },
   "name": "Send interview reminders (10 minutes) from Google Calendar to Slack DMs",
   "tags": [],

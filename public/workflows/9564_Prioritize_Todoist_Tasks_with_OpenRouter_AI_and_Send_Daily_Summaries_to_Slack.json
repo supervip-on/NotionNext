@@ -2,8 +2,7 @@
   "id": "xL7tk88Dw69DgKky",
   "meta": {
     "name": "Prioritize Todoist Tasks with OpenRouter AI and Send Daily Summaries to Slack",
-    "id": 9564,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9564
   },
   "name": "Prioritize Todoist tasks with AI and send daily summaries to Slack",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "wYda99sf09SAlzu4",
   "meta": {
     "name": "Extract Business Card Data from Telegram to Google Sheets with OpenRouter AI Vision",
-    "id": 9754,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9754
   },
   "name": "Extract Business Card Data using AI Vision from Telegram to Google Sheets using AI Vision",
   "tags": [],

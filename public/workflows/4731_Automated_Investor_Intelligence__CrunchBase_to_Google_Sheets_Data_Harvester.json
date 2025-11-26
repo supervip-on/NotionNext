@@ -2,8 +2,7 @@
   "id": "8hRFK0iEjVKmthLq",
   "meta": {
     "name": " Automated Investor Intelligence: CrunchBase to Google Sheets Data Harvester",
-    "id": 4731,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4731
   },
   "name": "CrunchBase Invester Data",
   "tags": [],

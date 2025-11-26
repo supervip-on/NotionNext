@@ -2,8 +2,7 @@
   "id": "SWZk4x34IRwxhKzr",
   "meta": {
     "name": "Automated Animal Advocacy News Research & Weekly Digest using Claude AI & Serper",
-    "id": 6482,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6482
   },
   "name": "Weekly Animal Advocacy Brief",
   "tags": [],

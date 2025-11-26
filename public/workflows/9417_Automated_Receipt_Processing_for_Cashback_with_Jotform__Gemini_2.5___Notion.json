@@ -2,8 +2,7 @@
   "id": "PtWwGGJYMVyJGgoI",
   "meta": {
     "name": "Automated Receipt Processing for Cashback with Jotform, Gemini 2.5 & Notion",
-    "id": 9417,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9417
   },
   "name": "JotForm Cashback (Template)",
   "tags": [],

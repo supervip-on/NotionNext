@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Email News Briefing by Keyword from Bright Data with AI Summary",
-    "id": 4570,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4570
   },
   "nodes": [
     {

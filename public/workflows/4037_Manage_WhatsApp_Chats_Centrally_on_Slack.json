@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage WhatsApp Chats Centrally on Slack",
-    "id": 4037,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4037
   },
   "nodes": [
     {

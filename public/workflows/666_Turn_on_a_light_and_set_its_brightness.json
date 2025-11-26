@@ -48,7 +48,6 @@
   },
   "meta": {
     "name": "Turn on a light and set its brightness",
-    "id": 666,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 666
   }
 }

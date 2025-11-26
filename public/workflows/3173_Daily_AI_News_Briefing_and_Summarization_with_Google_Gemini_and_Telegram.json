@@ -2,8 +2,7 @@
   "id": "fr9aNRlRj1alQtSk",
   "meta": {
     "name": "Daily AI News Briefing and Summarization with Google Gemini and Telegram",
-    "id": 3173,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3173
   },
   "name": "AI Daily News",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Purchase Order Form Submissions from Outlook Excel Attachments with AI",
-    "id": 3545,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3545
   },
   "nodes": [
     {

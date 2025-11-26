@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Google Sheets with Dun & Bradstreet Data Blocks",
-    "id": 8869,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8869
   },
   "nodes": [
     {

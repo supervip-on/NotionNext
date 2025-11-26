@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI-Generated Meta Ad Campaigns from Product URLs with OpenAI & Firecrawl",
-    "id": 8681,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8681
   },
   "nodes": [
     {

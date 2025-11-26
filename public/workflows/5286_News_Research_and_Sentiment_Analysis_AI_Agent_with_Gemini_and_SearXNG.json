@@ -2,8 +2,7 @@
   "id": "1MSUwpnR1sroIquE",
   "meta": {
     "name": "News Research and Sentiment Analysis AI Agent with Gemini and SearXNG",
-    "id": 5286,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5286
   },
   "name": "Stock Sentiment Analysis",
   "tags": [],

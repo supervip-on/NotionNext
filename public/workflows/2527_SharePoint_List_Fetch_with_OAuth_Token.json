@@ -160,8 +160,7 @@
   },
   "meta": {
     "name": "SharePoint List Fetch with OAuth Token",
-    "id": 2527,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2527
   },
   "id": "2527"
 }

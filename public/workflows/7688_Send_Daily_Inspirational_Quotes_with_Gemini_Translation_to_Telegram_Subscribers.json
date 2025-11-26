@@ -2,8 +2,7 @@
   "id": "j0LrUrmFgSDAaexJ",
   "meta": {
     "name": "Send Daily Inspirational Quotes with Gemini Translation to Telegram Subscribers",
-    "id": 7688,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7688
   },
   "name": "DailyQuote",
   "tags": [],

@@ -546,8 +546,7 @@
   },
   "meta": {
     "name": "Bidirectional Ticket Sync Between Freshdesk and Linear with Error Logging",
-    "id": 8702,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8702
   },
   "id": "8702"
 }

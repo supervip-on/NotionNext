@@ -2,8 +2,7 @@
   "id": "WNXcePvqmGEMi1Hv",
   "meta": {
     "name": "Document-based RAG Chat Assistant with Google Drive, Supabase & OpenAI",
-    "id": 9398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9398
   },
   "name": "RAG Agent",
   "tags": [],

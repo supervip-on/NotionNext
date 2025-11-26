@@ -398,7 +398,6 @@
   },
   "meta": {
     "name": "Find a new book recommendations",
-    "id": 869,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 869
   }
 }

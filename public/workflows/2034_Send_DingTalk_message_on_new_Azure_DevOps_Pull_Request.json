@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send DingTalk message on new Azure DevOps Pull Request",
-    "id": 2034,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2034
   },
   "nodes": [
     {

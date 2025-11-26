@@ -2,8 +2,7 @@
   "id": "WIDvKmrZLeXJW2Nk",
   "meta": {
     "name": "Extract Purchase Orders from Gmail using Gemini AI and Save to Google Sheets",
-    "id": 8585,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8585
   },
   "name": "Extract Purchase Orders from Gmail using Gemini AI and Save to Google Sheets",
   "tags": [],

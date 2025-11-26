@@ -2,8 +2,7 @@
   "id": "bCzsdWA9ELzYNPUy",
   "meta": {
     "name": "Lead Workflow: Yelp & Trustpilot Scraping + OpenAI Analysis via BrightData",
-    "id": 4912,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4912
   },
   "name": "Lead Workflow: Yelp & Trustpilot Scraping + OpenAI Analysis via BrightData",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "GA4 Anomaly Detection with Automated Slack & Email Alerts",
-    "id": 7912,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7912
   },
   "nodes": [
     {

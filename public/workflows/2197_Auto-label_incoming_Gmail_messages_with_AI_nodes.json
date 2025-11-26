@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-label incoming Gmail messages with AI nodes",
-    "id": 2197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2197
   },
   "nodes": [
     {

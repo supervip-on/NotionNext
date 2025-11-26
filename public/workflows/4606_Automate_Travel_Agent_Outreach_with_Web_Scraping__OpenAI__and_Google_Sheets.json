@@ -2,8 +2,7 @@
   "id": "OIDO7J5NqLAuLrKI",
   "meta": {
     "name": "Automate Travel Agent Outreach with Web Scraping, OpenAI, and Google Sheets",
-    "id": 4606,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4606
   },
   "name": "01 Scraping Site & Storing Records",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Competitor Price Monitoring with Web Scraping, Google Sheets & Discord Alerts",
-    "id": 6179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6179
   },
   "nodes": [
     {

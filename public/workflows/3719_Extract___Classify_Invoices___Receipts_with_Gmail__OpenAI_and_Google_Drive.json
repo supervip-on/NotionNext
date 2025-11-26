@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract & Classify Invoices & Receipts with Gmail, OpenAI and Google Drive",
-    "id": 3719,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3719
   },
   "nodes": [
     {

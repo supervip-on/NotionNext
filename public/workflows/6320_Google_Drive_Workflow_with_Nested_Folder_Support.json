@@ -2,8 +2,7 @@
   "id": "WyWBYMQWkj2qOEYW",
   "meta": {
     "name": "Google Drive Workflow with Nested Folder Support",
-    "id": 6320,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6320
   },
   "name": "Get all files inside a GoogleDrive Folder",
   "tags": [],

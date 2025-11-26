@@ -2,8 +2,7 @@
   "id": "XHDFLUyFqPo2rrCq",
   "meta": {
     "name": "Monitor Bank Transactions with Multi-Channel Alerts for Accounting Teams",
-    "id": 10110,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10110
   },
   "name": "Real-Time Bank Transaction Monitor & Alert System for Accounting Teams  description",
   "tags": [],

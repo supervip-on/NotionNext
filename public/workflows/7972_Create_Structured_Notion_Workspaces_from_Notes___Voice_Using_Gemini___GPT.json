@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Structured Notion Workspaces from Notes & Voice Using Gemini & GPT",
-    "id": 7972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7972
   },
   "nodes": [
     {

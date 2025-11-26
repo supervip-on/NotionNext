@@ -2,8 +2,7 @@
   "id": "xcl8D1sukz9Rak69",
   "meta": {
     "name": "Get CSV from URL and convert to Excel",
-    "id": 2041,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2041
   },
   "name": "Import CSV from URL to Excel",
   "tags": [],

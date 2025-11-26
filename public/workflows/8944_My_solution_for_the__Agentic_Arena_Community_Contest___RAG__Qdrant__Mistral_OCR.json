@@ -2,8 +2,7 @@
   "id": "9wQdbEN53X1Q78fl",
   "meta": {
     "name": "My solution for the \"Agentic Arena Community Contest\" (RAG, Qdrant, Mistral OCR)",
-    "id": 8944,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8944
   },
   "name": "My Agentic Arena Community Contest",
   "tags": [],

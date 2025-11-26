@@ -2,8 +2,7 @@
   "id": "I3OvQDAQ6wXMiclv",
   "meta": {
     "name": "Transform Voice Transcripts to LinkedIn Posts with Claude AI and Email Automation",
-    "id": 4874,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4874
   },
   "name": "Linkedin Post Creation",
   "tags": [

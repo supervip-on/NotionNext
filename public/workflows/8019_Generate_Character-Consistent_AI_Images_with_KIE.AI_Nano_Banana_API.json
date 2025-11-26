@@ -2,8 +2,7 @@
   "id": "awXlFcUvfBcnAfxo",
   "meta": {
     "name": "Generate Character-Consistent AI Images with KIE.AI Nano Banana API",
-    "id": 8019,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8019
   },
   "name": "banana",
   "tags": [],

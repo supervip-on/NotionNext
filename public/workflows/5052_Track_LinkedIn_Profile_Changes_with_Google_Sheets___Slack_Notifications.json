@@ -2,8 +2,7 @@
   "id": "V0pIUPQVqZHuqnjs",
   "meta": {
     "name": "Track LinkedIn Profile Changes with Google Sheets & Slack Notifications",
-    "id": 5052,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5052
   },
   "name": "Track LinkedIn profile changes and send Slack notifications",
   "tags": [],

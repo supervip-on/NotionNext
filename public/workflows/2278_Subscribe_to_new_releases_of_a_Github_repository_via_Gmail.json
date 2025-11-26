@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Subscribe to new releases of a Github repository via Gmail",
-    "id": 2278,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2278
   },
   "nodes": [
     {

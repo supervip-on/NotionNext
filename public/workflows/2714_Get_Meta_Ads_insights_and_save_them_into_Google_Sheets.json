@@ -354,8 +354,7 @@
   },
   "meta": {
     "name": "Get Meta Ads insights and save them into Google Sheets",
-    "id": 2714,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2714
   },
   "id": "2714"
 }

@@ -2,8 +2,7 @@
   "id": "R82cCEu45d5np7SQ",
   "meta": {
     "name": "Parse PDF, DOCX & Images with Mistral OCR via Google Drive with Slack Alerts",
-    "id": 9084,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9084
   },
   "tags": [],
   "nodes": [

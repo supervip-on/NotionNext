@@ -2,8 +2,7 @@
   "id": "94ZTfrnyRHFV3xxr",
   "meta": {
     "name": "Create Custom PDF Documents from Templates with Gemini & Google Drive",
-    "id": 5808,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5808
   },
   "name": "DocAgentForTemplate",
   "tags": [],

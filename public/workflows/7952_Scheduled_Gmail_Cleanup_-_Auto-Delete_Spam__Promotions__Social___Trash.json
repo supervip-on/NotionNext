@@ -2,8 +2,7 @@
   "id": "a8uDplux0EO8uSsG",
   "meta": {
     "name": "Scheduled Gmail Cleanup - Auto-Delete Spam, Promotions, Social & Trash",
-    "id": 7952,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7952
   },
   "name": "Automatically Delete Unwanted Emails in Gmail on Schedule",
   "tags": [],

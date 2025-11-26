@@ -2,8 +2,7 @@
   "id": "2eEiaDecIH2A1L5B",
   "meta": {
     "name": "Automated Inbox Organization for Outlook using GPT-4.1 Agent",
-    "id": 6454,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6454
   },
   "name": "Auto-Categorize Outlook Emails with AI Agent",
   "tags": [

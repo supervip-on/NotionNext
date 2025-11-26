@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Your Magento 2 Weekly Sales & Performance Reports",
-    "id": 6953,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6953
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "YBUP7BDTMrzcWncr",
   "meta": {
     "name": "Automate Quote Request Processing with Tally, Airtable, Slack, and Gmail",
-    "id": 5458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5458
   },
   "name": "Automate Quote Request Processing with Tally, Airtable, Slack and Gmail",
   "tags": [],

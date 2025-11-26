@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage ClickUp Tasks with Natural Language via Telegram Bot and GPT-4.1",
-    "id": 6546,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6546
   },
   "nodes": [
     {

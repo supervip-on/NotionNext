@@ -71,8 +71,7 @@
   },
   "meta": {
     "name": "Write HTTP query string on image",
-    "id": 3,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3
   },
   "id": "3"
 }

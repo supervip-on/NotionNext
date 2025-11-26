@@ -2,8 +2,7 @@
   "id": "bvYcq5zrLPePpJPm",
   "meta": {
     "name": "Bulk Lead Email Validation with Google Sheets & Anymail Finder",
-    "id": 7693,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7693
   },
   "name": "Verify leads email address with Anymail Finder",
   "tags": [],

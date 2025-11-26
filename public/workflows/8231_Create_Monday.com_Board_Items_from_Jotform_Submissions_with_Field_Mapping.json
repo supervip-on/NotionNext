@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Monday.com Board Items from Jotform Submissions with Field Mapping",
-    "id": 8231,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8231
   },
   "nodes": [
     {

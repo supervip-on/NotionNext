@@ -64,8 +64,7 @@
   },
   "meta": {
     "name": "Convert FileMaker Data API to Flat File Array",
-    "id": 1537,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1537
   },
   "id": "1537"
 }

@@ -2,8 +2,7 @@
   "id": "yWtpgGwGgspx1A1W",
   "meta": {
     "name": "Extract Linkedin Company data with Airtop",
-    "id": 4261,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4261
   },
   "name": "Extract LinkedIn Company Information",
   "tags": [],

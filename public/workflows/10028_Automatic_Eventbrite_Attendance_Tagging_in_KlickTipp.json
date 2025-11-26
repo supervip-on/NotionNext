@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Eventbrite Attendance Tagging in KlickTipp",
-    "id": 10028,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10028
   },
   "nodes": [
     {

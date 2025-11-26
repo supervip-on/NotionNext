@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Email Classification & Response System with Groq AI and Pinecone",
-    "id": 6202,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6202
   },
   "nodes": [
     {

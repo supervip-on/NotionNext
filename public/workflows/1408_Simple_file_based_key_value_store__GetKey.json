@@ -114,7 +114,6 @@
   },
   "meta": {
     "name": "Simple file based key value store (GetKey)",
-    "id": 1408,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1408
   }
 }

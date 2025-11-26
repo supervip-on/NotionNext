@@ -2,8 +2,7 @@
   "id": "9w5vu5VmXxpdBLWi",
   "meta": {
     "name": "Daily Birthday Reminders from Google Contacts to Slack",
-    "id": 2731,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2731
   },
   "name": "Send Daily Birthday Reminders from Google Contacts to Slack",
   "tags": [

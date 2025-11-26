@@ -2,8 +2,7 @@
   "id": "B8QZbtbhTEZne8nq",
   "meta": {
     "name": "Daily Website Data Extraction with Firecrawl and Telegram Alerts",
-    "id": 5591,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5591
   },
   "name": "Automated Daily Intelligent Firecrawl Scraper",
   "tags": [],

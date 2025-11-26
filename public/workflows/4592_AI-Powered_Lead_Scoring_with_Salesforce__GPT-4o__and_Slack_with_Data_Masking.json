@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Lead Scoring with Salesforce, GPT-4o, and Slack with Data Masking",
-    "id": 4592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4592
   },
   "nodes": [
     {

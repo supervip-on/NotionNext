@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Proposal Generator",
-    "id": 6534,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6534
   },
   "nodes": [
     {

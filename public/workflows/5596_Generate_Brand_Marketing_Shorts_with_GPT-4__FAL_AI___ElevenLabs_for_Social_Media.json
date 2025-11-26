@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Brand Marketing Shorts with GPT-4, FAL AI & ElevenLabs for Social Media",
-    "id": 5596,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5596
   },
   "nodes": [
     {

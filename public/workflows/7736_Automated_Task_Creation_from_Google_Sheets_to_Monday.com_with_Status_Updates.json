@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Task Creation from Google Sheets to Monday.com with Status Updates",
-    "id": 7736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7736
   },
   "nodes": [
     {

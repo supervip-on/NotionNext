@@ -2,8 +2,7 @@
   "id": "CACB2vgfyxBJE30X",
   "meta": {
     "name": "Automate Data Extraction from Faxes & PDFs using Google Gemini and Google Sheets",
-    "id": 8939,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8939
   },
   "name": "Development Done - FAX Content Extraction",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Daily Pipedrive Deal Summaries with GPT-4o-mini",
-    "id": 7672,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7672
   },
   "nodes": [
     {

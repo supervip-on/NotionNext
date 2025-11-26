@@ -2,8 +2,7 @@
   "id": "cIhoaw0VJGihOHmy",
   "meta": {
     "name": "Create a Complete User Authentication System with PostgreSQL & Webhooks",
-    "id": 10040,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10040
   },
   "name": "Authentication Panel (Signup/Login/Forgot Password)",
   "tags": [],

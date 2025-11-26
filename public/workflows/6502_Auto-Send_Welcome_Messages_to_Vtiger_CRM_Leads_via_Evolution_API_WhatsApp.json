@@ -2,8 +2,7 @@
   "id": "ykXuNTlTy4GTDjOE",
   "meta": {
     "name": "Auto-Send Welcome Messages to Vtiger CRM Leads via Evolution API WhatsApp",
-    "id": 6502,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6502
   },
   "name": "Auto-Send Welcome WhatsApp Message to new Vtiger Leads",
   "tags": [],

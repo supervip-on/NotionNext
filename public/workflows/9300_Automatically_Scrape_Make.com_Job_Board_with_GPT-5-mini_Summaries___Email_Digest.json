@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Scrape Make.com Job Board with GPT-5-mini Summaries & Email Digest",
-    "id": 9300,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9300
   },
   "nodes": [
     {

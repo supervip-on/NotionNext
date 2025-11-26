@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Branded AI-Powered Website Chatbot",
-    "id": 2786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2786
   },
   "nodes": [
     {

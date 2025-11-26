@@ -2,8 +2,7 @@
   "id": "6vN9GrsM5gMHYMPE",
   "meta": {
     "name": "Expose Translate endpoint to AI Agents via 🛠️ Google Translate Tool MCP Server",
-    "id": 5248,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5248
   },
   "name": "Google Translate Tool MCP Server",
   "tags": [],

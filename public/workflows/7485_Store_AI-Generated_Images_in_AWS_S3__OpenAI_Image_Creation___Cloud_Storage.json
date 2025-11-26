@@ -2,8 +2,7 @@
   "id": "hA8TizePEKZNGeee",
   "meta": {
     "name": "Store AI-Generated Images in AWS S3: OpenAI Image Creation & Cloud Storage",
-    "id": 7485,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7485
   },
   "name": "Automating AWS S3 Operations with n8n: Buckets, Folders, and Files",
   "tags": [],

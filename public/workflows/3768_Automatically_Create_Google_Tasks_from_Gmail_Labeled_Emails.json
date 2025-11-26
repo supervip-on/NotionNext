@@ -2,8 +2,7 @@
   "id": "z0C6H2kYSgML2dib",
   "meta": {
     "name": "Automatically Create Google Tasks from Gmail Labeled Emails",
-    "id": 3768,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3768
   },
   "name": "📦 New Email ➔ Create Google Task",
   "tags": [],

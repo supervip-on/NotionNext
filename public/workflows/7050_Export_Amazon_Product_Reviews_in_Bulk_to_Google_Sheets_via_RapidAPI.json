@@ -2,8 +2,7 @@
   "id": "UXqw9glm6hQ45Yxz",
   "meta": {
     "name": "Export Amazon Product Reviews in Bulk to Google Sheets via RapidAPI",
-    "id": 7050,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7050
   },
   "name": "My workflow 11",
   "tags": [],

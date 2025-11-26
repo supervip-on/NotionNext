@@ -2,8 +2,7 @@
   "id": "wgebr18bzsF4QNVr",
   "meta": {
     "name": "AI-Powered ServiceNow Chat Triage with GPT-4 — Incident & Request Router",
-    "id": 7515,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7515
   },
   "name": "ServiceNow L1 Support Agent",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "4y65fx3v7PFhlEu5",
   "meta": {
     "name": "Transcribe & Summarize Telegram Voice Notes with OpenAI and DeepSeek Chat to Google Docs",
-    "id": 4944,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4944
   },
   "name": "Voice Notes Telegram to Google Doc",
   "tags": [

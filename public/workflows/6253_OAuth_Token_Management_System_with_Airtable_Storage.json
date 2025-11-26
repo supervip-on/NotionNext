@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "OAuth Token Management System with Airtable Storage",
-    "id": 6253,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6253
   },
   "nodes": [
     {

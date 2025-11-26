@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Forum Pulse for Telegram: Community Monitoring with Gemini & Groq AI Models",
-    "id": 8573,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8573
   },
   "nodes": [
     {

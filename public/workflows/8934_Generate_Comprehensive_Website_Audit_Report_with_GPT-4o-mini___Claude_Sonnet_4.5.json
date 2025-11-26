@@ -2,8 +2,7 @@
   "id": "S14d5Of2kjngUlJ2",
   "meta": {
     "name": "Generate Comprehensive Website Audit Report with GPT-4o-mini & Claude Sonnet 4.5",
-    "id": 8934,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8934
   },
   "name": "Analyze Website with OpenAI And Get Email with On-Page CRO/SEO/IT Audit",
   "tags": [],

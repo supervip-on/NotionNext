@@ -38,8 +38,7 @@
   },
   "meta": {
     "name": "Get local datetime into Function node using moment.js",
-    "id": 695,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 695
   },
   "id": "695"
 }

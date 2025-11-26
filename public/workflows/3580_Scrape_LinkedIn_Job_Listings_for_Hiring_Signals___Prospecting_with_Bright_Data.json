@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape LinkedIn Job Listings for Hiring Signals & Prospecting with Bright Data",
-    "id": 3580,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3580
   },
   "nodes": [
     {

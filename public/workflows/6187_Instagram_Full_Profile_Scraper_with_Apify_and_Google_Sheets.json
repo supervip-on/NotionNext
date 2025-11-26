@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Instagram Full Profile Scraper with Apify and Google Sheets",
-    "id": 6187,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6187
   },
   "nodes": [
     {

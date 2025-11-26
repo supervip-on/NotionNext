@@ -2,8 +2,7 @@
   "id": "Um37boya1U0mnCjS",
   "meta": {
     "name": "🔍 Visualize Your n8n Workflows with Mermaid.js!",
-    "id": 2378,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2378
   },
   "name": "Workflow dashboard with mermaid.js",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Competitor WordPress Analysis with Charts, Gemini & Telegram Reporting",
-    "id": 8443,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8443
   },
   "nodes": [
     {

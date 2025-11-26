@@ -2,8 +2,7 @@
   "id": "4506",
   "meta": {
     "name": "Generate Youtube Video Metadata (Timestamps, Tags, Description, ...)",
-    "id": 4506,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4506
   },
   "name": "YTB Metadata Generator",
   "tags": [],

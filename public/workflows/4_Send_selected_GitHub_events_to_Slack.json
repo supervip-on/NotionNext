@@ -122,8 +122,7 @@
   },
   "meta": {
     "name": "Send selected GitHub events to Slack",
-    "id": 4,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4
   },
   "id": "4"
 }

@@ -2,8 +2,7 @@
   "id": "B0aEQAsAIg2pLUfx",
   "meta": {
     "name": "Automate Monthly CrUX Report Transfer from BigQuery to NocoDB with Data Cleanup",
-    "id": 9368,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9368
   },
   "name": "Automate Monthly CrUX Report Transfer from BigQuery to NocoDB with Data Cleanup",
   "tags": [

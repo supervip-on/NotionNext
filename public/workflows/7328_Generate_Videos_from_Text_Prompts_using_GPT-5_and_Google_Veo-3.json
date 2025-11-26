@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Videos from Text Prompts using GPT-5 and Google Veo-3",
-    "id": 7328,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7328
   },
   "nodes": [
     {

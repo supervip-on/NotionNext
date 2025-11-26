@@ -2,8 +2,7 @@
   "id": "usFtj9NVTTqcIUFw",
   "meta": {
     "name": "Process Thai Documents with TyphoonOCR & AI to Google Sheets (Multi-Page PDF)",
-    "id": 7880,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7880
   },
   "name": "TyphoonV2.2 Multi-File & Multi-Page & with AI",
   "tags": [],

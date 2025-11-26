@@ -582,8 +582,7 @@
   },
   "meta": {
     "name": "Redis Locking for Concurrent Task Handling",
-    "id": 3444,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3444
   },
   "id": "3444"
 }

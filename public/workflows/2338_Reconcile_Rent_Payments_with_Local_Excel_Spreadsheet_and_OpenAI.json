@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reconcile Rent Payments with Local Excel Spreadsheet and OpenAI",
-    "id": 2338,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2338
   },
   "nodes": [
     {

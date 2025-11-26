@@ -2,8 +2,7 @@
   "id": "xQHiKDTkezDY5lFu",
   "meta": {
     "name": "Suspicious Login Detection",
-    "id": 1993,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1993
   },
   "name": "Suspicious_login_detection",
   "tags": [

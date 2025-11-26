@@ -2,8 +2,7 @@
   "id": "iKLz8kl2wKbZDjdk",
   "meta": {
     "name": "Generate Medical Reports from Emails with Gemini AI & Google Workspace",
-    "id": 6487,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6487
   },
   "name": "AI Medical Report Generator",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "CtgqZVTypq95HoSi",
   "meta": {
     "name": "Save Mastodon Bookmarks to Raindrop Automatically",
-    "id": 4800,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4800
   },
   "name": "Save Mastodon Bookmarks to Raindrop Automatically",
   "tags": [],

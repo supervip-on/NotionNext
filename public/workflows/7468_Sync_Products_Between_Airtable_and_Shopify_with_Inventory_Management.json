@@ -2,8 +2,7 @@
   "id": "V9bRm68MrWSvO1yP",
   "meta": {
     "name": "Sync Products Between Airtable and Shopify with Inventory Management",
-    "id": 7468,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7468
   },
   "name": "Create Shopify Products from Airtable",
   "tags": [

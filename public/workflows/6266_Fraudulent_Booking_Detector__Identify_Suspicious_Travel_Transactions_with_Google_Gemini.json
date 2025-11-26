@@ -2,8 +2,7 @@
   "id": "MMiXWOQE8aw4OD3k",
   "meta": {
     "name": "Fraudulent Booking Detector: Identify Suspicious Travel Transactions with Google Gemini",
-    "id": 6266,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6266
   },
   "name": "Fraudulent Booking Detector: Identify Suspicious Travel Transactions with AI",
   "tags": [],

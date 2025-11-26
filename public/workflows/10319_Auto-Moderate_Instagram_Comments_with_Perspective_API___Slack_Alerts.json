@@ -2,8 +2,7 @@
   "id": "m2mL2bEzyCxMyMUm",
   "meta": {
     "name": "Auto-Moderate Instagram Comments with Perspective API & Slack Alerts",
-    "id": 10319,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10319
   },
   "name": "Instagram Toxic Comment Moderation & Auto-Defense Workflow",
   "tags": [],

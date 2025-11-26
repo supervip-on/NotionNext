@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create an automated workitem(incident/bug/userstory) in azure devops",
-    "id": 2500,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2500
   },
   "nodes": [
     {

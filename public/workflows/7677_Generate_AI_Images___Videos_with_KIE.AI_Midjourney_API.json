@@ -2,8 +2,7 @@
   "id": "PNYUq9YR60V9ZDpj",
   "meta": {
     "name": "Generate AI Images & Videos with KIE.AI Midjourney API",
-    "id": 7677,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7677
   },
   "name": "mj",
   "tags": [],

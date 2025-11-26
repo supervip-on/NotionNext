@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape recent news about a company before a call",
-    "id": 2110,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2110
   },
   "nodes": [
     {

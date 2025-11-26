@@ -2,8 +2,7 @@
   "id": "4gzrrLiXlAZrOodq",
   "meta": {
     "name": "Automate Real-Time QuickBooks Invoice Sync to Google Sheets",
-    "id": 7229,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7229
   },
   "name": "Quickbooks Invoice to Google Sheet Automation",
   "tags": [],

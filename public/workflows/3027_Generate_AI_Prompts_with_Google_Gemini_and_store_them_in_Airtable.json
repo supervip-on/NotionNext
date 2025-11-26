@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Prompts with Google Gemini and store them in Airtable",
-    "id": 3027,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3027
   },
   "nodes": [
     {

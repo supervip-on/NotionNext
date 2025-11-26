@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert PPTX to PDF using ConvertAPI",
-    "id": 2305,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2305
   },
   "nodes": [
     {

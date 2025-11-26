@@ -427,8 +427,7 @@
   },
   "meta": {
     "name": "Handle GDPR data deletion requests with Slack",
-    "id": 1455,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1455
   },
   "id": "1455"
 }

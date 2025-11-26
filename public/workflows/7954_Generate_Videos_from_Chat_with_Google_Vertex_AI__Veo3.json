@@ -2,8 +2,7 @@
   "id": "EnIaJOKCuqYJ8ul1",
   "meta": {
     "name": "Generate Videos from Chat with Google Vertex AI (Veo3)",
-    "id": 7954,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7954
   },
   "name": "Google Vertex AI Veo3",
   "tags": [],

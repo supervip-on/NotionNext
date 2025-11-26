@@ -506,8 +506,7 @@
   },
   "meta": {
     "name": "Backup Tag-Selected Workflows to Gitlab",
-    "id": 2376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2376
   },
   "id": "2376"
 }

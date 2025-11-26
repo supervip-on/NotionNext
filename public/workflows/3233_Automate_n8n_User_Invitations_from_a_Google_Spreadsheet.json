@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate n8n User Invitations from a Google Spreadsheet",
-    "id": 3233,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3233
   },
   "nodes": [
     {

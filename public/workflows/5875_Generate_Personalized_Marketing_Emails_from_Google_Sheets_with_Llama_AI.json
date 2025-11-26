@@ -2,8 +2,7 @@
   "id": "78yYRensL5z0adQK",
   "meta": {
     "name": "Generate Personalized Marketing Emails from Google Sheets with Llama AI",
-    "id": 5875,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5875
   },
   "name": "Smart Email Marketing Generator via Excel + AI (Sheet to Inbox)",
   "tags": [],

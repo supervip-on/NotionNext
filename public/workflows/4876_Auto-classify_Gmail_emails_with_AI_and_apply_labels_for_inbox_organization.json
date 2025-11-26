@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-classify Gmail emails with AI and apply labels for inbox organization",
-    "id": 4876,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4876
   },
   "nodes": [
     {

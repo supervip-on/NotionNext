@@ -2,8 +2,7 @@
   "id": "DnHvQ3KL8v8r5L5Z",
   "meta": {
     "name": "Allow Users to Send a Sequence of Messages to an AI Agent in Telegram",
-    "id": 2917,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2917
   },
   "name": "Telegram Chat with Buffering",
   "tags": [],

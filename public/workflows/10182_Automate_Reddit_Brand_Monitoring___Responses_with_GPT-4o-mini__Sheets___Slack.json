@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Reddit Brand Monitoring & Responses with GPT-4o-mini, Sheets & Slack",
-    "id": 10182,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10182
   },
   "nodes": [
     {

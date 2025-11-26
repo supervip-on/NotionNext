@@ -2,8 +2,7 @@
   "id": "TK91m9bEjdq5Nlgu",
   "meta": {
     "name": "Generate SSL/TLS Certificate Expiry Reports with AWS ACM and AI for Slack & Email",
-    "id": 7689,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7689
   },
   "name": "Automated SSL/TLS Certificate Expiry Report for AWS",
   "tags": [

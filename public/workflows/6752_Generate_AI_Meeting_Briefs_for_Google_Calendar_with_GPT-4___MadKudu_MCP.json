@@ -2,8 +2,7 @@
   "id": "Wlqg5aeZgBFNfQRm",
   "meta": {
     "name": "Generate AI Meeting Briefs for Google Calendar with GPT-4 & MadKudu MCP",
-    "id": 6752,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6752
   },
   "name": "Prepare external Google Calendar meetings with AI using MadKudu MCP",
   "tags": [],

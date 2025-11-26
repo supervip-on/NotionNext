@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Telegram Support Handover from AI to Humans with GPT4 and Email Alerts",
-    "id": 9987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9987
   },
   "nodes": [
     {

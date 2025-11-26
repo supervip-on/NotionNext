@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Verify mailing address deliverability of contacts in Keap/Infusionsoft Using Lob",
-    "id": 2251,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2251
   },
   "nodes": [
     {

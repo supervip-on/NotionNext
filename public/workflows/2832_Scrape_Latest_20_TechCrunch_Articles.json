@@ -2,8 +2,7 @@
   "id": "MKGrRFnUuMZMAxNf",
   "meta": {
     "name": "Scrape Latest 20 TechCrunch Articles",
-    "id": 2832,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2832
   },
   "name": "Scrape Latest 20 TechCrunch Articles",
   "tags": [],

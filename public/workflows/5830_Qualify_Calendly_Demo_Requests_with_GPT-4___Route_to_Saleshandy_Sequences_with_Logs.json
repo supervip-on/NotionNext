@@ -2,8 +2,7 @@
   "id": "H97gy2uk3IGrx6Lx",
   "meta": {
     "name": "Qualify Calendly Demo Requests with GPT-4 & Route to Saleshandy Sequences with Logs",
-    "id": 5830,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5830
   },
   "name": "Calendly Request to Saleshandy's Sequence: Smart Lead Routing with AI",
   "tags": [],

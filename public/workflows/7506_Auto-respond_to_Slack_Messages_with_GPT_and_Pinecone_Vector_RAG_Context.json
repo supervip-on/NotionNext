@@ -2,8 +2,7 @@
   "id": "mB32fQ5OyrLgbIIZ",
   "meta": {
     "name": "Auto-respond to Slack Messages with GPT and Pinecone Vector RAG Context",
-    "id": 7506,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7506
   },
   "name": "Slack Project Update RAG Agent",
   "tags": [],

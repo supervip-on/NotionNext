@@ -2,8 +2,7 @@
   "id": "MvSVpfzaFUWELNTR",
   "meta": {
     "name": "Automate Daily Interview Schedule Delivery from Google Calendar to Gmail",
-    "id": 6566,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6566
   },
   "name": "Send today’s interview schedule from Google Calendar to each interviewer via email",
   "tags": [],

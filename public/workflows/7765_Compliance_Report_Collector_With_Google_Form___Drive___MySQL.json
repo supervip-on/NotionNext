@@ -2,8 +2,7 @@
   "id": "Un9KXLeARM23XTIQ",
   "meta": {
     "name": "Compliance Report Collector With Google Form → Drive + MySQL",
-    "id": 7765,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7765
   },
   "name": "Compliance Report Collector",
   "tags": [],

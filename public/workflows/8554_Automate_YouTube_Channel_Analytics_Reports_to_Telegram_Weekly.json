@@ -2,8 +2,7 @@
   "id": "aPiq5niR5CX4IKG0",
   "meta": {
     "name": "Automate YouTube Channel Analytics Reports to Telegram Weekly",
-    "id": 8554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8554
   },
   "name": "YouTube Analytics Weekly Report",
   "tags": [

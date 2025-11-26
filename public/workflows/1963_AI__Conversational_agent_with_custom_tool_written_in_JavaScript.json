@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI: Conversational agent with custom tool written in JavaScript ",
-    "id": 1963,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1963
   },
   "nodes": [
     {

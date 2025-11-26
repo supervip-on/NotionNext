@@ -2,8 +2,7 @@
   "id": "mOYawNKTDlExaveN",
   "meta": {
     "name": "Auto-Generate WordPress Articles from News with Claude AI and LinkedIn Sharing",
-    "id": 9920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9920
   },
   "name": "blog_workflow_template_n8n",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "H65aZTpWNSXT6jTw",
   "meta": {
     "name": "Keyboard Interest Checker: GeekHack Forum to Discord Notifications",
-    "id": 8045,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8045
   },
   "name": "geekhack updater",
   "tags": [],

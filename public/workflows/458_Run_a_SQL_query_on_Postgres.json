@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Run a SQL query on Postgres",
-    "id": 458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 458
   },
   "id": "458"
 }

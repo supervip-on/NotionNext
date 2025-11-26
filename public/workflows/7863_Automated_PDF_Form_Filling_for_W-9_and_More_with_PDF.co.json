@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated PDF Form Filling for W-9 and More with PDF.co",
-    "id": 7863,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7863
   },
   "nodes": [
     {

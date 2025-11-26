@@ -164,7 +164,6 @@
   },
   "meta": {
     "name": "Filter the feedback from Typeform and store in Google Sheets",
-    "id": 1075,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1075
   }
 }

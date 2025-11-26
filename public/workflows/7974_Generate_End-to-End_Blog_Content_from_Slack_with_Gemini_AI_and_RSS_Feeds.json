@@ -2,8 +2,7 @@
   "id": "sbb4vrO0WsNieVjJ",
   "meta": {
     "name": "Generate End-to-End Blog Content from Slack with Gemini AI and RSS Feeds",
-    "id": 7974,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7974
   },
   "name": "My workflow",
   "tags": [],

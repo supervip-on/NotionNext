@@ -398,8 +398,7 @@
   },
   "meta": {
     "name": "Enrich new accounts in Pipedrive using Datagma API",
-    "id": 1782,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1782
   },
   "id": "1782"
 }

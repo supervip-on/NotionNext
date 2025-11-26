@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Marker.io Issues to Intercom Conversations with Full Technical Context",
-    "id": 7388,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7388
   },
   "nodes": [
     {

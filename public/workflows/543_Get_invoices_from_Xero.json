@@ -43,8 +43,7 @@
   },
   "meta": {
     "name": "Get invoices from Xero",
-    "id": 543,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 543
   },
   "id": "543"
 }

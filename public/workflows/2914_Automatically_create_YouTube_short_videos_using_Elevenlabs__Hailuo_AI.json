@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically create YouTube short videos using Elevenlabs, Hailuo AI",
-    "id": 2914,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2914
   },
   "nodes": [
     {

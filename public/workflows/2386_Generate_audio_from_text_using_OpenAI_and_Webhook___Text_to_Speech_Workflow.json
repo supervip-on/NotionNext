@@ -2,8 +2,7 @@
   "id": "OVSyGmI6YFviPu8Q",
   "meta": {
     "name": "Generate audio from text using OpenAI and Webhook | Text to Speech Workflow",
-    "id": 2386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2386
   },
   "name": "Generate audio from text using OpenAI - text-to-speech Workflow",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Advanced AI Demo (Presented at AI Developers #14 meetup)",
-    "id": 2358,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2358
   },
   "nodes": [
     {

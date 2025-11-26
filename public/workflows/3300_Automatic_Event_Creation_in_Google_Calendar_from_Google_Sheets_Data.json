@@ -2,8 +2,7 @@
   "id": "AvCMhDoSUAYXsrQX",
   "meta": {
     "name": "Automatic Event Creation in Google Calendar from Google Sheets Data",
-    "id": 3300,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3300
   },
   "name": "Automate Event Creation in Google Calendar from Google Sheets",
   "tags": [],

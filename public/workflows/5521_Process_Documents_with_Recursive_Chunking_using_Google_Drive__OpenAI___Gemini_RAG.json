@@ -2,8 +2,7 @@
   "id": "gqPf4clVkEeEFul1",
   "meta": {
     "name": "Process Documents with Recursive Chunking using Google Drive, OpenAI & Gemini RAG",
-    "id": 5521,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5521
   },
   "name": "Recursive Hybrid  RAG 1",
   "tags": [],

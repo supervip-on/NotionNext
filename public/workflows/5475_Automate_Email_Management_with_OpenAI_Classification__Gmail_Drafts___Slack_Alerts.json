@@ -2,8 +2,7 @@
   "id": "FSJP3VvgYM0hlloV",
   "meta": {
     "name": "Automate Email Management with OpenAI Classification, Gmail Drafts & Slack Alerts",
-    "id": 5475,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5475
   },
   "name": "Intelligent Email Assistant with AI Classification, Gmail Drafts, and Slack Notifications",
   "tags": [

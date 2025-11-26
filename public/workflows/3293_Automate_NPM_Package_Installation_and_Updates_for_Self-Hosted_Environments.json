@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate NPM Package Installation and Updates for Self-Hosted Environments",
-    "id": 3293,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3293
   },
   "nodes": [
     {

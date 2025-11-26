@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Financial Data Q&A Chatbot with Google Finance, SerpAPI, and OpenAI",
-    "id": 7743,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7743
   },
   "nodes": [
     {

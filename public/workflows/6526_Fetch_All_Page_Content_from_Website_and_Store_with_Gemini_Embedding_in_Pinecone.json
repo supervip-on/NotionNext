@@ -354,8 +354,7 @@
   },
   "meta": {
     "name": "Fetch All Page Content from Website and Store with Gemini Embedding in Pinecone",
-    "id": 6526,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6526
   },
   "id": "6526"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Curate & Post LinkedIn Company Page using RSS + Gemini AI + Templated.io",
-    "id": 9769,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9769
   },
   "name": "RSS to LinkedIn Auto-Poster",
   "nodes": [

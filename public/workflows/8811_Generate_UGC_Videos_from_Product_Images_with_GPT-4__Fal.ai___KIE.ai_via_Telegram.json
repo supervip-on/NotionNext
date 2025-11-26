@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate UGC Videos from Product Images with GPT-4, Fal.ai & KIE.ai via Telegram",
-    "id": 8811,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8811
   },
   "nodes": [
     {

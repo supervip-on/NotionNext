@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Sales Emails Based on Business Events with Explorium MCP & Claude",
-    "id": 4841,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4841
   },
   "name": "Automated Sales Outreach with Slack",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "NG5qfRoVru1JkrkG",
   "meta": {
     "name": "Public Holiday Lookup with Nager.Date API via Webhook",
-    "id": 4601,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4601
   },
   "name": "Public Holiday Lookup via Webhook",
   "tags": [],

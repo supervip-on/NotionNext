@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract and Process Healthcare Claims with VLM Run, Google Drive and Sheets",
-    "id": 7849,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7849
   },
   "nodes": [
     {

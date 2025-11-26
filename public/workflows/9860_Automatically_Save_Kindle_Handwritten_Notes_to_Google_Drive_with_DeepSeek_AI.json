@@ -2,8 +2,7 @@
   "id": "3VZQnUWjiVBTZfmP",
   "meta": {
     "name": "Automatically Save Kindle Handwritten Notes to Google Drive with DeepSeek AI",
-    "id": 9860,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9860
   },
   "name": "Kindle -> Drive upload",
   "tags": [],

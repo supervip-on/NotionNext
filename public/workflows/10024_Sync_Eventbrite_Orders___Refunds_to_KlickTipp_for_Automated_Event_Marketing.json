@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Eventbrite Orders & Refunds to KlickTipp for Automated Event Marketing",
-    "id": 10024,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10024
   },
   "nodes": [
     {

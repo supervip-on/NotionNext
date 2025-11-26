@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Shopify Abandoned Cart Alerts from Razorpay to Telegram",
-    "id": 8092,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8092
   },
   "name": "My workflow 6",
   "tags": [],

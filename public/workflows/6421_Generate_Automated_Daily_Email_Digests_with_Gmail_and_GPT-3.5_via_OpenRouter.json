@@ -2,8 +2,7 @@
   "id": "qP5k8BFhuCwgV11k",
   "meta": {
     "name": "Generate Automated Daily Email Digests with Gmail and GPT-3.5 via OpenRouter",
-    "id": 6421,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6421
   },
   "name": "Email Digest",
   "tags": [],

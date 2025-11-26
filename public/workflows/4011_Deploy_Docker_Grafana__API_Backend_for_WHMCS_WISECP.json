@@ -2,8 +2,7 @@
   "id": "SPqZ8T6ll5AJN6Oe",
   "meta": {
     "name": "Deploy Docker Grafana, API Backend for WHMCS/WISECP",
-    "id": 4011,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4011
   },
   "name": "puq-docker-grafana-deploy",
   "tags": [],

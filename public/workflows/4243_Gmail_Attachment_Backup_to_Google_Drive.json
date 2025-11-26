@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail Attachment Backup to Google Drive",
-    "id": 4243,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4243
   },
   "nodes": [
     {

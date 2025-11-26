@@ -2,8 +2,7 @@
   "id": "84dT8cFL0FV8ZGPx",
   "meta": {
     "name": "Slack Webhook - Verify Signature",
-    "id": 2009,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2009
   },
   "name": "Slack Webhook - Verify Signature",
   "tags": [],

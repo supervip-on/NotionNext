@@ -2,8 +2,7 @@
   "id": "JnDUKOvOXcOImSQc",
   "meta": {
     "name": "Transcribe Voice Messages from Telegram using OpenAI Whisper-1",
-    "id": 4528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4528
   },
   "name": "Transcribe Telegram Audio with OpenAI",
   "tags": [],

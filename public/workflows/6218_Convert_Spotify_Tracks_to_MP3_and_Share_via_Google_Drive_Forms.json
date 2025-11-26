@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Spotify Tracks to MP3 and Share via Google Drive Forms",
-    "id": 6218,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6218
   },
   "nodes": [
     {

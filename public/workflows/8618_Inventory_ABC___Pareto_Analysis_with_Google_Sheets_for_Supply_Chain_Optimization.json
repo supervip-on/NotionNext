@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Inventory ABC & Pareto Analysis with Google Sheets for Supply Chain Optimization",
-    "id": 8618,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8618
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Academic Citation Networks with PDF Vector API for Gephi Visualization",
-    "id": 7356,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7356
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Quiz Creation from Documents with Google Gemini and Jotform",
-    "id": 9715,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9715
   },
   "nodes": [
     {

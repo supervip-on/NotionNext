@@ -2,8 +2,7 @@
   "id": "BNhNtHSWOsHCg2jc",
   "meta": {
     "name": "Generate Personalized Sales Emails with MadKudu Research & OpenAI for Outreach.io Sequences",
-    "id": 7149,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7149
   },
   "name": "Generate personalized email to stakeholder",
   "tags": [

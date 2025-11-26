@@ -2,8 +2,7 @@
   "id": "Automated_Content_Creator_Publisher",
   "meta": {
     "name": "Automated Thai Content Creation & Publishing with Ollama, Gemini & Telegram",
-    "id": 5818,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5818
   },
   "name": "Automated Content Creator & Publisher",
   "tags": [

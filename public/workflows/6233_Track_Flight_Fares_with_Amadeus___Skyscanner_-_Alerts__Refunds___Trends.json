@@ -2,8 +2,7 @@
   "id": "Imsit8rJhCw7DEeD",
   "meta": {
     "name": "Track Flight Fares with Amadeus & Skyscanner - Alerts, Refunds & Trends",
-    "id": 6233,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6233
   },
   "name": "Post-Booking Fare Tracker – Auto Alerts & Refund Checks via Amadeus & Skyscanner",
   "tags": [],

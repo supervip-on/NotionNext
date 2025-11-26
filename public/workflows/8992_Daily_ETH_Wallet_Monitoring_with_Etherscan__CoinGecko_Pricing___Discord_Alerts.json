@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily ETH Wallet Monitoring with Etherscan, CoinGecko Pricing & Discord Alerts",
-    "id": 8992,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8992
   },
   "nodes": [
     {

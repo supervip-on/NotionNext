@@ -2,8 +2,7 @@
   "id": "WCAyzxSt6yCROjq8",
   "meta": {
     "name": "Automate Expense Reporting from Airtable to QuickBooks",
-    "id": 7324,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7324
   },
   "name": "Automate Expense Reporting from Airtable to QuickBooks",
   "tags": [],

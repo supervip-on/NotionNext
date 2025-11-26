@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Commercial Insurance Submissions with Google Suite, PDF & Email",
-    "id": 7132,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7132
   },
   "nodes": [
     {

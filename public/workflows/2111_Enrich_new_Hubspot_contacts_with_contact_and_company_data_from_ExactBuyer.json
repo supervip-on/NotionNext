@@ -359,8 +359,7 @@
   },
   "meta": {
     "name": "Enrich new Hubspot contacts with contact and company data from ExactBuyer",
-    "id": 2111,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2111
   },
   "id": "2111"
 }

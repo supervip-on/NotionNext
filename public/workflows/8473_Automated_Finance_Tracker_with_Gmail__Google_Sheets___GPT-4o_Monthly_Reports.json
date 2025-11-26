@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Finance Tracker with Gmail, Google Sheets & GPT-4o Monthly Reports",
-    "id": 8473,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8473
   },
   "name": "Auto-Finance Tracker: Sync Receipts, Forecast Cash Flow & Get Monthly Reports",
   "nodes": [

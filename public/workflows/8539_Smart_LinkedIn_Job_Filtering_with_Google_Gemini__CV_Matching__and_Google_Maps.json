@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart LinkedIn Job Filtering with Google Gemini, CV Matching, and Google Maps",
-    "id": 8539,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8539
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "lemlist <> GPT-3: Supercharge your sales workflows",
-    "id": 1838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1838
   },
   "nodes": [
     {

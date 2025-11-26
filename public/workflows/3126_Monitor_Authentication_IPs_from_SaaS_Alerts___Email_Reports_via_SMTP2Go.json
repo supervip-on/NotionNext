@@ -2,8 +2,7 @@
   "id": "fGq0vUaD6JoqAbDa",
   "meta": {
     "name": "Monitor Authentication IPs from SaaS Alerts & Email Reports via SMTP2Go",
-    "id": 3126,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3126
   },
   "name": "Query List of Sign-in IPs",
   "tags": [],

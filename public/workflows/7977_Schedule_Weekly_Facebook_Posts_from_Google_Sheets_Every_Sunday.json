@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Schedule Weekly Facebook Posts from Google Sheets Every Sunday",
-    "id": 7977,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7977
   },
   "name": "Automate client nurture emails and testimonial collection from Notion",
   "tags": [

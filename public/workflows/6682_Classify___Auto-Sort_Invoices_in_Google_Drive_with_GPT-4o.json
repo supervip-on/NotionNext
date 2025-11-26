@@ -2,8 +2,7 @@
   "id": "M4i2qOxJ3Us04fab",
   "meta": {
     "name": "Classify & Auto-Sort Invoices in Google Drive with GPT-4o",
-    "id": 6682,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6682
   },
   "name": "Invoice Classifier",
   "tags": [],

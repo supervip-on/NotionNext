@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract & Enrich LinkedIn Comments to Leads with Apify → Google Sheets/CSV",
-    "id": 4635,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4635
   },
   "nodes": [
     {

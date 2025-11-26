@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Filter Cybersecurity News for Your Tech Stack (OpenAI + Pinecone RAG)",
-    "id": 7017,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7017
   },
   "nodes": [
     {

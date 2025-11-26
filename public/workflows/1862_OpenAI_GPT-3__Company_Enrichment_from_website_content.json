@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "OpenAI GPT-3: Company Enrichment from website content",
-    "id": 1862,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1862
   },
   "nodes": [
     {

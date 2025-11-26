@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Teleport Workflows Between n8n Instances with Magic Inbox P2P System",
-    "id": 6960,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6960
   },
   "nodes": [
     {

@@ -46,8 +46,7 @@
   },
   "meta": {
     "name": "Get all the entries from Contentful",
-    "id": 640,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 640
   },
   "id": "640"
 }

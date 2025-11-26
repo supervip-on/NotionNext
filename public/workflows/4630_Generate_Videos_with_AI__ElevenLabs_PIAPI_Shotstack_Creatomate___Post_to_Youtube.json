@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Videos with AI, ElevenLabs,PIAPI Shotstack/Creatomate & Post to Youtube",
-    "id": 4630,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4630
   },
   "nodes": [
     {

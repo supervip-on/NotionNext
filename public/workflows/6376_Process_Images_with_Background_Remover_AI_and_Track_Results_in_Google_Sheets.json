@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Process Images with Background Remover AI and Track Results in Google Sheets",
-    "id": 6376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6376
   },
   "nodes": [
     {

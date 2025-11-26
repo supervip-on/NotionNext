@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Crunchbase recent funding rounds",
-    "id": 2076,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2076
   },
   "nodes": [
     {

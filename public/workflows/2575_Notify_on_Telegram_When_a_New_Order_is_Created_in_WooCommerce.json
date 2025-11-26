@@ -2,8 +2,7 @@
   "id": "JMfwq2Xn60pWz2Hy",
   "meta": {
     "name": "Notify on Telegram When a New Order is Created in WooCommerce 📦 ",
-    "id": 2575,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2575
   },
   "name": "Send Telegram Alerts for New WooCommerce Orders",
   "tags": [],

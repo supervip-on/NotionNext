@@ -2,8 +2,7 @@
   "id": "S5QDGzh0Awkpm2WX",
   "meta": {
     "name": "Enrich Person Data and Update CRM with Airtop and Hubspot",
-    "id": 4255,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4255
   },
   "name": "Enrich Person Data",
   "tags": [],

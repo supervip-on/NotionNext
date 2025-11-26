@@ -2,8 +2,7 @@
   "id": "qOAgdqA9CYJiMqJl",
   "meta": {
     "name": "Scheduled Monitoring of New & Modified Files Across Google Drive Folders",
-    "id": 9209,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9209
   },
   "name": "TEMPLATE Nested folder recursion",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "wOBVDQjh99n0BuRm",
   "meta": {
     "name": "Ingredient Price Trend Analysis & Buying Recommendations with PostgreSQL, API & Slack",
-    "id": 5987,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5987
   },
   "name": "Track Ingredient Price Trends & Get Smart Buying Suggestions via API, Database & Slack",
   "tags": [],

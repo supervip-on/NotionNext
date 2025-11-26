@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Discord AI Chatbot with GPT-4o-mini & Redis Memory Persistence",
-    "id": 5816,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5816
   },
   "nodes": [
     {

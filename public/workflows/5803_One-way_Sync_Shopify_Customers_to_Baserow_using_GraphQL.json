@@ -2,8 +2,7 @@
   "id": "FQTzFipB62nOZedB",
   "meta": {
     "name": "One-way Sync Shopify Customers to Baserow using GraphQL",
-    "id": 5803,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5803
   },
   "name": "Shopify Export Customers to Baserow",
   "tags": [],

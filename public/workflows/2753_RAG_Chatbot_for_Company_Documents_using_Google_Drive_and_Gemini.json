@@ -2,8 +2,7 @@
   "id": "7cXvgkl9170QXzT2",
   "meta": {
     "name": "RAG Chatbot for Company Documents using Google Drive and Gemini",
-    "id": 2753,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2753
   },
   "name": "RAG Workflow For Company Documents stored in Google Drive",
   "tags": [],

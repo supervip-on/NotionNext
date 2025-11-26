@@ -2,8 +2,7 @@
   "id": "t8b7acKjOCI1wHEx",
   "meta": {
     "name": "Automated Invoice Management with Nextcloud, Email and Telegram Notifications",
-    "id": 4655,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4655
   },
   "name": "Nextcloud Invoice Mailer with Telegram Alerts",
   "tags": [

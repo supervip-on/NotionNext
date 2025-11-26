@@ -2,8 +2,7 @@
   "id": "oezF9oCv3tPecrSv",
   "meta": {
     "name": "Automated Indonesian Weather Alerts with BMKG Data & Telegram Notifications",
-    "id": 9675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9675
   },
   "name": "BMKG Weather Monitoring & Telegram Alert System",
   "tags": [

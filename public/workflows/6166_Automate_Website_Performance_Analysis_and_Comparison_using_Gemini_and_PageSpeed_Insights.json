@@ -2,8 +2,7 @@
   "id": "hHhdfJwx4e6Q68ho",
   "meta": {
     "name": "Automate Website Performance Analysis and Comparison using Gemini and PageSpeed Insights",
-    "id": 6166,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6166
   },
   "name": "Page Speed Insight",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "onboarding-workflow-template",
   "meta": {
     "name": "Discord Channel Creation from Google Sheets with Member Notifications",
-    "id": 4719,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4719
   },
   "name": "Discord Channel Creation from Google Sheets with Member Notifications",
   "tags": [],

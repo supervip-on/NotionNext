@@ -2,8 +2,7 @@
   "id": "HQcHQhEaig6JXOH4",
   "meta": {
     "name": "Auto-Generate Virtual AI Try-On Images for WooCommerce with Gemini Nano Banana",
-    "id": 8022,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8022
   },
   "name": "AI Virtual TryOn for WooCommerce Nano Banana",
   "tags": [],

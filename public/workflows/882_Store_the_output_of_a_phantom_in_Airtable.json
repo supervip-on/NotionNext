@@ -116,7 +116,6 @@
   },
   "meta": {
     "name": "Store the output of a phantom in Airtable",
-    "id": 882,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 882
   }
 }

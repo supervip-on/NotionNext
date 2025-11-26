@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Attendance from Google Drive Images to Sheets with VLM Run AI & Gmail Alerts",
-    "id": 9327,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9327
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "LXISJ7aStsFV2P1U",
   "meta": {
     "name": "YouTube Video Transcription & Summary to Telegram with GPT-4o",
-    "id": 4964,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4964
   },
   "name": "Youtube Summarizer",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "40UdEGFo6xcsiP60",
   "meta": {
     "name": "Validate CAD and BIM Files Against Excel Standards (Revit, IFC, AutoCAD, DGN)",
-    "id": 5868,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5868
   },
   "name": "n8n_4_Validation_CAD_BIM_Revit_IFC_DWG",
   "tags": [],

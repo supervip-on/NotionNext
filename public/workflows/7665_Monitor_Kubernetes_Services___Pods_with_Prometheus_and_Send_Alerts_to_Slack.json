@@ -2,8 +2,7 @@
   "id": "uHuCUw3vQH7eXOyI",
   "meta": {
     "name": "Monitor Kubernetes Services & Pods with Prometheus and Send Alerts to Slack",
-    "id": 7665,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7665
   },
   "name": "Service_and_Pods_Discovery",
   "tags": [],

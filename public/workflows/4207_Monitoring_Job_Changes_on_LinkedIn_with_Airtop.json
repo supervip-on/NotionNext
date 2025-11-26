@@ -2,8 +2,7 @@
   "id": "ywYDhP2qPDpTI4o8",
   "meta": {
     "name": "Monitoring Job Changes on LinkedIn with Airtop",
-    "id": 4207,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4207
   },
   "name": "Monitor Job Changes",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Course Registration Leads from Facebook Ads to KlickTipp",
-    "id": 3786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3786
   },
   "nodes": [
     {

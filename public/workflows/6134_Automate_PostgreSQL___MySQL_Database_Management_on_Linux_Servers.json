@@ -2,8 +2,7 @@
   "id": "OnGUB1cHxzP09UTz",
   "meta": {
     "name": "Automate PostgreSQL & MySQL Database Management on Linux Servers",
-    "id": 6134,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6134
   },
   "name": "Automate PostgreSQL & MySQL Setup, Creation & Deletion in Just 10 Seconds",
   "tags": [],

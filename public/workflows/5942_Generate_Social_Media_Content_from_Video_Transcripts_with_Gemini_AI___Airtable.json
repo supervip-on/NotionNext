@@ -2,8 +2,7 @@
   "id": "MtgnjrxHtLhytKw2",
   "meta": {
     "name": "Generate Social Media Content from Video Transcripts with Gemini AI & Airtable",
-    "id": 5942,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5942
   },
   "name": "# 🎬 Social Media Content Generator",
   "tags": [],

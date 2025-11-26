@@ -2,8 +2,7 @@
   "id": "ECMZJMXpsiEjYfDJ",
   "meta": {
     "name": "Extract Colombian Invoice Data from Drive to Sheets with GPT-4o",
-    "id": 8099,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8099
   },
   "name": "Colombia Cashflow - To sell",
   "tags": [],

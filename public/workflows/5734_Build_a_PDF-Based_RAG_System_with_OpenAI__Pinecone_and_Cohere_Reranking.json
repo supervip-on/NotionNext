@@ -2,8 +2,7 @@
   "id": "pDhufDfHS9qRgtLf",
   "meta": {
     "name": "Build a PDF-Based RAG System with OpenAI, Pinecone and Cohere Reranking",
-    "id": 5734,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5734
   },
   "name": "Simple RAG",
   "tags": [],

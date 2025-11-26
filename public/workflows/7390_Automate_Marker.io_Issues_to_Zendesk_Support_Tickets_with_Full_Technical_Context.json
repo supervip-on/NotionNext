@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Marker.io Issues to Zendesk Support Tickets with Full Technical Context",
-    "id": 7390,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7390
   },
   "nodes": [
     {

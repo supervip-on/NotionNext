@@ -767,7 +767,6 @@
   },
   "meta": {
     "name": "Extract Medical Reports & Generate AI Health Advice with Mistral AI & GPT-4",
-    "id": 9839,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9839
   }
 }

@@ -2,8 +2,7 @@
   "id": "9489",
   "meta": {
     "name": "Process Customer Feedback with OpenAI, PDF Reports, Gmail & Slack Notifications",
-    "id": 9489,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9489
   },
   "name": "Personalized Feedback Summary Generator",
   "tags": [

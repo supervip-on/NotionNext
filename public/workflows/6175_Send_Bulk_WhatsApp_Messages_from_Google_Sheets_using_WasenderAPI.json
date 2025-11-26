@@ -2,8 +2,7 @@
   "id": "1ZnPRyjP4J0gq5Pw",
   "meta": {
     "name": "Send Bulk WhatsApp Messages from Google Sheets using WasenderAPI",
-    "id": 6175,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6175
   },
   "name": "Google Sheets to WhatsApp Bulk Messaging via Unofficial API",
   "tags": [],

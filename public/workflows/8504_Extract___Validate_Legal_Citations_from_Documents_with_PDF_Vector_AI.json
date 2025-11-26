@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract & Validate Legal Citations from Documents with PDF Vector AI",
-    "id": 8504,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8504
   },
   "nodes": [
     {

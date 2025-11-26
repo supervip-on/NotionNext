@@ -2,8 +2,7 @@
   "id": "huG32xnAJhZGWhok",
   "meta": {
     "name": "Analyze Google Sheets Data with OpenAI-powered Data Agent",
-    "id": 3835,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3835
   },
   "name": "ozki: OpenAI CSV Analysis",
   "tags": [],

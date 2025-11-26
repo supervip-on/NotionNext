@@ -108,7 +108,6 @@
   },
   "meta": {
     "name": "Create, update, and get activity in Strava",
-    "id": 744,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 744
   }
 }

@@ -2,8 +2,7 @@
   "id": "OlJ23u8YjjeZ3DGu",
   "meta": {
     "name": "Automate Gmail Inbox Organization with Rule-based Categorization and Smart Actions",
-    "id": 5518,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5518
   },
   "name": "Gmail Organizer",
   "tags": [],

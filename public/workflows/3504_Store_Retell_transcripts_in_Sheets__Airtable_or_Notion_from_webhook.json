@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Store Retell transcripts in Sheets, Airtable or Notion from webhook",
-    "id": 3504,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3504
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "sa18X1rJ46urtyGp",
   "meta": {
     "name": "eBay Fulfillment API Operations for AI Agents with MCP Server",
-    "id": 5576,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5576
   },
   "name": "[eBay] Fulfillment API MCP Server",
   "tags": [],

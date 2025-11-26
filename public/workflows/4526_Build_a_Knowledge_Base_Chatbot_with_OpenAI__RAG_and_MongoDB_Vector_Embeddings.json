@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Knowledge Base Chatbot with OpenAI, RAG and MongoDB Vector Embeddings",
-    "id": 4526,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4526
   },
   "nodes": [
     {

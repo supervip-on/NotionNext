@@ -2,8 +2,7 @@
   "id": "5RFmm8vrn1I8fFGE",
   "meta": {
     "name": "Personalized LinkedIn Connection Requests with Apollo, GPT-4, Apify & PhantomBuster",
-    "id": 4803,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4803
   },
   "name": "1. LI Connection Request System: Trigger PhantomBuster Agent",
   "tags": [

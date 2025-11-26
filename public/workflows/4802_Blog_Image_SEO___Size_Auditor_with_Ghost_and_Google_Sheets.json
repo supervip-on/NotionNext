@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "✍️ Blog Image SEO & Size Auditor with Ghost and Google Sheets",
-    "id": 4802,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4802
   },
   "nodes": [
     {

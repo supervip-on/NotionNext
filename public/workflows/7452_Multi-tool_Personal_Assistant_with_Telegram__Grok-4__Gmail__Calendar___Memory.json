@@ -2,8 +2,7 @@
   "id": "kUAss6TbBXLb8HG6",
   "meta": {
     "name": "Multi-tool Personal Assistant with Telegram, Grok-4, Gmail, Calendar & Memory",
-    "id": 7452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7452
   },
   "name": "Telegram-first personal AI agent",
   "tags": [

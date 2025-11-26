@@ -2,8 +2,7 @@
   "id": "VSvhSHg8Qnpr8mEg",
   "meta": {
     "name": "Telegram Multi-language Translation Bot with GPT-3.5",
-    "id": 10385,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10385
   },
   "name": "Telegram Auto-Translation Relay Bot",
   "tags": [],

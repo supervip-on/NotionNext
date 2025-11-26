@@ -2,8 +2,7 @@
   "id": "m4KemnsFjvAYAcWL",
   "meta": {
     "name": "Audio Conversation Analysis & Visualization with DeepGram and GPT-4o",
-    "id": 3140,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3140
   },
   "name": "Transcript Evalu8r",
   "tags": [

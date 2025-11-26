@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI based Data Analysis, Data Visualization and Data Report with Ada.im",
-    "id": 9605,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9605
   },
   "nodes": [
     {

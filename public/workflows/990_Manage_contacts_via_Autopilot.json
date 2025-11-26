@@ -108,8 +108,7 @@
   },
   "meta": {
     "name": "Manage contacts via Autopilot",
-    "id": 990,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 990
   },
   "id": "990"
 }

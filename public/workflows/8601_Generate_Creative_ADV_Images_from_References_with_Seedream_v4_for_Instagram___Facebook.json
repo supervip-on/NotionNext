@@ -2,8 +2,7 @@
   "id": "iVrdFL6VgI0UgfnX",
   "meta": {
     "name": "Generate Creative ADV Images from References with Seedream v4 for Instagram & Facebook",
-    "id": 8601,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8601
   },
   "name": "Generate creative ADV image from your multiple image references",
   "tags": [],

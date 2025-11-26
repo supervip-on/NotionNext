@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Notion Task Reminders via Slack",
-    "id": 2488,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2488
   },
   "nodes": [
     {

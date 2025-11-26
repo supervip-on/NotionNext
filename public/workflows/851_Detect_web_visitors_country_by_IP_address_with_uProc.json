@@ -161,7 +161,6 @@
   },
   "meta": {
     "name": "Detect web visitors country by IP address with uProc",
-    "id": 851,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 851
   }
 }

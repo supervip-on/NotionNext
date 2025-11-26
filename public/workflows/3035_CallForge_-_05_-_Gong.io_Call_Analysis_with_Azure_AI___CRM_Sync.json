@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 05 - Gong.io Call Analysis with Azure AI & CRM Sync",
-    "id": 3035,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3035
   },
   "nodes": [
     {

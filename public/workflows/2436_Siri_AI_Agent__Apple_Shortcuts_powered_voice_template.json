@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Siri AI Agent: Apple Shortcuts powered voice template",
-    "id": 2436,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2436
   },
   "nodes": [
     {

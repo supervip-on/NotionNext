@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Accessible Alt Text with AI from Google Sheets to WordPress",
-    "id": 7548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7548
   },
   "nodes": [
     {

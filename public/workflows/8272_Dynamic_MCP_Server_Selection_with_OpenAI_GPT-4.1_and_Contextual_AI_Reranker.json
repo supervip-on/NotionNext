@@ -2,8 +2,7 @@
   "id": "d1iK84AVOBn7nPRx",
   "meta": {
     "name": "Dynamic MCP Server Selection with OpenAI GPT-4.1 and Contextual AI Reranker",
-    "id": 8272,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8272
   },
   "name": "Rank MCP Servers using Contextual AI Reranker",
   "tags": [],

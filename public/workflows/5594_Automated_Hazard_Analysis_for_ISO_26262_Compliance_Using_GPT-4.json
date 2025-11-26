@@ -2,8 +2,7 @@
   "id": "Z59iv0jcVPieE4iB",
   "meta": {
     "name": "Automated Hazard Analysis for ISO 26262 Compliance Using GPT-4",
-    "id": 5594,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5594
   },
   "name": "Hazard analysis Workflow",
   "tags": [],

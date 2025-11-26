@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Add AI-Generated Headings & Conclusions to WordPress Posts with GPT-4.1",
-    "id": 7581,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7581
   },
   "nodes": [
     {

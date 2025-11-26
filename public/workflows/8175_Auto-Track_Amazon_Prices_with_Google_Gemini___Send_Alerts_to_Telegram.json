@@ -381,8 +381,7 @@
   },
   "meta": {
     "name": "Auto-Track Amazon Prices with Google Gemini & Send Alerts to Telegram",
-    "id": 8175,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8175
   },
   "id": "8175"
 }

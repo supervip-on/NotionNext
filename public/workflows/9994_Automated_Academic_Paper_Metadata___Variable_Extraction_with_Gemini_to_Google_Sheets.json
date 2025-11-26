@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Academic Paper Metadata & Variable Extraction with Gemini to Google Sheets",
-    "id": 9994,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9994
   },
   "nodes": [
     {

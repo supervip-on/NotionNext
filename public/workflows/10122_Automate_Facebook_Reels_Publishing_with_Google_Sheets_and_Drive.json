@@ -2,8 +2,7 @@
   "id": "hpXL1RWOL0AurfV4",
   "meta": {
     "name": "Automate Facebook Reels Publishing with Google Sheets and Drive",
-    "id": 10122,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10122
   },
   "name": "Publish a Reel on a Facebook Page",
   "tags": [

@@ -369,8 +369,7 @@
   },
   "meta": {
     "name": "Automatically create daily list of todos in Todoist",
-    "id": 2149,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2149
   },
   "id": "2149"
 }

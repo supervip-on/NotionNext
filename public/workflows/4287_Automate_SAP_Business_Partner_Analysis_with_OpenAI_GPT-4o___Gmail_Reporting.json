@@ -2,8 +2,7 @@
   "id": "9191fMgAclXEVBpJ",
   "meta": {
     "name": "Automate SAP Business Partner Analysis with OpenAI GPT-4o & Gmail Reporting",
-    "id": 4287,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4287
   },
   "name": "SAP Business Partner (A2X) For Business",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "HubSpot Contact AI Enrichment",
-    "id": 8969,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8969
   },
   "nodes": [
     {

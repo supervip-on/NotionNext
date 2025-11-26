@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Images from Text Prompts using HeraNathalie Model and Replicate",
-    "id": 6852,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6852
   },
   "name": "digitalhera/heranathalie - Other Generator",
   "nodes": [

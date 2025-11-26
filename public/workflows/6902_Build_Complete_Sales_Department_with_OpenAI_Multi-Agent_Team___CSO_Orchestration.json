@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Complete Sales Department with OpenAI Multi-Agent Team & CSO Orchestration",
-    "id": 6902,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6902
   },
   "name": "CSO Agent with Sales Team",
   "nodes": [

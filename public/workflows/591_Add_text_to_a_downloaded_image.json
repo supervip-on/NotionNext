@@ -72,7 +72,6 @@
   },
   "meta": {
     "name": "Add text to a downloaded image",
-    "id": 591,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 591
   }
 }

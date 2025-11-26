@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Research Agents to Automate PDF Analysis with Mistral’s Best-in-Class OCR",
-    "id": 3223,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3223
   },
   "nodes": [
     {

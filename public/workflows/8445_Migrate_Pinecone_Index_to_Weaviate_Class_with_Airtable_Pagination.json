@@ -2,8 +2,7 @@
   "id": "70nCcZ6MOikosz1s",
   "meta": {
     "name": "Migrate Pinecone Index to Weaviate Class with Airtable Pagination",
-    "id": 8445,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8445
   },
   "name": "My workflow",
   "tags": [],

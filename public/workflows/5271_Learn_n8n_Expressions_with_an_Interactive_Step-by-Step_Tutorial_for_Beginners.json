@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🎓 Learn n8n Expressions with an Interactive Step-by-Step Tutorial for Beginners",
-    "id": 5271,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5271
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "z8p6r4MRvb3YWvpa",
   "meta": {
     "name": "Daily Stock Market Report with Twelve Data API Sent via WhatsApp and Email",
-    "id": 7726,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7726
   },
   "name": "Automated Daily Report of Top 100 Stock Price Changes",
   "tags": [],

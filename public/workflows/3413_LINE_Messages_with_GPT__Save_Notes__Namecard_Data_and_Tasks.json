@@ -2,8 +2,7 @@
   "id": "HbjZ9cBPgDdnIRjG",
   "meta": {
     "name": "LINE Messages with GPT: Save Notes, Namecard Data and Tasks",
-    "id": 3413,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3413
   },
   "name": "MiniBear Webhook",
   "tags": [

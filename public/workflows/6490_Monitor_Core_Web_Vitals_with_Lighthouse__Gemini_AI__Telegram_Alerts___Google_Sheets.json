@@ -2,8 +2,7 @@
   "id": "5yT7sA01kGAY5Teu",
   "meta": {
     "name": "Monitor Core Web Vitals with Lighthouse, Gemini AI, Telegram Alerts & Google Sheets",
-    "id": 6490,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6490
   },
   "name": "Lighthouse Report",
   "tags": [],

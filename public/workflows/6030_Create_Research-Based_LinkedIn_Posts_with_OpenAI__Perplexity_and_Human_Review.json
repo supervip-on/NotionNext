@@ -2,8 +2,7 @@
   "id": "siRh53ZuPMkLBAVH",
   "meta": {
     "name": "Create Research-Based LinkedIn Posts with OpenAI, Perplexity and Human Review",
-    "id": 6030,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6030
   },
   "name": "AI-Powered LinkedIn Content Engine (n8n + OpenAI + Perplexity + Replicate)",
   "tags": [

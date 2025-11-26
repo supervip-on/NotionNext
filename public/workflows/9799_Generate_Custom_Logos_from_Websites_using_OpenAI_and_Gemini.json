@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Custom Logos from Websites using OpenAI and Gemini",
-    "id": 9799,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9799
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "5TGOTlmPdfRCmmfe",
   "meta": {
     "name": "Automate n8n Updates with Version Checking and Portainer Webhook",
-    "id": 7061,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7061
   },
   "name": "n8n-autoupdate",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Email Categorization & Response Generation with Gmail & GPT-4",
-    "id": 7262,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7262
   },
   "nodes": [
     {

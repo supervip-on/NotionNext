@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Chat with GPT-5 on Telegram: AI-Powered Conversational Bot",
-    "id": 7331,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7331
   },
   "nodes": [
     {

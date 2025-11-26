@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Microsoft Entra ID Tool MCP Server 💪 all 12 operations",
-    "id": 5181,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5181
   },
   "nodes": [
     {

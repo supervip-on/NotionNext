@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Embedded Images from Google Drive Documents with VLM Run Agent",
-    "id": 9326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9326
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "xK59mMk6s4GRTYit",
   "meta": {
     "name": "Automate Face Swapping for GIFs with Fal.run AI and Google Services",
-    "id": 4450,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4450
   },
   "name": "Swap faces on GIFs",
   "tags": [],

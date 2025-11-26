@@ -2,8 +2,7 @@
   "id": "oBJaQvcNxODDoAl1",
   "meta": {
     "name": "Daily Postgres Table Backup to GitHub in CSV Format",
-    "id": 7419,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7419
   },
   "name": "backup postgres as csv to github",
   "tags": [],

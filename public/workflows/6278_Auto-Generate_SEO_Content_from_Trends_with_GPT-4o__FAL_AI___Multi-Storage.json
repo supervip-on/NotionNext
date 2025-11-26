@@ -2,8 +2,7 @@
   "id": "J5BZO9ezilMiswH7",
   "meta": {
     "name": "Auto-Generate SEO Content from Trends with GPT-4o, FAL AI & Multi-Storage",
-    "id": 6278,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6278
   },
   "name": "Generate SEO content from trends spreadsheet to storage (SharePoint/Drive/Dropbox)",
   "tags": [

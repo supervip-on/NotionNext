@@ -2,8 +2,7 @@
   "id": "7CdWmTSFuTCbGS5F",
   "meta": {
     "name": "Extract Transactions from Images using unli.dev Vision API & Telegram",
-    "id": 7704,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7704
   },
   "name": "Image Analyzer with unli.dev",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate SEO anchor texts from Google Sheets with Claude 4 Sonnet",
-    "id": 8928,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8928
   },
   "nodes": [
     {

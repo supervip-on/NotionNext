@@ -2,8 +2,7 @@
   "id": "10138",
   "meta": {
     "name": "Newsletter Signup Flow with Email Verification API, Gmail & Google Sheets Tracking",
-    "id": 10138,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10138
   },
   "name": "Newsletter Verification & Welcome Email Workflow",
   "tags": [],

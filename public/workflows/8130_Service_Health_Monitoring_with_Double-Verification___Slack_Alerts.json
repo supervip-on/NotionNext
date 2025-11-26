@@ -2,8 +2,7 @@
   "id": "ADc81sc252y5DJQo",
   "meta": {
     "name": "Service Health Monitoring with Double-Verification & Slack Alerts",
-    "id": 8130,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8130
   },
   "name": "Service Health Monitor with Retry V010925",
   "tags": [

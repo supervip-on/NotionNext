@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Dynamic Telegram Bot Menu System with Multi-Level Navigation",
-    "id": 8844,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8844
   },
   "nodes": [
     {

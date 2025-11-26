@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily NASA APOD Images to Instagram with Telegram Notifications",
-    "id": 9356,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9356
   },
   "nodes": [
     {

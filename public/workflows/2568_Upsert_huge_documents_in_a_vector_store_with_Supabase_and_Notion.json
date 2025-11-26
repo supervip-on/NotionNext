@@ -2,8 +2,7 @@
   "id": "JxFP8FJ2W7e4Kmqn",
   "meta": {
     "name": "Upsert huge documents in a vector store with Supabase and Notion",
-    "id": 2568,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2568
   },
   "name": "RAG on living data",
   "tags": [],

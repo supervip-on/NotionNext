@@ -2,8 +2,7 @@
   "id": "reF98YdsmqqRYRfs",
   "meta": {
     "name": "Enrich CRM Contact Data with LinkedIn Profiles using GPT & Multi-CRM Support",
-    "id": 4242,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4242
   },
   "name": "HDW CRM Enrichment",
   "tags": [],

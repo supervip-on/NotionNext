@@ -2,8 +2,7 @@
   "id": "2Qu0E8lUeCSRtola",
   "meta": {
     "name": "Automate ITSM ticket classification and resolution using Gemini, Qdrant and ServiceNow",
-    "id": 10241,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10241
   },
   "name": "ITSM1",
   "tags": [],

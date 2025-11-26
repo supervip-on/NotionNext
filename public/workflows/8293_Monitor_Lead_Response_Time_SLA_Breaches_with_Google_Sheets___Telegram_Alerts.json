@@ -2,8 +2,7 @@
   "id": "VpVyNGlpxalLtHP9",
   "meta": {
     "name": "Monitor Lead Response Time SLA Breaches with Google Sheets & Telegram Alerts",
-    "id": 8293,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8293
   },
   "name": "SLA Breach Alerts",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Telegram Trivia Bot with Auto Question Generation & User Management",
-    "id": 5459,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5459
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "wDD4XugmHIvx3KMT",
   "meta": {
     "name": "Configure your own Image Creation API Using OpenAI DALLE-3",
-    "id": 2217,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2217
   },
   "name": "Image Generation API",
   "tags": [],

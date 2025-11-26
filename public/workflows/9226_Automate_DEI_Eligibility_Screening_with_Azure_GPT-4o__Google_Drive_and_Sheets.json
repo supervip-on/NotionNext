@@ -2,8 +2,7 @@
   "id": "dFiA2ofAChCtsSKh",
   "meta": {
     "name": "Automate DEI Eligibility Screening with Azure GPT-4o, Google Drive and Sheets",
-    "id": 9226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9226
   },
   "name": "Automate DEI Eligibility Screening with Azure OpenAI and Google Workspace",
   "tags": [],

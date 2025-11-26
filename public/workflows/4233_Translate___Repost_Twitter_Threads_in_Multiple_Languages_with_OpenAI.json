@@ -2,8 +2,7 @@
   "id": "IBfjTnWypBRXCPvj",
   "meta": {
     "name": "Translate & Repost Twitter Threads in Multiple Languages with OpenAI",
-    "id": 4233,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4233
   },
   "name": "Twitter Thread (Flood) Translator & Poster",
   "tags": [],

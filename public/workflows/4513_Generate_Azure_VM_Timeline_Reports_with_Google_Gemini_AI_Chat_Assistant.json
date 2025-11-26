@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Azure VM Timeline Reports with Google Gemini AI Chat Assistant",
-    "id": 4513,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4513
   },
   "nodes": [
     {

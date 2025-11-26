@@ -2,8 +2,7 @@
   "id": "UlhQJ6EtKLNQ0D0B",
   "meta": {
     "name": "Automated Document Translation with Straker, Google Drive & Slack",
-    "id": 4832,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4832
   },
   "name": "Simple Workflow",
   "tags": [],

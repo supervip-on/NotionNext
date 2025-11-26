@@ -2,8 +2,7 @@
   "id": "MZnTCmdajWSdVOOj",
   "meta": {
     "name": "Generate AI-Curated Reddit Digests for Telegram, Discord & Slack with Gemini",
-    "id": 10246,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10246
   },
   "name": "Reddit News Automation Pro - Multi-Platform Digest",
   "tags": [],

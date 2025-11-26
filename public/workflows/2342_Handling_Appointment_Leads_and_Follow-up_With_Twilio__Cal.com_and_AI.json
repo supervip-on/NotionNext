@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Handling Appointment Leads and Follow-up With Twilio, Cal.com and AI",
-    "id": 2342,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2342
   },
   "nodes": [
     {

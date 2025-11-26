@@ -2,8 +2,7 @@
   "id": "NO1Jrg2IkMTiquxb",
   "meta": {
     "name": "Bulk Create Shopify Products with Inventory Management from Google Sheets",
-    "id": 5664,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5664
   },
   "name": "Create Shopify Products from Google Sheet",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "otddSxeWQtI5yxc7",
   "meta": {
     "name": "Generate Client Proposals from Call Transcripts with AI, Google Slides and Airtable",
-    "id": 7558,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7558
   },
   "name": "proposal generation on autopilot",
   "tags": [],

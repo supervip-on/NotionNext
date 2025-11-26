@@ -2,8 +2,7 @@
   "id": "DuPvLu9nGwryNe1H",
   "meta": {
     "name": "Custom Discord  Notifications for Radarr, Sonarr, Bazarr etc.",
-    "id": 4628,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4628
   },
   "name": "Radarr Notifications",
   "tags": [],

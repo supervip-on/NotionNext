@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track YouTube Trends by Country and Language with RapidAPI & Google Sheets",
-    "id": 7378,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7378
   },
   "nodes": [
     {

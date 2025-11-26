@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Job Opportunity Digests with OpenRouter GPT-5 and Email",
-    "id": 9303,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9303
   },
   "nodes": [
     {

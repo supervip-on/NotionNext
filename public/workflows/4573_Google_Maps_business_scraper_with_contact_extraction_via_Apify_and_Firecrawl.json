@@ -2,8 +2,7 @@
   "id": "95RHN758KyIlB84T",
   "meta": {
     "name": "Google Maps business scraper with contact extraction via Apify and Firecrawl",
-    "id": 4573,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4573
   },
   "name": "Google Maps business scraper with contact extraction via Apify and Firecrawl",
   "tags": [],

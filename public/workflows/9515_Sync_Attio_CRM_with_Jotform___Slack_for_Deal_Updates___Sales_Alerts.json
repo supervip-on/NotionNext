@@ -2,8 +2,7 @@
   "id": "iZSCJlsspoezZxqm",
   "meta": {
     "name": "Sync Attio CRM with Jotform & Slack for Deal Updates & Sales Alerts",
-    "id": 9515,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9515
   },
   "name": "AI automation using n8n, Jotform, Attio CRM and Slack",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "bX6cyG6u0dUYo1gM",
   "meta": {
     "name": "Ebook to Audiobook converter using MiniMax and FFmpeg",
-    "id": 9944,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9944
   },
   "name": "EBOOK",
   "tags": [],

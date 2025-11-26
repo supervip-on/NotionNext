@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Send an SMS/Whatsapp message with Twilio",
-    "id": 401,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 401
   },
   "id": "401"
 }

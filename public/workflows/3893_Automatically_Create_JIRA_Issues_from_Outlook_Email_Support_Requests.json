@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Create JIRA Issues from Outlook Email Support Requests",
-    "id": 3893,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3893
   },
   "nodes": [
     {

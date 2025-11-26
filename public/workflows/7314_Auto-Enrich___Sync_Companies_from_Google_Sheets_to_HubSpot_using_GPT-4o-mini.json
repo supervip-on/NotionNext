@@ -2,8 +2,7 @@
   "id": "REMOVED_FOR_PRIVACY",
   "meta": {
     "name": "Auto-Enrich & Sync Companies from Google Sheets to HubSpot using GPT-4o-mini",
-    "id": 7314,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7314
   },
   "name": "11 - B2B Intel Uplink",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Generate & Distribute LinkedIn Posts with GPT-4 to Profile & Groups",
-    "id": 4374,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4374
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "fDLwldlY6FV3fqJ2",
   "meta": {
     "name": "LinkedIn Content Machine: Email-Approved Posts with Gemini AI",
-    "id": 8136,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8136
   },
   "name": "Generate and post Content on Linkedin using AI Agent with Gemini Chat API",
   "tags": [],

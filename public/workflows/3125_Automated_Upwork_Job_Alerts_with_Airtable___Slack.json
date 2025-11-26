@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Upwork Job Alerts with Airtable & Slack",
-    "id": 3125,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3125
   },
   "nodes": [
     {

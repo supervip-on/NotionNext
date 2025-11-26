@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Check for Bargain Flights and get notified using Amadeus and Gmail",
-    "id": 2455,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2455
   },
   "nodes": [
     {

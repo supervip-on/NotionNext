@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bidirectional ClickUp Task & Google Calendar Sync with Multi-Calendar Routing",
-    "id": 7871,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7871
   },
   "nodes": [
     {

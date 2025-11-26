@@ -2,8 +2,7 @@
   "id": "oxYmbI9hB9C1NxBI",
   "meta": {
     "name": "Remove Duplicate Entries & Update Google Sheets Based on Profile URLs",
-    "id": 8132,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8132
   },
   "name": "Remove duplicates and update sheets",
   "tags": [],

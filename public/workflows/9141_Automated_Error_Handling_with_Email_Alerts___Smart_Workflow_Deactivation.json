@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Error Handling with Email Alerts & Smart Workflow Deactivation",
-    "id": 9141,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9141
   },
   "nodes": [
     {

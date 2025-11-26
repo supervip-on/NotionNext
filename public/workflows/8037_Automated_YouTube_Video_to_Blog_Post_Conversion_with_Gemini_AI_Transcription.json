@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated YouTube Video to Blog Post Conversion with Gemini AI Transcription",
-    "id": 8037,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8037
   },
   "nodes": [
     {

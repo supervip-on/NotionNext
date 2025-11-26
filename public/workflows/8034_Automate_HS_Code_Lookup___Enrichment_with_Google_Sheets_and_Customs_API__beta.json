@@ -2,8 +2,7 @@
   "id": "LdR1WNr3yM5Lw9X8",
   "meta": {
     "name": "Automate HS Code Lookup & Enrichment with Google Sheets and Customs API (beta)",
-    "id": 8034,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8034
   },
   "name": "Customs_Tariff_Number_Research V2",
   "tags": [],

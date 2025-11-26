@@ -2,8 +2,7 @@
   "id": "D2RkoPZlkKFRUrNu",
   "meta": {
     "name": "Extract, Transform LinkedIn Data with Bright Data MCP Server & Google Gemini",
-    "id": 3777,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3777
   },
   "name": "LinkedIn Web Scraping with Bright Data MCP Server & Google Gemini",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "cXnFp41w8eVCH9tx",
   "meta": {
     "name": "Generate Website Screenshots On-Demand with ScreenshotMachine API via Webhooks",
-    "id": 4594,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4594
   },
   "name": "Generate Website Screenshots On-Demand with ScreenshotMachine API via Webhooks",
   "tags": [],

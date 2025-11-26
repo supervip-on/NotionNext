@@ -2,8 +2,7 @@
   "id": "QyMyf3zraY0wxXDf",
   "meta": {
     "name": "Fetch Dynamic Prompts from GitHub and Auto-Populate n8n Expressions in Prompt",
-    "id": 2893,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2893
   },
   "name": "Load Prompts from Github Repo and auto populate n8n expressions",
   "tags": [],

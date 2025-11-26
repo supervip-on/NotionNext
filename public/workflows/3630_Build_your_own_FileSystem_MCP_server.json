@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build your own FileSystem MCP server",
-    "id": 3630,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3630
   },
   "nodes": [
     {

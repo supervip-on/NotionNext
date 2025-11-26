@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Meta Ads Analysis with Gemini AI, ScrapingFlash, and Google Sheets",
-    "id": 6276,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6276
   },
   "nodes": [
     {

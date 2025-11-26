@@ -2,8 +2,7 @@
   "id": "UVMlpwIIsDBBFclU",
   "meta": {
     "name": "Document Q&A System with OpenAI GPT, Pinecone Vector DB & Google Drive Integration",
-    "id": 5807,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5807
   },
   "name": "AI-Powered Document QA System using Webhook, Pinecone + OpenAI + n8n",
   "tags": [

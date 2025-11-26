@@ -2,8 +2,7 @@
   "id": "xiabGWCXUOe469Nm",
   "meta": {
     "name": "Lead Generation System: Google Maps to Email Scraper with Google Sheets Export",
-    "id": 5385,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5385
   },
   "name": "Google Maps Email Scraper with HTTP Requests & JavaScript",
   "tags": [

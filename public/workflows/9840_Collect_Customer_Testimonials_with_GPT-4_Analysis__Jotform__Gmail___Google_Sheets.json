@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Collect Customer Testimonials with GPT-4 Analysis, Jotform, Gmail & Google Sheets",
-    "id": 9840,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9840
   },
   "nodes": [
     {

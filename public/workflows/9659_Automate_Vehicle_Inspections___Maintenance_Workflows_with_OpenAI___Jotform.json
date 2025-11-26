@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Vehicle Inspections & Maintenance Workflows with OpenAI & Jotform",
-    "id": 9659,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9659
   },
   "nodes": [
     {

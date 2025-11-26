@@ -2,8 +2,7 @@
   "id": "gpZ5gnZftZFQDQK4",
   "meta": {
     "name": "Real-Time Cryptocurrency Price Monitor with CoinGecko & Multi-Channel Alerts",
-    "id": 7705,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7705
   },
   "name": "Real-Time Cryptocurrency Price Monitor & Smart Alerts",
   "tags": [],

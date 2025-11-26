@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Magento 2 Customer Sync to Google Contacts & Sheets without Duplicates",
-    "id": 6783,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6783
   },
   "nodes": [
     {

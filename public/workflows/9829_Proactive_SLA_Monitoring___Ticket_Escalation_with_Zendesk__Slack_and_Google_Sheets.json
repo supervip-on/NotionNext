@@ -2,8 +2,7 @@
   "id": "VFx1qpO7OYLJRTtq",
   "meta": {
     "name": "Proactive SLA Monitoring & Ticket Escalation with Zendesk, Slack and Google Sheets",
-    "id": 9829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9829
   },
   "name": "SLA Monitoring & Alerting",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "Invzq7tJ1X0LQ3rb",
   "meta": {
     "name": "Automate Invoice Processing with OCR.Space, GPT-4 & Google Drive to Gmail",
-    "id": 8139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8139
   },
   "name": "Send Invoice to clients automatically",
   "tags": [

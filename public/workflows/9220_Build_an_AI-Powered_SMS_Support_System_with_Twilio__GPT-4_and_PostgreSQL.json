@@ -2,8 +2,7 @@
   "id": "SC9zUkWz5rSIjWjr",
   "meta": {
     "name": "Build an AI-Powered SMS Support System with Twilio, GPT-4 and PostgreSQL",
-    "id": 9220,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9220
   },
   "name": "AI-Enhanced SMS Conversational Flow",
   "tags": [],

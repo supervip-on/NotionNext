@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Categorize Outlook Emails into Color Categories with GPT-4o",
-    "id": 7796,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7796
   },
   "nodes": [
     {

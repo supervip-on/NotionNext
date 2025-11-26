@@ -2,8 +2,7 @@
   "id": "BwfB2WsAGCX5rTFB",
   "meta": {
     "name": "Automate Email Bounce & Invalid Detection with Gmail, Google Sheets & Slack",
-    "id": 9465,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9465
   },
   "name": "Bounce & Invalid Detection (Gmail Trigger)",
   "tags": [],

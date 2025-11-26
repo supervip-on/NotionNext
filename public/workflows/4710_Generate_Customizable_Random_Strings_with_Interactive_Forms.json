@@ -2,8 +2,7 @@
   "id": "43hulIlfnB1UAXxn",
   "meta": {
     "name": "Generate Customizable Random Strings with Interactive Forms",
-    "id": 4710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4710
   },
   "name": "random-string-generator",
   "tags": [],

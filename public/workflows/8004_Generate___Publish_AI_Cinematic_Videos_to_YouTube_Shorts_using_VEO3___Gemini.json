@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate & Publish AI Cinematic Videos to YouTube Shorts using VEO3 & Gemini",
-    "id": 8004,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8004
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Invoice Data from PDFs to JSON with Gemini AI and XML Transformation",
-    "id": 8460,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8460
   },
   "nodes": [
     {

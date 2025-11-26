@@ -2,8 +2,7 @@
   "id": "PS6MqPybTzbUpzIK",
   "meta": {
     "name": "Create a Context-Aware Slack Assistant with Google Sheets, Pinecone & GPT-4o",
-    "id": 6020,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6020
   },
   "name": "Slack messages update to Pinecone",
   "tags": [],

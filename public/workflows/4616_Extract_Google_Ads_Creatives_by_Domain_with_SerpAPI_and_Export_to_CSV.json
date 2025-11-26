@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Google Ads Creatives by Domain with SerpAPI and Export to CSV",
-    "id": 4616,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4616
   },
   "nodes": [
     {

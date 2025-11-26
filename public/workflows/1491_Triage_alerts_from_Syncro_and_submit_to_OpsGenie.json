@@ -223,7 +223,6 @@
   },
   "meta": {
     "name": "Triage alerts from Syncro and submit to OpsGenie",
-    "id": 1491,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1491
   }
 }

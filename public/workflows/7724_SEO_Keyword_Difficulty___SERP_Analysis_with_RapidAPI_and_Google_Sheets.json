@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "SEO Keyword Difficulty & SERP Analysis with RapidAPI and Google Sheets",
-    "id": 7724,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7724
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Command-based Telegram Bot for Article Summarization & Image Prompts with OpenAI",
-    "id": 4392,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4392
   },
   "nodes": [
     {

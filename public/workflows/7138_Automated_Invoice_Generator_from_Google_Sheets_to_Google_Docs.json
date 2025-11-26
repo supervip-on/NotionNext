@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Invoice Generator from Google Sheets to Google Docs",
-    "id": 7138,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7138
   },
   "nodes": [
     {

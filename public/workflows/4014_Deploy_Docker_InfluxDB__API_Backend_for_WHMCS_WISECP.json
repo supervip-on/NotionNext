@@ -2,8 +2,7 @@
   "id": "bpq5aoogWibWq94t",
   "meta": {
     "name": "Deploy Docker InfluxDB, API Backend for WHMCS/WISECP",
-    "id": 4014,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4014
   },
   "name": "puq-docker-influxdb-deploy",
   "tags": [],

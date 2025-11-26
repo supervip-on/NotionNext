@@ -2,8 +2,7 @@
   "id": "IJYpB2CIAdLk8Umg",
   "meta": {
     "name": "Deploy Docker MinIO, API Backend for WHMCS/WISECP",
-    "id": 3198,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3198
   },
   "name": "puq-docker-minio-deploy",
   "tags": [],

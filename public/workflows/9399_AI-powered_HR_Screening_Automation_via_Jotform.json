@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-powered HR Screening Automation via Jotform",
-    "id": 9399,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9399
   },
   "nodes": [
     {

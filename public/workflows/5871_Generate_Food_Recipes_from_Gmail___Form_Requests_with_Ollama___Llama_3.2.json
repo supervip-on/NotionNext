@@ -2,8 +2,7 @@
   "id": "xgtoa8r5NBx43ldC",
   "meta": {
     "name": "Generate Food Recipes from Gmail & Form Requests with Ollama & Llama 3.2",
-    "id": 5871,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5871
   },
   "name": "Automated Food Recipe Assistant via Gmail, Form & AI Chat Model",
   "tags": [],

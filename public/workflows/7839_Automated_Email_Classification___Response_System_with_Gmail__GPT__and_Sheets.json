@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Email Classification & Response System with Gmail, GPT, and Sheets",
-    "id": 7839,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7839
   },
   "nodes": [
     {

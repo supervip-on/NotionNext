@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Books into 100+ Social Media Posts with DeepSeek AI and Google Drive",
-    "id": 5156,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5156
   },
   "nodes": [
     {

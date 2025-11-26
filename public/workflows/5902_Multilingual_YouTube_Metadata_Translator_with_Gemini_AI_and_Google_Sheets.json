@@ -2,8 +2,7 @@
   "id": "sM8cQjF7S5RDoQh6",
   "meta": {
     "name": "Multilingual YouTube Metadata Translator with Gemini AI and Google Sheets",
-    "id": 5902,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5902
   },
   "name": "Youtube - Update Video Localization - Hoàng",
   "tags": [],

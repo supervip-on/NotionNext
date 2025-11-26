@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Complete HR Department with OpenAI O3 and GPT-4.1-mini Multi-Agent System",
-    "id": 6901,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6901
   },
   "name": "CHRO Agent with HR Team",
   "nodes": [

@@ -2,8 +2,7 @@
   "id": "HJdHRULAa3bhcCMR",
   "meta": {
     "name": "Create a Code Assistant that Learns from your GitHub Repository using OpenAI",
-    "id": 9993,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9993
   },
   "name": "AI Agent For Github",
   "tags": [],

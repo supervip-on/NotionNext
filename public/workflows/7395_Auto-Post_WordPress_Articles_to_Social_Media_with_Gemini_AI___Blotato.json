@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Post WordPress Articles to Social Media with Gemini AI & Blotato",
-    "id": 7395,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7395
   },
   "nodes": [
     {

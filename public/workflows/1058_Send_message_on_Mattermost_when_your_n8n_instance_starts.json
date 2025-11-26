@@ -48,8 +48,7 @@
   },
   "meta": {
     "name": "Send message on Mattermost when your n8n instance starts",
-    "id": 1058,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1058
   },
   "id": "1058"
 }

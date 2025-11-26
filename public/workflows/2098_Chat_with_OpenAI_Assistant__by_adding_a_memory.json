@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Chat with OpenAI Assistant (by adding a memory)",
-    "id": 2098,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2098
   },
   "nodes": [
     {

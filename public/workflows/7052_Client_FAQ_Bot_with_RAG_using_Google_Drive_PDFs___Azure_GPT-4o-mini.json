@@ -2,8 +2,7 @@
   "id": "KnDPqmOImxWj0wpJ",
   "meta": {
     "name": "Client FAQ Bot with RAG using Google Drive PDFs & Azure GPT-4o-mini",
-    "id": 7052,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7052
   },
   "name": "Client FAQ with RAG",
   "tags": [],

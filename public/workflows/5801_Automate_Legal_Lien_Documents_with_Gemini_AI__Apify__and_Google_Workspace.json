@@ -2,8 +2,7 @@
   "id": "PEldfy8Q5GiLQnfh",
   "meta": {
     "name": "Automate Legal Lien Documents with Gemini AI, Apify, and Google Workspace",
-    "id": 5801,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5801
   },
   "name": "Automate Legal Document Generation with Gemini AI, Apify, Playwright, and Google Docs",
   "tags": [],

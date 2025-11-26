@@ -2,8 +2,7 @@
   "id": "3711",
   "meta": {
     "name": "Compare Different LLM Responses Side-by-Side with Google Sheets",
-    "id": 3711,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3711
   },
   "name": "Easily Compare LLMs Using OpenAI and Google Sheets",
   "tags": [],

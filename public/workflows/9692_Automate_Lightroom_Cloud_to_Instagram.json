@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lightroom Cloud to Instagram",
-    "id": 9692,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9692
   },
   "nodes": [
     {

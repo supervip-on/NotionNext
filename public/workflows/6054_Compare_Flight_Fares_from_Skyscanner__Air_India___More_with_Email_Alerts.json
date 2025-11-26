@@ -2,8 +2,7 @@
   "id": "UqtZtvt1uuLwA0JF",
   "meta": {
     "name": "Compare Flight Fares from Skyscanner, Air India & More with Email Alerts",
-    "id": 6054,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6054
   },
   "name": "Real-Time Flight Fare Checker – Compare & Save Instantly",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Inbox Manager (GPT, Google Calendar & Supabase)",
-    "id": 6537,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6537
   },
   "nodes": [
     {

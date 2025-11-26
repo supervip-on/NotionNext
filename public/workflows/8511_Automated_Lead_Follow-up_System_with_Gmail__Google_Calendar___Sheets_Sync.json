@@ -2,8 +2,7 @@
   "id": "uHi8PFTwCaDLXI0g",
   "meta": {
     "name": "Automated Lead Follow-up System with Gmail, Google Calendar & Sheets Sync",
-    "id": 8511,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8511
   },
   "name": "Automated Meeting Booking Sequence",
   "tags": [],

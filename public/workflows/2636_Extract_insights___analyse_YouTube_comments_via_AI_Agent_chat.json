@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract insights & analyse YouTube comments via AI Agent chat",
-    "id": 2636,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2636
   },
   "nodes": [
     {

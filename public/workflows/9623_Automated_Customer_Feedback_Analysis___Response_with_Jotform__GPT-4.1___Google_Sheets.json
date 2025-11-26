@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Customer Feedback Analysis & Response with Jotform, GPT-4.1 & Google Sheets",
-    "id": 9623,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9623
   },
   "nodes": [
     {

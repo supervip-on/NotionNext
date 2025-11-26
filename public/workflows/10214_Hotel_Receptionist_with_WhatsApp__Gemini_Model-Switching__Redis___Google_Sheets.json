@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Hotel Receptionist with WhatsApp, Gemini Model-Switching, Redis & Google Sheets",
-    "id": 10214,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10214
   },
   "nodes": [
     {

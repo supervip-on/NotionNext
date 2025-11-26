@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "List recent ServiceNow Incidents in Slack Using Pop Up Modal",
-    "id": 2728,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2728
   },
   "nodes": [
     {

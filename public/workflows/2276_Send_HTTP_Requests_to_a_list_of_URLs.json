@@ -2,8 +2,7 @@
   "id": "F2AEknC2Kc3ujuX4",
   "meta": {
     "name": "Send HTTP Requests to a list of URLs",
-    "id": 2276,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2276
   },
   "name": "URL Pinger",
   "tags": [],

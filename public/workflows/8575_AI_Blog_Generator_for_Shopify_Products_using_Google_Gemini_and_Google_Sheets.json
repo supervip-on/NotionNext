@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Blog Generator for Shopify Products using Google Gemini and Google Sheets",
-    "id": 8575,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8575
   },
   "nodes": [
     {

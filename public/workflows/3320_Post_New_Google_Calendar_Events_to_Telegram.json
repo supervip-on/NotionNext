@@ -2,8 +2,7 @@
   "id": "CoYwFuZTq5kUuiba",
   "meta": {
     "name": "Post New Google Calendar Events to Telegram",
-    "id": 3320,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3320
   },
   "name": "Post new Google Calendar events to Telegram",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "EmfC3k9BlwxWhpVL",
   "meta": {
     "name": "Personal Knowledgebase AI Agent",
-    "id": 7215,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7215
   },
   "name": "Own Data Store in Google Sheet",
   "tags": [],

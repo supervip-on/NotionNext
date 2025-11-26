@@ -2,8 +2,7 @@
   "id": "5FARC6I3Fg8f95vl",
   "meta": {
     "name": "Generate Filtered Calendar Views in Baserow with External Calendar Integration",
-    "id": 8485,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8485
   },
   "name": "Create personalised calendar views with n8n and Baserow",
   "tags": [],

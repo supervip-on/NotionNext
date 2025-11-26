@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Job Searches with Job Search Global API & Google Sheets",
-    "id": 8820,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8820
   },
   "nodes": [
     {

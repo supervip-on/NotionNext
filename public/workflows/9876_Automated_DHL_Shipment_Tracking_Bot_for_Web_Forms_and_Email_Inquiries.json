@@ -2,8 +2,7 @@
   "id": "sKPt2XLNb9anT2fW",
   "meta": {
     "name": "Automated DHL Shipment Tracking Bot for Web Forms and Email Inquiries",
-    "id": 9876,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9876
   },
   "name": "Multi-Channel DHL Status Bot with n8n, Gmail, and Webhooks",
   "tags": [],

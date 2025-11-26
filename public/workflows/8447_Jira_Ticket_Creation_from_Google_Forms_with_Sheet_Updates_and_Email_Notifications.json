@@ -2,8 +2,7 @@
   "id": "JmH0beZB5ZUgJGor",
   "meta": {
     "name": "Jira Ticket Creation from Google Forms with Sheet Updates and Email Notifications",
-    "id": 8447,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8447
   },
   "name": "Google Forms → Jira Issue Creator",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "Yhi53ukpbhg8MLjl",
   "meta": {
     "name": "Track Expenses by Parsing Telegram Transaction Messages to Google Sheets",
-    "id": 4395,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4395
   },
   "name": "Transactions",
   "tags": [],

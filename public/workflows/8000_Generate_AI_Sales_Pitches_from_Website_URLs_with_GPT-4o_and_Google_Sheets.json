@@ -2,8 +2,7 @@
   "id": "4CnUOZExvXMQTGEB",
   "meta": {
     "name": "Generate AI Sales Pitches from Website URLs with GPT-4o and Google Sheets",
-    "id": 8000,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8000
   },
   "name": "Website Summary",
   "tags": [],

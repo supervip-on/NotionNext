@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert LinkedIn Post Reactions into Qualified Leads with AI and Apify",
-    "id": 7034,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7034
   },
   "nodes": [
     {

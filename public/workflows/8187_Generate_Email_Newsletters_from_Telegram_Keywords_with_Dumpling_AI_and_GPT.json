@@ -2,8 +2,7 @@
   "id": "36Ag52lg9PbHbEC3",
   "meta": {
     "name": "Generate Email Newsletters from Telegram Keywords with Dumpling AI and GPT",
-    "id": 8187,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8187
   },
   "name": "Telegram to Email Newsletter Automation using Dumpling AI",
   "tags": [],

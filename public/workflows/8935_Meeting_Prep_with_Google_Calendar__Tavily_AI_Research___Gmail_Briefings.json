@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Meeting Prep with Google Calendar, Tavily AI Research & Gmail Briefings",
-    "id": 8935,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8935
   },
   "nodes": [
     {

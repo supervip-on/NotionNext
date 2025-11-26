@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage Asana Projects with Natural Language AI Assistant via Chat & Webhook",
-    "id": 7559,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7559
   },
   "nodes": [
     {

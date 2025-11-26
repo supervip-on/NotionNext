@@ -2,8 +2,7 @@
   "id": "jYtmNu9biqEaTS14",
   "meta": {
     "name": "Generate LinkedIn Posts from Wikipedia with GPT-4 Summaries and Ideogram Images",
-    "id": 6433,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6433
   },
   "name": "Wikipedia to LinkedIn AI Content Poster with Image via Bright Data",
   "tags": [],

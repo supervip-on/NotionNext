@@ -708,8 +708,7 @@
   "triggerCount": 2,
   "meta": {
     "name": "Automate Sales Pipeline with HubSpot CRM, ScrapeGraphAI & Google Sheets Dashboard",
-    "id": 6432,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6432
   },
   "id": "6432"
 }

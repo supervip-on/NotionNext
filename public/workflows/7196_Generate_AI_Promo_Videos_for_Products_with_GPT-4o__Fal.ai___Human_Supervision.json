@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Promo Videos for Products with GPT-4o, Fal.ai & Human Supervision",
-    "id": 7196,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7196
   },
   "nodes": [
     {

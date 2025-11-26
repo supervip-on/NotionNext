@@ -2,8 +2,7 @@
   "id": "VbaVgnhJ7phMHTY9",
   "meta": {
     "name": "Create Meeting Minutes from Telegram Messages with GPT-5 to Airtable Slack Gmail",
-    "id": 7582,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7582
   },
   "name": "Automatic meeting records sent from Telegram to Airtable, Slack and Gmail",
   "tags": [],

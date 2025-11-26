@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Multiple Github Repos via Webhook",
-    "id": 2435,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2435
   },
   "nodes": [
     {

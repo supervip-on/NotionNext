@@ -52,8 +52,7 @@
   },
   "meta": {
     "name": "Create an Onfleet task when a file in Google Drive is updated",
-    "id": 1547,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1547
   },
   "id": "1547"
 }

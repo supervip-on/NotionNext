@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail Assistant with Google Gemini Classification & Telegram Notifications",
-    "id": 7803,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7803
   },
   "nodes": [
     {

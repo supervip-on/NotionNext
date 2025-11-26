@@ -2,8 +2,7 @@
   "id": "hWRV5DnuYJoVsW0k",
   "meta": {
     "name": "Build a ServiceNow Knowledge Chatbot with OpenAI and Qdrant RAG",
-    "id": 6206,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6206
   },
   "name": "ServiceNow Knowledge Chatbot",
   "tags": [],

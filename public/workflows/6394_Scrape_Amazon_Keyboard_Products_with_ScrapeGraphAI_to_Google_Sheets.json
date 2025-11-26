@@ -2,8 +2,7 @@
   "id": "JpP0OwP6cBEOvIgP",
   "meta": {
     "name": "Scrape Amazon Keyboard Products with ScrapeGraphAI to Google Sheets",
-    "id": 6394,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6394
   },
   "name": "Amazon Keyboard Product Scraper with AI and Google Sheets",
   "tags": [],

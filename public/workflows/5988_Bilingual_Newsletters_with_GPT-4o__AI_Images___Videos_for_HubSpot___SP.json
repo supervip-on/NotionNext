@@ -2,8 +2,7 @@
   "id": "uDKEstwhHliXI4z5",
   "meta": {
     "name": "Bilingual Newsletters with GPT-4o, AI Images & Videos for HubSpot & SP",
-    "id": 5988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5988
   },
   "name": "Generate AI-written newsletter and assets to HubSpot contacts and SharePoint",
   "tags": [

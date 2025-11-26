@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Knowledge Base Chatbot with OpenAI and Notion for Website Embedding",
-    "id": 6500,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6500
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "qps97Q4NEet1Pkm4",
   "meta": {
     "name": "Deploy Docker Immich, API Backend for WHMCS/WISECP",
-    "id": 3212,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3212
   },
   "name": "puq-docker-immich-deploy",
   "tags": [],

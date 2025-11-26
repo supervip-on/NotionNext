@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Smart Chatbot with GPT-5-nano, Web Search & Conversational Memory",
-    "id": 8209,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8209
   },
   "nodes": [
     {

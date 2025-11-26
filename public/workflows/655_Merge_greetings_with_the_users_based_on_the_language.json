@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Merge greetings with the users based on the language",
-    "id": 655,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 655
   },
   "nodes": [
     {

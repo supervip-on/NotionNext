@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 01 - Filter Gong Calls Synced to Salesforce by Opportunity Stage",
-    "id": 3031,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3031
   },
   "nodes": [
     {

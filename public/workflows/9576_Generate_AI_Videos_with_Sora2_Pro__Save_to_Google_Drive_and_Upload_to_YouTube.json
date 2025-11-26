@@ -2,8 +2,7 @@
   "id": "IIQhSqMWv4u6e0Jh",
   "meta": {
     "name": "Generate AI Videos with Sora2 Pro, Save to Google Drive and Upload to YouTube",
-    "id": 9576,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9576
   },
   "name": "Create Video with Sora2 Pro and Upload to Youtube",
   "tags": [],

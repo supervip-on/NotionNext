@@ -2,8 +2,7 @@
   "id": "8gEQB8UrTY0j4VV2",
   "meta": {
     "name": "Extract & Categorize Receipt Data with Google OCR, OpenRouter AI & Telegram",
-    "id": 4020,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4020
   },
   "name": "Extract Recipe Using Tesseract",
   "tags": [],

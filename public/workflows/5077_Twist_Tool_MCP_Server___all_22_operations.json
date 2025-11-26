@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Twist Tool MCP Server 💪 all 22 operations",
-    "id": 5077,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5077
   },
   "nodes": [
     {

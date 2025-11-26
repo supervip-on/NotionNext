@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Order Confirmations with Abacate Pay: First-Buyer Coupon Rewards via Email & Slack",
-    "id": 7400,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7400
   },
   "nodes": [
     {

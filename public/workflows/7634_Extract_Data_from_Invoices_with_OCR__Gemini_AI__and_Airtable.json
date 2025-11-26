@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Data from Invoices with OCR, Gemini AI, and Airtable",
-    "id": 7634,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7634
   },
   "nodes": [
     {

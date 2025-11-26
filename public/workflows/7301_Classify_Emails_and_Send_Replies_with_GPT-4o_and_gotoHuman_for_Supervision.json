@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Classify Emails and Send Replies with GPT-4o and gotoHuman for Supervision",
-    "id": 7301,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7301
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "MeoXTIa3v9fjyJEy",
   "meta": {
     "name": "Financial Analysis Report Chatbot Agent with Gemini 2.5 Flash and Discord",
-    "id": 7800,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7800
   },
   "name": "Financial Analysis Report Chatbot Agent with Gemini and Discord",
   "tags": [

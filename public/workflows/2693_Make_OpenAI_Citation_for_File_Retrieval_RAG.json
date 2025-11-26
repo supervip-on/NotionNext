@@ -2,8 +2,7 @@
   "id": "5NAbfX550LJsfz6f",
   "meta": {
     "name": "Make OpenAI Citation for File Retrieval RAG",
-    "id": 2693,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2693
   },
   "name": "Make OpenAI Citation for File Retrieval RAG",
   "tags": [

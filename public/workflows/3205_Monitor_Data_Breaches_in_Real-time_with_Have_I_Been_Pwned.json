@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Data Breaches in Real-time with Have I Been Pwned",
-    "id": 3205,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3205
   },
   "nodes": [
     {

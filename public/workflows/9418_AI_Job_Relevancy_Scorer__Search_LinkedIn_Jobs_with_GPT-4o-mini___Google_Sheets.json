@@ -2,8 +2,7 @@
   "id": "xqRJgn9kLzy60dnX",
   "meta": {
     "name": "AI Job Relevancy Scorer: Search LinkedIn Jobs with GPT-4o-mini & Google Sheets",
-    "id": 9418,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9418
   },
   "name": "jobs_scraper",
   "tags": [],

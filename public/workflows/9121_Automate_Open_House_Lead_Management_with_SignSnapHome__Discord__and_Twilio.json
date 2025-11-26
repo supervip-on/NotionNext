@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Open House Lead Management with SignSnapHome, Discord, and Twilio",
-    "id": 9121,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9121
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "f86tpZtlEF8Fxt6s",
   "meta": {
     "name": "Form to Meeting: Google Calendar, Zoom, Gmail & Slack Booking Automation",
-    "id": 10104,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10104
   },
   "name": "Automated Booking Confirmation and Meeting Scheduler",
   "tags": [],

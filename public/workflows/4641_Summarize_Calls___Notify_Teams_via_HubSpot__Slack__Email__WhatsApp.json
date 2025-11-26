@@ -2,8 +2,7 @@
   "id": "Gn5M1FfXUAVy6h9l",
   "meta": {
     "name": "Summarize Calls & Notify Teams via HubSpot, Slack, Email, WhatsApp",
-    "id": 4641,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4641
   },
   "tags": [],
   "nodes": [

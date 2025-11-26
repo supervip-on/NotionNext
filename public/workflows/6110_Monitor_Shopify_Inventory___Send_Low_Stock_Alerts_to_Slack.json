@@ -2,8 +2,7 @@
   "id": "zn8PCtQ6ISmR8ptG",
   "meta": {
     "name": "Monitor Shopify Inventory & Send Low Stock Alerts to Slack",
-    "id": 6110,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6110
   },
   "name": "SHOPIFYINVENTORY LOW STOCK MONITOR",
   "tags": [],

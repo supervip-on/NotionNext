@@ -2,8 +2,7 @@
   "id": "bfA4a1LwJVx6G5kB",
   "meta": {
     "name": "Smart Nested Folder Creation in OneDrive with Existence Checking",
-    "id": 7415,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7415
   },
   "name": "Create folder in OneDrive",
   "tags": [],

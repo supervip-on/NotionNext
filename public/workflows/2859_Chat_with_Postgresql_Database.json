@@ -2,8 +2,7 @@
   "id": "eOUewYsEzJmQixI6",
   "meta": {
     "name": "Chat with Postgresql Database",
-    "id": 2859,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2859
   },
   "name": "Chat with Postgresql Database",
   "tags": [],

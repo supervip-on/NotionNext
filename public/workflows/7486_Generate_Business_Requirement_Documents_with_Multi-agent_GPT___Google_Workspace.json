@@ -2,8 +2,7 @@
   "id": "SSNPPZY3Fe7YACQ8",
   "meta": {
     "name": "Generate Business Requirement Documents with Multi-agent GPT & Google Workspace",
-    "id": 7486,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7486
   },
   "name": "Multi-agent RAG system for smarter BRD (Business Requirement Document) writing",
   "tags": [

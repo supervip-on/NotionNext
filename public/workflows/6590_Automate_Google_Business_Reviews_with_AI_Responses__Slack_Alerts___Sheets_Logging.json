@@ -2,8 +2,7 @@
   "id": "TFA52QNAEro3v0Y2",
   "meta": {
     "name": "Automate Google Business Reviews with AI Responses, Slack Alerts & Sheets Logging",
-    "id": 6590,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6590
   },
   "name": "Monitor Google Business Reviews with AI Response Generation",
   "tags": [],

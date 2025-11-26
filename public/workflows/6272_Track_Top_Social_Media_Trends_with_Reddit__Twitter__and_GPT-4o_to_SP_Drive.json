@@ -2,8 +2,7 @@
   "id": "WEsO2dwjCaN6NwQT",
   "meta": {
     "name": "Track Top Social Media Trends with Reddit, Twitter, and GPT-4o to SP/Drive",
-    "id": 6272,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6272
   },
   "name": "Compile top social-media trends to spreadsheet on SharePoint (or Drive/Dropbox)",
   "tags": [

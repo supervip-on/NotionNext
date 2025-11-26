@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send labeled email to a Notion database",
-    "id": 1939,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1939
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Background Removal from Images with APImage AI",
-    "id": 6512,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6512
   },
   "nodes": [
     {

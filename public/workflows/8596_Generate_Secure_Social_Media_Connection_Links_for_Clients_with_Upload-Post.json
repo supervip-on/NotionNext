@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Secure Social Media Connection Links for Clients with Upload-Post",
-    "id": 8596,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8596
   },
   "nodes": [
     {

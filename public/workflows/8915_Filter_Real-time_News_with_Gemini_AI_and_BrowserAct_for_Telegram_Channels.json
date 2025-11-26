@@ -2,8 +2,7 @@
   "id": "jn6Sgk2HcKiQKW0s",
   "meta": {
     "name": "Filter Real-time News with Gemini AI and BrowserAct for Telegram Channels",
-    "id": 8915,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8915
   },
   "name": "Automate AI News Filtering with Keywords to Telegram",
   "tags": [],

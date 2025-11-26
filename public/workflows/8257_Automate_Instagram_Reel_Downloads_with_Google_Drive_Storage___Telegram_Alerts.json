@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Instagram Reel Downloads with Google Drive Storage & Telegram Alerts",
-    "id": 8257,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8257
   },
   "nodes": [
     {

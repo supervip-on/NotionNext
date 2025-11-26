@@ -2,8 +2,7 @@
   "id": "g3q68zSOQvTcydLs",
   "meta": {
     "name": "Calculate the Centroid of a Set of Vectors",
-    "id": 2839,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2839
   },
   "name": "Calculate the Centroid of a Set of Vectors",
   "tags": [],

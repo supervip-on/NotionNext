@@ -2,8 +2,7 @@
   "id": "jzcvnlV8g6aseE4A",
   "meta": {
     "name": "GitLab Merge Request Review & Risk Analysis with Claude/GPT AI",
-    "id": 3997,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3997
   },
   "name": "GitLab MR Auto-Review & Risk Assessment",
   "tags": [

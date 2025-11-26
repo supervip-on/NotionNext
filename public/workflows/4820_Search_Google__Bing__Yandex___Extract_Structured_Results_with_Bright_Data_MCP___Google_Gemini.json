@@ -2,8 +2,7 @@
   "id": "XSN9T4R0IyqcV2gC",
   "meta": {
     "name": "Search Google, Bing, Yandex & Extract Structured Results with Bright Data MCP & Google Gemini",
-    "id": 4820,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4820
   },
   "name": "Perform Google, Bing, Yandex Search with Bright Data MCP Agent & Google Gemini",
   "tags": [

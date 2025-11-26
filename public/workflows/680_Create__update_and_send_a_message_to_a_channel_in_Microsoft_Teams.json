@@ -104,8 +104,7 @@
   },
   "meta": {
     "name": "Create, update and send a message to a channel in Microsoft Teams",
-    "id": 680,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 680
   },
   "id": "680"
 }

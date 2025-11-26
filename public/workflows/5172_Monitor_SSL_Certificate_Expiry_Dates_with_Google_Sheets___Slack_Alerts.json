@@ -2,8 +2,7 @@
   "id": "IOXRitpoDfCIAWVb",
   "meta": {
     "name": "Monitor SSL Certificate Expiry Dates with Google Sheets & Slack Alerts",
-    "id": 5172,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5172
   },
   "name": "Automated SSL Expiry Tracking and Notifications",
   "tags": [

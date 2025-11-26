@@ -2,8 +2,7 @@
   "id": "ndwxC15CG16QpQ9o",
   "meta": {
     "name": "Synchronize Events & Attendees Between KlickTipp and Google Calendar",
-    "id": 10295,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10295
   },
   "name": "KlickTipp + Google Calendar: Two-Way Event & Attendee Sync",
   "tags": [

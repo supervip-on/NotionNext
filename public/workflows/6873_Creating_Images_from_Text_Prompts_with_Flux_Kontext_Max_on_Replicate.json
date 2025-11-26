@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Creating Images from Text Prompts with Flux Kontext Max on Replicate",
-    "id": 6873,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6873
   },
   "name": "black-forest-labs/flux-kontext-max - Image Generator",
   "nodes": [

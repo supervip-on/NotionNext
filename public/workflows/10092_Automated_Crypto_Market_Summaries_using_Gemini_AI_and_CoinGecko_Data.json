@@ -2,8 +2,7 @@
   "id": "vdiGM9CVl45uLWNS",
   "meta": {
     "name": "Automated Crypto Market Summaries using Gemini AI and CoinGecko Data",
-    "id": 10092,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10092
   },
   "name": "Automated Crypto Market Summaries to Discord using Gemini AI & CoinGecko",
   "tags": [],

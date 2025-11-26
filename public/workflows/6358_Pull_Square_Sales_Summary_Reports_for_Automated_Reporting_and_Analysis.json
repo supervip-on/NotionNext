@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Pull Square Sales Summary Reports for Automated Reporting and Analysis",
-    "id": 6358,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6358
   },
   "nodes": [
     {

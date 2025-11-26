@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync your GitHub issues to your Notion database",
-    "id": 1804,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1804
   },
   "nodes": [
     {

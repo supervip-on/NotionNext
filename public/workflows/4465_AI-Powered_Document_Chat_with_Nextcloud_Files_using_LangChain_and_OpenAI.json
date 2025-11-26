@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Document Chat with Nextcloud Files using LangChain and OpenAI",
-    "id": 4465,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4465
   },
   "nodes": [
     {

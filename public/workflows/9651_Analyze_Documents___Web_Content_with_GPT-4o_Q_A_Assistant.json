@@ -2,8 +2,7 @@
   "id": "NMAA4tOidWSLW3On",
   "meta": {
     "name": "Analyze Documents & Web Content with GPT-4o Q&A Assistant",
-    "id": 9651,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9651
   },
   "name": "Document Analyzer and Q&A",
   "tags": [],

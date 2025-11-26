@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Curate RSS Feeds into Daily Content Ideas via Email with Notion & Telegram Options",
-    "id": 7791,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7791
   },
   "name": "Graceful Content Sparks — RSS → Notion (n8n)",
   "nodes": [

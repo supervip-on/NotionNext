@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Your First AI Data Analyst Chatbot",
-    "id": 3050,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3050
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "h7STFu0NJCVsvlbc",
   "meta": {
     "name": "Discord AI ChatBot : Context-Aware, Replies to Mentions AND also DMs",
-    "id": 3692,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3692
   },
   "name": "AI Discord Bot Respond to Mentions and DMs with Context Awareness",
   "tags": [],

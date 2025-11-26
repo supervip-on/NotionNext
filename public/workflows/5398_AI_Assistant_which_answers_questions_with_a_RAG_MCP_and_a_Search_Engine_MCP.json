@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Assistant which answers questions with a RAG MCP and a Search Engine MCP",
-    "id": 5398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5398
   },
   "nodes": [
     {

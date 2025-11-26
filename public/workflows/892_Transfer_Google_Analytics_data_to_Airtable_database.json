@@ -135,7 +135,6 @@
   },
   "meta": {
     "name": "Transfer Google Analytics data to Airtable database",
-    "id": 892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 892
   }
 }

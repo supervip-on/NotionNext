@@ -2,8 +2,7 @@
   "id": "59YfV0tNnKG7OHDN",
   "meta": {
     "name": "Convert PDF to PNG with PDF.co API (Multi-Page Support)",
-    "id": 3847,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3847
   },
   "name": "Page2Image: Convert PDF to PNG Workflow (Multi-Page Support)",
   "tags": [],

@@ -317,7 +317,6 @@
   },
   "meta": {
     "name": "Centralized Error Monitoring & Alerts via Telegram, Slack & Other Messengers",
-    "id": 5852,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5852
   }
 }

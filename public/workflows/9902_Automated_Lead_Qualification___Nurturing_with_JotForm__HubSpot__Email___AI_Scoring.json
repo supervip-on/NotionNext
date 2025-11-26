@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Lead Qualification & Nurturing with JotForm, HubSpot, Email & AI Scoring",
-    "id": 9902,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9902
   },
   "nodes": [
     {

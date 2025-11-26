@@ -2,8 +2,7 @@
   "id": "2awBbs4kwz2DghoQ",
   "meta": {
     "name": "Handle WhatsApp Customer Inquiries with AI and Intent Routing",
-    "id": 10240,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10240
   },
   "name": "Handle WhatsApp customer inquiries with AI and intent routing",
   "tags": [],

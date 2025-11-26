@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Validate & Enrich Phone Numbers in Google Sheets with RapidAPI",
-    "id": 6479,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6479
   },
   "nodes": [
     {

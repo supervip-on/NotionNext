@@ -2,8 +2,7 @@
   "id": "R0TtQlb7ZSQkTlC7",
   "meta": {
     "name": "Extract Business Leads from Gmail to Google Sheets with Slack Notifications",
-    "id": 7752,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7752
   },
   "name": "Reverse Outreach",
   "tags": [],

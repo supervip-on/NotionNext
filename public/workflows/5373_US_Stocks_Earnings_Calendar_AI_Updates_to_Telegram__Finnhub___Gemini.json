@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "US Stocks Earnings Calendar AI Updates to Telegram (Finnhub + Gemini)",
-    "id": 5373,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5373
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "e5XxiuYXr5atCH64",
   "meta": {
     "name": "AI-Powered Stock Market Summary Bot",
-    "id": 4867,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4867
   },
   "name": "Stock Analysis Assistant",
   "tags": [

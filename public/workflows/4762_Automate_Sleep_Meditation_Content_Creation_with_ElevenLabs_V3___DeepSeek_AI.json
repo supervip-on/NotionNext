@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Sleep Meditation Content Creation with ElevenLabs V3 & DeepSeek AI",
-    "id": 4762,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4762
   },
   "nodes": [
     {

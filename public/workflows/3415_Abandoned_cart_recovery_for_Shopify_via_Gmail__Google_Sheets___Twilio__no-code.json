@@ -2,8 +2,7 @@
   "id": "DW3ksS9uXl0bZqpA",
   "meta": {
     "name": "Abandoned cart recovery for Shopify via Gmail, Google Sheets & Twilio (no-code)",
-    "id": 3415,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3415
   },
   "name": "Abandoned Cart Recovery Email Automation Workflow",
   "tags": [],

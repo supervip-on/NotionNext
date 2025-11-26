@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI video captions with ZapCap and Google Drive",
-    "id": 8938,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8938
   },
   "name": "Generate AI video captions with ZapCap and Google Drive",
   "tags": [],

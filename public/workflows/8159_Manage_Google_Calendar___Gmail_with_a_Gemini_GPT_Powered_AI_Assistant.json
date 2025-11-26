@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage Google Calendar & Gmail with a Gemini/GPT Powered AI Assistant",
-    "id": 8159,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8159
   },
   "name": "Google Calendar+GMail Manager",
   "tags": [],

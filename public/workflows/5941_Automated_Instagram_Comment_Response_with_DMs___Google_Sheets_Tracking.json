@@ -2,8 +2,7 @@
   "id": "igcrMcr9XPqqxnqk",
   "meta": {
     "name": "Automated Instagram Comment Response with DMs & Google Sheets Tracking",
-    "id": 5941,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5941
   },
   "name": "Auto-Reply to Instagram Comments with DMs",
   "tags": [],

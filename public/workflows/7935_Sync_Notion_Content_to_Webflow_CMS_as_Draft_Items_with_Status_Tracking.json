@@ -2,8 +2,7 @@
   "id": "v1my5NJmVfOaqEwH",
   "meta": {
     "name": "Sync Notion Content to Webflow CMS as Draft Items with Status Tracking",
-    "id": 7935,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7935
   },
   "name": "Content update",
   "tags": [

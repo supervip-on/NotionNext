@@ -2,8 +2,7 @@
   "id": "K7FXvO0Gr7Bx5xZ6",
   "meta": {
     "name": "Get notified on Gmail, Telegram and Slack on new Stripe purchase",
-    "id": 3410,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3410
   },
   "name": "Template | Stripe notifications for new purchases",
   "tags": [

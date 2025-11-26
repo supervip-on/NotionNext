@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Bidder for Freelancer.com with Telegram Approval and AI Proposals",
-    "id": 6048,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6048
   },
   "nodes": [
     {

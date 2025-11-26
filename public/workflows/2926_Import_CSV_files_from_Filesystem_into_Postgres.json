@@ -2,8 +2,7 @@
   "id": "q8GNbRhjQDwDpXoo",
   "meta": {
     "name": "Import CSV files from Filesystem into Postgres",
-    "id": 2926,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2926
   },
   "name": "How to automatically import CSV files into postgres",
   "tags": [],

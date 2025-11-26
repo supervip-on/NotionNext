@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Automated SEO Reports with RapidAPI's SEO Analyzer and Google Docs",
-    "id": 7630,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7630
   },
   "nodes": [
     {

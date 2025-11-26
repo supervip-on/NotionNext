@@ -2,8 +2,7 @@
   "id": "yREvYCqr0zPjLWNx",
   "meta": {
     "name": "Enrich Company Sales Data with Extruct AI and Export to Google Sheets",
-    "id": 5382,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5382
   },
   "name": "Sales & Business Development Dashboard",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Power BI Dataset Refreshes with History Monitoring",
-    "id": 7336,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7336
   },
   "nodes": [
     {

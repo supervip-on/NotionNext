@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Google Drive to Pinecone Vector Storage Workflow",
-    "id": 3199,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3199
   },
   "nodes": [
     {

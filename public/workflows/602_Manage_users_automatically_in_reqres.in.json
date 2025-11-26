@@ -109,8 +109,7 @@
   },
   "meta": {
     "name": "Manage users automatically in reqres.in",
-    "id": 602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 602
   },
   "id": "602"
 }

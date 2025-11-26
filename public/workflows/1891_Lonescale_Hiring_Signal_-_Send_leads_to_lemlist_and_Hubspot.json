@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lonescale Hiring Signal - Send leads to lemlist and Hubspot",
-    "id": 1891,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1891
   },
   "nodes": [
     {

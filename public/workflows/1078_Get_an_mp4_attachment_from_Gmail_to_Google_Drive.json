@@ -92,8 +92,7 @@
   },
   "meta": {
     "name": "Get an mp4 attachment from Gmail to Google Drive",
-    "id": 1078,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1078
   },
   "id": "1078"
 }

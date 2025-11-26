@@ -2,8 +2,7 @@
   "id": "DRjTkkZrfqMbhifO",
   "meta": {
     "name": "Summarize Glassdoor Company Info with Google Gemini and Bright Data Web Scraper",
-    "id": 3532,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3532
   },
   "name": "Summarize Glassdoor Company Info with Google Gemini and Bright Data Web Scraper",
   "tags": [

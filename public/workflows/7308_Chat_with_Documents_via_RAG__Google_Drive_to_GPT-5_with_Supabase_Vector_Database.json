@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Chat with Documents via RAG: Google Drive to GPT-5 with Supabase Vector Database",
-    "id": 7308,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7308
   },
   "nodes": [
     {

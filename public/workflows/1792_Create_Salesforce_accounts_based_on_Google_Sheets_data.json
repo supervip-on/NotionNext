@@ -381,8 +381,7 @@
   },
   "meta": {
     "name": "Create Salesforce accounts based on Google Sheets data",
-    "id": 1792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1792
   },
   "id": "1792"
 }

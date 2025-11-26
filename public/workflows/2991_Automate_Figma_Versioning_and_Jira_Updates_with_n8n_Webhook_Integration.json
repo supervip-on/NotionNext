@@ -2,8 +2,7 @@
   "id": "5kYHogzDGeo21MxE",
   "meta": {
     "name": "Automate Figma Versioning and Jira Updates with n8n Webhook Integration",
-    "id": 2991,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2991
   },
   "name": "Automate Figma Versioning and Jira Updates with n8n Webhook Integration",
   "tags": [],

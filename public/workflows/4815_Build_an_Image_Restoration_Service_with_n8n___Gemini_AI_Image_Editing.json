@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an Image Restoration Service with n8n & Gemini AI Image Editing",
-    "id": 4815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4815
   },
   "nodes": [
     {

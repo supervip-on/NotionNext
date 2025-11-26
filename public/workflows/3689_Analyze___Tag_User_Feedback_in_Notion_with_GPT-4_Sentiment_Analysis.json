@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze & Tag User Feedback in Notion with GPT-4 Sentiment Analysis",
-    "id": 3689,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3689
   },
   "nodes": [
     {

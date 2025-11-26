@@ -2,8 +2,7 @@
   "id": "2szamFl9EWRq9vWT",
   "meta": {
     "name": "Automated Outbound Calls: connect Ultravox AI Agents to Phone Calls with Twilio",
-    "id": 7958,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7958
   },
   "name": "Automate Call with Ultravox Agent and Twilio",
   "tags": [],

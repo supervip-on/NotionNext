@@ -2,8 +2,7 @@
   "id": "BemMdzpvedBEQKot",
   "meta": {
     "name": "Generate & Rank Animal Advocacy Content with Claude AI, Open Paws & Hugging Face",
-    "id": 6485,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6485
   },
   "name": " Multi-Version Content Generator with AI Scoring & Advocacy Preference Ranking",
   "tags": [],

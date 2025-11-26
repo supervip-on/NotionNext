@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Segment PDFs by Table of Contents with Gemini AI and Chunkr.ai",
-    "id": 4697,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4697
   },
   "nodes": [
     {

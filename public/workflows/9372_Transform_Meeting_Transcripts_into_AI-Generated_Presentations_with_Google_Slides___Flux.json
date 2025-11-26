@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Meeting Transcripts into AI-Generated Presentations with Google Slides & Flux",
-    "id": 9372,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9372
   },
   "nodes": [
     {

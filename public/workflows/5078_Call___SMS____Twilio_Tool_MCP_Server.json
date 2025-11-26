@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Call & SMS 🛠️ Twilio Tool MCP Server",
-    "id": 5078,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5078
   },
   "nodes": [
     {

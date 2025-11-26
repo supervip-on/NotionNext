@@ -355,8 +355,7 @@
   },
   "meta": {
     "name": "Automate Candidate Evaluation with GPT-4 Scoring and Gmail Notifications",
-    "id": 6071,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6071
   },
   "id": "6071"
 }

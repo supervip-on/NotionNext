@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "YouTube Advanced RSS Generator with Telegram Formation",
-    "id": 2221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2221
   },
   "name": "[n8n] YouTube Channel Advanced RSS Feeds Generator",
   "tags": [

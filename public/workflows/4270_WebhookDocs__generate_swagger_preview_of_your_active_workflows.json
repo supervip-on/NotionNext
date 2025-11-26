@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "WebhookDocs: generate swagger preview of your active workflows",
-    "id": 4270,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4270
   },
   "nodes": [
     {

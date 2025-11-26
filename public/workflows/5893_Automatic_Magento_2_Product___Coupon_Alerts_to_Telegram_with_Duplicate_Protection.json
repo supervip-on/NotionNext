@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Magento 2 Product & Coupon Alerts to Telegram with Duplicate Protection",
-    "id": 5893,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5893
   },
   "nodes": [
     {

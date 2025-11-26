@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Zendesk tickets to Pipedrive contacts and assign tasks",
-    "id": 1806,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1806
   },
   "nodes": [
     {

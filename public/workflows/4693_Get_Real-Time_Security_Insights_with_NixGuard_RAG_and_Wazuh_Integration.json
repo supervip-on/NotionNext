@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get Real-Time Security Insights with NixGuard RAG and Wazuh Integration",
-    "id": 4693,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4693
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "I2qMAcQET7isaqYD",
   "meta": {
     "name": "Check Which AI Models Are Used in Your Workflows",
-    "id": 3718,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3718
   },
   "name": "n8napi-check-workflow-which-model-is-using",
   "tags": [],

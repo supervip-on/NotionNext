@@ -191,8 +191,7 @@
   },
   "meta": {
     "name": "Send Email if server has upgradable packages",
-    "id": 2925,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2925
   },
   "id": "2925"
 }

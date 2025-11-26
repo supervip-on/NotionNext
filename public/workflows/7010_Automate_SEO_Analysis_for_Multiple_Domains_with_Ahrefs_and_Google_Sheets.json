@@ -2,8 +2,7 @@
   "id": "62lxnDVx4b47ql6P",
   "meta": {
     "name": "Automate SEO Analysis for Multiple Domains with Ahrefs and Google Sheets",
-    "id": 7010,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7010
   },
   "name": "Domain Analyzer Workflow Template",
   "nodes": [

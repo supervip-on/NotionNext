@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Law Firm Lead Management & Scheduling with AI, Jotform & Calendar",
-    "id": 9383,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9383
   },
   "nodes": [
     {

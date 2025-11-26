@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily IndieHackers Reddit Trend Analysis to Slack with Gemini AI",
-    "id": 7214,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7214
   },
   "nodes": [
     {

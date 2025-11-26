@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reschedule Google Calendar Appointments with Stream Deck (15/30/60 min)",
-    "id": 4634,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4634
   },
   "nodes": [
     {

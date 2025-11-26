@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Autonomous Customizable Support Chatbot on Intercom + Discord Thread Reports",
-    "id": 3558,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3558
   },
   "nodes": [
     {

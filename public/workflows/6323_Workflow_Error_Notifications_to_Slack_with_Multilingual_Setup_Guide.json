@@ -2,8 +2,7 @@
   "id": "5qAvHvNoUMIxsFG7",
   "meta": {
     "name": "Workflow Error Notifications to Slack with Multilingual Setup Guide",
-    "id": 6323,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6323
   },
   "name": "ErrorFlow SlackAlarm",
   "tags": [],

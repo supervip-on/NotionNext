@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Custom LangChain agent written in JavaScript",
-    "id": 1955,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1955
   },
   "nodes": [
     {

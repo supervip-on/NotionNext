@@ -2,8 +2,7 @@
   "id": "yqjaKC8KeZeMjbNt",
   "meta": {
     "name": "Send a voice note on Telegram to generate a professional email with ChatGPT",
-    "id": 7041,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7041
   },
   "name": "Send a voice note on Telegram to generate a professional email with ChatGPT",
   "tags": [],

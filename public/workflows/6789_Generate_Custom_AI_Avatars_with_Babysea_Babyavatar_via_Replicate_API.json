@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Custom AI Avatars with Babysea Babyavatar via Replicate API",
-    "id": 6789,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6789
   },
   "name": "babysea/babyavatar - Other Generator",
   "nodes": [

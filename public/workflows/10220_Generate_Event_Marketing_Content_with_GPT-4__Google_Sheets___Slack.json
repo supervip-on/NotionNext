@@ -2,8 +2,7 @@
   "id": "qDuGzbzSIxRn2kXc",
   "meta": {
     "name": "Generate Event Marketing Content with GPT-4, Google Sheets & Slack",
-    "id": 10220,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10220
   },
   "name": "Automated Event Marketing Content Generator",
   "tags": [],

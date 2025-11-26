@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multi-Modal Expense Tracking with Telegram, Gemini AI & Google Sheets",
-    "id": 10155,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10155
   },
   "nodes": [
     {

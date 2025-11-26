@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Workflow Backup to GitLab with Slack Notifications",
-    "id": 9458,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9458
   },
   "nodes": [
     {

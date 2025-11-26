@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Detect hallucinations using specialised Ollama model bespoke-minicheck",
-    "id": 2922,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2922
   },
   "nodes": [
     {

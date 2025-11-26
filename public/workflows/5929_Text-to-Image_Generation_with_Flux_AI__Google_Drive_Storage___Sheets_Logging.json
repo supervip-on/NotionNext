@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Text-to-Image Generation with Flux AI, Google Drive Storage & Sheets Logging",
-    "id": 5929,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5929
   },
   "nodes": [
     {

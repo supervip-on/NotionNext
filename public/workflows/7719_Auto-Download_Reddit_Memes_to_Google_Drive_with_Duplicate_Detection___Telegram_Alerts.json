@@ -2,8 +2,7 @@
   "id": "sApDhrCJFPIl0wdv",
   "meta": {
     "name": "Auto-Download Reddit Memes to Google Drive with Duplicate Detection & Telegram Alerts",
-    "id": 7719,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7719
   },
   "tags": [],
   "nodes": [

@@ -2,8 +2,7 @@
   "id": "h7qrcXor10jWVpln",
   "meta": {
     "name": "Auto-Generate WhatsApp Proposals from Voice or Text using GPT & APITemplate",
-    "id": 5656,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5656
   },
   "name": "Voice2Propal – Smart WhatsApp Proposal Generator (Voice & Text)",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Cover Letter Generator with Indeed Job Scraping and GPT-4o-mini",
-    "id": 7602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7602
   },
   "nodes": [
     {

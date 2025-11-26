@@ -2,8 +2,7 @@
   "id": "Tygtx1aZi9pLdtUo",
   "meta": {
     "name": "Automatically Generate Burn-in Video Captions with json2video",
-    "id": 3044,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3044
   },
   "name": "Fully automated Video Captions generation with json2video",
   "tags": [],

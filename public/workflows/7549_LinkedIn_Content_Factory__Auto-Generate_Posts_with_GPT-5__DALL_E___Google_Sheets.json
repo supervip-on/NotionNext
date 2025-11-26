@@ -2,8 +2,7 @@
   "id": "vnFLiG5oPRaa0GLT",
   "meta": {
     "name": "LinkedIn Content Factory: Auto-Generate Posts with GPT-5, DALL·E & Google Sheets",
-    "id": 7549,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7549
   },
   "name": "Linkedin Post Generator",
   "tags": [],

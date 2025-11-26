@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Google Maps Scraper",
-    "id": 2063,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2063
   },
   "nodes": [
     {

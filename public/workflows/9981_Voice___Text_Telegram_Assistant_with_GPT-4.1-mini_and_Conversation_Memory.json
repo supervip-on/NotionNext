@@ -2,8 +2,7 @@
   "id": "AVzZ0VuRrjztizVp",
   "meta": {
     "name": "Voice & Text Telegram Assistant with GPT-4.1-mini and Conversation Memory",
-    "id": 9981,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9981
   },
   "name": "Personal AI Assistant on Telegram",
   "tags": [

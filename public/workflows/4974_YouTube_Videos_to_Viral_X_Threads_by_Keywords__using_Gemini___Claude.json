@@ -2,8 +2,7 @@
   "id": "V9X85ydQmlkM8yhA",
   "meta": {
     "name": "YouTube Videos to Viral X Threads by Keywords (using Gemini & Claude)",
-    "id": 4974,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4974
   },
   "name": "YouTube Keyword -> X Thread",
   "tags": [],

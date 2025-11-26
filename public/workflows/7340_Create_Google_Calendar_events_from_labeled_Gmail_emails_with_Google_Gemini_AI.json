@@ -2,8 +2,7 @@
   "id": "VF6PzqKpoe5DTKoL",
   "meta": {
     "name": "Create Google Calendar events from labeled Gmail emails with Google Gemini AI",
-    "id": 7340,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7340
   },
   "name": "Create Google Calendar events from labeled Gmail emails using AI",
   "tags": [],

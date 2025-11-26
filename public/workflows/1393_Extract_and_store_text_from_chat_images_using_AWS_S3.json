@@ -116,8 +116,7 @@
   },
   "meta": {
     "name": "Extract and store text from chat images using AWS S3",
-    "id": 1393,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1393
   },
   "id": "1393"
 }

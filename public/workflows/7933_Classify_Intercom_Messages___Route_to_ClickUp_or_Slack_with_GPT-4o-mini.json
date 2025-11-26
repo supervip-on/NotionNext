@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Classify Intercom Messages & Route to ClickUp or Slack with GPT-4o-mini",
-    "id": 7933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7933
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Translate Incoming Gmail Emails to English with OpenAI GPT-3.5",
-    "id": 8031,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8031
   },
   "nodes": [
     {

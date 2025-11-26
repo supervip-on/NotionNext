@@ -2,8 +2,7 @@
   "id": "LFP3MXxMct1PkZeO",
   "meta": {
     "name": "Auto-Collect Business Leads from Google Maps with APIFY and Gmail",
-    "id": 5020,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5020
   },
   "name": "Google Map Scraper",
   "tags": [

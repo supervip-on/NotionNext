@@ -2,8 +2,7 @@
   "id": "nJwkSOrJIFvutw1n",
   "meta": {
     "name": "Flux Dev Image Generation (Fal.ai) to Google Drive",
-    "id": 2644,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2644
   },
   "name": "Flux Dev Image Generation Fal.ai",
   "tags": [],

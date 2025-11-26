@@ -2,8 +2,7 @@
   "id": "qNt1EP9LpXpmPsrR",
   "meta": {
     "name": "Auto Workflow Backup to Google Drive – Automated Export of All Your Workflows",
-    "id": 4090,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4090
   },
   "name": "Workflow Backup copy",
   "tags": [],

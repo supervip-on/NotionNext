@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "📁 Extract and Clean PDF Data from Google Drive",
-    "id": 9061,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9061
   },
   "nodes": [
     {

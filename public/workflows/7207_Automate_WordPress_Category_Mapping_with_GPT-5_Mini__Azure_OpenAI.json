@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate WordPress Category Mapping with GPT-5 Mini (Azure OpenAI)",
-    "id": 7207,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7207
   },
   "nodes": [
     {

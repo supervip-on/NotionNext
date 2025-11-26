@@ -2,8 +2,7 @@
   "id": "eHuvG2I1vOYj0U6k",
   "meta": {
     "name": "OAuth2 Settings Finder with OpenRouter Chat Model and Llama 3.3",
-    "id": 3279,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3279
   },
   "name": "My workflow",
   "tags": [

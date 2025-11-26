@@ -2,8 +2,7 @@
   "id": "dIL4vZA7RjcU07qx",
   "meta": {
     "name": "Medical Symptom Analysis & Doctor Recommendations with Ollama AI & WhatsApp",
-    "id": 7179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7179
   },
   "name": "AI Symptom Checker & Doctor Suggestion",
   "tags": [],

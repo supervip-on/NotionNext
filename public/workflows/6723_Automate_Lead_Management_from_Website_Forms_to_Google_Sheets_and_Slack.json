@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Management from Website Forms to Google Sheets and Slack",
-    "id": 6723,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6723
   },
   "nodes": [
     {

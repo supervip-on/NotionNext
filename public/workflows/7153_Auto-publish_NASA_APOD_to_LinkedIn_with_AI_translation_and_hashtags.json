@@ -2,8 +2,7 @@
   "id": "jm3oNfFXDKTuW4Ez",
   "meta": {
     "name": "Auto-publish NASA APOD to LinkedIn with AI translation and hashtags",
-    "id": 7153,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7153
   },
   "tags": [
     {

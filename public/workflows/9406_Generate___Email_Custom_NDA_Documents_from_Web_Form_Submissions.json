@@ -2,8 +2,7 @@
   "id": "kKj0sdENnEH9DPqg",
   "meta": {
     "name": "Generate & Email Custom NDA Documents from Web Form Submissions",
-    "id": 9406,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9406
   },
   "name": "Landingpage -> NDA Word Document (Docx) -> Email",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "HHoQmMSal4U1i65J",
   "meta": {
     "name": "Payment Processing and Order Tracking with YooKassa and Google Sheets",
-    "id": 4749,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4749
   },
   "name": "Yookassa",
   "tags": [],

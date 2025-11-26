@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Audit Google Drive File Permissions for Access Control Management",
-    "id": 3549,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3549
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "IvIzphIxPj1rZ3az",
   "meta": {
     "name": "Manage Webflow form submissions in Airtable",
-    "id": 2057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2057
   },
   "name": "Dynamically create tables in Airtable for your Webflow form submissions",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "dIf3ZGRdzN9IJYE5",
   "meta": {
     "name": "Predict Housing Prices with a Simple Neural Network",
-    "id": 9089,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9089
   },
   "name": "House Price Neural Network",
   "tags": [],

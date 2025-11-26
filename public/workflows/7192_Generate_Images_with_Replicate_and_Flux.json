@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Images with Replicate and Flux",
-    "id": 7192,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7192
   },
   "nodes": [
     {

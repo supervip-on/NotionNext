@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Competitor Reviews & Generate Ad Creatives with Bright Data & OpenAI",
-    "id": 3624,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3624
   },
   "nodes": [
     {

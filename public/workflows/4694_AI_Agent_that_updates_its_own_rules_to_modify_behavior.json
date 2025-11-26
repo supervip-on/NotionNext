@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Agent that updates its own rules to modify behavior",
-    "id": 4694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4694
   },
   "nodes": [
     {

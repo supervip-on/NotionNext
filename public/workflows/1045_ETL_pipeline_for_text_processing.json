@@ -257,7 +257,6 @@
   },
   "meta": {
     "name": "ETL pipeline for text processing",
-    "id": 1045,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1045
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Client Onboarding Email Automation with Google Sheets + Gemini + Gmail",
-    "id": 8984,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8984
   },
   "nodes": [
     {

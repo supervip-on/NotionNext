@@ -2,8 +2,7 @@
   "id": "KN9jNN3EZPjpNGbC",
   "meta": {
     "name": "Hardware Store Product Assistant with PostgreSQL & Google Gemini AI",
-    "id": 9802,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9802
   },
   "name": "AI Agent with PostgreSQL & MCP for Hardware Store Chatbot",
   "tags": [],

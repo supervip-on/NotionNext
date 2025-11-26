@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Invoice Data from Email to Google Sheets using GPT-4o AI Automation",
-    "id": 4376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4376
   },
   "nodes": [
     {

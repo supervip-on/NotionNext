@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "GitHub Bounty Issue Tracker & Alert System (Google Sheets + Email/WhatsApp)",
-    "id": 9088,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9088
   },
   "nodes": [
     {

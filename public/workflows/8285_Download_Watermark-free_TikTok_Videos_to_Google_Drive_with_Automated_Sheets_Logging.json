@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Watermark-free TikTok Videos to Google Drive with Automated Sheets Logging",
-    "id": 8285,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8285
   },
   "nodes": [
     {

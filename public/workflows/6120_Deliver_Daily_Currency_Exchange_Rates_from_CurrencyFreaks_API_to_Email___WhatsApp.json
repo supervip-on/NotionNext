@@ -2,8 +2,7 @@
   "id": "5EnZkZXpxy95JiaU",
   "meta": {
     "name": "Deliver Daily Currency Exchange Rates from CurrencyFreaks API to Email & WhatsApp",
-    "id": 6120,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6120
   },
   "name": "Deliver Daily Multi-Currency Exchange Updates via API to Email & WhatsApp",
   "tags": [],

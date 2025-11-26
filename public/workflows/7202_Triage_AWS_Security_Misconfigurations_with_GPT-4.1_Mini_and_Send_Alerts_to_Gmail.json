@@ -2,8 +2,7 @@
   "id": "bBRp9TmumfujcoHs",
   "meta": {
     "name": "Triage AWS Security Misconfigurations with GPT-4.1 Mini and Send Alerts to Gmail",
-    "id": 7202,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7202
   },
   "name": "Security Hub Alerts Triaged by AI",
   "tags": [],

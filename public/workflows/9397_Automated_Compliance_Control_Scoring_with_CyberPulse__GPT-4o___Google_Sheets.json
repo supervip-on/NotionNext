@@ -2,8 +2,7 @@
   "id": "6yJ0KXSSGqSb9FY6",
   "meta": {
     "name": "Automated Compliance Control Scoring with CyberPulse, GPT-4o & Google Sheets",
-    "id": 9397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9397
   },
   "name": "CyberPulse Compliance – v2 batch pipeline",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "dCbbcwU9DY7iPdic",
   "meta": {
     "name": "Auto-Generate Blog Posts with GPT, Leonardo AI, and Wordpress Publishing",
-    "id": 8254,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8254
   },
   "name": "Your topic in a blog",
   "tags": [],

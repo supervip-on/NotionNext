@@ -2,8 +2,7 @@
   "id": "wqZWgW8ymv4cC0Dk",
   "meta": {
     "name": "Real-Time Startup Intelligence: Crunchbase Monitoring with AI Summaries & Email Alerts",
-    "id": 4792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4792
   },
   "name": "Crunchbase Startup Activity Monitor",
   "tags": [],

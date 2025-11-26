@@ -80,7 +80,6 @@
   },
   "meta": {
     "name": "Get all the stories and publish them in Storyblok",
-    "id": 768,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 768
   }
 }

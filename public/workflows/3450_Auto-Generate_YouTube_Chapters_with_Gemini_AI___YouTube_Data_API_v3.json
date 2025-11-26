@@ -2,8 +2,7 @@
   "id": "SCUbdpVPX4USbQmr",
   "meta": {
     "name": "Auto-Generate YouTube Chapters with Gemini AI & YouTube Data API v3",
-    "id": 3450,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3450
   },
   "name": "youtube chapter generator",
   "tags": [

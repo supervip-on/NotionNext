@@ -2,8 +2,7 @@
   "id": "cVd6mI56A2ruupJ7",
   "meta": {
     "name": "Enrich Hubspot Companies with Bedrijfsdata.nl",
-    "id": 6578,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6578
   },
   "name": "Enrich Hubspot Companies",
   "tags": [],

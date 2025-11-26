@@ -2,8 +2,7 @@
   "id": "L9nRhIlKBOKLFzmr",
   "meta": {
     "name": "Track SDK Documentation Drift with GitHub, Notion, Google Sheets, and Slack",
-    "id": 10337,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10337
   },
   "name": "Automate SDK Version Drift Detection with GitHub, Notion, and Slack",
   "tags": [],

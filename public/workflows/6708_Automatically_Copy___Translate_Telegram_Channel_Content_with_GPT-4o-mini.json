@@ -2,8 +2,7 @@
   "id": "VjbCxJ8Hgo44WZdf",
   "meta": {
     "name": "Automatically Copy & Translate Telegram Channel Content with GPT-4o-mini",
-    "id": 6708,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6708
   },
   "name": "TelegramAutoCopier",
   "tags": [],

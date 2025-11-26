@@ -2,8 +2,7 @@
   "id": "V9lUeUsju5cwwmNc",
   "meta": {
     "name": "LinkedIn Profile Extract and Build JSON Resume with Bright Data & Google Gemini",
-    "id": 4653,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4653
   },
   "name": "LinkedIn Profile Extract and Build JSON Resume with Bright Data & Google Gemini",
   "tags": [

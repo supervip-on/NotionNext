@@ -2,8 +2,7 @@
   "id": "u1Wkcvylv2EriWtA",
   "meta": {
     "name": "WordPress Blog to Google Sheets Sync (Posts, Categories, Tags, Media)",
-    "id": 9064,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9064
   },
   "name": "WP Pages to Google Sheets - Template",
   "tags": [

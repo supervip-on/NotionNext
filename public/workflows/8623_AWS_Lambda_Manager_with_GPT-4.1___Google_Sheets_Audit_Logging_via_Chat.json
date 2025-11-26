@@ -2,8 +2,7 @@
   "id": "8Hr1UiypOyXzJuXf",
   "meta": {
     "name": "AWS Lambda Manager with GPT-4.1 & Google Sheets Audit Logging via Chat",
-    "id": 8623,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8623
   },
   "name": "Chat-Based AWS Lambda Manager with Automated Audit Logging (GPT-4.1 mini + Google Sheet)",
   "tags": [

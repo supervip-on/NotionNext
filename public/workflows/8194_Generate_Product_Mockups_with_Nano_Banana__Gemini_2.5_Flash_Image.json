@@ -2,8 +2,7 @@
   "id": "d43MQMcUi1o2LV9P",
   "meta": {
     "name": "Generate Product Mockups with Nano Banana (Gemini 2.5 Flash Image)",
-    "id": 8194,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8194
   },
   "name": "ProBanana: AI Product Mockup Generator using Gemini 2.5 Flash Image (Nano Banana)",
   "tags": [],

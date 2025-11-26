@@ -2,8 +2,7 @@
   "id": "deeMAaUKlXBrqaiS",
   "meta": {
     "name": "Verify Generic Business Emails across Multiple Domains with EmailListVerify and Google Sheets",
-    "id": 8923,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8923
   },
   "name": "ELV find generic email (to share)",
   "tags": [],

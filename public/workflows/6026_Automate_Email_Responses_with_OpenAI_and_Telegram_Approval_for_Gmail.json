@@ -2,8 +2,7 @@
   "id": "gXutAybKcZqblZjF",
   "meta": {
     "name": "Automate Email Responses with OpenAI and Telegram Approval for Gmail",
-    "id": 6026,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6026
   },
   "name": "AI Email Reply Assistant with Telegram Approval",
   "tags": [],

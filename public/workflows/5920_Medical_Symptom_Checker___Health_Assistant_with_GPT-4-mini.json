@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Medical Symptom Checker & Health Assistant with GPT-4-mini",
-    "id": 5920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5920
   },
   "name": "AI Medical Symptom Checker & Health Assistant",
   "tags": [],

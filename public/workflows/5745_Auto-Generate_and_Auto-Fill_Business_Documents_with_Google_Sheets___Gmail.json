@@ -2,8 +2,7 @@
   "id": "UJPZC5iE3WG9H1xs",
   "meta": {
     "name": "Auto-Generate and Auto-Fill Business Documents with Google Sheets & Gmail",
-    "id": 5745,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5745
   },
   "name": "Auto-Generate Business Documents in PDF",
   "tags": [],

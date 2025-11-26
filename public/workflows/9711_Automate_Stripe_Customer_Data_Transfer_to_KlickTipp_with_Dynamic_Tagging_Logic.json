@@ -2,8 +2,7 @@
   "id": "psPMd959SNyGJq07",
   "meta": {
     "name": "Automate Stripe Customer Data Transfer to KlickTipp with Dynamic Tagging Logic",
-    "id": 9711,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9711
   },
   "name": "(Oleksandr) Transfer Stripe customers and checkout data to KlickTipp with conditional tagging",
   "tags": [],

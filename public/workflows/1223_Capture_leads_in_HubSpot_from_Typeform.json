@@ -217,8 +217,7 @@
   },
   "meta": {
     "name": "Capture leads in HubSpot from Typeform",
-    "id": 1223,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1223
   },
   "id": "1223"
 }

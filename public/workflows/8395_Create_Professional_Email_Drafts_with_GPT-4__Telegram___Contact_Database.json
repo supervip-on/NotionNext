@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Professional Email Drafts with GPT-4, Telegram & Contact Database",
-    "id": 8395,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8395
   },
   "nodes": [
     {

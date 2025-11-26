@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Jotform to KlickTipp Integration - Webinar registration",
-    "id": 2755,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2755
   },
   "nodes": [
     {

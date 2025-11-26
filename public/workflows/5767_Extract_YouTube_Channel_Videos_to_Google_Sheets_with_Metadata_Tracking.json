@@ -2,8 +2,7 @@
   "id": "130qXL74wpCNH7rP",
   "meta": {
     "name": "Extract YouTube Channel Videos to Google Sheets with Metadata Tracking",
-    "id": 5767,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5767
   },
   "name": "Youtube - Get Channel Videos",
   "tags": [

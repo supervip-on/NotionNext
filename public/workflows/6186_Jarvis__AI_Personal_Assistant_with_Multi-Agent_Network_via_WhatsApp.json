@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Jarvis: AI Personal Assistant with Multi-Agent Network via WhatsApp",
-    "id": 6186,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6186
   },
   "nodes": [
     {

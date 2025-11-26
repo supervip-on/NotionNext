@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily Financial Markets Summaries with SerpAPI and OpenAI GPT",
-    "id": 7742,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7742
   },
   "nodes": [
     {

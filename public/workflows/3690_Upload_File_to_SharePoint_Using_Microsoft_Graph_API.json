@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload File to SharePoint Using Microsoft Graph API",
-    "id": 3690,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3690
   },
   "nodes": [
     {

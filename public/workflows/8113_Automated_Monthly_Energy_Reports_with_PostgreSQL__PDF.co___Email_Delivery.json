@@ -2,8 +2,7 @@
   "id": "lFJOVIgGwLDmQa4o",
   "meta": {
     "name": "Automated Monthly Energy Reports with PostgreSQL, PDF.co & Email Delivery",
-    "id": 8113,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8113
   },
   "name": "Monthly Energy Generation Report (Postgres → PDF → Email)",
   "tags": [],

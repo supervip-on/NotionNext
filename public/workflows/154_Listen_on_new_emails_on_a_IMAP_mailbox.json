@@ -148,7 +148,6 @@
   },
   "meta": {
     "name": "Listen on new emails on a IMAP mailbox",
-    "id": 154,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 154
   }
 }

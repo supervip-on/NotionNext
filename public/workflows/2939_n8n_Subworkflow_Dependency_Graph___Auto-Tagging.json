@@ -2,8 +2,7 @@
   "id": "P9Jr9s9yfcDXTe9R",
   "meta": {
     "name": "n8n Subworkflow Dependency Graph & Auto-Tagging",
-    "id": 2939,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2939
   },
   "name": "n8n Subworkflow Dependency Graph & Auto-Tagging",
   "tags": [],

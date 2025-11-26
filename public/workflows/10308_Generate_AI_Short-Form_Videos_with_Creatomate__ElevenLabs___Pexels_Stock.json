@@ -2,8 +2,7 @@
   "id": "CYtp7zJfBepNByyF",
   "meta": {
     "name": "Generate AI Short-Form Videos with Creatomate, ElevenLabs & Pexels Stock",
-    "id": 10308,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10308
   },
   "name": "Short Video Gen with Creatomate",
   "tags": [],

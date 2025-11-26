@@ -2,8 +2,7 @@
   "id": "6D4OcntV18Okzk0L",
   "meta": {
     "name": "Task Deadline Reminders with Google Sheets, ChatGPT, and Gmail",
-    "id": 6335,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6335
   },
   "name": "Deadline Reminder Bot",
   "tags": [],

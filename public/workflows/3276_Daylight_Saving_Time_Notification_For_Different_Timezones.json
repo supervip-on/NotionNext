@@ -2,8 +2,7 @@
   "id": "JIegnKLVXTkkTzfO",
   "meta": {
     "name": "Daylight Saving Time Notification For Different Timezones",
-    "id": 3276,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3276
   },
   "name": "Daylight Saving Time Notification",
   "tags": [],

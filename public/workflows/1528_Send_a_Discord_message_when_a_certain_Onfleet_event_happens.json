@@ -50,7 +50,6 @@
   },
   "meta": {
     "name": "Send a Discord message when a certain Onfleet event happens",
-    "id": 1528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1528
   }
 }

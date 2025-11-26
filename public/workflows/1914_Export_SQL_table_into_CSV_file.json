@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export SQL table into CSV file",
-    "id": 1914,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1914
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate SIEM Alert Enrichment with MITRE ATT&CK, Qdrant & Zendesk in n8n",
-    "id": 2840,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2840
   },
   "nodes": [
     {

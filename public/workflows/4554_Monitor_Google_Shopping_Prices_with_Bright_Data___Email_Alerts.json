@@ -2,8 +2,7 @@
   "id": "JWDeOEU4U1dqg0Vb",
   "meta": {
     "name": "Monitor Google Shopping Prices with Bright Data & Email Alerts",
-    "id": 4554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4554
   },
   "name": "Daily Price Tracking with Bright Data in n8n + Smart Alerts on Price Drops",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "JVS2oSR8h2s2imQ7",
   "meta": {
     "name": "Create a Notion AI Assistant with Google Gemini for Managing Tasks & Content",
-    "id": 4857,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4857
   },
   "name": "Notion MCP server",
   "tags": [],

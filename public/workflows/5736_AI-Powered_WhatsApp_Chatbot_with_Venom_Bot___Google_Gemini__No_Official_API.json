@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered WhatsApp Chatbot with Venom Bot & Google Gemini (No Official API)",
-    "id": 5736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5736
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Dynamic Website Assistant with DeepSeek AI, Pinecone Vectorstore & Site-Based Routing",
-    "id": 6295,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6295
   },
   "nodes": [
     {

@@ -325,8 +325,7 @@
   },
   "meta": {
     "name": "Auto Update n8n to Latest Version with Coolify",
-    "id": 4360,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4360
   },
   "id": "4360"
 }

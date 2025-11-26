@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Check if workflows contain build-in nodes that are not of the latest version",
-    "id": 2301,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2301
   },
   "nodes": [
     {

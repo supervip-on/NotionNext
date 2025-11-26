@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Media with ComfyUI: Images, Video, 3D & Audio Bridge",
-    "id": 4468,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4468
   },
   "nodes": [
     {

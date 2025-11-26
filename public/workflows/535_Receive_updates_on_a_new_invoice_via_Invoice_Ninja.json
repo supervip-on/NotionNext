@@ -20,8 +20,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates on a new invoice via Invoice Ninja",
-    "id": 535,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 535
   },
   "id": "535"
 }

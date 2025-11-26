@@ -2,8 +2,7 @@
   "id": "zStcO2on6rF2Lbkm",
   "meta": {
     "name": "Get Malaysia Tax ID Number (TIN) for multiple Business Reg Num (SSM) or NRIC",
-    "id": 4781,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4781
   },
   "name": "Get Malaysia Tax ID Number (TIN) for multiple Business Reg Num (SSM) or NRIC",
   "tags": [

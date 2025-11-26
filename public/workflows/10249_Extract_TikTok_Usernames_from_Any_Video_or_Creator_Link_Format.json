@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract TikTok Usernames from Any Video or Creator Link Format",
-    "id": 10249,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10249
   },
   "nodes": [
     {

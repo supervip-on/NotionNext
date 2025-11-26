@@ -115,8 +115,7 @@
   },
   "meta": {
     "name": "Manage transfers automatically in Wise",
-    "id": 992,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 992
   },
   "id": "992"
 }

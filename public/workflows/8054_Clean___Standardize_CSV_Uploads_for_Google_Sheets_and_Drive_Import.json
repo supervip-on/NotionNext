@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Clean & Standardize CSV Uploads for Google Sheets and Drive Import",
-    "id": 8054,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8054
   },
   "nodes": [
     {

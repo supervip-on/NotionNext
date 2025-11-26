@@ -2,8 +2,7 @@
   "id": "gl7ZRfiTi9tQX4nn",
   "meta": {
     "name": "Manage Shopify Store via Conversational OpenAI Assistant with SmartCommerce",
-    "id": 9014,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9014
   },
   "name": "ShopifyMCP",
   "tags": [],

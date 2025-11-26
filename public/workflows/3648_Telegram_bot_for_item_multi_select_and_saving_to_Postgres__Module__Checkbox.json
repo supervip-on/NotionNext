@@ -2,8 +2,7 @@
   "id": "KCGTmRn3lbzfx0on",
   "meta": {
     "name": "Telegram bot for item multi select and saving to Postgres (Module \"Checkbox\")",
-    "id": 3648,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3648
   },
   "name": "TG-Bot-Module-Checkbox-v2-db-sell-full",
   "tags": [

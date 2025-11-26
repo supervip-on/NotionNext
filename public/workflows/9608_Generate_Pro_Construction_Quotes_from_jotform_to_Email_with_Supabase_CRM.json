@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Pro Construction Quotes from jotform to Email with Supabase CRM",
-    "id": 9608,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9608
   },
   "nodes": [
     {

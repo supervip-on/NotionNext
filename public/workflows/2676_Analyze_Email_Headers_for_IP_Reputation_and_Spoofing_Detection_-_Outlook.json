@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Email Headers for IP Reputation and Spoofing Detection - Outlook",
-    "id": 2676,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2676
   },
   "nodes": [
     {

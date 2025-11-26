@@ -454,8 +454,7 @@
   },
   "meta": {
     "name": "Unify multiple triggers into a single workflow",
-    "id": 7784,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7784
   },
   "id": "7784"
 }

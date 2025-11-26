@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "ChatGPT Automatic Code Review in Gitlab MR",
-    "id": 2167,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2167
   },
   "nodes": [
     {

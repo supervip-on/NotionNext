@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Compose reply draft in Gmail with OpenAI Assistant",
-    "id": 2198,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2198
   },
   "nodes": [
     {

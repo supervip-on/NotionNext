@@ -2,8 +2,7 @@
   "id": "RzYuqoepxixCfKzi",
   "meta": {
     "name": "Automated Facebook Comment Management with GPT-4o and LangChain",
-    "id": 3949,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3949
   },
   "name": "🤖 Facebook MCP AI Agent – Read, Reply & Manage Comments with GPT-4o",
   "tags": [

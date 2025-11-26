@@ -2,8 +2,7 @@
   "id": "eXiaTDyKfXpMeyLh",
   "meta": {
     "name": "Dynamically generate a webpage from user request using OpenAI Structured Output",
-    "id": 2388,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2388
   },
   "name": "Dynamically generate HTML page from user request using OpenAI Structured Output",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "W9YdHiWv369VleZq",
   "meta": {
     "name": "Live Airport Delay Dashboard with FlightStats, Google Sheets & Slack Alerts",
-    "id": 6648,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6648
   },
   "name": "Live Airport Delay Dashboard with FlightStats & Team Alerts",
   "tags": [],

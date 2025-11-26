@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert YouTube Videos to MP4 & MP3 with RapidAPI and Google Sheets Logging",
-    "id": 6924,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6924
   },
   "nodes": [
     {

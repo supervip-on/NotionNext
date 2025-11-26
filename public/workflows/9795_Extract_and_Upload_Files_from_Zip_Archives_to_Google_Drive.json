@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract and Upload Files from Zip Archives to Google Drive",
-    "id": 9795,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9795
   },
   "nodes": [
     {

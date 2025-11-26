@@ -2,8 +2,7 @@
   "id": "hdBpjh9528K5FyWV",
   "meta": {
     "name": "Auto-Clean Gmail Spam Folder - Monthly using Gmail API",
-    "id": 6122,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6122
   },
   "name": "Auto-Clean Gmail Spam Folder Monthly with Gmail API",
   "tags": [],

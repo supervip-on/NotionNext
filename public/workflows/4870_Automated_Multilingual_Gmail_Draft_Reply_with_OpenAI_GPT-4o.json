@@ -2,8 +2,7 @@
   "id": "OskjNtIb2AnxHXP2",
   "meta": {
     "name": "Automated Multilingual Gmail Draft Reply with OpenAI GPT-4o",
-    "id": 4870,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4870
   },
   "name": "Automated Multilingual Gmail Draft Reply with OpenAI GPT-4o in n8n",
   "tags": [

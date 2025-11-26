@@ -2,8 +2,7 @@
   "id": "vMvm0kfL6V7u4bPO",
   "meta": {
     "name": "Automated Product Inquiry Responder with GPT-4 and Google Sheets",
-    "id": 5809,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5809
   },
   "name": "Client Responder IG/TG",
   "tags": [],

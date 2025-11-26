@@ -2,8 +2,7 @@
   "id": "sCy7Dz1t2CXusiPB",
   "meta": {
     "name": "AI Prompt Generator Workflow",
-    "id": 5045,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5045
   },
   "name": "Prompt generator",
   "tags": [],

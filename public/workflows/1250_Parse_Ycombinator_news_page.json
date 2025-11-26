@@ -228,8 +228,7 @@
   },
   "meta": {
     "name": "Parse Ycombinator news page",
-    "id": 1250,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1250
   },
   "id": "1250"
 }

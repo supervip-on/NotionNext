@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Promo Seeker: Auto-find Promo Codes with SerpAPI, Gemini & Telegram",
-    "id": 9172,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9172
   },
   "nodes": [
     {

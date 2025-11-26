@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Stock Analysis Reports with Technical & News Sentiment using GPT-4o",
-    "id": 3790,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3790
   },
   "nodes": [
     {

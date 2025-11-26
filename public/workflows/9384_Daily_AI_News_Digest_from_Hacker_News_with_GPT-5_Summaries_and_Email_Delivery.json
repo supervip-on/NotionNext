@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Daily AI News Digest from Hacker News with GPT-5 Summaries and Email Delivery",
-    "id": 9384,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9384
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly SEO Watchlist Audit to Google Sheets with Gemini and Decodo",
-    "id": 9982,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9982
   },
   "nodes": [
     {

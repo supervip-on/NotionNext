@@ -2,8 +2,7 @@
   "id": "Uw2ldaC4MMBk1Hp5",
   "meta": {
     "name": "Convert Documents to Podcast Audio with GPT-4o & OpenAI TTS",
-    "id": 6138,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6138
   },
   "name": "Automated Podcast Production: Document to Dynamic Audio",
   "tags": [

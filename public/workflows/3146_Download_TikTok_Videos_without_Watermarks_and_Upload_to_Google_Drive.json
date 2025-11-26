@@ -2,8 +2,7 @@
   "id": "aVienX696oMCH1DR",
   "meta": {
     "name": "Download TikTok Videos without Watermarks and Upload to Google Drive",
-    "id": 3146,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3146
   },
   "name": "Tiktok Downloader",
   "tags": [],

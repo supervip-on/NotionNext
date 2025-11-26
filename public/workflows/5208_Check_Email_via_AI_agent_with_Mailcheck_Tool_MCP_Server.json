@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Check Email via AI agent with Mailcheck Tool MCP Server",
-    "id": 5208,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5208
   },
   "nodes": [
     {

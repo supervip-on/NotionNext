@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI Support Assistant for Any Device with GPT-4-mini & Pinecone",
-    "id": 5918,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5918
   },
   "name": "Universal Digital Device Support Assistant",
   "tags": [],

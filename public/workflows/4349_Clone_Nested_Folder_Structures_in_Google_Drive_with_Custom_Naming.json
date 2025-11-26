@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Clone Nested Folder Structures in Google Drive with Custom Naming",
-    "id": 4349,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4349
   },
   "name": "Google Drive Folder Structure Cloner - Visual",
   "tags": [

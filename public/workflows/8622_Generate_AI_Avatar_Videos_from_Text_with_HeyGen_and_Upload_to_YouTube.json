@@ -2,8 +2,7 @@
   "id": "OxdUBxc7llHmoDZx",
   "meta": {
     "name": "Generate AI Avatar Videos from Text with HeyGen and Upload to YouTube",
-    "id": 8622,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8622
   },
   "name": "My workflow 3",
   "tags": [],

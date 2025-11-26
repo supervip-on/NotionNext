@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Smart Chat Routing System with Gemini AI and Notion for Customer Support",
-    "id": 7524,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7524
   },
   "nodes": [
     {

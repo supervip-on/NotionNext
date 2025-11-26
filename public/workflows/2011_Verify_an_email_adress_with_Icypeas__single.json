@@ -2,8 +2,7 @@
   "id": "IwOOVikQC7cn9VTv",
   "meta": {
     "name": "Verify an email adress with Icypeas (single)",
-    "id": 2011,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2011
   },
   "name": "Email verification with Icypeas (single)",
   "tags": [],

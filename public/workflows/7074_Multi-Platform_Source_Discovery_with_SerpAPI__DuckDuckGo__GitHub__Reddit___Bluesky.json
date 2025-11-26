@@ -2,8 +2,7 @@
   "id": "l3q1m2TZDbwizwGn",
   "meta": {
     "name": "Multi-Platform Source Discovery with SerpAPI, DuckDuckGo, GitHub, Reddit & Bluesky",
-    "id": 7074,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7074
   },
   "name": "Source Discovery - Automatically Search More Up-to-Date Information Sources",
   "tags": [

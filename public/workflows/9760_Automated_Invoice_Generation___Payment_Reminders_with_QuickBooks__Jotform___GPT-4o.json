@@ -2,8 +2,7 @@
   "id": "iwPkwhyyDLOePuom",
   "meta": {
     "name": "Automated Invoice Generation & Payment Reminders with QuickBooks, Jotform & GPT-4o",
-    "id": 9760,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9760
   },
   "name": "Generate Invoices and Send Reminders for Customers with Jotform, QuickBooks and Gmail",
   "tags": [],

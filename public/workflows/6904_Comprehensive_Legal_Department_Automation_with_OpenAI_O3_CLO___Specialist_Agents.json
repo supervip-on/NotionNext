@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Comprehensive Legal Department Automation with OpenAI O3 CLO & Specialist Agents",
-    "id": 6904,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6904
   },
   "name": "CLO Agent with Legal Team",
   "nodes": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform YouTube Videos into Interactive MCQ Quizzes with Google Forms & Gemini AI",
-    "id": 5631,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5631
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "hSC68gkBlh2XuLpG",
   "meta": {
     "name": "Create a WhatsApp Voice Assistant with Twilio, VAPI, Google Calendar & OpenAI",
-    "id": 8284,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8284
   },
   "name": "Demo- Whatsapp Voice Agent",
   "tags": [],

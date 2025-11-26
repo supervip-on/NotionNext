@@ -2,8 +2,7 @@
   "id": "SFcUKSlMqxy2Mp1m",
   "meta": {
     "name": "YouTube Comment Sentiment Analysis with Google Gemini AI and Google Sheets",
-    "id": 3936,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3936
   },
   "name": "Analyzes YouTube comments using AI to detect sentiment automatically",
   "tags": [],

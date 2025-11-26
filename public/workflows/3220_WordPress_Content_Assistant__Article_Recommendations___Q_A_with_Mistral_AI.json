@@ -2,8 +2,7 @@
   "id": "4ilsNflBPGy5sCYX",
   "meta": {
     "name": "WordPress Content Assistant: Article Recommendations & Q&A with Mistral AI",
-    "id": 3220,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3220
   },
   "name": "My workflow",
   "tags": [],

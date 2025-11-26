@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate LinkedIn Posts with Claude AI, DALL-E Images & Google Sheets Approval",
-    "id": 4766,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4766
   },
   "nodes": [
     {

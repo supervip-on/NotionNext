@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Security Alert Triage with NixGuard AI and Route to Slack or Jira",
-    "id": 5896,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5896
   },
   "nodes": [
     {

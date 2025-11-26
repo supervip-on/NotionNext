@@ -2,8 +2,7 @@
   "id": "AC4paL1SXMFURgmc",
   "meta": {
     "name": "Email Assistant: Convert Natural Language to SQL Queries with Phi4-mini and PostgreSQL",
-    "id": 3761,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3761
   },
   "name": "Translate questions about e-mails into SQL queries and run them",
   "tags": [],

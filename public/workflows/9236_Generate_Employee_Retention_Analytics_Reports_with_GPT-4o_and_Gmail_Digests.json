@@ -2,8 +2,7 @@
   "id": "T8iqiPFY6WdVtlC0",
   "meta": {
     "name": "Generate Employee Retention Analytics Reports with GPT-4o and Gmail Digests",
-    "id": 9236,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9236
   },
   "name": "Retention Tracking Post-Hire",
   "tags": [],

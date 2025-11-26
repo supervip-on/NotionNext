@@ -2,8 +2,7 @@
   "id": "universal-social-generator",
   "meta": {
     "name": "Generate & Schedule Social Media Posts with GPT-4 and Telegram Approval Workflow",
-    "id": 5773,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5773
   },
   "name": "Universal Social Media Content Generator with AI",
   "tags": [

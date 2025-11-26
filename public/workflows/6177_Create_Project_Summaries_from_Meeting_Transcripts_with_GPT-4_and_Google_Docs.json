@@ -2,8 +2,7 @@
   "id": "2HlbXBsdar2SqJK9",
   "meta": {
     "name": "Create Project Summaries from Meeting Transcripts with GPT-4 and Google Docs",
-    "id": 6177,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6177
   },
   "name": "Generate Project Summary from meeting transcript",
   "tags": [],

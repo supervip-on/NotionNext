@@ -2,8 +2,7 @@
   "id": "ew7HeWnZvNhCglFr",
   "meta": {
     "name": "Automated Google Sheet to CSV Conversion via Slack Messages",
-    "id": 7771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7771
   },
   "name": "Googlesheet to CSV",
   "tags": [],

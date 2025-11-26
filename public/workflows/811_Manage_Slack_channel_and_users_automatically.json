@@ -170,7 +170,6 @@
   },
   "meta": {
     "name": "Manage Slack channel and users automatically",
-    "id": 811,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 811
   }
 }

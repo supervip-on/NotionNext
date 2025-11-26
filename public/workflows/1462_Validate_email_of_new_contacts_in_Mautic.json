@@ -190,7 +190,6 @@
   },
   "meta": {
     "name": "Validate email of new contacts in Mautic",
-    "id": 1462,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1462
   }
 }

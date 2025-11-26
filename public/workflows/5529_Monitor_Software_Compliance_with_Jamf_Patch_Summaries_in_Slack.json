@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Software Compliance with Jamf Patch Summaries in Slack",
-    "id": 5529,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5529
   },
   "nodes": [
     {

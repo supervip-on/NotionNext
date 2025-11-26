@@ -2,8 +2,7 @@
   "id": "6Xz3moSgARolXX0F",
   "meta": {
     "name": "Kubernetes RCA and alerting using Gemini, Loki, Prometheus, Slack",
-    "id": 7953,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7953
   },
   "name": "RCA Final Kubs",
   "tags": [],

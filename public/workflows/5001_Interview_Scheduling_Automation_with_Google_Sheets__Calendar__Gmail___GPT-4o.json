@@ -2,8 +2,7 @@
   "id": "zQlHcVCTUpdWYRsK",
   "meta": {
     "name": "Interview Scheduling Automation with Google Sheets, Calendar, Gmail & GPT-4o'",
-    "id": 5001,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5001
   },
   "name": "Google Calendar Interview Scheduler",
   "tags": [],

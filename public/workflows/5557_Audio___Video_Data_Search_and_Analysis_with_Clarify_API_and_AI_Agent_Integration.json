@@ -2,8 +2,7 @@
   "id": "zmvc1qXpqu9RcA3v",
   "meta": {
     "name": "Audio & Video Data Search and Analysis with Clarify API and AI Agent Integration",
-    "id": 5557,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5557
   },
   "name": "api.clarify.io MCP Server",
   "tags": [],

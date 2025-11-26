@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Process AI Output to Structured JSON with Robust JSON Parser",
-    "id": 5146,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5146
   },
   "nodes": [
     {

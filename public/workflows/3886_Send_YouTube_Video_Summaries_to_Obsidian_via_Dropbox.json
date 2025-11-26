@@ -2,8 +2,7 @@
   "id": "yyGN6Kh0MQGkjNfe",
   "meta": {
     "name": "Send YouTube Video Summaries to Obsidian via Dropbox",
-    "id": 3886,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3886
   },
   "name": "[PRODUCT] IversusAI_YT_Summary_Automation_v4",
   "tags": [

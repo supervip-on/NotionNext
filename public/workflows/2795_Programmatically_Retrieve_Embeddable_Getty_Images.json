@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Programmatically Retrieve Embeddable Getty Images",
-    "id": 2795,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2795
   },
   "nodes": [
     {

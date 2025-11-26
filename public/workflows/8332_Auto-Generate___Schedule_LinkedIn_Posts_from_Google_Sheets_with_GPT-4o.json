@@ -2,8 +2,7 @@
   "id": "U1oAcmg6sXQaCOKm",
   "meta": {
     "name": "Auto-Generate & Schedule LinkedIn Posts from Google Sheets with GPT-4o",
-    "id": 8332,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8332
   },
   "name": "Linkedin Auto",
   "tags": [],

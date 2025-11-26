@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Crew to Automate Fundamental Stock Analysis - Q&A Workflow  ",
-    "id": 2183,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2183
   },
   "nodes": [
     {

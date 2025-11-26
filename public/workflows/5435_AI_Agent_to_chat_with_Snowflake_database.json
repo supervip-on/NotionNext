@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Agent to chat with Snowflake database",
-    "id": 5435,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5435
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Cleanup of Cloudflare R2 Files Older Than 2 Weeks (+ Telegram Notifications)",
-    "id": 4418,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4418
   },
   "nodes": [
     {

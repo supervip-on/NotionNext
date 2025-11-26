@@ -2,8 +2,7 @@
   "id": "VhEwspDqzu7ssFVE",
   "meta": {
     "name": "AI-Powered Invoice Data Extraction & Approval Workflow with ScrapeGraphAI & Telegram",
-    "id": 6628,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6628
   },
   "name": "My workflow 2",
   "tags": [

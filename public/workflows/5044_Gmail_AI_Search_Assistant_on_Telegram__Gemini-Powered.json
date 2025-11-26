@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail AI Search Assistant on Telegram (Gemini-Powered)",
-    "id": 5044,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5044
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "XzUP6yumql5XeBG0",
   "meta": {
     "name": "Transform YouTube Videos to LinkedIn Posts with Apify, GPT-4.1 Mini & Google Sheets",
-    "id": 9386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9386
   },
   "name": "YouTube to LinkedIn Content Engine",
   "tags": [],

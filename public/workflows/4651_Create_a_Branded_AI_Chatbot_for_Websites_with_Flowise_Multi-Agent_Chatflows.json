@@ -2,8 +2,7 @@
   "id": "IlTvU5j9eLTYb06I",
   "meta": {
     "name": "Create a Branded AI Chatbot for Websites with Flowise Multi-Agent Chatflows",
-    "id": 4651,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4651
   },
   "name": "Import Flowise Multi-Agent Chatflows in n8n Chatbot and Branded it",
   "tags": [],

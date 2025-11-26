@@ -2,8 +2,7 @@
   "id": "Q94SsUmoQurlkhBF",
   "meta": {
     "name": "Convert Unstructured Contact Data to JSON with GPT-4 for System Integration",
-    "id": 6779,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6779
   },
   "name": "Public Template - Extract Contact Information",
   "tags": [],

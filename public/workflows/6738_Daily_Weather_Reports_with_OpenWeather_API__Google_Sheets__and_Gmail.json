@@ -2,8 +2,7 @@
   "id": "ONGqVR4QHDYAI40u",
   "meta": {
     "name": "Daily Weather Reports with OpenWeather API, Google Sheets, and Gmail",
-    "id": 6738,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6738
   },
   "name": "Daily Weather Reports with OpenWeather API, Google Sheets, and Gmail",
   "tags": [],

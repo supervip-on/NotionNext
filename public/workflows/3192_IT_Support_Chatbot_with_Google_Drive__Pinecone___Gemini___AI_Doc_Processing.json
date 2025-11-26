@@ -2,8 +2,7 @@
   "id": "lC8xkfCSTjIiUhpk",
   "meta": {
     "name": "IT Support Chatbot with Google Drive, Pinecone & Gemini | AI Doc Processing",
-    "id": 3192,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3192
   },
   "name": "Google Drive Automation",
   "tags": [],

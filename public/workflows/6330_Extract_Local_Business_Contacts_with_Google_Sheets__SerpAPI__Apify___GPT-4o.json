@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Local Business Contacts with Google Sheets, SerpAPI, Apify & GPT-4o",
-    "id": 6330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6330
   },
   "nodes": [
     {

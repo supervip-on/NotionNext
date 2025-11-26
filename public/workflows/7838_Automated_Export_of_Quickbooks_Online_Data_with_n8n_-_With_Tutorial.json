@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Export of Quickbooks Online Data with n8n - With Tutorial",
-    "id": 7838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7838
   },
   "nodes": [
     {

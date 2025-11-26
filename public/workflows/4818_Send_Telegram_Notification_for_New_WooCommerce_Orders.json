@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Telegram Notification for New WooCommerce Orders",
-    "id": 4818,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4818
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Document RAG & Chat Agent: Google Drive to Qdrant with Mistral OCR",
-    "id": 10096,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10096
   },
   "nodes": [
     {

@@ -21,8 +21,7 @@
   "connections": {},
   "meta": {
     "name": "Receive email updates via IMAP",
-    "id": 587,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 587
   },
   "id": "587"
 }

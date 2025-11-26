@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic monitoring of multiple URLs with downtime alerts",
-    "id": 5298,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5298
   },
   "nodes": [
     {

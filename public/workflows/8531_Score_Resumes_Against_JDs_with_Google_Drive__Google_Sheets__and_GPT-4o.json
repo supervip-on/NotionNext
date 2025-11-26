@@ -2,8 +2,7 @@
   "id": "7Pytou63ro4Ht10d",
   "meta": {
     "name": "Score Resumes Against JDs with Google Drive, Google Sheets, and GPT-4o",
-    "id": 8531,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8531
   },
   "name": "JD match score",
   "tags": [],

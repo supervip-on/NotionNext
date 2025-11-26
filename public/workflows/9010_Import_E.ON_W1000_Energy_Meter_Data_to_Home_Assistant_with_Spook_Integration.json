@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Import E.ON W1000 Energy Meter Data to Home Assistant with Spook Integration",
-    "id": 9010,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9010
   },
   "nodes": [
     {

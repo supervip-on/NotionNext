@@ -2,8 +2,7 @@
   "id": "FU3MrLkaTHmfdG4n",
   "meta": {
     "name": "Analyse papers from Hugging Face with AI and store them in Notion",
-    "id": 2804,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2804
   },
   "name": "Hugging Face  to Notion",
   "tags": [],

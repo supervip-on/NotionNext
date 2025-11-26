@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Daily Weather Forecasts from OpenWeatherMap to Telegram with Smart Formatting",
-    "id": 4608,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4608
   },
   "nodes": [
     {

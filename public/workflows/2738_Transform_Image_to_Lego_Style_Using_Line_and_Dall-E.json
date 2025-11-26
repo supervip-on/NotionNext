@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Image to Lego Style Using Line and Dall-E",
-    "id": 2738,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2738
   },
   "name": "Transform Image to Lego Style Using Line and Dall-E",
   "tags": [],

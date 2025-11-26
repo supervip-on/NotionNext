@@ -2,8 +2,7 @@
   "id": "HCcU4mk4u2PNkp7C",
   "meta": {
     "name": "MCP Server with AI Agent as a Tool Context Reducer",
-    "id": 4475,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4475
   },
   "name": "MCP Server Github Agent Tool",
   "tags": [

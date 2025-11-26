@@ -141,7 +141,6 @@
   },
   "meta": {
     "name": "Get company data and store it in Airtable",
-    "id": 835,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 835
   }
 }

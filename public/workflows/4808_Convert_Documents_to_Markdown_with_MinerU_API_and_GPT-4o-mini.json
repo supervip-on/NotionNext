@@ -2,8 +2,7 @@
   "id": "DTa0EWl9cqgHmtr0",
   "meta": {
     "name": "Convert Documents to Markdown with MinerU API and GPT-4o-mini",
-    "id": 4808,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4808
   },
   "name": "Mineu MCP 对话流程展示",
   "tags": [],

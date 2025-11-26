@@ -2,8 +2,7 @@
   "id": "wXaLPxOXY9W7u3s5",
   "meta": {
     "name": "AI Recruiting Pipeline: Job to Candidate Shortlist with Apollo & Airtable",
-    "id": 8292,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8292
   },
   "name": "DEMO - TEMPLATE TO SHARE - Build Candidate Shortlist from Job Description",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "q8IFGLeOCGSfoWZu",
   "meta": {
     "name": "AI-Powered Email Automation for Business: Summarize & Respond with RAG",
-    "id": 2852,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2852
   },
   "name": "Email AI Auto-responder. Summerize and send email",
   "tags": [],

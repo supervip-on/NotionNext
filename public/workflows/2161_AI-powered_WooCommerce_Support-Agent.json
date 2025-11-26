@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-powered WooCommerce Support-Agent",
-    "id": 2161,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2161
   },
   "nodes": [
     {

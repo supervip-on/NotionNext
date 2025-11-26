@@ -2,8 +2,7 @@
   "id": "5TvSxJW2lAijV6am",
   "meta": {
     "name": "Create Multi-Speaker Podcasts with Google Sheets, ElevenLabs v3, and Drive",
-    "id": 7883,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7883
   },
   "name": "Generate Mutlispeaker podcast with Elevenlabs v3",
   "tags": [],

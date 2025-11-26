@@ -2,8 +2,7 @@
   "id": "88x49jmELpXBXgy8",
   "meta": {
     "name": "Auto-Publish PR News Articles with Featured Images to WordPress from RSS",
-    "id": 4913,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4913
   },
   "name": "PR news post to Techeela Website",
   "tags": [],

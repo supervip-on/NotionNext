@@ -2,8 +2,7 @@
   "id": "e7NIaSaCd364XuUh",
   "meta": {
     "name": "Automate LinkedIn Job Alerts with J-Search API and SMTP Email Notifications",
-    "id": 8173,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8173
   },
   "name": "Linkedin Job Alert-test",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Random Process Scheduler",
-    "id": 9351,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9351
   },
   "nodes": [
     {

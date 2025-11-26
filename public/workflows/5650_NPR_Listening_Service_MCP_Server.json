@@ -2,8 +2,7 @@
   "id": "0QeJ4aIbMhFzRhu5",
   "meta": {
     "name": "NPR Listening Service MCP Server",
-    "id": 5650,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5650
   },
   "name": "NPR Listening Service MCP Server",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "4Y5VQwUUo7uqPPL1",
   "meta": {
     "name": "Automated Server Log Cleanup via Email Alerts with SSH - Nginx, Docker, System",
-    "id": 5406,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5406
   },
   "name": "Auto Disk Cleanup via Email Alert – Server Log Purge Workflow",
   "tags": [],

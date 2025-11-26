@@ -2,8 +2,7 @@
   "id": "TQT1s777PZUJUvxu",
   "meta": {
     "name": "Automated Reservation System with Telegram, Google Gemini AI, and Google Sheets",
-    "id": 5454,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5454
   },
   "name": "telegram court agent",
   "tags": [],

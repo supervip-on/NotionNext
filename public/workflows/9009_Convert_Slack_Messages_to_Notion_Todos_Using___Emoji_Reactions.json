@@ -2,8 +2,7 @@
   "id": "n225LiEBD4QVzOsV",
   "meta": {
     "name": "Convert Slack Messages to Notion Todos Using 📝 Emoji Reactions",
-    "id": 9009,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9009
   },
   "name": "Slack ToDo Bot",
   "tags": [],

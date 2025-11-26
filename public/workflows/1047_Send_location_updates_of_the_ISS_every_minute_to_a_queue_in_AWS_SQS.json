@@ -128,8 +128,7 @@
   },
   "meta": {
     "name": "Send location updates of the ISS every minute to a queue in AWS SQS",
-    "id": 1047,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1047
   },
   "id": "1047"
 }

@@ -2,8 +2,7 @@
   "id": "njoCDW50H4hQEGIY",
   "meta": {
     "name": "Import Research Papers from Telegram to Zotero with AI Abstract Summaries",
-    "id": 7676,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7676
   },
   "name": "Automatically Import Research Papers using DOI URL from Telegram to Zotero",
   "tags": [],

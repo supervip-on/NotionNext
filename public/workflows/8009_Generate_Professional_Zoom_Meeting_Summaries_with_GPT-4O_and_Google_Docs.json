@@ -2,8 +2,7 @@
   "id": "ZkrcFjipfY6GNmFZ",
   "meta": {
     "name": "Generate Professional Zoom Meeting Summaries with GPT-4O and Google Docs",
-    "id": 8009,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8009
   },
   "name": "AI Generated Zoom Summary",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CoinGecko Crypto Price Forecasting Pipeline with Gemini AI, Decodo, and Gmail",
-    "id": 9964,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9964
   },
   "nodes": [
     {

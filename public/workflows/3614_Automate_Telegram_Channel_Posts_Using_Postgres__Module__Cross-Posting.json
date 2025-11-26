@@ -2,8 +2,7 @@
   "id": "3m4RmGRaROTWw0HS",
   "meta": {
     "name": "Automate Telegram Channel Posts Using Postgres (Module \"Cross-Posting\")",
-    "id": 3614,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3614
   },
   "name": "TG-Bot-Module-Cross_Posting-v1-db-sell-full",
   "tags": [

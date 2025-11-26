@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export Cloudflare Domains with DNS Records and Settings to Google Sheets",
-    "id": 4850,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4850
   },
   "nodes": [
     {

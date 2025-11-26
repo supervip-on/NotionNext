@@ -2,8 +2,7 @@
   "id": "xFSHqOmnuGuB4QRY",
   "meta": {
     "name": "Google Maps Business Scraper & Lead Enricher with Bright Data & Google Gemini",
-    "id": 5443,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5443
   },
   "name": "Google Maps Business Scraper & Lead Enricher with Bright Data & Google Gemini",
   "tags": [

@@ -42,8 +42,7 @@
   },
   "meta": {
     "name": "Send a tweet to Twitter",
-    "id": 445,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 445
   },
   "id": "445"
 }

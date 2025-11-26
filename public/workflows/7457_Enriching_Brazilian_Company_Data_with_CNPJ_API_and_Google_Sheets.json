@@ -2,8 +2,7 @@
   "id": "eObdW8oqxSRIvxi2",
   "meta": {
     "name": "Enriching Brazilian Company Data with CNPJ API and Google Sheets",
-    "id": 7457,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7457
   },
   "tags": [],
   "nodes": [

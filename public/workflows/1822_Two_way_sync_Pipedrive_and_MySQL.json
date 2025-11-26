@@ -2,8 +2,7 @@
   "id": 65,
   "meta": {
     "name": "Two way sync Pipedrive and MySQL",
-    "id": 1822,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1822
   },
   "name": "Two Way Sync Pipedrive and MySQL",
   "tags": [],

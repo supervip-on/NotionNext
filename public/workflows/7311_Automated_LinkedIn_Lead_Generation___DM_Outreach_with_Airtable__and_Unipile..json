@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated LinkedIn Lead Generation & DM Outreach with Airtable, and Unipile.",
-    "id": 7311,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7311
   },
   "nodes": [
     {

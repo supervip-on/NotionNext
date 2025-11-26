@@ -2,8 +2,7 @@
   "id": "iEfixTQ5cn9rjJCk",
   "meta": {
     "name": "Tesla 1hour & 1day Klines Tool (Candlestick & Volume AI Pattern Detector)",
-    "id": 4099,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4099
   },
   "name": "Tesla 1hour and 1day Klines Tool n8n",
   "tags": [],

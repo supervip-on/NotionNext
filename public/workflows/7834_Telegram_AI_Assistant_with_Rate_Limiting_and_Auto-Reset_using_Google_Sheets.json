@@ -2,8 +2,7 @@
   "id": "fM5PRDQlmoaAlnBm",
   "meta": {
     "name": "Telegram AI Assistant with Rate Limiting and Auto-Reset using Google Sheets",
-    "id": 7834,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7834
   },
   "name": "AI Agent Rate Limiter",
   "tags": [

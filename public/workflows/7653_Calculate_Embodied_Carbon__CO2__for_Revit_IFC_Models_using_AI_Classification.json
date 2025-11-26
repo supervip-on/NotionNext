@@ -2,8 +2,7 @@
   "id": "UgJXCTdg8rea9Skt",
   "meta": {
     "name": "Calculate Embodied Carbon (CO2) for Revit/IFC Models using AI Classification",
-    "id": 7653,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7653
   },
   "name": "n8n_7_Carbon_Footprint_CO2_Estimator_for_Revit and_IFC",
   "tags": [],

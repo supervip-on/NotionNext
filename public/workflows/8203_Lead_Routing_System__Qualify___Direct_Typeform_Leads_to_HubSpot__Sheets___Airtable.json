@@ -2,8 +2,7 @@
   "id": "{{WORKFLOW_ID}}",
   "meta": {
     "name": "Lead Routing System: Qualify & Direct Typeform Leads to HubSpot, Sheets & Airtable",
-    "id": 8203,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8203
   },
   "name": "22 - Multi-Source Lead Routing",
   "tags": [

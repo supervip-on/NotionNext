@@ -2,8 +2,7 @@
   "id": "0GCQ1fO3d5MBdKmi",
   "meta": {
     "name": "Generate Images with GPT-image-1 and Store in Google Drive with Cost Tracking",
-    "id": 3710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3710
   },
   "name": "template-demo-chatgpt-image-1-with-drive-and-sheet copy",
   "tags": [],

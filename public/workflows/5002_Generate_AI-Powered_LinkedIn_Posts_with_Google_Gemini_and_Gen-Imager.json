@@ -2,8 +2,7 @@
   "id": "vqN5q4DY1j8QQdck",
   "meta": {
     "name": "Generate AI-Powered LinkedIn Posts with Google Gemini and Gen-Imager",
-    "id": 5002,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5002
   },
   "name": "AI-Powered LinkedIn Post Automation",
   "tags": [

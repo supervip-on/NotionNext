@@ -251,7 +251,6 @@
   },
   "meta": {
     "name": "Google Calendar to Slack Status and Philips Hue",
-    "id": 1420,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1420
   }
 }

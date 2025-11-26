@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Product Video Generator (Foreplay + Gemini + Sora 2)",
-    "id": 9986,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9986
   },
   "nodes": [
     {

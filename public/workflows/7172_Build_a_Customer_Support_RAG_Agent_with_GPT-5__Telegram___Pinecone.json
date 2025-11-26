@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Customer Support RAG Agent with GPT-5, Telegram & Pinecone",
-    "id": 7172,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7172
   },
   "name": "GPT-5 RAG Customer Support Agent",
   "tags": [],

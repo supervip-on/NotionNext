@@ -2,8 +2,7 @@
   "id": "gJVUOpQW1iQO8hDK",
   "meta": {
     "name": "Auto-Categorize YNAB Transactions with GPT-5-Mini and Discord Notifications",
-    "id": 7566,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7566
   },
   "name": "YNAB Auto Budget",
   "tags": [],

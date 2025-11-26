@@ -168,8 +168,7 @@
   },
   "meta": {
     "name": "Execute multiple Command Lines based on Text File Inputs",
-    "id": 913,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 913
   },
   "id": "913"
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Lead Scoring & Routing with Google Gemini, Sheets and Slack Notifications",
-    "id": 8985,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8985
   },
   "nodes": [
     {

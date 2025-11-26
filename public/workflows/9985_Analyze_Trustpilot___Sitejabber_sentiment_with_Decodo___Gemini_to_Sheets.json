@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Trustpilot & Sitejabber sentiment with Decodo + Gemini to Sheets",
-    "id": 9985,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9985
   },
   "nodes": [
     {

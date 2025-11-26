@@ -266,8 +266,7 @@
   },
   "meta": {
     "name": "Transcribe audio files from Cloud Storage",
-    "id": 1394,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1394
   },
   "id": "1394"
 }

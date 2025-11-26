@@ -2,8 +2,7 @@
   "id": "AJch0Bi1L5u67nRO",
   "meta": {
     "name": "Convert Fathom meeting transcripts to formatted Google Docs with AI summaries",
-    "id": 9549,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9549
   },
   "name": "Fathom Meeting Summary & Actions AI Agent",
   "tags": [

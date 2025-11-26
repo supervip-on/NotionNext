@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Affiliate Competitor Tracking & Analysis with AI, Bright Data, Sheets & Slack",
-    "id": 10176,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10176
   },
   "nodes": [
     {

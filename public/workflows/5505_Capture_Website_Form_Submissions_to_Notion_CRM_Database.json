@@ -2,8 +2,7 @@
   "id": "mSRodggo80JpZWPj",
   "meta": {
     "name": "Capture Website Form Submissions to Notion CRM Database",
-    "id": 5505,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5505
   },
   "name": "Form Submission to Notion CRM Setup",
   "tags": [],

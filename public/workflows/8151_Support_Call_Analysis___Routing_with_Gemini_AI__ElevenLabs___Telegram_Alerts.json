@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Support Call Analysis & Routing with Gemini AI, ElevenLabs & Telegram Alerts",
-    "id": 8151,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8151
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Hjyv9FkH5Oh6Yxw4",
   "meta": {
     "name": "Create a RAG System with Paul Essays, Milvus, and OpenAI for Cited Answers",
-    "id": 3573,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3573
   },
   "name": "Insert and retrieve documents",
   "tags": [

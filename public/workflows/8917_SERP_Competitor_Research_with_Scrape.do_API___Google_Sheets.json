@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "SERP Competitor Research with Scrape.do API & Google Sheets",
-    "id": 8917,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8917
   },
   "nodes": [
     {

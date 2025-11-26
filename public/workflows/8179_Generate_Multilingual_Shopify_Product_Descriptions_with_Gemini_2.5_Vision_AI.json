@@ -2,8 +2,7 @@
   "id": "txsxi3EjP4dwobow",
   "meta": {
     "name": "Generate Multilingual Shopify Product Descriptions with Gemini 2.5 Vision AI",
-    "id": 8179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8179
   },
   "name": "Shopify AI Product Description Generation & Translation",
   "tags": [],

@@ -125,8 +125,7 @@
   },
   "meta": {
     "name": "Sync data between Google Drive and AWS S3",
-    "id": 1396,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1396
   },
   "id": "1396"
 }

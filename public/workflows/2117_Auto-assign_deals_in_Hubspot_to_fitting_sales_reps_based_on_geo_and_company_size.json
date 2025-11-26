@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-assign deals in Hubspot to fitting sales reps based on geo and company size",
-    "id": 2117,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2117
   },
   "nodes": [
     {

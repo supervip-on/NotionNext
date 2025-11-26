@@ -2,8 +2,7 @@
   "id": "6fZffoKqrzLAmbHc",
   "meta": {
     "name": "Interactive Knowledge Base Chat with Supabase RAG using AI 📚💬",
-    "id": 3799,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3799
   },
   "name": "Google Drive File Ingestion to Supabase for Knowledge Base",
   "tags": [],

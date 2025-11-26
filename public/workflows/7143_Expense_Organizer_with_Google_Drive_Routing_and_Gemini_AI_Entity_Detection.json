@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID",
   "meta": {
     "name": "Expense Organizer with Google Drive Routing and Gemini AI Entity Detection",
-    "id": 7143,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7143
   },
   "name": "Master Expense Processor",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Organize Gmail with GPT-4 & Send Urgent Notifications via Telegram and WhatsApp",
-    "id": 7257,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7257
   },
   "nodes": [
     {

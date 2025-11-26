@@ -2,8 +2,7 @@
   "id": "CuBmYtNjobSBPXCt",
   "meta": {
     "name": "Verify WhatsApp Numbers in Bulk using Google Sheets & WasenderAPI",
-    "id": 6183,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6183
   },
   "name": "Bulk WhatsApp Number Verify via Unofficial API",
   "tags": [

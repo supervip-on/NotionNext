@@ -2,8 +2,7 @@
   "id": "YGDpr1ZwlWwPwpsD",
   "meta": {
     "name": "Extract & Store Receipt Data with GPT-4, OCR, Google Sheets & Notion via Telegram Bot",
-    "id": 8279,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8279
   },
   "name": "AI-Powered Receipt Tracker with Multi-Platform Storage via Telegram Bot",
   "tags": [],

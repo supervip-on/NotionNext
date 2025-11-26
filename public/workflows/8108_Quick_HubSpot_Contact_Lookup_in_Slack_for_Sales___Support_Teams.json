@@ -2,8 +2,7 @@
   "id": "PLACEHOLDER_WORKFLOW_ID",
   "meta": {
     "name": "Quick HubSpot Contact Lookup in Slack for Sales & Support Teams",
-    "id": 8108,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8108
   },
   "name": "20 - HubSpot to Slack Contact Card",
   "tags": [],

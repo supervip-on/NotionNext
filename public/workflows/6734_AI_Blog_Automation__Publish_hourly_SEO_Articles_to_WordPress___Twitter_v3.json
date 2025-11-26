@@ -2,8 +2,7 @@
   "id": "HQCY3wT1hhnDPRus",
   "meta": {
     "name": "AI Blog Automation: Publish hourly SEO Articles to WordPress & Twitter v3",
-    "id": 6734,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6734
   },
   "name": "content generator v3",
   "tags": [

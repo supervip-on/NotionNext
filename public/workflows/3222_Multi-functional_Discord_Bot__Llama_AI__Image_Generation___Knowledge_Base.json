@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multi-functional Discord Bot: Llama AI, Image Generation & Knowledge Base",
-    "id": 3222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3222
   },
   "nodes": [
     {

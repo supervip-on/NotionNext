@@ -2,8 +2,7 @@
   "id": "B6UHILmjPWa7ViQ4",
   "meta": {
     "name": "National Weather Service 7-Day Forecast in Slack",
-    "id": 2947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2947
   },
   "name": "Weather via Slack",
   "tags": [

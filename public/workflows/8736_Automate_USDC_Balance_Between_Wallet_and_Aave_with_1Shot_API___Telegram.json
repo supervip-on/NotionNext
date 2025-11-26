@@ -2,8 +2,7 @@
   "id": "8AjLzeTXybWpR0UN",
   "meta": {
     "name": "Automate USDC Balance Between Wallet and Aave with 1Shot API & Telegram",
-    "id": 8736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8736
   },
   "name": "Yeild Automation in Aave",
   "tags": [],

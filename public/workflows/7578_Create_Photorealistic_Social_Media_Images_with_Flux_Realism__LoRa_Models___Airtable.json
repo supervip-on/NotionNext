@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Photorealistic Social Media Images with Flux Realism, LoRa Models & Airtable",
-    "id": 7578,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7578
   },
   "nodes": [
     {

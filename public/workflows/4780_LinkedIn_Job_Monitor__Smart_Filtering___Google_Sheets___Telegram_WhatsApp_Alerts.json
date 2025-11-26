@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Job Monitor: Smart Filtering + Google Sheets + Telegram/WhatsApp Alerts",
-    "id": 4780,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4780
   },
   "nodes": [
     {

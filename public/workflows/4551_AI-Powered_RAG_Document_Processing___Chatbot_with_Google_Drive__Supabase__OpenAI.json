@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered RAG Document Processing & Chatbot with Google Drive, Supabase, OpenAI",
-    "id": 4551,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4551
   },
   "nodes": [
     {

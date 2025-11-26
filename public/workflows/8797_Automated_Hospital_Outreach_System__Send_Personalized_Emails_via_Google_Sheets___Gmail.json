@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Hospital Outreach System: Send Personalized Emails via Google Sheets & Gmail",
-    "id": 8797,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8797
   },
   "nodes": [
     {

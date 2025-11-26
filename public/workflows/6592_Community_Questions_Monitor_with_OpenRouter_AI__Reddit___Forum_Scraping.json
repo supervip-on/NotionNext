@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Community Questions Monitor with OpenRouter AI, Reddit & Forum Scraping",
-    "id": 6592,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6592
   },
   "nodes": [
     {

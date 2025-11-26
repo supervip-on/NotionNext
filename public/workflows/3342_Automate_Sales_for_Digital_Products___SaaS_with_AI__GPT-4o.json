@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": " Automate Sales for Digital Products & SaaS with AI (GPT-4o)",
-    "id": 3342,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3342
   },
   "nodes": [
     {

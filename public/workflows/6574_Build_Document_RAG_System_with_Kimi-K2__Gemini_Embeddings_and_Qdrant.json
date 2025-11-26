@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build Document RAG System with Kimi-K2, Gemini Embeddings and Qdrant",
-    "id": 6574,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6574
   },
   "nodes": [
     {

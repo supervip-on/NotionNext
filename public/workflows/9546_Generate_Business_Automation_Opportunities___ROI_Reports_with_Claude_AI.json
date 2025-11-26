@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Business Automation Opportunities & ROI Reports with Claude AI",
-    "id": 9546,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9546
   },
   "nodes": [
     {

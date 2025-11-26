@@ -2,8 +2,7 @@
   "id": "AJt025gDBAUD2X5a",
   "meta": {
     "name": "Automated Music Video Creation & YouTube Publishing with AI-Generated Metadata from Google Drive",
-    "id": 4848,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4848
   },
   "name": "GoogleUpload_To_Youtube",
   "tags": [],

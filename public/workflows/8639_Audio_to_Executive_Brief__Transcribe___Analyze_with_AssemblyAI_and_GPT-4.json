@@ -2,8 +2,7 @@
   "id": "wtRwIBJPAbnyUbe9",
   "meta": {
     "name": "Audio to Executive Brief: Transcribe & Analyze with AssemblyAI and GPT-4",
-    "id": 8639,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8639
   },
   "name": "Only Onform submission_Two-Source Audio Transcription--> AI summary & Sentiment Analysis--> Gmail delivery",
   "tags": [],

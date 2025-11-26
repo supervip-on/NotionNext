@@ -2,8 +2,7 @@
   "id": "6MV3vlVZeY70fzAk",
   "meta": {
     "name": "Create AI-Generated Music Playlists for YouTube using Suno, GPT-4, Runway & Creatomate",
-    "id": 5379,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5379
   },
   "name": "1. Playlist Details Setup Bot copy",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "GQvrSUkdvgHiSl4W",
   "meta": {
     "name": "Extract Actionable Security Insights from HackerOne Reports with Google Gemini",
-    "id": 6301,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6301
   },
   "name": "H1 reports",
   "tags": [

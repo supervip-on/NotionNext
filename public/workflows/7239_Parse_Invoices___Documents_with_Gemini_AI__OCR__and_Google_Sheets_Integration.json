@@ -2,8 +2,7 @@
   "id": "c92ZApSKwsRmg6zb",
   "meta": {
     "name": "Parse Invoices & Documents with Gemini AI, OCR, and Google Sheets Integration",
-    "id": 7239,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7239
   },
   "name": "Smart Document Parser for Invoices, Logs or Sensor Reports (PDF/Image/csv to Sheet)",
   "tags": [],

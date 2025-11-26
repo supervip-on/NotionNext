@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Invoice Payment Tracking with OCR, Claude AI, Slack & Notion DB",
-    "id": 7773,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7773
   },
   "nodes": [
     {

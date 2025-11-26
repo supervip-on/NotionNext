@@ -2,8 +2,7 @@
   "id": "AqWXpCre4fsPEkAH",
   "meta": {
     "name": "Generate Images with OpenAI new GPT-Image-1 Model via User-Friendly Form",
-    "id": 3688,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3688
   },
   "name": "Simple OpenAI Image Generator",
   "tags": [],

@@ -87,7 +87,6 @@
   },
   "meta": {
     "name": "Receive the weather information of any city",
-    "id": 807,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 807
   }
 }

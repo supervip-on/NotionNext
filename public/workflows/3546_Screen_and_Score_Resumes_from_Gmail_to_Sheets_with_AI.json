@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Screen and Score Resumes from Gmail to Sheets with AI",
-    "id": 3546,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3546
   },
   "nodes": [
     {

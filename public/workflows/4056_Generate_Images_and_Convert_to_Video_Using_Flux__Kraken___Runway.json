@@ -2,8 +2,7 @@
   "id": "Glb8ROS3mY24Bf3t",
   "meta": {
     "name": "Generate Images and Convert to Video Using Flux, Kraken & Runway",
-    "id": 4056,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4056
   },
   "name": "generate Image and convert to video",
   "tags": [],

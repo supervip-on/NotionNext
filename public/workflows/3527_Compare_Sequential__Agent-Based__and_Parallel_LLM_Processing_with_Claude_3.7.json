@@ -2,8 +2,7 @@
   "id": "43gMd18arOcxqDcC",
   "meta": {
     "name": "Compare Sequential, Agent-Based, and Parallel LLM Processing with Claude 3.7",
-    "id": 3527,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3527
   },
   "name": "LLM Chaining examples",
   "tags": [],

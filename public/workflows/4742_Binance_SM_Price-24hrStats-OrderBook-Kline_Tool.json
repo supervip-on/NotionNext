@@ -2,8 +2,7 @@
   "id": "xAa5vBxhQzEWWFJM",
   "meta": {
     "name": "Binance SM Price-24hrStats-OrderBook-Kline Tool",
-    "id": 4742,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4742
   },
   "name": "Binance SM Price-24hrStats-OrderBook-Kline Tool",
   "tags": [],

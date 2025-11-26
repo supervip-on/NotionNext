@@ -2,8 +2,7 @@
   "id": "10443",
   "meta": {
     "name": "Automate Verified Visitor Management with Email Verification, Badges & Slack Alerts",
-    "id": 10443,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10443
   },
   "name": "Verified Visitor Pass Generator",
   "tags": [],

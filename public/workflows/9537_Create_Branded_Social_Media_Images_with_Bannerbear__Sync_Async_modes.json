@@ -2,8 +2,7 @@
   "id": "F3mTq6rX9I4XydnO",
   "meta": {
     "name": "Create Branded Social Media Images with Bannerbear (Sync/Async modes)",
-    "id": 9537,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9537
   },
   "name": "TEST - Bannerbear image generator Sync/Async",
   "tags": [

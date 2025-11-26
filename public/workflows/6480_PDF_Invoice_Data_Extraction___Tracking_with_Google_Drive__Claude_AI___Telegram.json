@@ -2,8 +2,7 @@
   "id": "0eQvHzKKVrYZMyyZ",
   "meta": {
     "name": "PDF Invoice Data Extraction & Tracking with Google Drive, Claude AI & Telegram",
-    "id": 6480,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6480
   },
   "name": "Invoice Workflow",
   "tags": [],

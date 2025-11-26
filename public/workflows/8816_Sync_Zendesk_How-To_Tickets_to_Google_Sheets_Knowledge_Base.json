@@ -2,8 +2,7 @@
   "id": "cgDm9vVlMd7iOO7R",
   "meta": {
     "name": "Sync Zendesk How-To Tickets to Google Sheets Knowledge Base",
-    "id": 8816,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8816
   },
   "name": "Knowledge base auto update",
   "tags": [],

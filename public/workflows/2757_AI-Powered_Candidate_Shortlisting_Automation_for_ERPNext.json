@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Candidate Shortlisting Automation for ERPNext",
-    "id": 2757,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2757
   },
   "nodes": [
     {

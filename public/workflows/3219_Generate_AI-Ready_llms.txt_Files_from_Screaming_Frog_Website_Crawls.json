@@ -2,8 +2,7 @@
   "id": "3219",
   "meta": {
     "name": "Generate AI-Ready llms.txt Files from Screaming Frog Website Crawls",
-    "id": 3219,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3219
   },
   "name": "Generate AI-Ready llms.txt Files from Screaming Frog Website Crawls",
   "tags": [],

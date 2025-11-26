@@ -2,8 +2,7 @@
   "id": "hUVV8GAakci58M8p",
   "meta": {
     "name": "Research & Generate Blog Posts from Keywords with Dumpling AI and GPT-4 to WordPress",
-    "id": 9250,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9250
   },
   "name": "Generate Blog Post from a Keyword Using Dumpling AI and GPT-4",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered News Update Bot for Zalo using Gemini and RSS Feeds",
-    "id": 8408,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8408
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create LinkedIn Content from Workflows using Gemini & Cloudflare AI",
-    "id": 9776,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9776
   },
   "nodes": [
     {

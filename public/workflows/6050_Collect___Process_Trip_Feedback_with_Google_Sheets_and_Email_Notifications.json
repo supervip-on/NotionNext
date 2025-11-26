@@ -2,8 +2,7 @@
   "id": "rpJRbrZB336vk29m",
   "meta": {
     "name": "Collect & Process Trip Feedback with Google Sheets and Email Notifications",
-    "id": 6050,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6050
   },
   "name": "Automated Trip Feedback Collection via Google Sheets",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Customer Support & Calendar Bookings with OpenAI GPT and Google Calendar",
-    "id": 5387,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5387
   },
   "name": "My workflow",
   "tags": [

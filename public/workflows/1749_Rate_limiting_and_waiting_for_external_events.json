@@ -293,8 +293,7 @@
   },
   "meta": {
     "name": "Rate limiting and waiting for external events",
-    "id": 1749,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1749
   },
   "id": "1749"
 }

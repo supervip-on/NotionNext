@@ -106,7 +106,6 @@
   },
   "meta": {
     "name": "Create, update, and get an incident on PagerDuty",
-    "id": 411,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 411
   }
 }

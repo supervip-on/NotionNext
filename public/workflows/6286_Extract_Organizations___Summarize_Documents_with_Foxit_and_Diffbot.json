@@ -2,8 +2,7 @@
   "id": "jq3ISjs9Ah5SrJEl",
   "meta": {
     "name": "Extract Organizations & Summarize Documents with Foxit and Diffbot",
-    "id": 6286,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6286
   },
   "name": "Intelligent Document Flow",
   "tags": [],

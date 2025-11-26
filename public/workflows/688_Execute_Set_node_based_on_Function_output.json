@@ -181,8 +181,7 @@
   },
   "meta": {
     "name": "Execute Set node based on Function output",
-    "id": 688,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 688
   },
   "id": "688"
 }

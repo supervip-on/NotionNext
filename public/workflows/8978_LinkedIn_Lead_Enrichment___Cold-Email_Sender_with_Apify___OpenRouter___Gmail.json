@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Lead Enrichment & Cold-Email Sender with Apify + OpenRouter + Gmail",
-    "id": 8978,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8978
   },
   "nodes": [
     {

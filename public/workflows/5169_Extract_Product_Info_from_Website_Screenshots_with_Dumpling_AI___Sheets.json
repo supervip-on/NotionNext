@@ -2,8 +2,7 @@
   "id": "rzsA39jMfVBHWXw6",
   "meta": {
     "name": "Extract Product Info from Website Screenshots with Dumpling AI + Sheets",
-    "id": 5169,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5169
   },
   "name": "Extract Product Information from Website Screenshots using Dumpling AI and Google Sheets",
   "tags": [],

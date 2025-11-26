@@ -2,8 +2,7 @@
   "id": "XrACI58wgVlnNv1M",
   "meta": {
     "name": "Auto-Create GitHub PRs & JIRA Updates from Git Commit Commands (Multi-Repo)",
-    "id": 7048,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7048
   },
   "name": "Auto-Create GitHub PRs & Jira Updates from Git Commit Commands (Multi-Repo)",
   "tags": [],

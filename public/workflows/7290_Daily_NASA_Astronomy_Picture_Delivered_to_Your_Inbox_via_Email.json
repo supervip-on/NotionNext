@@ -2,8 +2,7 @@
   "id": "UYpkraIlIwEP3v71",
   "meta": {
     "name": "Daily NASA Astronomy Picture Delivered to Your Inbox via Email",
-    "id": 7290,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7290
   },
   "name": "NASA APOD",
   "tags": [],

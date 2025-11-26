@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract YouTube Channel Metadata to Google Docs using RapidAPI",
-    "id": 7629,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7629
   },
   "nodes": [
     {

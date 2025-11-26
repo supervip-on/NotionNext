@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Detect Viral YouTube Videos with AI Analysis and Email Reports",
-    "id": 8368,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8368
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "I0kBHahzGYqCjGVg",
   "meta": {
     "name": "Chat with AI Models via OpenRouter using Mistral",
-    "id": 5998,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5998
   },
   "name": "Use OpenRouter.ai Chat API Workflow in n8n",
   "tags": [],

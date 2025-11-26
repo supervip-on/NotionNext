@@ -2,8 +2,7 @@
   "id": "VY4WBXuNDPxmOO5e",
   "meta": {
     "name": "RAG:Context-Aware Chunking | Google Drive to Pinecone via OpenRouter & Gemini",
-    "id": 2871,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2871
   },
   "name": "RAG:Context-Aware Chunking | Google Drive to Pinecone via OpenRouter & Gemini",
   "tags": [

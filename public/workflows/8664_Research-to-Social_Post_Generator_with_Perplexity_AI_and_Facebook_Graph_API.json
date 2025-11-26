@@ -2,8 +2,7 @@
   "id": "N2Pc8CYYmgYeCihm",
   "meta": {
     "name": "Research-to-Social Post Generator with Perplexity AI and Facebook Graph API",
-    "id": 8664,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8664
   },
   "name": "Chatbot Content Agent",
   "tags": [],

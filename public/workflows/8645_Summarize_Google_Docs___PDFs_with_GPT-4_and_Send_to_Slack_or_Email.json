@@ -2,8 +2,7 @@
   "id": "cFXP4gO2L3sOPL5k",
   "meta": {
     "name": "Summarize Google Docs & PDFs with GPT-4 and Send to Slack or Email",
-    "id": 8645,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8645
   },
   "name": "AI-Powered Document Summarizer & Notifier",
   "tags": [

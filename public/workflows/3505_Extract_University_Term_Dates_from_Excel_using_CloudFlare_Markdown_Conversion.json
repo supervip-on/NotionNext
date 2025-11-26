@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract University Term Dates from Excel using CloudFlare Markdown Conversion",
-    "id": 3505,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3505
   },
   "nodes": [
     {

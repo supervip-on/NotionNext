@@ -2,8 +2,7 @@
   "id": "XOp3UmuOGm0uEUOP",
   "meta": {
     "name": "AI-Powered Lead Email Classification & Auto-Reply with GPT-4o and Gmail",
-    "id": 7330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7330
   },
   "name": "Email Autoreply Template",
   "tags": [],

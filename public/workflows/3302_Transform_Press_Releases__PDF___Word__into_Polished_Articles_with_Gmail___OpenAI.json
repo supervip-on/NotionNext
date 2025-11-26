@@ -2,8 +2,7 @@
   "id": "l1wMIoms9BgoA2lV",
   "meta": {
     "name": "Transform Press Releases (PDF & Word) into Polished Articles with Gmail & OpenAI",
-    "id": 3302,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3302
   },
   "name": "\"E-Mail to article/blog post\" - converter",
   "tags": [],

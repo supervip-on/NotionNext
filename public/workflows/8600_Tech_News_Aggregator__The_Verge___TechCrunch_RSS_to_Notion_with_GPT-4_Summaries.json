@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Tech News Aggregator: The Verge & TechCrunch RSS to Notion with GPT-4 Summaries",
-    "id": 8600,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8600
   },
   "nodes": [
     {

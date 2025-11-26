@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Stock Market Daily Digest with Bright Data Scraping & Gemini AI Email Reports",
-    "id": 5305,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5305
   },
   "nodes": [
     {

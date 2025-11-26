@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized Hotel Reward Emails for High-Spenders with Salesforce, Gemini AI & Brevo",
-    "id": 5936,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5936
   },
   "nodes": [
     {

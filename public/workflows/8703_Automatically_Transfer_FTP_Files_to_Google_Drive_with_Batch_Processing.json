@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Transfer FTP Files to Google Drive with Batch Processing",
-    "id": 8703,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8703
   },
   "name": "FTP to Cloud Sync",
   "nodes": [

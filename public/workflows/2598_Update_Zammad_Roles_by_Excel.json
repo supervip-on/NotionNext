@@ -2,8 +2,7 @@
   "id": "xzKlhjcc6QEzA98Z",
   "meta": {
     "name": "Update Zammad Roles by Excel",
-    "id": 2598,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2598
   },
   "name": "Update Roles by Excel",
   "tags": [],

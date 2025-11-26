@@ -2,8 +2,7 @@
   "id": "XTvkW37T9MH4fxaj",
   "meta": {
     "name": "Create AI UGC Videos from Telegram Voice Notes using OpenAI & HeyGen",
-    "id": 9313,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9313
   },
   "name": "Create AI UGC Videos from Telegram with HeyGen",
   "tags": [],

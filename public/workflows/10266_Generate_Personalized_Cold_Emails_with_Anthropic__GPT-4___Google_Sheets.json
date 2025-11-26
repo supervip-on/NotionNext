@@ -2,8 +2,7 @@
   "id": "ISQl1ZnXPDDlWSuN",
   "meta": {
     "name": "Generate Personalized Cold Emails with Anthropic, GPT-4 & Google Sheets",
-    "id": 10266,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10266
   },
   "name": "My Cold Email Generator",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an All-Source Knowledge Assistant with Claude, RAG, Perplexity, and Drive",
-    "id": 6542,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6542
   },
   "nodes": [
     {

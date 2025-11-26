@@ -383,8 +383,7 @@
   },
   "meta": {
     "name": "Automated Task Generation from Blueprints with Baserow & Weekend-Aware Scheduling",
-    "id": 8602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8602
   },
   "id": "8602"
 }

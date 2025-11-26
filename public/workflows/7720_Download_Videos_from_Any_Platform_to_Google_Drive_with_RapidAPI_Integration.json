@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Videos from Any Platform to Google Drive with RapidAPI Integration",
-    "id": 7720,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7720
   },
   "nodes": [
     {

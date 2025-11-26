@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Simple Google indexing Workflow in N8N",
-    "id": 2123,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2123
   },
   "nodes": [
     {

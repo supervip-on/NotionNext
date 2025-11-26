@@ -2,8 +2,7 @@
   "id": "P7c87hjmVGCrI5Hd",
   "meta": {
     "name": "Convert Time Zones with TimeZoneDB API Integration",
-    "id": 4624,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4624
   },
   "name": "Convert Time Zones with TimeZoneDB API Integration",
   "tags": [],

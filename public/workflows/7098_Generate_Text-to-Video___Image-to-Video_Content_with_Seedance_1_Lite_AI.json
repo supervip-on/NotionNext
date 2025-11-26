@@ -2,8 +2,7 @@
   "id": "kecdSL7mPuYHkt1i",
   "meta": {
     "name": "Generate Text-to-Video & Image-to-Video Content with Seedance 1 Lite AI",
-    "id": 7098,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7098
   },
   "name": "10. Generate Text-to-Video & Image-to-Video Content with Seedance 1 Lite AI",
   "tags": [],

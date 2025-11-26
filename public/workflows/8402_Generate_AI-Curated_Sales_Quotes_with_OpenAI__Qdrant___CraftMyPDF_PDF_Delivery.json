@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI-Curated Sales Quotes with OpenAI, Qdrant & CraftMyPDF PDF Delivery",
-    "id": 8402,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8402
   },
   "nodes": [
     {

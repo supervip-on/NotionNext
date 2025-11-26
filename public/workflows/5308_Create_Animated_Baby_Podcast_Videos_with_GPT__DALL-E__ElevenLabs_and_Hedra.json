@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Animated Baby Podcast Videos with GPT, DALL-E, ElevenLabs and Hedra",
-    "id": 5308,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5308
   },
   "nodes": [
     {

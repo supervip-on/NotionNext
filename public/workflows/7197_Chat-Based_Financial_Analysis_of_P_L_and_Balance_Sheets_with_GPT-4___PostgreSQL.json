@@ -2,8 +2,7 @@
   "id": "okpWKYL7NWpYys9Q",
   "meta": {
     "name": "Chat-Based Financial Analysis of P&L and Balance Sheets with GPT-4 & PostgreSQL",
-    "id": 7197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7197
   },
   "name": "Financial Analyst  Agent",
   "tags": [],

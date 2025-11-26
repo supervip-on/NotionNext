@@ -2,8 +2,7 @@
   "id": "TEA7K9MSVQGCWKe6",
   "meta": {
     "name": "Split Test Different Agent Prompts with Supabase and OpenAI",
-    "id": 2992,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2992
   },
   "name": "A/B Split Testing",
   "tags": [],

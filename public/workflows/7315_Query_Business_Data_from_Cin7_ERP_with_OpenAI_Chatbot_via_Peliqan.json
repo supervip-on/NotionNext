@@ -2,8 +2,7 @@
   "id": "pBZWaawNMbd3tEI4",
   "meta": {
     "name": "Query Business Data from Cin7 ERP with OpenAI Chatbot via Peliqan",
-    "id": 7315,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7315
   },
   "name": "Peliqan AI Agent Cin7 ERP",
   "tags": [],

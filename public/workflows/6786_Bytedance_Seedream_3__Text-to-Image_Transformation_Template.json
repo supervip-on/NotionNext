@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bytedance Seedream 3: Text-to-Image Transformation Template",
-    "id": 6786,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6786
   },
   "name": "bytedance/seedream-3 - Image Generator",
   "nodes": [

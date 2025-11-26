@@ -2,8 +2,7 @@
   "id": "CkgF5zRqCL4BS6I5",
   "meta": {
     "name": "IPL Cricket Rules Q&A Chat Bot using RAG and Google Gemini API",
-    "id": 7413,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7413
   },
   "name": "IPL Cricket Rules Q&A Chat Bot using RAG and Google Gemini API",
   "tags": [],

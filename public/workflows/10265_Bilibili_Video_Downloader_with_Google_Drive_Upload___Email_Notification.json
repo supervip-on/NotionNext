@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bilibili Video Downloader with Google Drive Upload & Email Notification",
-    "id": 10265,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10265
   },
   "nodes": [
     {

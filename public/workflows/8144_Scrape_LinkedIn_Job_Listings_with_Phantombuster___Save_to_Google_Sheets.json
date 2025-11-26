@@ -2,8 +2,7 @@
   "id": "example-workflow-id",
   "meta": {
     "name": "Scrape LinkedIn Job Listings with Phantombuster & Save to Google Sheets",
-    "id": 8144,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8144
   },
   "name": "21 - Competitive Hiring Intelligence System",
   "tags": [],

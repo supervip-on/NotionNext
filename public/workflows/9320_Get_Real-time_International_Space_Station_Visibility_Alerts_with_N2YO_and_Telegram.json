@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get Real-time International Space Station Visibility Alerts with N2YO and Telegram",
-    "id": 9320,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9320
   },
   "nodes": [
     {

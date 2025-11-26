@@ -2,8 +2,7 @@
   "id": "MTFFo3zU2JtQDbCy",
   "meta": {
     "name": "Yelp Business Scraper by URL with Bright Data API and Google Sheets",
-    "id": 6373,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6373
   },
   "name": "Yelp Business Scraper by URL via Bright Data API with Google Sheets-Based Centralized Storage",
   "tags": [],

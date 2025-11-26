@@ -2,8 +2,7 @@
   "id": "q6IkLPK3fhmaaUBg",
   "meta": {
     "name": "Automated Recruitment Status Updates via Slack Notifications",
-    "id": 6360,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6360
   },
   "name": "Automated Candidate Status Notifier",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "d3bI8kfQ6uKjfER3",
   "meta": {
     "name": "Automate Real Estate Value Updates in YNAB using Rentcast.io with Discord Alerts",
-    "id": 7560,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7560
   },
   "name": "YNAB Property Value Subworkflow",
   "tags": [],

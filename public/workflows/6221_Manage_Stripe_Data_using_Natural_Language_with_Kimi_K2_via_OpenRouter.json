@@ -2,8 +2,7 @@
   "id": "lc8NKe6V14iG51T4",
   "meta": {
     "name": "Manage Stripe Data using Natural Language with Kimi K2 via OpenRouter",
-    "id": 6221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6221
   },
   "name": "Access Stripe data in natural language with Kimi K2 via OpenRouter",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload leads with custom fields from Typeform to Pipedrive",
-    "id": 1758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1758
   },
   "nodes": [
     {

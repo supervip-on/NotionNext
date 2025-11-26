@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Compose/Stitch Separate Images together using n8n & Gemini AI Image Editing",
-    "id": 4817,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4817
   },
   "nodes": [
     {

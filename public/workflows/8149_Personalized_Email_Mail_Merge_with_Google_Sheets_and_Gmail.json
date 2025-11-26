@@ -2,8 +2,7 @@
   "id": "s951UK7G69MAuTHV",
   "meta": {
     "name": "Personalized Email Mail Merge with Google Sheets and Gmail",
-    "id": 8149,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8149
   },
   "name": "Send personalized emails & mail merge from Google Sheets using only n8n",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Send Monthly Sales Reports from Square via Gmail",
-    "id": 7090,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7090
   },
   "nodes": [
     {

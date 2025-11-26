@@ -2,8 +2,7 @@
   "id": "ZiIoKEClTk83g1Jt",
   "meta": {
     "name": "Gmail to Vector Embeddings with PGVector and Ollama",
-    "id": 3762,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3762
   },
   "name": "Gmail to Vector Embeddings with PGVector and Ollama",
   "tags": [],

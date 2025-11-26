@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Restaurant Reservations with AI on WhatsApp and Google Sheets",
-    "id": 6379,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6379
   },
   "nodes": [
     {

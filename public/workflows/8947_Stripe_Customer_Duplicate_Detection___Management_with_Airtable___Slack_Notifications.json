@@ -2,8 +2,7 @@
   "id": "Rr0vbFBRhTCMYSuP",
   "meta": {
     "name": "Stripe Customer Duplicate Detection & Management with Airtable & Slack Notifications",
-    "id": 8947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8947
   },
   "name": "Stripe Customer Duplicate Detection & Management",
   "tags": [],

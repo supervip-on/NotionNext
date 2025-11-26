@@ -2,8 +2,7 @@
   "id": "m9aACcHqydEbH4nR",
   "meta": {
     "name": "Vector Database as a Big Data Analysis Tool for AI Agents [2/3 - anomaly]",
-    "id": 2655,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2655
   },
   "name": "[2/3] Set up medoids (2 types) for anomaly detection (crops dataset)",
   "tags": [

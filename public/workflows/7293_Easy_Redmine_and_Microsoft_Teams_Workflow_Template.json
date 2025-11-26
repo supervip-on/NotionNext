@@ -2,8 +2,7 @@
   "id": "xsuWTwhJDHUQQVjz",
   "meta": {
     "name": "Easy Redmine and Microsoft Teams Workflow Template",
-    "id": 7293,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7293
   },
   "name": "Daily Easy Redmine Task Digest to Microsoft Teams Channel",
   "tags": [],

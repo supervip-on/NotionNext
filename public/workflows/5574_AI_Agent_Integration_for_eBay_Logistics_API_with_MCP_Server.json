@@ -2,8 +2,7 @@
   "id": "ZEp82lAlrm6ggQQo",
   "meta": {
     "name": "AI Agent Integration for eBay Logistics API with MCP Server",
-    "id": 5574,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5574
   },
   "name": "[eBay] Logistics API MCP Server",
   "tags": [],

@@ -51,8 +51,7 @@
   },
   "meta": {
     "name": "Register users to an event on Demio via Typeform",
-    "id": 947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 947
   },
   "id": "947"
 }

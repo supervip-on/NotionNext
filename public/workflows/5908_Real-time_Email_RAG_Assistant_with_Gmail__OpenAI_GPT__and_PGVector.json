@@ -2,8 +2,7 @@
   "id": "6m6Tp8bUVb0t6lwo",
   "meta": {
     "name": "Real-time Email RAG Assistant with Gmail, OpenAI GPT, and PGVector",
-    "id": 5908,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5908
   },
   "name": "Email RAG for new Emails",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "E9uHD7LTZmehWToP",
   "meta": {
     "name": "Translate documents to multiple languages with Google Drive and DeepL",
-    "id": 10264,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10264
   },
   "name": "Translate documents to multiple languages with Google Drive and DeepL",
   "tags": [],

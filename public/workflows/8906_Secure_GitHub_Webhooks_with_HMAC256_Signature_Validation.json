@@ -2,8 +2,7 @@
   "id": "vhGeQ894g6ZrApne",
   "meta": {
     "name": "Secure GitHub Webhooks with HMAC256 Signature Validation",
-    "id": 8906,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8906
   },
   "name": "Validate GitHub Webhook Secret",
   "tags": [],

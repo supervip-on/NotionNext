@@ -2,8 +2,7 @@
   "id": "Yu2P4qvlbmpPT3mg",
   "meta": {
     "name": "AI Model Usage Dashboard: Track Token Metrics and Costs for LLM Workflows",
-    "id": 9497,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9497
   },
   "name": "[Template] - Dashboard Chat",
   "tags": [],

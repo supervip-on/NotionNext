@@ -2,8 +2,7 @@
   "id": "ODZpSQqCxkISEqv8",
   "meta": {
     "name": "WooCommerce AI Post-Sales Chatbot with GPT-4o, RAG, Google Drive and Telegram",
-    "id": 3329,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3329
   },
   "name": "WooCommerce AI Chatbot Workflow for Post-Sales Support",
   "tags": [

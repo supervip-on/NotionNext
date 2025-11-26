@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate GitLab Merge Requests Using APIs with n8n",
-    "id": 2858,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2858
   },
   "nodes": [
     {

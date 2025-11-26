@@ -2,8 +2,7 @@
   "id": "5NMlwLrwBWPUG78u",
   "meta": {
     "name": "Generate Multi-Platform Content with OpenAI, Tavily Research & Supabase Storage",
-    "id": 7947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7947
   },
   "name": "Automated Content Page Generator with AI, Tavily Research, and Supabase Storage",
   "tags": [],

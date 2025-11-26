@@ -2,8 +2,7 @@
   "id": "do4h6jnTGWDjCXV7",
   "meta": {
     "name": "Merge PDF files using ConvertAPI",
-    "id": 2298,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2298
   },
   "name": "Merge",
   "tags": [],

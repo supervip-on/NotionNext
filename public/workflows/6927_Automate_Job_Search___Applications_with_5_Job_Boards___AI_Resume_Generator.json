@@ -2,8 +2,7 @@
   "id": "[REDACTED]",
   "meta": {
     "name": "Automate Job Search & Applications with 5 Job Boards & AI Resume Generator",
-    "id": 6927,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6927
   },
   "name": "Job Search Automation from Multiple Job Boards",
   "tags": [],

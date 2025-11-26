@@ -131,8 +131,7 @@
   },
   "meta": {
     "name": "Send location updates of the ISS every minute to a table in Google BigQuery",
-    "id": 1049,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1049
   },
   "id": "1049"
 }

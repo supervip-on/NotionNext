@@ -2,8 +2,7 @@
   "id": "FOKoHtdHL2JKFwpH",
   "meta": {
     "name": "Auto CVE & IOC Feed Ingestor with OpenAI Risk Triage & Email Alerts",
-    "id": 6356,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6356
   },
   "name": "CYBERPULSEBlueOps_Module1 client copy1",
   "tags": [

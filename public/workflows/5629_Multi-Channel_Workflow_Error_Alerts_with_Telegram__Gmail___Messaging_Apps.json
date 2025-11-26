@@ -2,8 +2,7 @@
   "id": "7RR5Rf9kzQ2eWl5C",
   "meta": {
     "name": "Multi-Channel Workflow Error Alerts with Telegram, Gmail & Messaging Apps",
-    "id": 5629,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5629
   },
   "name": "Error Notification workflow",
   "tags": [],

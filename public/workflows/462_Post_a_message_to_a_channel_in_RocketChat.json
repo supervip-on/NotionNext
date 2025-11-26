@@ -48,7 +48,6 @@
   },
   "meta": {
     "name": "Post a message to a channel in RocketChat",
-    "id": 462,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 462
   }
 }

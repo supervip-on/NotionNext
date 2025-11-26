@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Competitor Keywords with RapidAPI and Google Sheets Reporting",
-    "id": 7686,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7686
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "gMyUGRPsQU2AnmvH",
   "meta": {
     "name": "Respond to Inbound Leads with Personalized Videos using Heygen AI and GPT-4",
-    "id": 6404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6404
   },
   "name": "Heygen Inbound Agent",
   "tags": [],

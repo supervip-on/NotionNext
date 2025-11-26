@@ -2,8 +2,7 @@
   "id": "InzSAe2cnTJImvLm",
   "meta": {
     "name": "OpenAI Assistant workflow: upload file, create an Assistant, chat with it!",
-    "id": 2201,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2201
   },
   "name": "OpenAI Assistant workflow: uploa file, create an Assistant, chat with it!",
   "tags": [],

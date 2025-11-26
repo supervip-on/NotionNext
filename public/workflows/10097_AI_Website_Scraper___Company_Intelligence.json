@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Website Scraper & Company Intelligence",
-    "id": 10097,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10097
   },
   "nodes": [
     {

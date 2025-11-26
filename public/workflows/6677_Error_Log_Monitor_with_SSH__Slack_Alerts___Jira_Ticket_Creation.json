@@ -2,8 +2,7 @@
   "id": "VbL8CupBzmcRolP4",
   "meta": {
     "name": "Error Log Monitor with SSH, Slack Alerts & Jira Ticket Creation",
-    "id": 6677,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6677
   },
   "name": "Error Log Monitor with Slack Alerts & Auto Bug Ticket Creation",
   "tags": [],

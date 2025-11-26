@@ -2,8 +2,7 @@
   "id": "GepE6tB2olhDRCxP",
   "meta": {
     "name": "Automate Contact Enrichment with Surfe, Google Sheets & HubSpot",
-    "id": 5776,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5776
   },
   "name": "Enrich Marketing Leads From A Google Sheet",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "YVAwvooLBNvqFhyp",
   "meta": {
     "name": "Keep RAG System Updated with Google Drive File Changes to Supabase Vector DB",
-    "id": 9934,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9934
   },
   "name": "RAG System V2 - Update Doc",
   "tags": [

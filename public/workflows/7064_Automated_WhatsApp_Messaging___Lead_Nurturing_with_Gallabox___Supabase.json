@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated WhatsApp Messaging & Lead Nurturing with Gallabox & Supabase",
-    "id": 7064,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7064
   },
   "nodes": [
     {

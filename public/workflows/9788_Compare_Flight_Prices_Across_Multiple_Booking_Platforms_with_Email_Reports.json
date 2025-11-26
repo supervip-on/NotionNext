@@ -2,8 +2,7 @@
   "id": "IuvYgHrzvtEck50d",
   "meta": {
     "name": "Compare Flight Prices Across Multiple Booking Platforms with Email Reports",
-    "id": 9788,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9788
   },
   "name": "Automate flight Price Comparison",
   "tags": [],

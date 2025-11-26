@@ -2,8 +2,7 @@
   "id": "5b6XImwh2D5ylRT8",
   "meta": {
     "name": "Auto-Share YouTube Videos with AI-Generated Posts to Facebook, X & Discord",
-    "id": 5725,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5725
   },
   "name": "YouTube Auto Social Sharing",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Translate Blog Content to Multiple Languages with GPT-4o and Markdown",
-    "id": 7593,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7593
   },
   "nodes": [
     {

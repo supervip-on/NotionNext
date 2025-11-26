@@ -2,8 +2,7 @@
   "id": "xLjE4IkQXARXOCZy",
   "meta": {
     "name": "Import multiple Manufacturers from Google Sheets to Shopware 6",
-    "id": 2097,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2097
   },
   "name": "Import multiple Manufacturers from Google Sheets to Shopware 6",
   "tags": [

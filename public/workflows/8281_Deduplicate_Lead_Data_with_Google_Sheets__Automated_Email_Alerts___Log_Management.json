@@ -2,8 +2,7 @@
   "id": "93u2GYrUjPeplJp2",
   "meta": {
     "name": "Deduplicate Lead Data with Google Sheets: Automated Email Alerts & Log Management",
-    "id": 8281,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8281
   },
   "name": "Lead intake and deduplacation workflow",
   "tags": [],

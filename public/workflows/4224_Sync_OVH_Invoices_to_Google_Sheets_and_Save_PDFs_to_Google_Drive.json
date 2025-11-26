@@ -2,8 +2,7 @@
   "id": "T1fYjI4iHqkXtK9V",
   "meta": {
     "name": "Sync OVH Invoices to Google Sheets and Save PDFs to Google Drive",
-    "id": 4224,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4224
   },
   "name": "Get OVH Invoices to Google Sheets",
   "tags": [],

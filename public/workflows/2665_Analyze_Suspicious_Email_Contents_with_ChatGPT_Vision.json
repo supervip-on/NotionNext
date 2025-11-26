@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Suspicious Email Contents with ChatGPT Vision",
-    "id": 2665,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2665
   },
   "nodes": [
     {

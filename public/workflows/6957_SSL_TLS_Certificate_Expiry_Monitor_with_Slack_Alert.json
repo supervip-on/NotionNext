@@ -2,8 +2,7 @@
   "id": "N8lYj0OOkpuJcota",
   "meta": {
     "name": "SSL/TLS Certificate Expiry Monitor with Slack Alert",
-    "id": 6957,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6957
   },
   "name": "SSL/TLS Certificate Expiry Monitor with Slack Alert",
   "tags": [],

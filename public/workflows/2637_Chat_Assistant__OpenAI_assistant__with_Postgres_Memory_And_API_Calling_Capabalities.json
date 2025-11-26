@@ -2,8 +2,7 @@
   "id": "BMI5WkmyU8nZqfII",
   "meta": {
     "name": "Chat Assistant (OpenAI assistant) with Postgres Memory And API Calling Capabalities",
-    "id": 2637,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2637
   },
   "name": "modelo do chatbot",
   "tags": [],

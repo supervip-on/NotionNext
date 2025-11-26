@@ -2,8 +2,7 @@
   "id": "c4MGMFdD3nrhySMt",
   "meta": {
     "name": "Auto-Create Geotab Zone for New Salesforce Work Order",
-    "id": 4648,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4648
   },
   "name": "Auto-Create Geotab Zone for New Salesforce Work Order",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "in11m3CofWPWeo7h",
   "meta": {
     "name": "Summarize & Extract Glassdoor Company Info with Google Gemini and Decode",
-    "id": 9924,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9924
   },
   "name": "Summarize & Extract Glassdoor Company Info with Google Gemini and Decode",
   "tags": [

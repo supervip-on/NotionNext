@@ -2,8 +2,7 @@
   "id": "Rb4oT1epuHrZ6NtA",
   "meta": {
     "name": "Generate & Edit Images with Gemini AI: Storage & Email Delivery Pipeline",
-    "id": 9216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9216
   },
   "name": "Image Gen with Nano Banana 🍌 (Text + Image Prompt )",
   "tags": [],

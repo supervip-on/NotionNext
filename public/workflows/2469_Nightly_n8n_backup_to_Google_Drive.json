@@ -993,8 +993,7 @@
   },
   "meta": {
     "name": "Nightly n8n backup to Google Drive",
-    "id": 2469,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2469
   },
   "id": "2469"
 }

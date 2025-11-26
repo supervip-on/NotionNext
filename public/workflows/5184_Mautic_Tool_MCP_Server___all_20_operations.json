@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Mautic Tool MCP Server 💪 all 20 operations",
-    "id": 5184,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5184
   },
   "nodes": [
     {

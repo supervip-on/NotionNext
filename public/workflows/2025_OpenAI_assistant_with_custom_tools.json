@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "OpenAI assistant with custom tools",
-    "id": 2025,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2025
   },
   "nodes": [
     {

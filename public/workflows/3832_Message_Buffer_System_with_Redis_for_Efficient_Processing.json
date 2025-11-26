@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Message Buffer System with Redis for Efficient Processing",
-    "id": 3832,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3832
   },
   "nodes": [
     {

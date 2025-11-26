@@ -2,8 +2,7 @@
   "id": "Hm7iTSgpu2of6gz4",
   "meta": {
     "name": "Google Maps Business Phone No Scraper with Bright Data & Sheets",
-    "id": 5043,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5043
   },
   "name": "Google Maps Business Phone Number Scraper Using Bright Data API & Google Sheets Integration",
   "tags": [],

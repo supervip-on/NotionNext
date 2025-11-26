@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Weekly Security Audit Reports with Gmail Delivery",
-    "id": 10112,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10112
   },
   "nodes": [
     {

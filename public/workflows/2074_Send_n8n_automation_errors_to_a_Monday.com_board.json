@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send n8n automation errors to a Monday.com board",
-    "id": 2074,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2074
   },
   "nodes": [
     {

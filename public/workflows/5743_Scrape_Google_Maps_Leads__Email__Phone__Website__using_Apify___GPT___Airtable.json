@@ -2,8 +2,7 @@
   "id": "pmEmSvoAXahHkDeM",
   "meta": {
     "name": "Scrape Google Maps Leads (Email, Phone, Website) using Apify + GPT + Airtable",
-    "id": 5743,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5743
   },
   "name": "Scrape Google Maps Leads Email, Phone, Website using Apify + GPT + Airtable",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reddit Freelance Job Monitor with Google Sheets Tracking and Telegram Alerts",
-    "id": 6079,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6079
   },
   "nodes": [
     {

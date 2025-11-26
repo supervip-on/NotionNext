@@ -2,8 +2,7 @@
   "id": "VDut3fLvTiutz3bF",
   "meta": {
     "name": "Collect Star Rating Feedback with Self-Contained HTML Forms and Data Tables",
-    "id": 9787,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9787
   },
   "name": "Customer Feedback Collector",
   "tags": [],

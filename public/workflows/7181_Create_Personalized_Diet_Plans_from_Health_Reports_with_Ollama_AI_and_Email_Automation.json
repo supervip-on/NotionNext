@@ -2,8 +2,7 @@
   "id": "gKJQLzRtCyqGBHs9",
   "meta": {
     "name": "Create Personalized Diet Plans from Health Reports with Ollama AI and Email Automation",
-    "id": 7181,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7181
   },
   "name": "Personalized Diet Plan Creator from Medical History",
   "tags": [],

@@ -63,8 +63,7 @@
   },
   "meta": {
     "name": "Write JSON to Disk (Binary)",
-    "id": 101,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 101
   },
   "id": "101"
 }

@@ -2,8 +2,7 @@
   "id": "VhEwspDqzu7ssFVE",
   "meta": {
     "name": "Monitor Supply Chain Risks with ScrapeGraphAI Alerts via Slack and Email",
-    "id": 6569,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6569
   },
   "name": "My workflow 2",
   "tags": [

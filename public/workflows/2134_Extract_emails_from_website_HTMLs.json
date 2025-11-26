@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract emails from website HTMLs",
-    "id": 2134,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2134
   },
   "nodes": [
     {

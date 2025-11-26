@@ -2,8 +2,7 @@
   "id": "QiqRAiXGPRoDxv1q",
   "meta": {
     "name": "Transform Cloud Documentation into Security Baselines with OpenAI and GDrive",
-    "id": 7529,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7529
   },
   "name": "Multicloud AI Security Control Baseline Builder",
   "tags": [],

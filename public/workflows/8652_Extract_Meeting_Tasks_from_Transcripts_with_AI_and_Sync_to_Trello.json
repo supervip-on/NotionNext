@@ -2,8 +2,7 @@
   "id": "ZGNostTBUj8ot9yp",
   "meta": {
     "name": "Extract Meeting Tasks from Transcripts with AI and Sync to Trello",
-    "id": 8652,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8652
   },
   "name": "Extract meeting tasks from transcripts and sync with Trello",
   "tags": [],

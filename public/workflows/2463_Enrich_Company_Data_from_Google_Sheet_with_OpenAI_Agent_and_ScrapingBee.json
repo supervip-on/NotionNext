@@ -2,8 +2,7 @@
   "id": "TfwQRZkTBtykx1rM",
   "meta": {
     "name": "Enrich Company Data from Google Sheet with OpenAI Agent and ScrapingBee",
-    "id": 2463,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2463
   },
   "name": "Enrich Company Data from Google Sheet with OpenAI Agent and Scraper Tool",
   "tags": [],

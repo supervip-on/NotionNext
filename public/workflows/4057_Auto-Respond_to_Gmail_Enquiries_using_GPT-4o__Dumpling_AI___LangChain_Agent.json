@@ -2,8 +2,7 @@
   "id": "uQTqLH5At9PZOy2g",
   "meta": {
     "name": "Auto-Respond to Gmail Enquiries using GPT-4o, Dumpling AI & LangChain Agent",
-    "id": 4057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4057
   },
   "name": "Auto-Respond to Gmail Enquiries using GPT-4o, Dumpling AI & LangChain Agent",
   "tags": [],

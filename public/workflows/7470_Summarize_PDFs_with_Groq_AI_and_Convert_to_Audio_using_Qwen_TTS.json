@@ -2,8 +2,7 @@
   "id": "Epn1xGw0ipAAedby",
   "meta": {
     "name": "Summarize PDFs with Groq AI and Convert to Audio using Qwen TTS",
-    "id": 7470,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7470
   },
   "name": "Smart pdf summarizer with audio",
   "tags": [],

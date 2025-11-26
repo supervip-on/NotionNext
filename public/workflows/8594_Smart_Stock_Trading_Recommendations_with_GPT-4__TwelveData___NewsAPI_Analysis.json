@@ -2,8 +2,7 @@
   "id": "INwMUl3OdeqFBlkr",
   "meta": {
     "name": "Smart Stock Trading Recommendations with GPT-4, TwelveData & NewsAPI Analysis",
-    "id": 8594,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8594
   },
   "name": "AI Powered Stock Setiment Analyzer",
   "tags": [],

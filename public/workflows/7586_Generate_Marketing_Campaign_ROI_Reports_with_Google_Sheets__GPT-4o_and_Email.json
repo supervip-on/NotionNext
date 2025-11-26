@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Marketing Campaign ROI Reports with Google Sheets, GPT-4o and Email",
-    "id": 7586,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7586
   },
   "nodes": [
     {

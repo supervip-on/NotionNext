@@ -2,8 +2,7 @@
   "id": "fXtw0Iqzc5X1fyPf",
   "meta": {
     "name": "Generate Summaries from Uploaded Files using OpenAI Assistants API",
-    "id": 4911,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4911
   },
   "name": "Generate Summaries From Uploaded Files",
   "tags": [],

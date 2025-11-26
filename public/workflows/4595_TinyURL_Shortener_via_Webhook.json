@@ -2,8 +2,7 @@
   "id": "yb95HguPBwk8gDXZ",
   "meta": {
     "name": "TinyURL Shortener via Webhook",
-    "id": 4595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4595
   },
   "name": "TinyURL Shortener via Webhook",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Gmail to Slack: AI-Scored Upwork Job Alerts with OpenRouter",
-    "id": 5761,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5761
   },
   "nodes": [
     {

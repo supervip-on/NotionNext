@@ -2,8 +2,7 @@
   "id": "E2w7cqdpabvRwPoD",
   "meta": {
     "name": "Process Telegram Image Albums with Data Tables Cache and NanoBanana AI",
-    "id": 9288,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9288
   },
   "name": "Data Table for processing media groups in Telegram",
   "tags": [],

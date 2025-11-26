@@ -2,8 +2,7 @@
   "id": "EJHT9UmGXNOyynV0",
   "meta": {
     "name": "Automatically Upload Scanned Documents to Nextcloud via ScanservJS",
-    "id": 3861,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3861
   },
   "name": "Scans von PDF zu Nextcloud",
   "tags": [],

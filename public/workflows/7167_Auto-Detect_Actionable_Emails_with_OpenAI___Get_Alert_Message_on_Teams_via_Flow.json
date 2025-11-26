@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto-Detect Actionable Emails with OpenAI & Get Alert Message on Teams via Flow",
-    "id": 7167,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7167
   },
   "nodes": [
     {

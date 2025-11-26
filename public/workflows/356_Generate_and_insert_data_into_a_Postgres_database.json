@@ -77,7 +77,6 @@
   },
   "meta": {
     "name": "Generate and insert data into a Postgres database",
-    "id": 356,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 356
   }
 }

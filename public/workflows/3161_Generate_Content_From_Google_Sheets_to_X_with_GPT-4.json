@@ -130,8 +130,7 @@
   },
   "meta": {
     "name": "Generate Content From Google Sheets to X with GPT-4",
-    "id": 3161,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3161
   },
   "id": "3161"
 }

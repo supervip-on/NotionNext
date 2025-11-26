@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Email Notifications to Telegram using Temporary HTML URL Hosting via GitHub Gist",
-    "id": 2080,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2080
   },
   "nodes": [
     {

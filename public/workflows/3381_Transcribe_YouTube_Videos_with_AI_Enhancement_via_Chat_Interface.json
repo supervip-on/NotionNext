@@ -2,8 +2,7 @@
   "id": "Iz8TMdlc6JhaKkd9",
   "meta": {
     "name": "Transcribe YouTube Videos with AI Enhancement via Chat Interface",
-    "id": 3381,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3381
   },
   "name": "YouTube Video Transcriber",
   "tags": [],

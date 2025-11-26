@@ -2,8 +2,7 @@
   "id": "0b3sNR7VKXCSn2Fq",
   "meta": {
     "name": "Create YouTube Shorts Scripts from Video Links with Gemini AI and Telegram",
-    "id": 5805,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5805
   },
   "name": "YT script automation",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "cuxPaflo88ySZROw",
   "meta": {
     "name": "Extract Invoice Data from Telegram to Google Sheets with OCR & Gemini AI",
-    "id": 9866,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9866
   },
   "name": "Process & Extract Invoice Data from Telegram to Google Sheets with OCR & Gemini AI",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "EOcBeSjghx5s9AWj",
   "meta": {
     "name": "Create a weekly LLM traffic report using Google Analytics, GPT-5, and Gmail",
-    "id": 9081,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9081
   },
   "name": "Create a weekly LLM traffic report using Google Analytics, AI, and Gmail",
   "tags": [],

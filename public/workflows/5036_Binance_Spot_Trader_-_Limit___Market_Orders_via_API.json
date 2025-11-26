@@ -2,8 +2,7 @@
   "id": "8p4wKxUqY1fAABOu",
   "meta": {
     "name": "Binance Spot Trader - Limit & Market Orders via API",
-    "id": 5036,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5036
   },
   "name": "trader-binance-spot-cloud-no-credential",
   "tags": [

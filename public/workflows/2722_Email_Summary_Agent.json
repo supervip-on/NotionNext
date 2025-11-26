@@ -2,8 +2,7 @@
   "id": "M8oLW9Qd59zNJzg2",
   "meta": {
     "name": "Email Summary Agent ",
-    "id": 2722,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2722
   },
   "name": "Email Summary Agent",
   "tags": [

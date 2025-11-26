@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Follow-ups with GPT-4o mini Analysis for Gmail, HubSpot, and Slack",
-    "id": 8983,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8983
   },
   "nodes": [
     {

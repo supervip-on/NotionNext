@@ -2,8 +2,7 @@
   "id": "rVZ45LaNVNhJI9Fi",
   "meta": {
     "name": "Capture URL Screenshots from Google Sheets with ScreenshotOne & Save to Drive with Gmail Alerts",
-    "id": 3321,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3321
   },
   "name": "Automated URL Screenshots: Google Sheets + ScreenshotOne with Email Alerts",
   "tags": [

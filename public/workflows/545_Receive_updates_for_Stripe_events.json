@@ -22,8 +22,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for Stripe events",
-    "id": 545,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 545
   },
   "id": "545"
 }

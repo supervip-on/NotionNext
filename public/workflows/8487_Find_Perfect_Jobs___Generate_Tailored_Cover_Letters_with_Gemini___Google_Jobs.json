@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find Perfect Jobs & Generate Tailored Cover Letters with Gemini & Google Jobs",
-    "id": 8487,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8487
   },
   "nodes": [
     {

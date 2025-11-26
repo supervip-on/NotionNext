@@ -516,8 +516,7 @@
   "triggerCount": 1,
   "meta": {
     "name": "Generate & Schedule Social Media Content with GPT-4 and Buffer from Google Sheets",
-    "id": 7517,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7517
   },
   "id": "7517"
 }

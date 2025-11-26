@@ -133,8 +133,7 @@
   },
   "meta": {
     "name": "Create an invoice in Google Sheets based on Typeform submission",
-    "id": 398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 398
   },
   "id": "398"
 }

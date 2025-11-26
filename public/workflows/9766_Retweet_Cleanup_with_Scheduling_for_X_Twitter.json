@@ -2,8 +2,7 @@
   "id": "ayEitoNXtdYvLPfW",
   "meta": {
     "name": "Retweet Cleanup with Scheduling for X/Twitter",
-    "id": 9766,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9766
   },
   "name": "Automated Retweet Cleanup for X Accounts with Scheduling",
   "tags": [],

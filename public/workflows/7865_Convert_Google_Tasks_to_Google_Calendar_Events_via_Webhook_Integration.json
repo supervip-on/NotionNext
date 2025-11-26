@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Google Tasks to Google Calendar Events via Webhook Integration",
-    "id": 7865,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7865
   },
   "nodes": [
     {

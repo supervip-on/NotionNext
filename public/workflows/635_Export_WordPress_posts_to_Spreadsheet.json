@@ -95,7 +95,6 @@
   },
   "meta": {
     "name": "Export WordPress posts to Spreadsheet",
-    "id": 635,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 635
   }
 }

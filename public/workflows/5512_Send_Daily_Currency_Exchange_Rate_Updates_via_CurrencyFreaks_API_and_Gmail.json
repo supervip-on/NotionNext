@@ -2,8 +2,7 @@
   "id": "UXgh0OxJeBzvsPd0",
   "meta": {
     "name": "Send Daily Currency Exchange Rate Updates via CurrencyFreaks API and Gmail",
-    "id": 5512,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5512
   },
   "name": "Daily Currency Update",
   "tags": [],

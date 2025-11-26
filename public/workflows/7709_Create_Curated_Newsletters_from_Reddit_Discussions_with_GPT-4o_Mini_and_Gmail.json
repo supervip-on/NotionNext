@@ -2,8 +2,7 @@
   "id": "2uApJRHiMI6VVYh0",
   "meta": {
     "name": "Create Curated Newsletters from Reddit Discussions with GPT-4o Mini and Gmail",
-    "id": 7709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7709
   },
   "name": "📰 Reddit to Newsletter (Automated Curation with Open AI 4o Mini ) v2",
   "tags": [],

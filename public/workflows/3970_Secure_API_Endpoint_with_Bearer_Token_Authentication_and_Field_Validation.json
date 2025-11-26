@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Secure API Endpoint with Bearer Token Authentication and Field Validation",
-    "id": 3970,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3970
   },
   "nodes": [
     {

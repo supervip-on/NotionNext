@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Categorize Emails & Get Telegram Alerts with Azure OpenAI & Google Sheets",
-    "id": 6736,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6736
   },
   "nodes": [
     {

@@ -192,8 +192,7 @@
   },
   "meta": {
     "name": "Load and Aggregate Files from a Google Drive Folder into a Key-Value Dictionary",
-    "id": 3421,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3421
   },
   "id": "3421"
 }

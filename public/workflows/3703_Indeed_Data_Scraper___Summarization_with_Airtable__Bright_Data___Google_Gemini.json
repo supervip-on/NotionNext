@@ -2,8 +2,7 @@
   "id": "TTj6BiN7bQKTa6FM",
   "meta": {
     "name": "Indeed Data Scraper & Summarization with Airtable, Bright Data & Google Gemini",
-    "id": 3703,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3703
   },
   "name": "Indeed Company Data Scraper & Summarization with Airtable, Bright Data and Google Gemini",
   "tags": [

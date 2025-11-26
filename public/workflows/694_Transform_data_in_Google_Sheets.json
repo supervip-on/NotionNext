@@ -243,7 +243,6 @@
   },
   "meta": {
     "name": "Transform data in Google Sheets",
-    "id": 694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 694
   }
 }

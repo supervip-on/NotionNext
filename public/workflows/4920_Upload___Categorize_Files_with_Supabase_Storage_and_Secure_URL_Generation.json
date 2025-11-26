@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Upload & Categorize Files with Supabase Storage and Secure URL Generation",
-    "id": 4920,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4920
   },
   "nodes": [
     {

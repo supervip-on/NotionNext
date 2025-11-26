@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Chatbot for Website with Conditional Execution for Cost Efficiency",
-    "id": 2717,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2717
   },
   "nodes": [
     {

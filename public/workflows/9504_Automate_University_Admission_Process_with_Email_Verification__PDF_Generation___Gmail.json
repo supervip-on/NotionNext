@@ -2,8 +2,7 @@
   "id": "W5pXaBvkQw0fRgtq",
   "meta": {
     "name": "Automate University Admission Process with Email Verification, PDF Generation & Gmail",
-    "id": 9504,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9504
   },
   "name": "University Admission Confirmation & Welcome Kit",
   "tags": [

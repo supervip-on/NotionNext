@@ -60,7 +60,6 @@
   },
   "meta": {
     "name": "Send a Whatsapp message via Twilio when a certain Onfleet event happens",
-    "id": 1525,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1525
   }
 }

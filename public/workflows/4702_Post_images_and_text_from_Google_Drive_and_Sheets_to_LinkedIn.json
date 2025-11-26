@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Post images and text from Google Drive and Sheets to LinkedIn",
-    "id": 4702,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4702
   },
   "nodes": [
     {

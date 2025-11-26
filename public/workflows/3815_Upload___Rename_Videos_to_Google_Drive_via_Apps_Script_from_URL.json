@@ -2,8 +2,7 @@
   "id": "wGv0NPBA0QLp4rQ6",
   "meta": {
     "name": "Upload & Rename Videos to Google Drive via Apps Script from URL",
-    "id": 3815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3815
   },
   "name": "Upload video to drive via google script",
   "tags": [],

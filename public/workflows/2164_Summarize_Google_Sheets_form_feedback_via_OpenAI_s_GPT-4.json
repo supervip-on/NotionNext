@@ -2,8 +2,7 @@
   "id": "Lwvu2jjMU2irTyAY",
   "meta": {
     "name": "Summarize Google Sheets form feedback via OpenAI's GPT-4",
-    "id": 2164,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2164
   },
   "name": "Summarize Google Sheets form feedback via OpenAI's GPT-4",
   "tags": [

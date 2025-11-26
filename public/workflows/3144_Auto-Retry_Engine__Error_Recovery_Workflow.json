@@ -2,8 +2,7 @@
   "id": "JJKkNnO4PQ12gQdE",
   "meta": {
     "name": "Auto-Retry Engine: Error Recovery Workflow",
-    "id": 3144,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3144
   },
   "name": "Retry Execution Hourly",
   "tags": [

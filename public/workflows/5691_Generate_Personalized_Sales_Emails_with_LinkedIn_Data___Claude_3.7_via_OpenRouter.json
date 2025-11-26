@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized Sales Emails with LinkedIn Data & Claude 3.7 via OpenRouter",
-    "id": 5691,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5691
   },
   "nodes": [
     {

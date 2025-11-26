@@ -2,8 +2,7 @@
   "id": "xJ07Z5jW0ZtOFRRn",
   "meta": {
     "name": "Monitor Solar Energy Production & Send Alerts with Gmail, Google Sheets, and Slack",
-    "id": 7125,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7125
   },
   "name": "Solar Energy Production Monitoring Alert Workflow",
   "tags": [],

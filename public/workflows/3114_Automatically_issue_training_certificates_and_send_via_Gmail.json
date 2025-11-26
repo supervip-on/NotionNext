@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically issue training certificates and send via Gmail",
-    "id": 3114,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3114
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export AI Agent Conversation Logs from Postgres to Google Sheets",
-    "id": 4464,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4464
   },
   "nodes": [
     {

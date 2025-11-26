@@ -2,8 +2,7 @@
   "id": "OskOgJPf2GrczCTF",
   "meta": {
     "name": "Log E-commerce Orders in Google Sheets with Monthly Tabs & Status Tracking",
-    "id": 8244,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8244
   },
   "name": "📊 Automated Order Logger with Live Status Updates",
   "tags": [],

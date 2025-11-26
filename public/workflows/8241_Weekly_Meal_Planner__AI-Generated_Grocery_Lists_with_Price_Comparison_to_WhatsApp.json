@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly Meal Planner: AI-Generated Grocery Lists with Price Comparison to WhatsApp",
-    "id": 8241,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8241
   },
   "name": "Weekly Meal Planner → PDF → Telegram",
   "nodes": [

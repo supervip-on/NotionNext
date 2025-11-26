@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate RSS to Medium Publishing with Groq, Gemini & Slack Approval System",
-    "id": 6713,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6713
   },
   "nodes": [
     {

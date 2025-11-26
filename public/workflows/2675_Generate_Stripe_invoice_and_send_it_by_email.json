@@ -149,8 +149,7 @@
   },
   "meta": {
     "name": "Generate Stripe invoice and send it by email",
-    "id": 2675,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2675
   },
   "id": "2675"
 }

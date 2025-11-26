@@ -44,8 +44,7 @@
   },
   "meta": {
     "name": "Send an email using Mailgun",
-    "id": 522,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 522
   },
   "id": "522"
 }

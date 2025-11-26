@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Natural Language Google Sheets Data Analysis with Gemini AI",
-    "id": 7450,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7450
   },
   "nodes": [
     {

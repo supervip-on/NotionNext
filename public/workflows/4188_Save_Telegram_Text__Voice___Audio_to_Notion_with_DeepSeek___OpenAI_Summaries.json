@@ -2,8 +2,7 @@
   "id": "oVQDr4cJCU6nr1eT",
   "meta": {
     "name": "Save Telegram Text, Voice & Audio to Notion with DeepSeek & OpenAI Summaries",
-    "id": 4188,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4188
   },
   "name": "Telegram Text, Voice Note or Audio file to Notion Database",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Invoice Processor & Validator with OCR, AI & Google Sheets",
-    "id": 4247,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4247
   },
   "nodes": [
     {

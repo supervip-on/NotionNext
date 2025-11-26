@@ -2,8 +2,7 @@
   "id": "wbeBVcWnoiefTvp5",
   "meta": {
     "name": "Google Calendar Events with Gemini AI Follow-up Suggestions via WhatsApp & Email",
-    "id": 10270,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10270
   },
   "name": "Automating Google Calendar Event Creation and OpenAI-Powered Follow-up Proposals",
   "tags": [],

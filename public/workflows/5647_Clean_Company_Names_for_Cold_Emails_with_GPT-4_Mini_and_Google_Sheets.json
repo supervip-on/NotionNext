@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Clean Company Names for Cold Emails with GPT-4 Mini and Google Sheets",
-    "id": 5647,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5647
   },
   "nodes": [
     {

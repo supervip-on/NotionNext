@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Smart Calendly Notifications for Outlook and Slack using GPT-4",
-    "id": 7305,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7305
   },
   "nodes": [
     {

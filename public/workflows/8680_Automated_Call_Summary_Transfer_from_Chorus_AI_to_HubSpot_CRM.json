@@ -2,8 +2,7 @@
   "id": "M3e7JbXymYbkSURp",
   "meta": {
     "name": "Automated Call Summary Transfer from Chorus AI to HubSpot CRM",
-    "id": 8680,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8680
   },
   "name": "Chorus -> HubSpot - Transfer Summarization of Calls",
   "tags": [],

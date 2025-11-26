@@ -2,8 +2,7 @@
   "id": "uYYw1E8JAYRYC7sE",
   "meta": {
     "name": "Query PostgreSQL Database with Natural Language using GPT-4o-mini",
-    "id": 7988,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7988
   },
   "name": "My workflow",
   "tags": [],

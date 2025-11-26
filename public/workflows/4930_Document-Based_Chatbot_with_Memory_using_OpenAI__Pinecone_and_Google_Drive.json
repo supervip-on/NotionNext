@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Document-Based Chatbot with Memory using OpenAI, Pinecone and Google Drive",
-    "id": 4930,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4930
   },
   "nodes": [
     {

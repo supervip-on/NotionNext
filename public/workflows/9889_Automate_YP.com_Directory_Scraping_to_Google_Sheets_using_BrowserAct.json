@@ -2,8 +2,7 @@
   "id": "fffRt3A8pcGDhAYV",
   "meta": {
     "name": "Automate YP.com Directory Scraping to Google Sheets using BrowserAct",
-    "id": 9889,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9889
   },
   "name": "Automate Directory Scraping to Google Sheets using BrowserAct",
   "tags": [],

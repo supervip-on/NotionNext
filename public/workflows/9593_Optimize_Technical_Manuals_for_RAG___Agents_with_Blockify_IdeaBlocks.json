@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Optimize Technical Manuals for RAG & Agents with Blockify IdeaBlocks",
-    "id": 9593,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9593
   },
   "nodes": [
     {

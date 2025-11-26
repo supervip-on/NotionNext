@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI-Curated Tech News Digests with GPT-4.1 Mini and Notion Database",
-    "id": 8665,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8665
   },
   "nodes": [
     {

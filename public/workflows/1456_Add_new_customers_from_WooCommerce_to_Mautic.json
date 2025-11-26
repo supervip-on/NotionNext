@@ -163,7 +163,6 @@
   },
   "meta": {
     "name": "Add new customers from WooCommerce to Mautic",
-    "id": 1456,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1456
   }
 }

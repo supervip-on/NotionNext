@@ -2,8 +2,7 @@
   "id": "bB1VfLkZ793CWekn",
   "meta": {
     "name": "Enrich Company Data with Airtop and Hubspot",
-    "id": 4259,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4259
   },
   "name": "Enrich Company Data",
   "tags": [],

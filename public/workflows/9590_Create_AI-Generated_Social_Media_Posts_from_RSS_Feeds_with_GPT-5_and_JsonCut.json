@@ -2,8 +2,7 @@
   "id": "6sUDUla47A6KusB5",
   "meta": {
     "name": "Create AI-Generated Social Media Posts from RSS Feeds with GPT-5 and JsonCut",
-    "id": 9590,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9590
   },
   "name": "Template-Jsoncut-rss-to-post",
   "tags": [

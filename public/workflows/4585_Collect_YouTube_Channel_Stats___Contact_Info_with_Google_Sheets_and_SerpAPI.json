@@ -2,8 +2,7 @@
   "id": "vSYWa1hSKAvedWWp",
   "meta": {
     "name": "Collect YouTube Channel Stats & Contact Info with Google Sheets and SerpAPI",
-    "id": 4585,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4585
   },
   "name": "Youtube Channel Intelligence Collector",
   "tags": [],

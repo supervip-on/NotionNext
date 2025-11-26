@@ -2,8 +2,7 @@
   "id": "gIdIv8qN7zruqLbG",
   "meta": {
     "name": "Automated Resume Job Matching Engine with Bright Data MCP & OpenAI 4o mini",
-    "id": 4330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4330
   },
   "name": "Automated Resume Job Matching Engine with Bright Data & OpenAI 4o mini",
   "tags": [

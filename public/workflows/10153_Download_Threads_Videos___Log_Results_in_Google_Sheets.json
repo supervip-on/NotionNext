@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download Threads Videos & Log Results in Google Sheets",
-    "id": 10153,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10153
   },
   "nodes": [
     {

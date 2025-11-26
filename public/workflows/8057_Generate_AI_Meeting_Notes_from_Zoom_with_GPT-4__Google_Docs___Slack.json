@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Meeting Notes from Zoom with GPT-4, Google Docs & Slack",
-    "id": 8057,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8057
   },
   "nodes": [
     {

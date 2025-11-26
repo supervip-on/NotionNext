@@ -2,8 +2,7 @@
   "id": "vcSpTA8efH86xwYi",
   "meta": {
     "name": "Track Daily SEO Rankings with DataForSEO and Google Sheets",
-    "id": 10136,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10136
   },
   "name": "Daily Monitor Position with Google sheet queries",
   "tags": [

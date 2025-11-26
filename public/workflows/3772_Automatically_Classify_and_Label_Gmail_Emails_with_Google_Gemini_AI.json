@@ -2,8 +2,7 @@
   "id": "m8gr0YZgCx5Qrsia",
   "meta": {
     "name": "Automatically Classify and Label Gmail Emails with Google Gemini AI",
-    "id": 3772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3772
   },
   "name": "(G) - Email Classification",
   "tags": [],

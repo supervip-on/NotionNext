@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Qualification & Customer Support with GPT-4o-mini Agents",
-    "id": 6656,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6656
   },
   "nodes": [
     {

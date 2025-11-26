@@ -2,8 +2,7 @@
   "id": "AuB5sN9ZQomeyH2T",
   "meta": {
     "name": "Search LinkedIn companies and add them to Airtable CRM",
-    "id": 3717,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3717
   },
   "name": "Search LinkedIn companies, Score with AI and add them to Google Sheet CRM",
   "tags": [],

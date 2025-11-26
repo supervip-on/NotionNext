@@ -2,8 +2,7 @@
   "id": "EmPnnzwJEHxMuJaw",
   "meta": {
     "name": "Automated Blog Creation from News to Publication using Gemini, Ideogram & Slack",
-    "id": 9658,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9658
   },
   "name": "AI Blog Creator with Gemini, Replicate Image, Supabase Publishing & Slack",
   "tags": [],

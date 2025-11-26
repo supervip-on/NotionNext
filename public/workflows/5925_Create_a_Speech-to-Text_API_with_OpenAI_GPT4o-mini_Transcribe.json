@@ -226,8 +226,7 @@
   },
   "meta": {
     "name": "Create a Speech-to-Text API with OpenAI GPT4o-mini Transcribe",
-    "id": 5925,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5925
   },
   "id": "5925"
 }

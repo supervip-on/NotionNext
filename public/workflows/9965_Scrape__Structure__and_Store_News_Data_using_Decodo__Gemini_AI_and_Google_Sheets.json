@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape, Structure, and Store News Data using Decodo, Gemini AI and Google Sheets",
-    "id": 9965,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9965
   },
   "nodes": [
     {

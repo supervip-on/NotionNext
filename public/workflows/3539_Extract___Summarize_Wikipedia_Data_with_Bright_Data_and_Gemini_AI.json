@@ -2,8 +2,7 @@
   "id": "sczRNO4u1HYc5YV7",
   "meta": {
     "name": "Extract & Summarize Wikipedia Data with Bright Data and Gemini AI",
-    "id": 3539,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3539
   },
   "name": "Extract & Summarize Wikipedia Data with Bright Data and Gemini AI",
   "tags": [

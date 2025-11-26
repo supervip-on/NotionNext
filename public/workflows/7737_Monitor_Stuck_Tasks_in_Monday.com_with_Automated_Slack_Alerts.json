@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Stuck Tasks in Monday.com with Automated Slack Alerts",
-    "id": 7737,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7737
   },
   "nodes": [
     {

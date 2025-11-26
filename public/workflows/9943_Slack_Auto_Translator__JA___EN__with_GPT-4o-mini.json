@@ -2,8 +2,7 @@
   "id": "jcqcULGGIS3CRxFD",
   "meta": {
     "name": "Slack Auto Translator (JA ⇄ EN) with GPT-4o-mini",
-    "id": 9943,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9943
   },
   "name": "Slack Auto Translator (/trans) — JA ⇄ EN",
   "tags": [],

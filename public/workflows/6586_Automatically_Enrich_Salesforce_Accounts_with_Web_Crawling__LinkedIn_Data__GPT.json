@@ -2,8 +2,7 @@
   "id": "UuI8GjOvaIAFAZNO",
   "meta": {
     "name": "Automatically Enrich Salesforce Accounts with Web Crawling, LinkedIn Data, GPT",
-    "id": 6586,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6586
   },
   "name": "My workflow 12",
   "tags": [],

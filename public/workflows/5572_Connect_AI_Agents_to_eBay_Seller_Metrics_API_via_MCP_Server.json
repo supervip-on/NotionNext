@@ -2,8 +2,7 @@
   "id": "lLcYJujsVzkI3wKd",
   "meta": {
     "name": "Connect AI Agents to eBay Seller Metrics API via MCP Server",
-    "id": 5572,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5572
   },
   "name": "[eBay]  Seller Service Metrics API  MCP Server",
   "tags": [],

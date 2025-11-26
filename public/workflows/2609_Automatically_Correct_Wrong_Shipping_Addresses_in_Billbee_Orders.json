@@ -2,8 +2,7 @@
   "id": "VaU41OXvni95OlAL",
   "meta": {
     "name": "Automatically Correct Wrong Shipping Addresses in Billbee Orders",
-    "id": 2609,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2609
   },
   "name": "address validation",
   "tags": [],

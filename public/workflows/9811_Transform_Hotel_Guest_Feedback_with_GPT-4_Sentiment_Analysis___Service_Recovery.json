@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform Hotel Guest Feedback with GPT-4 Sentiment Analysis & Service Recovery",
-    "id": 9811,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9811
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "x9eRtxMrmt4t7H3o",
   "meta": {
     "name": "Transcribe & Analyze Telegram Voice Messages with AssemblyAI & GPT-4.1 to Gmail",
-    "id": 8605,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8605
   },
   "name": "Telegram Voice Message_Audio Transcription--> AI summary & Sentiment Analysis--> Gmail delivery",
   "tags": [],

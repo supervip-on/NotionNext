@@ -2,8 +2,7 @@
   "id": "veLZQlpr9v5pEgDx",
   "meta": {
     "name": "Hostinger Daily VPS Snapshot and server metrics",
-    "id": 3807,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3807
   },
   "name": "Snapshot API VPS Hostinger",
   "tags": [

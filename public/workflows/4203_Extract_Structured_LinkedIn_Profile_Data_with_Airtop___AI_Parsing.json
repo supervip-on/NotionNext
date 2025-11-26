@@ -2,8 +2,7 @@
   "id": "OGfsyvA3tBbLytSo",
   "meta": {
     "name": "Extract Structured LinkedIn Profile Data with Airtop & AI Parsing",
-    "id": 4203,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4203
   },
   "name": "Extract LinkedIn Profile Information",
   "tags": [],

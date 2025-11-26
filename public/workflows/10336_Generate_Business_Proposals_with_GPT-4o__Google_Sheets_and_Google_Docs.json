@@ -2,8 +2,7 @@
   "id": "Lim9HD2pvEN6vAIe",
   "meta": {
     "name": "Generate Business Proposals with GPT-4o, Google Sheets and Google Docs",
-    "id": 10336,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10336
   },
   "name": "Generate AI-Powered Business Proposals from Google Sheets to Google Docs Automatically",
   "tags": [],

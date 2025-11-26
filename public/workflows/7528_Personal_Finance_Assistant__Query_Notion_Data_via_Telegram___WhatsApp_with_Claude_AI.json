@@ -2,8 +2,7 @@
   "id": "oa2HPa75Tv0eg4UK",
   "meta": {
     "name": "Personal Finance Assistant: Query Notion Data via Telegram & WhatsApp with Claude AI",
-    "id": 7528,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7528
   },
   "name": "Query personal finance data in Notion via Telegram and WhatsApp",
   "tags": [],

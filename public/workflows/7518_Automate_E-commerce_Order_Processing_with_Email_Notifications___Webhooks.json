@@ -538,8 +538,7 @@
   "triggerCount": 1,
   "meta": {
     "name": "Automate E-commerce Order Processing with Email Notifications & Webhooks",
-    "id": 7518,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7518
   },
   "id": "7518"
 }

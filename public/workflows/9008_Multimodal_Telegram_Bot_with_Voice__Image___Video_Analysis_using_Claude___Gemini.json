@@ -2,8 +2,7 @@
   "id": "EqwHkiMliEvlONN6",
   "meta": {
     "name": "Multimodal Telegram Bot with Voice, Image & Video Analysis using Claude & Gemini",
-    "id": 9008,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9008
   },
   "name": "Telegram AI Agent Base",
   "tags": [],

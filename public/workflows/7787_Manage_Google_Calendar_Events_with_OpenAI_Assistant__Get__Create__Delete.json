@@ -2,8 +2,7 @@
   "id": "41tGOnU3hN9zjJln",
   "meta": {
     "name": "Manage Google Calendar Events with OpenAI Assistant (Get, Create, Delete)",
-    "id": 7787,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7787
   },
   "name": "ca7ai Google_Cal_sub_agent",
   "tags": [],

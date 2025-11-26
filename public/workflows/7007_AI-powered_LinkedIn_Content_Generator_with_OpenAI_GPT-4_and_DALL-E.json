@@ -2,8 +2,7 @@
   "id": "Fd1PvKuULAbZsQuf",
   "meta": {
     "name": "AI-powered LinkedIn Content Generator with OpenAI GPT-4 and DALL-E",
-    "id": 7007,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7007
   },
   "name": "Automated LinkedIn Content Creation with GPT-4 and DALL-E on top of a UI",
   "tags": [

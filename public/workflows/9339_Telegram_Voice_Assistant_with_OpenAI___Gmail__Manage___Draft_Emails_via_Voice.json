@@ -2,8 +2,7 @@
   "id": "OSYF5WIhk948USGT",
   "meta": {
     "name": "Telegram Voice Assistant with OpenAI & Gmail: Manage & Draft Emails via Voice",
-    "id": 9339,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9339
   },
   "name": "Telegram Email Assistant Talking Voice",
   "tags": [],

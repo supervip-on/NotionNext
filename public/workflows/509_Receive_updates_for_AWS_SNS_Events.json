@@ -19,8 +19,7 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for AWS SNS Events",
-    "id": 509,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 509
   },
   "id": "509"
 }

@@ -226,7 +226,6 @@
   },
   "meta": {
     "name": "Backs up n8n Workflows to NextCloud",
-    "id": 175,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 175
   }
 }

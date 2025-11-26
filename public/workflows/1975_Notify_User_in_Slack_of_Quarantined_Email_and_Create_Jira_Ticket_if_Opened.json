@@ -2,8 +2,7 @@
   "id": "LSH4x5nnNGQbNBkh",
   "meta": {
     "name": "Notify User in Slack of Quarantined Email and Create Jira Ticket if Opened",
-    "id": 1975,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1975
   },
   "name": "Notify_user_in_Slack_of_quarantined_email_and_create_Jira_ticket_if_opened",
   "tags": [

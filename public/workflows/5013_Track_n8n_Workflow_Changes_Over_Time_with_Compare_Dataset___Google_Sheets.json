@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track n8n Workflow Changes Over Time with Compare Dataset & Google Sheets",
-    "id": 5013,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5013
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "s9YeIkLvgkThgR3d",
   "meta": {
     "name": "Monitor website performance with PageSpeed Insights and send alerts to Google Sheets",
-    "id": 8328,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8328
   },
   "name": "Monitor website performance with PageSpeed Insights and save to Google Sheets with alerts",
   "tags": [

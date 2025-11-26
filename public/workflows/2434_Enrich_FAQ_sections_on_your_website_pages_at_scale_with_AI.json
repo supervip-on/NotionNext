@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich FAQ sections on your website pages at scale with AI",
-    "id": 2434,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2434
   },
   "nodes": [
     {

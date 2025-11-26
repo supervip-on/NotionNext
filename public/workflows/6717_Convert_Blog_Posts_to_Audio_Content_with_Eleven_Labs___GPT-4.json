@@ -2,8 +2,7 @@
   "id": "KLDO9ZJ0iMg5VncF",
   "meta": {
     "name": "Convert Blog Posts to Audio Content with Eleven Labs & GPT-4",
-    "id": 6717,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6717
   },
   "name": "Automated Audio Content with Eleven Labs & GPT-4",
   "tags": [],

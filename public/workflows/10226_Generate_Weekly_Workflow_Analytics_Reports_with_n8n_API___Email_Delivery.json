@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Weekly Workflow Analytics Reports with n8n API & Email Delivery",
-    "id": 10226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10226
   },
   "nodes": [
     {

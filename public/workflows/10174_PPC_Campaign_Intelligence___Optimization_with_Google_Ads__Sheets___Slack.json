@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "PPC Campaign Intelligence & Optimization with Google Ads, Sheets & Slack",
-    "id": 10174,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10174
   },
   "nodes": [
     {

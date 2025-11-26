@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Mautic contact on a new Shopify customer",
-    "id": 1829,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1829
   },
   "nodes": [
     {

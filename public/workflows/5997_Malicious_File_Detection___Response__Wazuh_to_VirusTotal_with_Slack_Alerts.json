@@ -2,8 +2,7 @@
   "id": "LS3DQMrTIzPpWEnp",
   "meta": {
     "name": "Malicious File Detection & Response: Wazuh to VirusTotal with Slack Alerts",
-    "id": 5997,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5997
   },
   "name": "✅Wazuh Alert- Malicious File detection",
   "tags": [],

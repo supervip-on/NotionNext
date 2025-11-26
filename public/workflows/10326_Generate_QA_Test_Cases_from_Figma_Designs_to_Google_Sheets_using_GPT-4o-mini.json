@@ -2,8 +2,7 @@
   "id": "gILrUPCbGHiFohxP",
   "meta": {
     "name": "Generate QA Test Cases from Figma Designs to Google Sheets using GPT-4o-mini",
-    "id": 10326,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10326
   },
   "name": "Generate QA Test Cases from Figma Designs to Google Sheets using GPT-4",
   "tags": [],

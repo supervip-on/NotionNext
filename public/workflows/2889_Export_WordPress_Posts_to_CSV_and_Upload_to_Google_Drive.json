@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Export WordPress Posts to CSV and Upload to Google Drive",
-    "id": 2889,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2889
   },
   "nodes": [
     {

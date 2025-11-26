@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Zendesk tickets with subsequent comments to Asana tasks",
-    "id": 1821,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1821
   },
   "nodes": [
     {

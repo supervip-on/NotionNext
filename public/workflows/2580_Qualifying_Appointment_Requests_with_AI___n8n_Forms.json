@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Qualifying Appointment Requests with AI & n8n Forms",
-    "id": 2580,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2580
   },
   "nodes": [
     {

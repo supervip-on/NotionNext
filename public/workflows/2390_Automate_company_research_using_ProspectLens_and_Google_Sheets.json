@@ -2,8 +2,7 @@
   "id": "wwvUsosYUyMfpGbB",
   "meta": {
     "name": "Automate company research using ProspectLens and Google Sheets",
-    "id": 2390,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2390
   },
   "name": "ProspectLens company research",
   "tags": [],

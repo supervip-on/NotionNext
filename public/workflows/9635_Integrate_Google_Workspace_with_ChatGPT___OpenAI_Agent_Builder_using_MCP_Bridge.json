@@ -2,8 +2,7 @@
   "id": "VA0ERpeYyEiickux",
   "meta": {
     "name": "Integrate Google Workspace with ChatGPT & OpenAI Agent Builder using MCP Bridge",
-    "id": 9635,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9635
   },
   "name": "How to connect Google ecosystem with ChatGPT App & OpenAI Agent Builder (using MCP)",
   "tags": [],

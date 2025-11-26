@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "CallForge - 04 - AI Workflow for Gong.io Sales Calls",
-    "id": 3034,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3034
   },
   "nodes": [
     {

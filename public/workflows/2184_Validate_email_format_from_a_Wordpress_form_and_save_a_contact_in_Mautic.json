@@ -2,8 +2,7 @@
   "id": "jOI7FRhG1FkeqBLG",
   "meta": {
     "name": "Validate email format from a Wordpress form and save a contact in Mautic",
-    "id": 2184,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2184
   },
   "name": "Wordpress Form to Mautic",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "A90U504fcvjJqgF5",
   "meta": {
     "name": "Auto-Generate & Post Social Media Content with GPT-4, Notion & Instagram API",
-    "id": 8553,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8553
   },
   "name": "SNS Auto-Poster with Notion & GPT-4 (Instagram Auto + Threads/X/Blog Drafts)",
   "tags": [],

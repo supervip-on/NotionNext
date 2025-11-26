@@ -61,8 +61,7 @@
   },
   "meta": {
     "name": "Sum or aggregate a column of spreadsheet or table data",
-    "id": 1497,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1497
   },
   "id": "1497"
 }

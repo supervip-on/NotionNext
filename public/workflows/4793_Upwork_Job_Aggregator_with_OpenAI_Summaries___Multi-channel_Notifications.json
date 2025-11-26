@@ -2,8 +2,7 @@
   "id": "Q4LhFRDraaQuorBs",
   "meta": {
     "name": "Upwork Job Aggregator with OpenAI Summaries & Multi-channel Notifications",
-    "id": 4793,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4793
   },
   "name": "Upwork Job Aggregator & Notifier",
   "tags": [],

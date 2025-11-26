@@ -93,7 +93,6 @@
   },
   "meta": {
     "name": "Gather leads in Google Sheet and Mailchimp",
-    "id": 429,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 429
   }
 }

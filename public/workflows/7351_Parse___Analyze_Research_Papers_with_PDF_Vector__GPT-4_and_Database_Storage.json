@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Parse & Analyze Research Papers with PDF Vector, GPT-4 and Database Storage",
-    "id": 7351,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7351
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "EtMbMlSmiCmshLlm",
   "meta": {
     "name": "Daily & On-demand Weather Reports with OpenWeatherMap to Telegram",
-    "id": 5838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5838
   },
   "name": "Daily Weather Bot",
   "tags": [],

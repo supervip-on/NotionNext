@@ -2,8 +2,7 @@
   "id": "CHfMFle2Ym5WrORl",
   "meta": {
     "name": "Add TypeScript Intellisense Support to Code Nodes with JSDoc",
-    "id": 5602,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5602
   },
   "name": "Templates_Code_Intellisense",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "1nKNN0OWmO90VSd0",
   "meta": {
     "name": "Automated Breaking News Headlines with LLaMA3, Google Search and X Posting",
-    "id": 4971,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4971
   },
   "name": "Free_Auto_Post_Latest_Breaking_News_Content_Using_Groq_+_Google_Search_to_X__Twitter_",
   "tags": [],

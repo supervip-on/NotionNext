@@ -2,8 +2,7 @@
   "id": "Th6oymAWb3801GGM",
   "meta": {
     "name": "Detect Team Burnout with Groq AI Analysis of GitHub Activity for Wellness Reports",
-    "id": 9517,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9517
   },
   "name": "ai agent github burnout detector",
   "tags": [

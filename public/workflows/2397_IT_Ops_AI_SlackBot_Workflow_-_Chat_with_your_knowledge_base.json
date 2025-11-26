@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "IT Ops AI SlackBot Workflow - Chat with your knowledge base",
-    "id": 2397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2397
   },
   "nodes": [
     {

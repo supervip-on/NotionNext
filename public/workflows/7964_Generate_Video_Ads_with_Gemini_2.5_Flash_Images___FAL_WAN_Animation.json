@@ -2,8 +2,7 @@
   "id": "sq0Sw4xPwLfXlmsP",
   "meta": {
     "name": "Generate Video Ads with Gemini 2.5 Flash Images & FAL WAN Animation",
-    "id": 7964,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7964
   },
   "name": "generate ads from images",
   "tags": [],

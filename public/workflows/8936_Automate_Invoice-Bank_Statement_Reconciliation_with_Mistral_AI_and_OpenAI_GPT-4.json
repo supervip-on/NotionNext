@@ -2,8 +2,7 @@
   "id": "n4bNr0cnmlkuN8fy",
   "meta": {
     "name": "Automate Invoice-Bank Statement Reconciliation with Mistral AI and OpenAI GPT-4",
-    "id": 8936,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8936
   },
   "name": "CashReconciliation",
   "tags": [

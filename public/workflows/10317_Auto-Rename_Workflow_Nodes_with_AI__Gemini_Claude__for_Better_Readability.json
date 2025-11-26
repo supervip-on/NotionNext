@@ -2,8 +2,7 @@
   "id": "10317",
   "meta": {
     "name": "Auto-Rename Workflow Nodes with AI (Gemini/Claude) for Better Readability",
-    "id": 10317,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10317
   },
   "name": "n8n Workflow Node Renamer by UpFastAI",
   "tags": [],

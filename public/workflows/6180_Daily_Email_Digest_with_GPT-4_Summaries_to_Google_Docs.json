@@ -2,8 +2,7 @@
   "id": "p5e76vbOIDIaf29H",
   "meta": {
     "name": "Daily Email Digest with GPT-4 Summaries to Google Docs",
-    "id": 6180,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6180
   },
   "name": "Email Summary",
   "tags": [

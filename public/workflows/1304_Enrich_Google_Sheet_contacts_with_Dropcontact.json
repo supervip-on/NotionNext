@@ -126,8 +126,7 @@
   },
   "meta": {
     "name": "Enrich Google Sheet contacts with Dropcontact",
-    "id": 1304,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1304
   },
   "id": "1304"
 }

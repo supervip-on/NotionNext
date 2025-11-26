@@ -2,8 +2,7 @@
   "id": "3BkxvtCbF6hHGUgM",
   "meta": {
     "name": "Automated Financial Tracker: Telegram Invoices to Notion with Gemini AI Reports",
-    "id": 3960,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3960
   },
   "name": "N8N Financial Tracker Telegram Invoices to Notion with AI Summaries & Reports",
   "tags": [

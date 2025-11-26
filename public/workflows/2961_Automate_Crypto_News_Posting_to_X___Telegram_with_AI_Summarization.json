@@ -2,8 +2,7 @@
   "id": "5E8JU2KX8vmhNsj5",
   "meta": {
     "name": "Automate Crypto News Posting to X & Telegram with AI Summarization",
-    "id": 2961,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2961
   },
   "name": "X/Twitter Crypto News AI-Influencer",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "DYAmOE9mHdq9X8eT",
   "meta": {
     "name": "Automate Vendor Contract Renewals & Reminders with GPT-4.1 mini, Slack & Gmail",
-    "id": 6935,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6935
   },
   "name": "Smart Vendor Contract Renewal & Reminder Workflow With GPT 4.1 mini",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "Kb8GjaSSiC75Pcdk",
   "meta": {
     "name": "Automate Sponsored Deal Email Responses with Gmail and GPT-4",
-    "id": 7525,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7525
   },
   "name": "Email Automation for Sponsored Deals",
   "tags": [],

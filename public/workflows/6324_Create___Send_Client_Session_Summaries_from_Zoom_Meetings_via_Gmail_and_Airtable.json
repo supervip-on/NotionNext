@@ -191,8 +191,7 @@
   "description": "## Description\n\nWhenever a Zoom **Meeting assets** email arrives in your Gmail inbox, this workflow:\n\n1. **Triggers** on new Gmail messages filtered by “Meeting assets.”\n2. **Extracts** from the email:\n   - Session type (e.g. “1 hour”, “2 hours”, “exploratory call”).\n   - Client’s full name.\n   - Session date & time (from the `GMT…` timestamp).\n   - Duration (`HH:MM:SS`).\n   - Recording link.\n   - Quick summary, detailed summary & next steps.\n3. **Looks up** the client in Airtable “People” by full name via HTTP Request.\n4. **Sends** a personalized Gmail to the client.\n5. **Creates** a new record in Airtable “Sessions” linking back to that client.\n\n> 📒 Sticky notes guide credential setup.\n> 🔐 No API keys are hard‑coded—use n8n credentials.",
   "meta": {
     "name": "Create & Send Client Session Summaries from Zoom Meetings via Gmail and Airtable",
-    "id": 6324,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6324
   },
   "id": "6324"
 }

@@ -2,8 +2,7 @@
   "id": "vlMC5yAtCsK2Jwte",
   "meta": {
     "name": "Daily Business News Summary with OpenAI and Gmail from Multiple RSS Sources",
-    "id": 8621,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8621
   },
   "name": "Daily Business News",
   "tags": [],

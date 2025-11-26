@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Multi-Platform Social Media Publisher with Airtable, Google Drive, and Postiz",
-    "id": 5943,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5943
   },
   "name": "social media content publishing",
   "tags": [],

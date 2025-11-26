@@ -2,8 +2,7 @@
   "id": "GUsJXoE0d02fP7ii",
   "meta": {
     "name": "Generate AI-Powered Morning Briefs from ClickUp to Slack and Gmail with GPT-4o",
-    "id": 9410,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9410
   },
   "name": "Automate Daily Morning Brief Generation from ClickUp to Slack and Gmail using GPT-4",
   "tags": [],

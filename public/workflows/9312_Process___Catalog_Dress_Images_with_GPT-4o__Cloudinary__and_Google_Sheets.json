@@ -2,8 +2,7 @@
   "id": "9XevkVCNXgZ53qKq",
   "meta": {
     "name": "Process & Catalog Dress Images with GPT-4o, Cloudinary, and Google Sheets",
-    "id": 9312,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9312
   },
   "name": "Upload Dress Images to Cloudinary & Log to Sheet with Azure OpenAI (GPT-4o)",
   "tags": [

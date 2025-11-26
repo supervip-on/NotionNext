@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Voice & Text Control for Home Assistant using Telegram, Whisper & Gemini",
-    "id": 8411,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8411
   },
   "nodes": [
     {

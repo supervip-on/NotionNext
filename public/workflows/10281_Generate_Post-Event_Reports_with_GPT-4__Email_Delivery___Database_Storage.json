@@ -2,8 +2,7 @@
   "id": "emSWwmKVuZ5u4kGh",
   "meta": {
     "name": "Generate Post-Event Reports with GPT-4, Email Delivery & Database Storage",
-    "id": 10281,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10281
   },
   "name": "AI-Powered Post-Event Report & Summary Generator",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Property & Restaurant Bookings with AI Voice Calls via Telegram",
-    "id": 9850,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9850
   },
   "nodes": [
     {

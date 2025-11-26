@@ -2,8 +2,7 @@
   "id": "5eFDTDVU6obMSRgd",
   "meta": {
     "name": "Instant Gmail Notifications for Google Form Submissions",
-    "id": 7432,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7432
   },
   "name": "Google Form Instant Notification",
   "tags": [

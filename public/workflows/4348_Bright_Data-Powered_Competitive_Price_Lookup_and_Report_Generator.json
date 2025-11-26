@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Bright Data-Powered Competitive Price Lookup and Report Generator",
-    "id": 4348,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4348
   },
   "nodes": [
     {

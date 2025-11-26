@@ -2,8 +2,7 @@
   "id": "3ArOXy46ZaOfvhtc",
   "meta": {
     "name": "Synchronize Slack Status Updates with Pinecone, Google Sheets & GPT-4o",
-    "id": 6019,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6019
   },
   "name": "New_CTO_and_Updating_1v1",
   "tags": [],

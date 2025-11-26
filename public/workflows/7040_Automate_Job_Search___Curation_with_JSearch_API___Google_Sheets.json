@@ -2,8 +2,7 @@
   "id": "49jPs7OkPU0PqODZ",
   "meta": {
     "name": "Automate Job Search & Curation with JSearch API & Google Sheets",
-    "id": 7040,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7040
   },
   "name": "07 - Automated Job Curation Engine",
   "tags": [],

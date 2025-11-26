@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reddit Comment Sentiment Analysis with Bright Data and Gemini AI to Google Sheets",
-    "id": 6620,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6620
   },
   "nodes": [
     {

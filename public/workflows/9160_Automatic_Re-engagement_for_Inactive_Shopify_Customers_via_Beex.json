@@ -2,8 +2,7 @@
   "id": "Hro9POa9cP9U8HVd",
   "meta": {
     "name": "Automatic Re-engagement for Inactive Shopify Customers via Beex",
-    "id": 9160,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9160
   },
   "name": "Re-engage inactive Shopify customers to Beex",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "B68FORPfxycLElJZ",
   "meta": {
     "name": "Track OpenAI Token Usage and AI Agent Metrics with Google Sheets Dashboard",
-    "id": 7231,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7231
   },
   "name": "Track LLM Token Usage and Agent Observability on Google Sheets",
   "tags": [],

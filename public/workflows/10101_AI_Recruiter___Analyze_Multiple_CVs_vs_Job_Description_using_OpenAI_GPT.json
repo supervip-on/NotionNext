@@ -2,8 +2,7 @@
   "id": "iDDUv4QXan1FQAx5",
   "meta": {
     "name": "AI Recruiter – Analyze Multiple CVs vs Job Description using OpenAI GPT",
-    "id": 10101,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10101
   },
   "name": "AI Recruiter – Multi-CV Analyzer",
   "tags": [],

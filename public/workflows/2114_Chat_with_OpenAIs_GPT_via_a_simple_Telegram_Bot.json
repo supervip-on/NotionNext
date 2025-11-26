@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Chat with OpenAIs GPT via a simple Telegram Bot",
-    "id": 2114,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2114
   },
   "nodes": [
     {

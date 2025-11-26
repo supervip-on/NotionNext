@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Manage Schedule & Contacts with Telegram Bot using GPT-4o-mini & Google Services",
-    "id": 7853,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7853
   },
   "name": "AI Personal Assistant Telegram Bot",
   "tags": [

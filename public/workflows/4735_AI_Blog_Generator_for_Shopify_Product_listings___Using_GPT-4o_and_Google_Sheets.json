@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Blog Generator for Shopify Product listings:  Using GPT-4o and Google Sheets",
-    "id": 4735,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4735
   },
   "nodes": [
     {

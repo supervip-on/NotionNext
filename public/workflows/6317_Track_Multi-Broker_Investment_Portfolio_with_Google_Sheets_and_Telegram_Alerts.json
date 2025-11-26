@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Multi-Broker Investment Portfolio with Google Sheets and Telegram Alerts",
-    "id": 6317,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6317
   },
   "nodes": [
     {

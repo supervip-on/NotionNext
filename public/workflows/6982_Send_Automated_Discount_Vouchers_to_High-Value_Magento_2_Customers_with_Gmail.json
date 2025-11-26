@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Automated Discount Vouchers to High-Value Magento 2 Customers with Gmail",
-    "id": 6982,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6982
   },
   "nodes": [
     {

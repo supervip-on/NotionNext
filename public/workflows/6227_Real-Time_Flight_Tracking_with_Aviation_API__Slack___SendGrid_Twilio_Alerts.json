@@ -2,8 +2,7 @@
   "id": "OBiYfJPbWSpeTYaU",
   "meta": {
     "name": "Real-Time Flight Tracking with Aviation API, Slack & SendGrid/Twilio Alerts",
-    "id": 6227,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6227
   },
   "name": "Real-Time Airline Schedule Monitor & Passenger Alert System",
   "tags": [],

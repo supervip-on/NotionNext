@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Shopify Store Data with RapidAPI and Save to Google Sheets",
-    "id": 8049,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8049
   },
   "nodes": [
     {

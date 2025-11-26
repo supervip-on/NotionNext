@@ -2,8 +2,7 @@
   "id": "ySznauhiBaq3fJaY",
   "meta": {
     "name": "Generate UGC Ads from Google Sheets with Fal.ai Models (nano-banana, WAN2.2, Veo3)",
-    "id": 8205,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8205
   },
   "name": "Gemini_NanoBanana_Template",
   "tags": [

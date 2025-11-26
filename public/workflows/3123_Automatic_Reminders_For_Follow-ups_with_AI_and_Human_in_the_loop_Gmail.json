@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Reminders For Follow-ups with AI and Human in the loop Gmail",
-    "id": 3123,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3123
   },
   "nodes": [
     {

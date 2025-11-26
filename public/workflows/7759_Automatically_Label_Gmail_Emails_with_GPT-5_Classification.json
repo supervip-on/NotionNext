@@ -2,8 +2,7 @@
   "id": "iPhhNVPzleZr44YK",
   "meta": {
     "name": "Automatically Label Gmail Emails with GPT-5 Classification",
-    "id": 7759,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7759
   },
   "name": "Inbox Management Agent",
   "tags": [],

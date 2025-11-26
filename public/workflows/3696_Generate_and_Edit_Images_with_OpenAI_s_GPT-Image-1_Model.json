@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate and Edit Images with OpenAI's GPT-Image-1 Model",
-    "id": 3696,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3696
   },
   "nodes": [
     {

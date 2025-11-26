@@ -2,8 +2,7 @@
   "id": "weV4UB3UBRHEfe1k",
   "meta": {
     "name": "Extract & Structure Invoice Data with Google Vision OCR, Gemini LLM & Google Sheets",
-    "id": 7302,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7302
   },
   "name": "Automated Invoice Collection & Data Extraction Using Vision API and LLM",
   "tags": [],

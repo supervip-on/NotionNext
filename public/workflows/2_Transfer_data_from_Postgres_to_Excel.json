@@ -67,8 +67,7 @@
   },
   "meta": {
     "name": "Transfer data from Postgres to Excel",
-    "id": 2,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2
   },
   "id": "2"
 }

@@ -2,8 +2,7 @@
   "id": "LRLFh0lVw2OIPJdW",
   "meta": {
     "name": "📈 Hourly Monitoring of Crypto Rates with Alpha Vantage API and Google Sheets",
-    "id": 4906,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4906
   },
   "name": "📈 Hourly Monitoring of Crypto Rates with Alpha Vantage API and Google Sheets",
   "tags": [],

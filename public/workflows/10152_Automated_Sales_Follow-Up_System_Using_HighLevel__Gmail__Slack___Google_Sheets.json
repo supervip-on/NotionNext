@@ -2,8 +2,7 @@
   "id": "HQsEQI9dgnQXbgkF",
   "meta": {
     "name": "Automated Sales Follow-Up System Using HighLevel, Gmail, Slack & Google Sheets",
-    "id": 10152,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10152
   },
   "name": "Lead Nurture Drop-off Detector",
   "tags": [],

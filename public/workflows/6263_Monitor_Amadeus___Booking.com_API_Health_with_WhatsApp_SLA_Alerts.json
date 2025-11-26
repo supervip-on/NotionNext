@@ -2,8 +2,7 @@
   "id": "T3nT9lGG91jxyLsK",
   "meta": {
     "name": "Monitor Amadeus & Booking.com API Health with WhatsApp SLA Alerts",
-    "id": 6263,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6263
   },
   "name": "Travel Supplier Monitor: Track API Health, Uptime & SLA Compliance Automatically",
   "tags": [],

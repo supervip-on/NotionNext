@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Video Transcript Search and Q&A with VLM Run, GPT-4 & Google Workspace",
-    "id": 9325,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9325
   },
   "nodes": [
     {

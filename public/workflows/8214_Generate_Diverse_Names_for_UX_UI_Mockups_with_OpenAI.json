@@ -2,8 +2,7 @@
   "id": "ENCyyiKrIdlmcYTk",
   "meta": {
     "name": "Generate Diverse Names for UX/UI Mockups with OpenAI",
-    "id": 8214,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8214
   },
   "name": "Generate AI-powered names for UX/UI mockups using any LLM model (template)",
   "tags": [

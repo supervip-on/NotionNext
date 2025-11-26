@@ -2,8 +2,7 @@
   "id": "kzecgELbo7WU1uOf",
   "meta": {
     "name": "Generate Personalized Language Learning News Digests with LLaMA-3.1 & DeepSeek AI",
-    "id": 5660,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5660
   },
   "name": "Multilingual Daily news digets",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "BAFIPGyTPnWCV0pw",
   "meta": {
     "name": "Connect AI Agents to eBay Compliance API for Listing Violation Management",
-    "id": 5573,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5573
   },
   "name": "[eBay] Compliance API MCP Server",
   "tags": [],

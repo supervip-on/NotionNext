@@ -2,8 +2,7 @@
   "id": "Lv9oRZsJbywQxyXP",
   "meta": {
     "name": "Automated Patient Response System with GPT-3.5 and Google Sheets for Dental Clinics",
-    "id": 7971,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7971
   },
   "name": "Smart Lead Welcomer (Dental)",
   "tags": [],

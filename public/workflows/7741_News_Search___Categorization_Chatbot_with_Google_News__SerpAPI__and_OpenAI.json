@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "News Search & Categorization Chatbot with Google News, SerpAPI, and OpenAI",
-    "id": 7741,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7741
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate SEO Blog Posts from Google Trends to WordPress with GPT & Perplexity AI",
-    "id": 8264,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8264
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Product Satisfaction Surveys with Telegram, Google Sheets and AI",
-    "id": 3115,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3115
   },
   "nodes": [
     {

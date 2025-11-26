@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Respond to WhatsApp Messages with AI Like a Pro!",
-    "id": 2466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2466
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "yLOJtzWgLAn6ALXD",
   "meta": {
     "name": "Transform Event Notes to LinkedIn Posts with Telegram, Google Calendar & Claude AI",
-    "id": 6464,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6464
   },
   "name": "Transform Event Notes to LinkedIn-ready Post",
   "tags": [],

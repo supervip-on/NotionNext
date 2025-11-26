@@ -2,8 +2,7 @@
   "id": "emPRhyWgxygwHgWh",
   "meta": {
     "name": "Compare SQL datasets",
-    "id": 1944,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1944
   },
   "name": "Compare 2 SQL datasets",
   "tags": [],

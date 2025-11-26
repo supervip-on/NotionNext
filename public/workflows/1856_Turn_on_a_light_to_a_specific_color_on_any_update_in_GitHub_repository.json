@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Turn on a light to a specific color on any update in GitHub repository",
-    "id": 1856,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1856
   },
   "nodes": [
     {

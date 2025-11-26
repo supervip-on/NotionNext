@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Benchmark LLM Performance on Legal Documents with Google Sheets and OpenRouter",
-    "id": 5066,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5066
   },
   "nodes": [
     {

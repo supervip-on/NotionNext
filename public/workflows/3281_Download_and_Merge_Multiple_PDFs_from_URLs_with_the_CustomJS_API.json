@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Download and Merge Multiple PDFs from URLs with the CustomJS API",
-    "id": 3281,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3281
   },
   "nodes": [
     {

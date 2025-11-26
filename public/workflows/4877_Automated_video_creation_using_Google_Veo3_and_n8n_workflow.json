@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated video creation using Google Veo3 and n8n workflow",
-    "id": 4877,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4877
   },
   "nodes": [
     {

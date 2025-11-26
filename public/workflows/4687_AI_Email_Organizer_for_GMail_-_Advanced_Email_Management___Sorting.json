@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Email Organizer for GMail - Advanced Email Management & Sorting",
-    "id": 4687,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4687
   },
   "nodes": [
     {

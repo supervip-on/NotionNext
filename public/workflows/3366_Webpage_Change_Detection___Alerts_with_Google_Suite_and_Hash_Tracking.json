@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Webpage Change Detection & Alerts with Google Suite and Hash Tracking",
-    "id": 3366,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3366
   },
   "nodes": [
     {

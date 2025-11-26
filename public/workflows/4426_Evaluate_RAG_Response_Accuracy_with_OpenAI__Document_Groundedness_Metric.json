@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Evaluate RAG Response Accuracy with OpenAI: Document Groundedness Metric",
-    "id": 4426,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4426
   },
   "nodes": [
     {

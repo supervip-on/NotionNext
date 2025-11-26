@@ -170,8 +170,7 @@
   },
   "meta": {
     "name": "Use REGEX to select date",
-    "id": 1328,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1328
   },
   "id": "1328"
 }

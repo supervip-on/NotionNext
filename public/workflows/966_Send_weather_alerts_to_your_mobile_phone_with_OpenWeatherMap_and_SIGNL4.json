@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send weather alerts to your mobile phone with OpenWeatherMap and SIGNL4",
-    "id": 966,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 966
   },
   "nodes": [
     {

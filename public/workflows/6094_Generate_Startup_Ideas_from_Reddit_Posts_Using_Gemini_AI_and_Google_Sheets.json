@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Startup Ideas from Reddit Posts Using Gemini AI and Google Sheets",
-    "id": 6094,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6094
   },
   "name": "Startup Idea Finder",
   "tags": [],

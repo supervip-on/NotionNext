@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered YouTube Meta Generator with GPT-4o, Gemini & Content Enrichment",
-    "id": 3788,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3788
   },
   "nodes": [
     {

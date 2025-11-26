@@ -2,8 +2,7 @@
   "id": "X3yVgNHnUZFVK7sb",
   "meta": {
     "name": "Generate Platform-Specific Social Media Posts with ChatGPT, Tavily & G-Sheets",
-    "id": 9998,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9998
   },
   "name": "content machine",
   "tags": [],

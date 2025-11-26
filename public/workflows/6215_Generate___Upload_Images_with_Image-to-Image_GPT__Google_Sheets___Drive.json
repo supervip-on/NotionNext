@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate & Upload Images with Image-to-Image GPT, Google Sheets & Drive",
-    "id": 6215,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6215
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "Mg7AXksWUAkq3gfL",
   "meta": {
     "name": "Monitor New CVEs for Bug Bounty Hunting with Gemini AI and Slack Alerts",
-    "id": 8283,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8283
   },
   "name": "CVE Shoten",
   "tags": [],

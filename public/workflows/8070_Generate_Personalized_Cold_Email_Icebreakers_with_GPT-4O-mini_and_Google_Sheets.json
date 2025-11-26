@@ -2,8 +2,7 @@
   "id": "8yxaQbSKa73Naaoq",
   "meta": {
     "name": "Generate Personalized Cold Email Icebreakers with GPT-4O-mini and Google Sheets",
-    "id": 8070,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8070
   },
   "name": "Cold Email Icebreaker Generator With GPT 4o-mini Template",
   "tags": [],

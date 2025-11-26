@@ -120,8 +120,7 @@
   },
   "meta": {
     "name": "Compress binary files to zip format",
-    "id": 908,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 908
   },
   "id": "908"
 }

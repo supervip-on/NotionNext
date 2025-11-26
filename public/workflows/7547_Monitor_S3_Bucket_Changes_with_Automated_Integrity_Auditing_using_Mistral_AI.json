@@ -2,8 +2,7 @@
   "id": "L1GwMC9RqS6cwzGB",
   "meta": {
     "name": "Monitor S3 Bucket Changes with Automated Integrity Auditing using Mistral AI",
-    "id": 7547,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7547
   },
   "name": "AWS S3 Object Integrity Auditor copy",
   "tags": [

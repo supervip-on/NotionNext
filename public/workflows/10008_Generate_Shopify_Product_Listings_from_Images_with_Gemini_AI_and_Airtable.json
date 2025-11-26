@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Shopify Product Listings from Images with Gemini AI and Airtable",
-    "id": 10008,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10008
   },
   "nodes": [
     {

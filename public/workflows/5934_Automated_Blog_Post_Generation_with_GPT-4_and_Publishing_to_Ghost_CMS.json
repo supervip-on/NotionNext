@@ -2,8 +2,7 @@
   "id": "ePvpXpyW3KKPjM4x",
   "meta": {
     "name": "Automated Blog Post Generation with GPT-4 and Publishing to Ghost CMS",
-    "id": 5934,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5934
   },
   "name": "OpenAI->Ghost Blog",
   "tags": [],

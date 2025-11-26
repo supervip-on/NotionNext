@@ -2,8 +2,7 @@
   "id": "Bk4bt3p0zi7Z9ETX",
   "meta": {
     "name": "Generate Invoices and Send AI-Powered Reminders with Jotform and Xero",
-    "id": 9800,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9800
   },
   "name": "Generate Invoices and Send Reminders for Customers with Jotform and Xero",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "SeCqKiu6DwEynq5h",
   "meta": {
     "name": "Meeting Management Agent",
-    "id": 7904,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7904
   },
   "name": "Meeting Booking Agent",
   "tags": [],

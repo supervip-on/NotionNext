@@ -2,8 +2,7 @@
   "id": "ChVvcDCOfzi5pame",
   "meta": {
     "name": "Convert Markdown content to Google Docs document with automatic formatting",
-    "id": 5147,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5147
   },
   "name": "Export Markdown Content do Google Docs Document",
   "tags": [

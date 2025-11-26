@@ -61,7 +61,6 @@
   },
   "meta": {
     "name": "Send Onfleet driver signup messages in Slack",
-    "id": 1532,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1532
   }
 }

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Email parser For RAG agent Powered by Gmail and Mem0",
-    "id": 7150,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7150
   },
   "nodes": [
     {

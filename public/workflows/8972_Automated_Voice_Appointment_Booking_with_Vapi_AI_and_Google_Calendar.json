@@ -2,8 +2,7 @@
   "id": "77pJCZrTmSlJBxnh",
   "meta": {
     "name": "Automated Voice Appointment Booking with Vapi AI and Google Calendar",
-    "id": 8972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8972
   },
   "name": "AI Voice Appointment Setter (Vapi + Google Calendar)",
   "tags": [],

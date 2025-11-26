@@ -2,8 +2,7 @@
   "id": "Dgu2JgEFyzKDyHqc",
   "meta": {
     "name": "Digest new YouTube videos to Slack with Google Sheets, RapidAPI & GPT-4o-mini",
-    "id": 4801,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4801
   },
   "name": "YouTube RSS to Slack DIgest",
   "tags": [

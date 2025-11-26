@@ -2,8 +2,7 @@
   "id": "hm1wXpMtuPsBRlzQ",
   "meta": {
     "name": "Manage WooCommerce Store with Natural Language using GPT-4.1 and MCP Server",
-    "id": 8769,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8769
   },
   "name": "WooCommerceMCP",
   "tags": [],

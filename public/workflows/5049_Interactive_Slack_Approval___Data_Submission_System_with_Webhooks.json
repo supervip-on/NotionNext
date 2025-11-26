@@ -2,8 +2,7 @@
   "id": "5rr11oY3PWtqx8az",
   "meta": {
     "name": "Interactive Slack Approval & Data Submission System with Webhooks",
-    "id": 5049,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5049
   },
   "name": "Slack Bot N8N Integration Hub",
   "tags": [

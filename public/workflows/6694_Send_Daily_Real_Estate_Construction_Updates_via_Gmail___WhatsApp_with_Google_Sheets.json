@@ -2,8 +2,7 @@
   "id": "Dj30tB9fIDgZhHm0",
   "meta": {
     "name": "Send Daily Real Estate Construction Updates via Gmail & WhatsApp with Google Sheets",
-    "id": 6694,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6694
   },
   "name": "Send Daily Real Estate Construction Updates to Buyers",
   "tags": [],

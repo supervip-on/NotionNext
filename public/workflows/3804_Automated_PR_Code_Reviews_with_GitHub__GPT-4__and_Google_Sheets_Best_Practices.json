@@ -2,8 +2,7 @@
   "id": "AMQub0Da16qevkJS",
   "meta": {
     "name": "Automated PR Code Reviews with GitHub, GPT-4, and Google Sheets Best Practices",
-    "id": 3804,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3804
   },
   "name": "Code Review workflow",
   "tags": [],

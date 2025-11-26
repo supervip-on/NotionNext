@@ -2,8 +2,7 @@
   "id": "f9zTmUYtY72kArnG",
   "meta": {
     "name": "Automated Stripe Dispute Alert & Case Tracking with Slack + ClickUp",
-    "id": 8952,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8952
   },
   "name": "Dispute Alert and Case track",
   "tags": [

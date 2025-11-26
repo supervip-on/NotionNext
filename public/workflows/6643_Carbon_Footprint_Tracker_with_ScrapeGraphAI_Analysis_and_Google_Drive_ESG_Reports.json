@@ -2,8 +2,7 @@
   "id": "CarbonFootprintTracker2025",
   "meta": {
     "name": "Carbon Footprint Tracker with ScrapeGraphAI Analysis and Google Drive ESG Reports",
-    "id": 6643,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6643
   },
   "name": "Carbon Footprint Tracker",
   "tags": [

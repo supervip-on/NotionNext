@@ -2,8 +2,7 @@
   "id": "G0hO05fypS8n8uYu",
   "meta": {
     "name": "INSEE Company Data Enrichment for Agile CRM (For French companies only)",
-    "id": 2633,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2633
   },
   "name": "INSEE Enrichment for Agile CRM",
   "tags": [],

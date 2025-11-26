@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert PDF to PDFA using ConvertAPI",
-    "id": 2317,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2317
   },
   "nodes": [
     {

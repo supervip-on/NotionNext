@@ -2,8 +2,7 @@
   "id": "P307QnrxpA1ddsM5",
   "meta": {
     "name": "Generate SQL queries from schema only - AI-powered",
-    "id": 2508,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2508
   },
   "name": "Generate SQL queries from schema only - AI-powered",
   "tags": [],

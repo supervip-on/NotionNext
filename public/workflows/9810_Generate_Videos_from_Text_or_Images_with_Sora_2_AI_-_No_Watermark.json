@@ -2,8 +2,7 @@
   "id": "NckSQlGF2y46Ir9x",
   "meta": {
     "name": "Generate Videos from Text or Images with Sora 2 AI - No Watermark",
-    "id": 9810,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9810
   },
   "name": "Sora 2 Video Generator - No Watermark (Minimal Setup) Added Sticky",
   "tags": [],

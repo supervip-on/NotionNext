@@ -2,8 +2,7 @@
   "id": "MIA4ozGH71fC3KCe",
   "meta": {
     "name": "Convert HTML to PDF & Extract Text from PDFs with CustomJS API",
-    "id": 3871,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3871
   },
   "name": "pdf to text",
   "tags": [],

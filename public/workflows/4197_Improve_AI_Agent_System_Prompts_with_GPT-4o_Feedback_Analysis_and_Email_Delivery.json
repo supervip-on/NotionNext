@@ -2,8 +2,7 @@
   "id": "rx7v6helgDYENRs2",
   "meta": {
     "name": "Improve AI Agent System Prompts with GPT-4o Feedback Analysis and Email Delivery",
-    "id": 4197,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4197
   },
   "name": "System Prompt Tuner",
   "tags": [],

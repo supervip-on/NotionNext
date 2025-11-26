@@ -2,8 +2,7 @@
   "id": "lFocIkQMljDaZxLO",
   "meta": {
     "name": "Track Partnerstack Affiliate Events with Google Sheets & Telegram Notifications",
-    "id": 4529,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4529
   },
   "name": "Partnerstack notifications",
   "tags": [],

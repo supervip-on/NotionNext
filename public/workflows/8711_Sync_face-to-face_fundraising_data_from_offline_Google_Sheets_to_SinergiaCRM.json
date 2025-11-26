@@ -2,8 +2,7 @@
   "id": "n3Mm8HlL7xBrM8nC",
   "meta": {
     "name": "Sync face-to-face fundraising data from offline Google Sheets to SinergiaCRM",
-    "id": 8711,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8711
   },
   "name": "Sync face-to-face fundraising data from offline Google Sheets to SinergiaCRM",
   "tags": [

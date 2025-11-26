@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Validate and Enrich JotForm Leads with Reoon Email Verification and Apollo in Sheets",
-    "id": 9391,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9391
   },
   "nodes": [
     {

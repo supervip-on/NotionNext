@@ -2,8 +2,7 @@
   "id": "0mnXbzHdP3r7Uk5p",
   "meta": {
     "name": "Manage AWS S3 with GPT-4 Agent and Google Sheets Audit Logging via Slack",
-    "id": 8586,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8586
   },
   "name": "AI-Powered AWS S3 Manager with Audit Logging in n8n (Slack/ChatOps Workflow)",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "qgOiQsPSKD08eiB3",
   "meta": {
     "name": "Extract & Transform HackerNews Data to Google Docs using Gemini 2.0 Flash",
-    "id": 5677,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5677
   },
   "name": "Extract Structured Data from HackerNews, Export to Google Docs with Google Gemini",
   "tags": [

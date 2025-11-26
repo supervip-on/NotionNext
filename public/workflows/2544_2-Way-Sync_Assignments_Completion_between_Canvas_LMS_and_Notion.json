@@ -2,8 +2,7 @@
   "id": "9OLVUSrFkmemkibm",
   "meta": {
     "name": "2-Way-Sync Assignments/Completion between Canvas LMS and Notion",
-    "id": 2544,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2544
   },
   "name": "Add Canvas Assignments to Notion",
   "tags": [],

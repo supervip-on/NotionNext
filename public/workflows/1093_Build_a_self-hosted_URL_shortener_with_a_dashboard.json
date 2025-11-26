@@ -791,8 +791,7 @@
   },
   "meta": {
     "name": "Build a self-hosted URL shortener with a dashboard",
-    "id": 1093,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1093
   },
   "id": "1093"
 }

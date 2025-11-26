@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Attendance Tagging for Zoom Webinars with KlickTipp",
-    "id": 8418,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8418
   },
   "nodes": [
     {

@@ -723,7 +723,6 @@
   },
   "meta": {
     "name": "Daily Workflow Backups to GitHub with Slack Notifications",
-    "id": 5851,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5851
   }
 }

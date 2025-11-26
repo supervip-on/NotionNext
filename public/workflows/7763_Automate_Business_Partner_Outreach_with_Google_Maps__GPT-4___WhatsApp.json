@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Business Partner Outreach with Google Maps, GPT-4 & WhatsApp",
-    "id": 7763,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7763
   },
   "nodes": [
     {

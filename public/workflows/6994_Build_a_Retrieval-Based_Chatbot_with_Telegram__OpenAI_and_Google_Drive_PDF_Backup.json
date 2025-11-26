@@ -2,8 +2,7 @@
   "id": "bsT84L413PRtrNtZ",
   "meta": {
     "name": "Build a Retrieval-Based Chatbot with Telegram, OpenAI and Google Drive PDF Backup",
-    "id": 6994,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6994
   },
   "name": "Telegram RAG Chatbot with PDF Document & Google Drive Backup",
   "tags": [

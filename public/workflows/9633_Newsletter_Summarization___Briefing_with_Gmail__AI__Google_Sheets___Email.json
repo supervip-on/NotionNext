@@ -2,8 +2,7 @@
   "id": "newsletter_automation_template",
   "meta": {
     "name": "Newsletter Summarization & Briefing with Gmail, AI, Google Sheets & Email",
-    "id": 9633,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9633
   },
   "name": "Newsletter Automation",
   "tags": [],

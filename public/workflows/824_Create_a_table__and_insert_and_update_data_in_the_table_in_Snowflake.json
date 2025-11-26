@@ -177,7 +177,6 @@
   },
   "meta": {
     "name": "Create a table, and insert and update data in the table in Snowflake",
-    "id": 824,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 824
   }
 }

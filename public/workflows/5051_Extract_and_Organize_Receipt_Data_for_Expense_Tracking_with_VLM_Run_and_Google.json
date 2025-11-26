@@ -2,8 +2,7 @@
   "id": "UzjlcNQAWoWPTBlh",
   "meta": {
     "name": "Extract and Organize Receipt Data for Expense Tracking with VLM Run and Google",
-    "id": 5051,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5051
   },
   "name": "My workflow",
   "tags": [],

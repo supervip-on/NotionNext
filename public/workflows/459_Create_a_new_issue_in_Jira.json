@@ -48,7 +48,6 @@
   },
   "meta": {
     "name": "Create a new issue in Jira",
-    "id": 459,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 459
   }
 }

@@ -320,8 +320,7 @@
   },
   "meta": {
     "name": "Automatic Invoice Detection & Reminder Creation with Gmail & Google Tasks",
-    "id": 5863,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5863
   },
   "id": "5863"
 }

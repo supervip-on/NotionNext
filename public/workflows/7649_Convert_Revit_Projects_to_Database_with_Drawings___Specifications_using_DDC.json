@@ -2,8 +2,7 @@
   "id": "KqIWWnRV00zSYMVv",
   "meta": {
     "name": "Convert Revit Projects to Database with Drawings & Specifications using DDC",
-    "id": 7649,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7649
   },
   "name": "n8n_2_All_Settings_Revit_IFC_DWG_Conversation_simple",
   "tags": [],

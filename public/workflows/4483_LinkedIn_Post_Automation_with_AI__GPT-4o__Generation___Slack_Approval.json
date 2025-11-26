@@ -2,8 +2,7 @@
   "id": "YOUR_WORKFLOW_ID",
   "meta": {
     "name": "LinkedIn Post Automation with AI (GPT-4o) Generation & Slack Approval",
-    "id": 4483,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4483
   },
   "name": "LinkedIn Post Automation with AI & Slack Approval",
   "tags": [],

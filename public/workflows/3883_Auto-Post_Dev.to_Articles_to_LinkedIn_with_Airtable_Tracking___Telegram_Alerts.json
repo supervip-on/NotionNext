@@ -2,8 +2,7 @@
   "id": "yF1HNe2ucaE81fNl",
   "meta": {
     "name": "Auto-Post Dev.to Articles to LinkedIn with Airtable Tracking & Telegram Alerts",
-    "id": 3883,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3883
   },
   "name": "Linkedin Automation",
   "tags": [],

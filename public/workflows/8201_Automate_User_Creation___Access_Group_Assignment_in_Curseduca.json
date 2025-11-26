@@ -84,8 +84,7 @@
   },
   "meta": {
     "name": "Automate User Creation & Access Group Assignment in Curseduca",
-    "id": 8201,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8201
   },
   "id": "8201"
 }

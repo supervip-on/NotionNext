@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create or Find Stripe Customers and Automatically Generate Invoices",
-    "id": 3723,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3723
   },
   "nodes": [
     {

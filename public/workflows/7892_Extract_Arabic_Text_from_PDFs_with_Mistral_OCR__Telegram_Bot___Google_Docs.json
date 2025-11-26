@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Arabic Text from PDFs with Mistral OCR, Telegram Bot & Google Docs",
-    "id": 7892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7892
   },
   "name": "Extract Arabic Text from PDFs with Mistral OCR & Telegram Bot to Google Docs",
   "nodes": [

@@ -2,8 +2,7 @@
   "id": "p9IYZT4FhYZXheFA",
   "meta": {
     "name": "Proxy Detection by IP2Proxy - MCP Server",
-    "id": 5582,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5582
   },
   "name": "IP2Proxy Proxy Detection MCP Server",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "2RGHPcQ4O1mFrJ5Z",
   "meta": {
     "name": "Notion Status-Based Alert Messages (Slack, Telegram, WhatsApp, Discord, Email)",
-    "id": 4386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4386
   },
   "name": "Notion → Alert Message",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "kbJb4VMD3SZlcS2u",
   "meta": {
     "name": "Get Exchange & Sentiment Insights with CoinMarketCap AI Agent",
-    "id": 3423,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3423
   },
   "name": "CoinMarketCap_Exchange_and_Community_Agent_Tool",
   "tags": [],

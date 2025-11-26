@@ -2,8 +2,7 @@
   "id": "chcfJgqm2NoGDQCU",
   "meta": {
     "name": "Scheduled Multi-Photo Facebook Posts with Cloudinary from Windows Directory",
-    "id": 4929,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4929
   },
   "name": "PageFB-FB-SchedulePost",
   "tags": [

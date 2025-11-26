@@ -2,8 +2,7 @@
   "id": "gH7TgPzRzkONOivn",
   "meta": {
     "name": "Customer Support & Lead Collection Chatbot with RAG, GPT-4o, Sheets & Telegram",
-    "id": 9234,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9234
   },
   "name": "Customer Support & Lead Collection Chatbot with RAG, GPT-4o & Telegram",
   "tags": [

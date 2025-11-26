@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Personalized AI Tech Newsletter Using RSS, OpenAI and Gmail",
-    "id": 3986,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3986
   },
   "nodes": [
     {

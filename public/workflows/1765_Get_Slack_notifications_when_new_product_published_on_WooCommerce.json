@@ -131,7 +131,6 @@
   },
   "meta": {
     "name": "Get Slack notifications when new product published on WooCommerce",
-    "id": 1765,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1765
   }
 }

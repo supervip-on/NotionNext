@@ -2,8 +2,7 @@
   "id": "HMoUOg8J7RzEcslH",
   "meta": {
     "name": "Extract personal data with self-hosted LLM Mistral NeMo",
-    "id": 2766,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2766
   },
   "name": "Extract personal data with a self-hosted LLM Mistral NeMo",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Trello Task Management with Telegram Notifications and Supabase Database",
-    "id": 9916,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9916
   },
   "name": "My workflow 10",
   "tags": [],

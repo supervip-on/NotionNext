@@ -2,8 +2,7 @@
   "id": "dLrtZMRZzusZDlpa",
   "meta": {
     "name": "Generate video from prompt using Vertex AI Veo 3 and upload to Google Drive",
-    "id": 5228,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5228
   },
   "name": "GoogleVertex_template",
   "tags": [],

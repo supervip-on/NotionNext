@@ -43,7 +43,6 @@
   },
   "meta": {
     "name": "Get synonyms of a German word",
-    "id": 806,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 806
   }
 }

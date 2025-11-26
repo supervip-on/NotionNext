@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Trello Board Summarization with GPT-5-Nano",
-    "id": 7612,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7612
   },
   "nodes": [
     {

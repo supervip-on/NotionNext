@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Replace Data in Google Docs from n8n Form",
-    "id": 3145,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3145
   },
   "nodes": [
     {

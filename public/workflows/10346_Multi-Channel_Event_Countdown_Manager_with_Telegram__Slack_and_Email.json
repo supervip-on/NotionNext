@@ -2,8 +2,7 @@
   "id": "zzKoXD9ufZLJcl2L",
   "meta": {
     "name": "Multi-Channel Event Countdown Manager with Telegram, Slack and Email",
-    "id": 10346,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10346
   },
   "name": "Telegram Event Countdown Bot",
   "tags": [],

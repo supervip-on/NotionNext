@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Personalized Product Recommendations via Email After Shopify Purchases",
-    "id": 6579,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6579
   },
   "nodes": [
     {

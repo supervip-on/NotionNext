@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Audio/Video Transcription in Any Language with the New ElevenLabs Model",
-    "id": 3105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3105
   },
   "nodes": [
     {

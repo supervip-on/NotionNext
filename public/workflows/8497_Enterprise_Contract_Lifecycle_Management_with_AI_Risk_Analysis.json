@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enterprise Contract Lifecycle Management with AI Risk Analysis",
-    "id": 8497,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8497
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "RRgZgaqK8c05uX4J",
   "meta": {
     "name": "Monitoring Team Capacity in Jira and Sending Alerts for Over-Allocation",
-    "id": 9686,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9686
   },
   "name": "Resource Capacity Planning:",
   "tags": [],

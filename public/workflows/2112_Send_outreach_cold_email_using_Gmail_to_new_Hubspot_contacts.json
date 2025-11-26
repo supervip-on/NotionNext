@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send outreach/cold email using Gmail to new Hubspot contacts",
-    "id": 2112,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2112
   },
   "nodes": [
     {

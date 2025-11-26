@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Instagram Stories Publishing from Google Sheets with Meta Graph API",
-    "id": 8785,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8785
   },
   "nodes": [
     {

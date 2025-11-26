@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Branded Article Images with GPT-4o, FAL Flux and Google Drive",
-    "id": 8064,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8064
   },
   "nodes": [
     {

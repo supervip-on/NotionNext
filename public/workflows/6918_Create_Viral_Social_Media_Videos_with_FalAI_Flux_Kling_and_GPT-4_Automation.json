@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Viral Social Media Videos with FalAI Flux/Kling and GPT-4 Automation",
-    "id": 6918,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6918
   },
   "nodes": [
     {

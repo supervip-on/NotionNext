@@ -2,8 +2,7 @@
   "id": "UibfNSOI8BIFzstW",
   "meta": {
     "name": "Bidirectional Company Sync between ProspectPro and HubSpot with Status Tracking",
-    "id": 8471,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8471
   },
   "name": "Template - Sync Prospects to Hubspot",
   "tags": [

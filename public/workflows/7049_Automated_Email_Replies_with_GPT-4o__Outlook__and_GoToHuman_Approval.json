@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Email Replies with GPT-4o, Outlook, and GoToHuman Approval",
-    "id": 7049,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7049
   },
   "nodes": [
     {

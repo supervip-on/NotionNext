@@ -2,8 +2,7 @@
   "id": "NPE3aLxgBrs6UNcA",
   "meta": {
     "name": "Real-time OKX Spot Market Data with GPT-4o & Telegram",
-    "id": 8609,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8609
   },
   "name": "OKX AI Agent v1.02",
   "tags": [],

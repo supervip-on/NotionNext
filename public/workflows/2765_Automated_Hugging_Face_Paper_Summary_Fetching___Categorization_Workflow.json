@@ -2,8 +2,7 @@
   "id": "FU3MrLkaTHmfdG4n",
   "meta": {
     "name": "Automated Hugging Face Paper Summary Fetching & Categorization Workflow",
-    "id": 2765,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2765
   },
   "name": "Automated Hugging Face Paper Summary Fetching & Categorization Workflow",
   "tags": [],

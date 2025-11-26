@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Telegram Bot for Data Extraction with Bright Data MCP",
-    "id": 4116,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4116
   },
   "nodes": [
     {

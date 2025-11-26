@@ -2,8 +2,7 @@
   "id": "0sz7800El6YsOEhI",
   "meta": {
     "name": "Multimodal Slack AI Assistant with Voice, Image & Video Processing",
-    "id": 9149,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9149
   },
   "name": "Slack AI Agent Base",
   "tags": [],

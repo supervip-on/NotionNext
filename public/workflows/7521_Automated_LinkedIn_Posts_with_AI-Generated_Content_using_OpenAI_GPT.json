@@ -2,8 +2,7 @@
   "id": "linkedin-auto-post-agent",
   "meta": {
     "name": "Automated LinkedIn Posts with AI-Generated Content using OpenAI GPT",
-    "id": 7521,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7521
   },
   "name": "LinkedIn Auto-Post Agent",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "QZSC8SoOX8Oj9FtE",
   "meta": {
     "name": "Capture Website Leads with Slack Notifications, Gmail Responses & Sheets Archiving",
-    "id": 7219,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7219
   },
   "name": "Website Lead Notification System with Slack Alert & Gmail",
   "tags": [],

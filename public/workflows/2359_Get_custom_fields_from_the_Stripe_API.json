@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get custom_fields from the Stripe API",
-    "id": 2359,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2359
   },
   "nodes": [
     {

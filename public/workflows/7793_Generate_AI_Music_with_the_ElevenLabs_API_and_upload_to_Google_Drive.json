@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Music with the ElevenLabs API and upload to Google Drive",
-    "id": 7793,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7793
   },
   "nodes": [
     {

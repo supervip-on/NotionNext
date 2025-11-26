@@ -2,8 +2,7 @@
   "id": "37qfTKwl5HThtkgN",
   "meta": {
     "name": "AI-Powered Lead Processing from Apify with Gemini and Google Sheets",
-    "id": 9266,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9266
   },
   "name": "AI-Powered Lead Scraping w/APIFY Scraper, Gemini Filtring, to Google Sheets",
   "tags": [],

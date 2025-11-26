@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Prevent Duplicate Processing with Redis Item State Tracking",
-    "id": 6828,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6828
   },
   "nodes": [
     {

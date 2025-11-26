@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Query Your Trello Board Using Natural Language with OpenAI GPT",
-    "id": 7618,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7618
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Text from Receipts with OCR.space Table Recognition",
-    "id": 8506,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8506
   },
   "nodes": [
     {

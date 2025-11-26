@@ -2,8 +2,7 @@
   "id": "D3YKQWTlFoSxj7lp",
   "meta": {
     "name": "Extract Product Info from Webpage Screenshots using Dumpling AI and GPT-4o",
-    "id": 4329,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4329
   },
   "name": "Extract Product Info from Webpage Screenshots using Dumpling AI and GPT-4o",
   "tags": [],

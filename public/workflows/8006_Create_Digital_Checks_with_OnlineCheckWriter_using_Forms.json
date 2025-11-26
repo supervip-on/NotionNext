@@ -2,8 +2,7 @@
   "id": "idxfWr9vP7ZT0o86",
   "meta": {
     "name": "Create Digital Checks with OnlineCheckWriter using Forms",
-    "id": 8006,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8006
   },
   "name": "OCW_QuickCheck",
   "tags": [],

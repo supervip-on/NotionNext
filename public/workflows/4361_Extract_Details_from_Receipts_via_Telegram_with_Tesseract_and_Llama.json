@@ -2,8 +2,7 @@
   "id": "V2s5idMq9qNtiMP9",
   "meta": {
     "name": " Extract Details from Receipts via Telegram with Tesseract and Llama",
-    "id": 4361,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4361
   },
   "name": "Tesseract - Money MateX",
   "tags": [],

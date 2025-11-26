@@ -2,8 +2,7 @@
   "id": "g9L52eIw9UtmEKlk",
   "meta": {
     "name": "Create Notes and Comments on Any Odoo Model Record",
-    "id": 3282,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3282
   },
   "name": "Send Log Message to Odoo",
   "tags": [],

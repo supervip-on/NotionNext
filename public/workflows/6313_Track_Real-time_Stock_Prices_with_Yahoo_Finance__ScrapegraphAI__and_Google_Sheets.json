@@ -2,8 +2,7 @@
   "id": "lWag7Am9yiDM5TBX",
   "meta": {
     "name": "Track Real-time Stock Prices with Yahoo Finance, ScrapegraphAI, and Google Sheets",
-    "id": 6313,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6313
   },
   "name": "Stock",
   "tags": [],

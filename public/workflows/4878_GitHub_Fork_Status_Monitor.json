@@ -2,8 +2,7 @@
   "id": "BnXe0TTG2ep3jJvY",
   "meta": {
     "name": "GitHub Fork Status Monitor",
-    "id": 4878,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4878
   },
   "name": "github-forked-repo-stats",
   "tags": [

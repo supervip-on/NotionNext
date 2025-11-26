@@ -2,8 +2,7 @@
   "id": "FpblHtpWHqFmqzwu",
   "meta": {
     "name": "Automate Inactive Deal Cleanup from GoHighLevel to Slack and Sheets",
-    "id": 10325,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10325
   },
   "name": "Automate Inactive Deal Cleanup from GoHighLevel to Slack and Sheets",
   "tags": [],

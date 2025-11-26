@@ -2,8 +2,7 @@
   "id": "7vlFEfwMDxHgN4T5",
   "meta": {
     "name": "Auto-like Tweets from Selected Profiles with Phantombuster & SharePoint AI Rotation",
-    "id": 8630,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8630
   },
   "name": "Twitter Auto Liking (Profile Post Extractor) - Creators Hub",
   "tags": [

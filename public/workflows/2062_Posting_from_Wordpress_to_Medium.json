@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Posting from Wordpress to Medium",
-    "id": 2062,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2062
   },
   "nodes": [
     {

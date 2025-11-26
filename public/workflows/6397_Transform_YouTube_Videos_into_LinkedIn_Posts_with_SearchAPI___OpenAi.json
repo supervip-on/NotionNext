@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transform YouTube Videos into LinkedIn Posts with SearchAPI & OpenAi",
-    "id": 6397,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6397
   },
   "name": "Transform YouTube Videos into LinkedIn Posts with SearchAPI & OpenAi",
   "tags": [],

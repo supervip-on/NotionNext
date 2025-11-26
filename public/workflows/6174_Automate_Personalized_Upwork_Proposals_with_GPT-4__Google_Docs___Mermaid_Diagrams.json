@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Personalized Upwork Proposals with GPT-4, Google Docs & Mermaid Diagrams",
-    "id": 6174,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6174
   },
   "name": "My workflow",
   "tags": [

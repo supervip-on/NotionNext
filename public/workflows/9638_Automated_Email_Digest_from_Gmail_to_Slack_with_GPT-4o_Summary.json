@@ -2,8 +2,7 @@
   "id": "pjLIqJYyE8diFDeq",
   "meta": {
     "name": "Automated Email Digest from Gmail to Slack with GPT-4o Summary",
-    "id": 9638,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9638
   },
   "name": "Daily Email Digest and Summary Bot",
   "tags": [],

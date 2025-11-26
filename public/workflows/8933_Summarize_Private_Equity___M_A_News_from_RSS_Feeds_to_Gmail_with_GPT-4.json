@@ -2,8 +2,7 @@
   "id": "S7iXi0gM8pGNQeHs",
   "meta": {
     "name": "Summarize Private Equity & M&A News from RSS Feeds to Gmail with GPT-4",
-    "id": 8933,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8933
   },
   "name": "Finance Agent copy",
   "tags": [

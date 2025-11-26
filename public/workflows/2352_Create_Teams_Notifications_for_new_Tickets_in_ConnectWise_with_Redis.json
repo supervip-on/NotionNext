@@ -2,8 +2,7 @@
   "id": "0H2mo5k35e0nzMEE",
   "meta": {
     "name": "Create Teams Notifications for new Tickets in ConnectWise with Redis",
-    "id": 2352,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2352
   },
   "name": "New Ticket Alerts to Teams",
   "tags": [],

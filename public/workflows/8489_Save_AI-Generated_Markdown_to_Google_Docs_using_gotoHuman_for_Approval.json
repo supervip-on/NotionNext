@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Save AI-Generated Markdown to Google Docs using gotoHuman for Approval",
-    "id": 8489,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8489
   },
   "nodes": [
     {

@@ -124,7 +124,6 @@
   },
   "meta": {
     "name": "Get contributors information from GitHub in Slack",
-    "id": 563,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 563
   }
 }

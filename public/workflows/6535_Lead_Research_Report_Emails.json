@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lead Research Report Emails",
-    "id": 6535,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6535
   },
   "nodes": [
     {

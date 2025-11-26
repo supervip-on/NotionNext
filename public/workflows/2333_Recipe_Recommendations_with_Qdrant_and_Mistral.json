@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Recipe Recommendations with Qdrant and Mistral",
-    "id": 2333,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2333
   },
   "nodes": [
     {

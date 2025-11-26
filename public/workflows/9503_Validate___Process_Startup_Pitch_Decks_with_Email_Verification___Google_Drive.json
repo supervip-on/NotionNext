@@ -613,7 +613,6 @@
   "description": "Automatically validates startup founder emails, stores pitch decks in Google Drive, generates professional PDF summary reports, and notifies both your team and the founders.",
   "meta": {
     "name": "Validate & Process Startup Pitch Decks with Email Verification & Google Drive",
-    "id": 9503,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9503
   }
 }

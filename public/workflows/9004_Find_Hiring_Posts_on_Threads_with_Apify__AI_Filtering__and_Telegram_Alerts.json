@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Find Hiring Posts on Threads with Apify, AI Filtering, and Telegram Alerts",
-    "id": 9004,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9004
   },
   "nodes": [
     {

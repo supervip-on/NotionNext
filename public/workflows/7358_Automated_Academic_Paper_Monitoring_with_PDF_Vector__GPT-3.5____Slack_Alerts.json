@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Academic Paper Monitoring with PDF Vector, GPT-3.5, & Slack Alerts",
-    "id": 7358,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7358
   },
   "nodes": [
     {

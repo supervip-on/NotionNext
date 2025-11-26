@@ -106,7 +106,6 @@
   },
   "meta": {
     "name": "Receive updates when a subscriber is added to a group in MailerLite",
-    "id": 759,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 759
   }
 }

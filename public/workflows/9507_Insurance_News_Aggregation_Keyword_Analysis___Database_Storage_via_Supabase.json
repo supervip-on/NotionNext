@@ -344,8 +344,7 @@
   "triggerCount": 1,
   "meta": {
     "name": "Insurance News Aggregation Keyword Analysis & Database Storage via Supabase",
-    "id": 9507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9507
   },
   "id": "9507"
 }

@@ -2,8 +2,7 @@
   "id": "giq3zqaP4QbY6LgC",
   "meta": {
     "name": " Automate Research Paper Collection with Bright Data & n8n",
-    "id": 5221,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5221
   },
   "name": "Research_Paper_Scraper_to_Google_Sheets",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "NDAfOVpefnu0AO5l",
   "meta": {
     "name": "Validate GitHub Configurations with GPT-4o-mini and Log Issues to Sheets and Slack",
-    "id": 10329,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10329
   },
   "name": "Validate GitHub Configurations with AI and Log Issues to Sheets and Slack",
   "tags": [],

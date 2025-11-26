@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Mocean Tool MCP Server 💪 both operations",
-    "id": 5121,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5121
   },
   "nodes": [
     {

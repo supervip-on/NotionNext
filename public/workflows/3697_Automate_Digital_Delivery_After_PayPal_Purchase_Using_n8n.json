@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Digital Delivery After PayPal Purchase Using n8n",
-    "id": 3697,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3697
   },
   "nodes": [
     {

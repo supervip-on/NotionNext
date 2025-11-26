@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Invoice Data from PDFs with AI - Google Sheets  Email Alerts",
-    "id": 4763,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4763
   },
   "nodes": [
     {

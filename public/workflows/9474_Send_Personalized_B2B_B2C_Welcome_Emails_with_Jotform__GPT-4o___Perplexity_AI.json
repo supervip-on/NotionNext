@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Personalized B2B/B2C Welcome Emails with Jotform, GPT-4o & Perplexity AI",
-    "id": 9474,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9474
   },
   "nodes": [
     {

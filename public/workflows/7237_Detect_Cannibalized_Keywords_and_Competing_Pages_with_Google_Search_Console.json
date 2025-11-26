@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Detect Cannibalized Keywords and Competing Pages with Google Search Console",
-    "id": 7237,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7237
   },
   "nodes": [
     {

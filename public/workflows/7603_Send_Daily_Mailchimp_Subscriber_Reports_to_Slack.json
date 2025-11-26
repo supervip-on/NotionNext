@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Daily Mailchimp Subscriber Reports to Slack",
-    "id": 7603,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7603
   },
   "nodes": [
     {

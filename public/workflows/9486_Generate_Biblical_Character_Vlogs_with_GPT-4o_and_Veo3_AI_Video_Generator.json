@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Biblical Character Vlogs with GPT-4o and Veo3 AI Video Generator",
-    "id": 9486,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9486
   },
   "nodes": [
     {

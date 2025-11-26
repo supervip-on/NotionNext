@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Meeting Attendee Enrichment with Apollo.io and Google Sheets",
-    "id": 5892,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5892
   },
   "nodes": [
     {

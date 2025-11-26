@@ -2,8 +2,7 @@
   "id": "YP981T0Pa3Ab6Dwg",
   "meta": {
     "name": "Pharmacy Inventory Alerts for Low Stock & Expiring Medicine with Google Sheets",
-    "id": 7177,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7177
   },
   "name": "Automated Pharmacy Inventory Alerts for Low Stock & Expiry Dates with Google Sheets",
   "tags": [],

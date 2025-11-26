@@ -2,8 +2,7 @@
   "id": "sNY6Ltw6Og1XvRWy",
   "meta": {
     "name": "Send Real-Time Zoho Ecommerce Order Notifications via Email",
-    "id": 6369,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6369
   },
   "name": "Zoho Ecom",
   "tags": [

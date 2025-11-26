@@ -2,8 +2,7 @@
   "id": "OxEUTQHRy461kBxF",
   "meta": {
     "name": "Convert CAD & BIM (Revit, IFC, AutoCAD) in DataBase (DataFrame)",
-    "id": 5867,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5867
   },
   "name": "n8n_1_Revit_IFC_DWG_Conversation_simple",
   "tags": [],

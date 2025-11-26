@@ -2,8 +2,7 @@
   "id": "k5YYR7a774KfacMW",
   "meta": {
     "name": "Self-Learning AI Assistant with Permanent Memory | GPT,Telegram & Pinecone RAG",
-    "id": 3183,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3183
   },
   "name": "BuildandQueryRAGOnTheFly",
   "tags": [

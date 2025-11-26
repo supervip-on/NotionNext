@@ -2,8 +2,7 @@
   "id": "Nvn78tMRNnKji7Fg",
   "meta": {
     "name": "Human in the Loop Email Response System (AI + IMAP)",
-    "id": 6082,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6082
   },
   "name": "Very simple Human in the loop system email with AI e IMAP",
   "tags": [],

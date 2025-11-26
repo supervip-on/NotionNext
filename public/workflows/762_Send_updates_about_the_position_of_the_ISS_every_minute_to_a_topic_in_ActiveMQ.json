@@ -132,7 +132,6 @@
   },
   "meta": {
     "name": "Send updates about the position of the ISS every minute to a topic in ActiveMQ",
-    "id": 762,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 762
   }
 }

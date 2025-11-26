@@ -2,8 +2,7 @@
   "id": "fUtTSVUudypSMWPr",
   "meta": {
     "name": "Generate AI Videos with OpenAI Sora 2 & Upload to Google Drive",
-    "id": 9360,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9360
   },
   "name": "Sora 2",
   "tags": [],

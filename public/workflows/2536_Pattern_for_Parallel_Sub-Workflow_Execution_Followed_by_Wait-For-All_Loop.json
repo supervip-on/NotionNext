@@ -466,8 +466,7 @@
   },
   "meta": {
     "name": "Pattern for Parallel Sub-Workflow Execution Followed by Wait-For-All Loop",
-    "id": 2536,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2536
   },
   "id": "2536"
 }

@@ -2,8 +2,7 @@
   "id": "wTI77cpLkbxsRQat",
   "meta": {
     "name": "Extract & Analyze Brand Content with Bright Data and Google Gemini",
-    "id": 3846,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3846
   },
   "name": "Brand Content Extract, Summarize & Sentiment Analysis with Bright Data",
   "tags": [

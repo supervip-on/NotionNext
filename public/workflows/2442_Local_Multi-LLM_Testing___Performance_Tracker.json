@@ -2,8 +2,7 @@
   "id": "WulUYgcXvako9hBy",
   "meta": {
     "name": "🚀 Local Multi-LLM Testing & Performance Tracker",
-    "id": 2442,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2442
   },
   "name": "Testing Mulitple Local LLM with LM Studio",
   "tags": [

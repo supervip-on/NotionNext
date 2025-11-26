@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Customer Support System with Gmail, GPT-4 & Vector Knowledge Base",
-    "id": 8196,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8196
   },
   "nodes": [
     {

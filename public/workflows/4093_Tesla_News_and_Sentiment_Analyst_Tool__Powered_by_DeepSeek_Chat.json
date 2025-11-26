@@ -2,8 +2,7 @@
   "id": "BTnE5RUvVamK64A3",
   "meta": {
     "name": "Tesla News and Sentiment Analyst Tool (Powered by DeepSeek Chat)",
-    "id": 4093,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4093
   },
   "name": "Tesla News and Sentiment Analyst Tool n8n",
   "tags": [],

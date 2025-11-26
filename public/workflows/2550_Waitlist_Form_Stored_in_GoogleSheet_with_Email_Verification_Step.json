@@ -855,8 +855,7 @@
   },
   "meta": {
     "name": "Waitlist Form Stored in GoogleSheet with Email Verification Step",
-    "id": 2550,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2550
   },
   "id": "2550"
 }

@@ -2,8 +2,7 @@
   "id": "F1ngpzitCtWY5ox2",
   "meta": {
     "name": "Automate Tweet Filtering and Replies on X with GPT and Scheduled Rotation",
-    "id": 7027,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7027
   },
   "name": "Automate professional replies to tweets from X (formerly Twitter)",
   "tags": [],

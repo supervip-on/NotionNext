@@ -2,8 +2,7 @@
   "id": "r1u4HOJu5j5sP27x",
   "meta": {
     "name": "Publish image & video to multiple social media (X, Instagram, Facebook and more)",
-    "id": 3669,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3669
   },
   "name": "Social Media Publisher",
   "tags": [],

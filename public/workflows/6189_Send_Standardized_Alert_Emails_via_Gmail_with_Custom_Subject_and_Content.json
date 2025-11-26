@@ -2,8 +2,7 @@
   "id": "17yjHH5i669dVRGk",
   "meta": {
     "name": "Send Standardized Alert Emails via Gmail with Custom Subject and Content",
-    "id": 6189,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6189
   },
   "name": "❗ Send Email Alert",
   "tags": [],

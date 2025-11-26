@@ -2,8 +2,7 @@
   "id": "yYjRbTWULZuNLXM0",
   "meta": {
     "name": "Collect and Enrich Form Leads to Gmail, Google Sheets and Discord",
-    "id": 2103,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2103
   },
   "name": "My workflow",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "pdXKsWas8IGtFKmV",
   "meta": {
     "name": "AI-Generated Account Briefs with MadKudu, OpenAI & Salesforce for Outreach",
-    "id": 6815,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6815
   },
   "name": "Generate and send MadKudu Account Brief into Outreach",
   "tags": [],

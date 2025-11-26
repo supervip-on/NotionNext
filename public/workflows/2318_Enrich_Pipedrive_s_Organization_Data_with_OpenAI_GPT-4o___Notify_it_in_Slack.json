@@ -2,8 +2,7 @@
   "id": "2318",
   "meta": {
     "name": "Enrich Pipedrive's Organization Data with OpenAI GPT-4o & Notify it in Slack",
-    "id": 2318,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2318
   },
   "name": "piepdrive-test",
   "tags": [],

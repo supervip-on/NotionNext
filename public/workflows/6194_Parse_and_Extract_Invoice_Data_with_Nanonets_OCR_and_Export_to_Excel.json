@@ -2,8 +2,7 @@
   "id": "PubBpd4HHWaOtHJV",
   "meta": {
     "name": "Parse and Extract Invoice Data with Nanonets OCR and Export to Excel",
-    "id": 6194,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6194
   },
   "name": "Nanonets Document Processing",
   "tags": [],

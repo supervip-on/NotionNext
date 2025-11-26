@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Transcribe Youtube Videos for Free with youtube-transcript.io & save to Supabase",
-    "id": 9747,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9747
   },
   "nodes": [
     {

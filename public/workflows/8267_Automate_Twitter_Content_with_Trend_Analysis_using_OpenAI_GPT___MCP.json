@@ -2,8 +2,7 @@
   "id": "8BcTtr8AdLgBa23S",
   "meta": {
     "name": "Automate Twitter Content with Trend Analysis using OpenAI GPT & MCP",
-    "id": 8267,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8267
   },
   "name": "twitter_mcp_post_scheduler",
   "tags": [],

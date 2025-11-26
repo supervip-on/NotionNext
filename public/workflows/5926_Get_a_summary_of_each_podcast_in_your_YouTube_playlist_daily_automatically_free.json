@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get a summary of each podcast in your YouTube playlist daily automatically free",
-    "id": 5926,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5926
   },
   "nodes": [
     {

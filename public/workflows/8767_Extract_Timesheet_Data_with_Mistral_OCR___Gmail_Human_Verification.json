@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Timesheet Data with Mistral OCR & Gmail Human Verification",
-    "id": 8767,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8767
   },
   "nodes": [
     {

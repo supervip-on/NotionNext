@@ -2,8 +2,7 @@
   "id": "djEQhBoL2sh0ojdA",
   "meta": {
     "name": "Automate URL Shortening with Bitly Using Llama3 Chat Interface",
-    "id": 3885,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3885
   },
   "name": "Using Bitly With Ollama Chat Model and Open Chat",
   "tags": [],

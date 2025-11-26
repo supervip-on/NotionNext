@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Curated Local News Digests with Gemini AI for Discord",
-    "id": 8991,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8991
   },
   "nodes": [
     {

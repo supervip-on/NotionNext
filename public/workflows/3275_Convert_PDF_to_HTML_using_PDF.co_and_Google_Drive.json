@@ -2,8 +2,7 @@
   "id": "3McL3itHTso0Cy10",
   "meta": {
     "name": "Convert PDF to HTML using PDF.co and Google Drive",
-    "id": 3275,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3275
   },
   "name": "Automated PDF to HTML Conversion",
   "tags": [],

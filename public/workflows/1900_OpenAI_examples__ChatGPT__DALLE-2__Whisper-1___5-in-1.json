@@ -2,8 +2,7 @@
   "id": "147",
   "meta": {
     "name": "OpenAI examples: ChatGPT, DALLE-2, Whisper-1 – 5-in-1",
-    "id": 1900,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1900
   },
   "name": "OpenAI-model-examples",
   "tags": [],

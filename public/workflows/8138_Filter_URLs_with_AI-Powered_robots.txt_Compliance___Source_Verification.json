@@ -2,8 +2,7 @@
   "id": "t2udGMy6bOMxXL5U",
   "meta": {
     "name": "Filter URLs with AI-Powered robots.txt Compliance & Source Verification",
-    "id": 8138,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8138
   },
   "name": "URL Officer - Respect robots.txt and Avoid Undesirable Sources",
   "tags": [

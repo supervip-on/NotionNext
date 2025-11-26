@@ -2,8 +2,7 @@
   "id": "4zCVyhXKummU8dD4",
   "meta": {
     "name": "Convert RSS Feeds into a Podcast with Google Gemini, Kokoro TTS, and FFmpeg",
-    "id": 6945,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6945
   },
   "name": "Daily Sports Digest",
   "tags": [],

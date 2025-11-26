@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Conversational Sales Agent for WooCommerce with GPT-4, Stripe and CRM Integration",
-    "id": 8011,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8011
   },
   "nodes": [
     {

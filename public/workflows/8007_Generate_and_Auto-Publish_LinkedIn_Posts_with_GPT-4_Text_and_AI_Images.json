@@ -2,8 +2,7 @@
   "id": "8jCMS5WazhTj6lEy",
   "meta": {
     "name": "Generate and Auto-Publish LinkedIn Posts with GPT-4 Text and AI Images",
-    "id": 8007,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8007
   },
   "name": "Auto LI Posts Template",
   "tags": [],

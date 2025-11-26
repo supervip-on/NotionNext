@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Provide latest euro exchange rates from European Central Bank via Webhook",
-    "id": 2133,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2133
   },
   "nodes": [
     {

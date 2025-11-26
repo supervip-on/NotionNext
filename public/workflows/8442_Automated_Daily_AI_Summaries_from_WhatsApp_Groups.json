@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Daily AI Summaries from WhatsApp Groups",
-    "id": 8442,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8442
   },
   "nodes": [
     {

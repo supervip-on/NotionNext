@@ -2,8 +2,7 @@
   "id": "JRk4BidOsJmNYCz3",
   "meta": {
     "name": "Automatic Personalized Sales Follow-Up with GPT-5, Pinecone, and Tavily Research",
-    "id": 8295,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8295
   },
   "name": "Automatic Inbound Sales Follow Up",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "LtLjtpYQszQ9N1I2",
   "meta": {
     "name": "Monitor LinkedIn Sales Navigator Messages with Gmail & Google Sheets Alerts",
-    "id": 9238,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9238
   },
   "name": "LinkedIn Sales Navigator Message-publish",
   "tags": [

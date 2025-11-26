@@ -120,8 +120,7 @@
   },
   "meta": {
     "name": "Use a Custom URL for Recurring Zoom Meetings",
-    "id": 2543,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2543
   },
   "id": "2543"
 }

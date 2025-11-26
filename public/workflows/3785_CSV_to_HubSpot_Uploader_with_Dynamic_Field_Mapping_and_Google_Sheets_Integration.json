@@ -707,8 +707,7 @@
   },
   "meta": {
     "name": "CSV to HubSpot Uploader with Dynamic Field Mapping and Google Sheets Integration",
-    "id": 3785,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3785
   },
   "id": "3785"
 }

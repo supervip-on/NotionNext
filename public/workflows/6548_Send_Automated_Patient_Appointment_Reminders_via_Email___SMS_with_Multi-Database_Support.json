@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send Automated Patient Appointment Reminders via Email & SMS with Multi-Database Support",
-    "id": 6548,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6548
   },
   "nodes": [
     {

@@ -260,8 +260,7 @@
   },
   "meta": {
     "name": "Automatically archive Gmail emails from Inbox",
-    "id": 2146,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2146
   },
   "id": "2146"
 }

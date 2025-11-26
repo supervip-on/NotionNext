@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI System Prompt Generator & Optimizer (n8n + OpenAI)",
-    "id": 7606,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7606
   },
   "nodes": [
     {

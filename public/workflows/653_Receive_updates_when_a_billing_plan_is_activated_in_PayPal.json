@@ -26,7 +26,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a billing plan is activated in PayPal",
-    "id": 653,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 653
   }
 }

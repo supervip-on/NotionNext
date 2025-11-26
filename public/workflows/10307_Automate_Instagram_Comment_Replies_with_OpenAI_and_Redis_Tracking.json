@@ -2,8 +2,7 @@
   "id": "nqmmC4Z0cU9UFtVk",
   "meta": {
     "name": "Automate Instagram Comment Replies with OpenAI and Redis Tracking",
-    "id": 10307,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10307
   },
   "name": "AI-Powered Instagram Comment Auto-Reply",
   "tags": [],

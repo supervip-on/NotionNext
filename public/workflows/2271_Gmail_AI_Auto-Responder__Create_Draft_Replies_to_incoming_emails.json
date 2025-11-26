@@ -2,8 +2,7 @@
   "id": "aOQANirVMuWrH0ZD",
   "meta": {
     "name": "Gmail AI Auto-Responder: Create Draft Replies to incoming emails",
-    "id": 2271,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2271
   },
   "name": "Gmail AI auto-responder: create draft replies to incoming emails",
   "tags": [],

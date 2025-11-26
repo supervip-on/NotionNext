@@ -2,8 +2,7 @@
   "id": "pPtCy6qPfEv1qNRn",
   "meta": {
     "name": "Vector Database as a Big Data Analysis Tool for AI Agents [1/3 anomaly][1/2 KNN]",
-    "id": 2654,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2654
   },
   "name": "[1/3 - anomaly detection] [1/2 - KNN classification] Batch upload dataset to Qdrant (crops dataset)",
   "tags": [

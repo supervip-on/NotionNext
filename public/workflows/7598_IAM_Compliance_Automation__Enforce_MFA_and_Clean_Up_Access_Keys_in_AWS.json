@@ -2,8 +2,7 @@
   "id": "Q0EjgXk8j2ygOvy5",
   "meta": {
     "name": "IAM Compliance Automation: Enforce MFA and Clean Up Access Keys in AWS",
-    "id": 7598,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7598
   },
   "name": "Automated AWS IAM Compliance Workflow for MFA Enforcement and Access Key Deactivation",
   "tags": [

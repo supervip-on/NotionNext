@@ -2,8 +2,7 @@
   "id": "j4Cj4lJiSvXIpi0a",
   "meta": {
     "name": "Track Play Store App Rankings with SerpApi, Baserow & Slack Alerts",
-    "id": 8036,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8036
   },
   "name": "Play Store App Rank Tracker",
   "tags": [

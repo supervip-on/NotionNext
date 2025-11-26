@@ -2,8 +2,7 @@
   "id": "W1ugowsjzt1SC4hH",
   "meta": {
     "name": " Validate Seatable Webhooks with HMAC SHA256 Authentication",
-    "id": 3439,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3439
   },
   "name": "Validate Seatable Webhooks with HMAC SHA256 Authentication",
   "tags": [],

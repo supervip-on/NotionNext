@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Social Media Campaign Images with Mistral AI & Pollinations.ai",
-    "id": 8770,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8770
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Compare LinkedIn Profiles Against Job Descriptions with Groq AI & GhostGenius",
-    "id": 8235,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8235
   },
   "nodes": [
     {

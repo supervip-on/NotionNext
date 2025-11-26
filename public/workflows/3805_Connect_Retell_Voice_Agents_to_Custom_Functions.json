@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Connect Retell Voice Agents to Custom Functions",
-    "id": 3805,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3805
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Qualified Leads from LinkedIn with Apify, GPT- 4, and Airtable",
-    "id": 4340,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4340
   },
   "name": "Generate Qualified Finance Leads from LinkedIn with Apify, GPT-4, and Airtable",
   "tags": [],

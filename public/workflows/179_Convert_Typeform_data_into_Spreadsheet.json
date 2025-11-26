@@ -139,8 +139,7 @@
   },
   "meta": {
     "name": "Convert Typeform data into Spreadsheet",
-    "id": 179,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 179
   },
   "id": "179"
 }

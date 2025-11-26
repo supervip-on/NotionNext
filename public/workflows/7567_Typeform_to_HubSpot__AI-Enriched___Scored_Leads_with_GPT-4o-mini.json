@@ -2,8 +2,7 @@
   "id": "WORKFLOW_ID_PLACEHOLDER",
   "meta": {
     "name": "Typeform to HubSpot: AI-Enriched & Scored Leads with GPT-4o-mini",
-    "id": 7567,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7567
   },
   "name": "13 - SmartScore Enrichment Engine",
   "tags": [],

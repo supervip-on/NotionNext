@@ -101,8 +101,7 @@
   },
   "meta": {
     "name": "Create, update and get a post via Discourse",
-    "id": 930,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 930
   },
   "id": "930"
 }

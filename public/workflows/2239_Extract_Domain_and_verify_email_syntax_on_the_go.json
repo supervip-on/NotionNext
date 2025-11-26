@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Domain and verify email syntax on the go",
-    "id": 2239,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2239
   },
   "nodes": [
     {

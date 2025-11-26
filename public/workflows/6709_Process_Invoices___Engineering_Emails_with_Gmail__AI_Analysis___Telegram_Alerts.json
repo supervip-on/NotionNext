@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Process Invoices & Engineering Emails with Gmail, AI Analysis & Telegram Alerts",
-    "id": 6709,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6709
   },
   "nodes": [
     {

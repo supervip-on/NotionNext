@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sync Zendesk tickets to Slack thread",
-    "id": 1820,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1820
   },
   "nodes": [
     {

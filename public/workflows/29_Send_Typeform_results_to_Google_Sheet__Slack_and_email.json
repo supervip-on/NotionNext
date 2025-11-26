@@ -133,8 +133,7 @@
   },
   "meta": {
     "name": "Send Typeform results to Google Sheet, Slack and email",
-    "id": 29,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 29
   },
   "id": "29"
 }

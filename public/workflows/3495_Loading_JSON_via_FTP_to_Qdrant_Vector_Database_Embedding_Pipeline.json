@@ -2,8 +2,7 @@
   "id": "YoUP55V241b9F2ze",
   "meta": {
     "name": "Loading JSON via FTP to Qdrant Vector Database Embedding Pipeline",
-    "id": 3495,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3495
   },
   "name": "Qdrant Vector Database Embedding Pipeline",
   "tags": [],

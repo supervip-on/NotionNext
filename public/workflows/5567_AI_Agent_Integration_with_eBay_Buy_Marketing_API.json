@@ -2,8 +2,7 @@
   "id": "44kmM0ECqkFTMjyE",
   "meta": {
     "name": "AI Agent Integration with eBay Buy Marketing API",
-    "id": 5567,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5567
   },
   "name": "[eBay] Buy Marketing API MCP Server",
   "tags": [],

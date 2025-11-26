@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Transform JSON to XML for Enhanced AI Prompt Formatting",
-    "id": 5144,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5144
   },
   "nodes": [
     {

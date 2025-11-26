@@ -2,8 +2,7 @@
   "id": "G8jRDBvwsMkkMiLN",
   "meta": {
     "name": "Vector Database as a Big Data Analysis Tool for AI Agents [3/3 - anomaly]",
-    "id": 2656,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2656
   },
   "name": "[3/3] Anomaly detection tool (crops dataset)",
   "tags": [

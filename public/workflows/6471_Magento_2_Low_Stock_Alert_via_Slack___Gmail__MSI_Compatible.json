@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Magento 2 Low Stock Alert via Slack & Gmail (MSI Compatible)",
-    "id": 6471,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6471
   },
   "nodes": [
     {

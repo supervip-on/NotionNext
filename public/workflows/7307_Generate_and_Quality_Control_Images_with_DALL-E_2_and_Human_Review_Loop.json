@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate and Quality Control Images with DALL-E 2 and Human Review Loop",
-    "id": 7307,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7307
   },
   "nodes": [
     {

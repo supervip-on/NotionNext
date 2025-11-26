@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Auto Meeting Summarizer with Google Drive, OpenAI Whisper & GPT-4 to Sheets",
-    "id": 4370,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4370
   },
   "nodes": [
     {

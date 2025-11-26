@@ -2,8 +2,7 @@
   "id": "iFQVBMkzOaaImF1b",
   "meta": {
     "name": "Video to Blog Research Automation with GPT-4o, Dumpling AI & Google Sheets",
-    "id": 6948,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6948
   },
   "name": "Turn Uploaded Videos into AI-Generated Blog Research with Dumpling AI & ChatGPT",
   "tags": [],

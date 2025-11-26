@@ -2,8 +2,7 @@
   "id": "7HFoSOJXuERT2aq8",
   "meta": {
     "name": "Generate Weekly Animal Rights Action Briefings from U.S. House Bills with Gemini AI",
-    "id": 6472,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6472
   },
   "name": "Generate weekly animal-rights action briefings from U.S. House bills",
   "tags": [],

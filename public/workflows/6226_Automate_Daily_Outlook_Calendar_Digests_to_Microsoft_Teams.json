@@ -2,8 +2,7 @@
   "id": "L4F6EnHYmVEq7SSW",
   "meta": {
     "name": "Automate Daily Outlook Calendar Digests to Microsoft Teams",
-    "id": 6226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6226
   },
   "name": "Prepare for meetings Outlook -> Teams",
   "tags": [],

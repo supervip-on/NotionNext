@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Secure Interactive Applications with WhatsApp Flows End-to-End Encryption",
-    "id": 3973,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3973
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "UsBaGY83vnyZjRoB",
   "meta": {
     "name": "Automate LinkedIn Candidates Sourcing with Google X-ray Boolean Search",
-    "id": 3259,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3259
   },
   "name": "TopSourcer - Finds LinkedIn Profiles using natural language",
   "tags": [],

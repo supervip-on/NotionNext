@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Person ICP Scoring Automation with Airtop & Google Sheets",
-    "id": 3476,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3476
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Pet Grooming Posts & Bookings with AI, Facebook & Telegram Bot",
-    "id": 7554,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7554
   },
   "nodes": [
     {

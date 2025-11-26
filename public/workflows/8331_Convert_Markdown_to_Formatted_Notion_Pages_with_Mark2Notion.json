@@ -2,8 +2,7 @@
   "id": "QGikyQ1WgZENu9e5",
   "meta": {
     "name": "Convert Markdown to Formatted Notion Pages with Mark2Notion",
-    "id": 8331,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8331
   },
   "name": "Mark2Notion Append",
   "tags": [],

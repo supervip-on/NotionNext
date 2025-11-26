@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create & Publish Instagram Carousel Posts with GPT-4.1-mini, Imgur & Graph API",
-    "id": 3693,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3693
   },
   "nodes": [
     {

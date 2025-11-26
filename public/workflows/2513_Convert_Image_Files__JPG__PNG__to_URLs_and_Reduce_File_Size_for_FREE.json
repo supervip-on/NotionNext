@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Image Files (JPG, PNG) to URLs and Reduce File Size for FREE",
-    "id": 2513,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2513
   },
   "nodes": [
     {

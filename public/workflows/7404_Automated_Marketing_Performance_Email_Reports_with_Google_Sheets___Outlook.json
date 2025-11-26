@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Marketing Performance Email Reports with Google Sheets & Outlook",
-    "id": 7404,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7404
   },
   "nodes": [
     {

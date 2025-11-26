@@ -2,8 +2,7 @@
   "id": "s1PkxgZZchk3npwR",
   "meta": {
     "name": "Automated Job Market Tracker: Upwork Scraper to Google Sheets Workflow",
-    "id": 4734,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4734
   },
   "name": "Upwork Jobs to google sheets",
   "tags": [],

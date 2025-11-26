@@ -67,7 +67,6 @@
   },
   "meta": {
     "name": "Write a file to the host machine",
-    "id": 590,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 590
   }
 }

@@ -2,8 +2,7 @@
   "id": "R6tFG45dQydBz63e",
   "meta": {
     "name": "Track n8n Community Topics with Keywords and Save to Google Sheets",
-    "id": 3152,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3152
   },
   "name": "n8n Community Topic Tracker by Keyword",
   "tags": [],

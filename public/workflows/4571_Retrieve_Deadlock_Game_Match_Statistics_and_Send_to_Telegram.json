@@ -180,7 +180,6 @@
   },
   "meta": {
     "name": "Retrieve Deadlock Game Match Statistics and Send to Telegram",
-    "id": 4571,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4571
   }
 }

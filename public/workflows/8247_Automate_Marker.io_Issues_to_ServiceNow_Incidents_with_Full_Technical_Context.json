@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Marker.io Issues to ServiceNow Incidents with Full Technical Context",
-    "id": 8247,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8247
   },
   "nodes": [
     {

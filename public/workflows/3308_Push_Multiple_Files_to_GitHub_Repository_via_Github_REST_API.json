@@ -2,8 +2,7 @@
   "id": "RtTHLr1SAwIpntKr",
   "meta": {
     "name": "Push Multiple Files to GitHub Repository via Github REST API",
-    "id": 3308,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3308
   },
   "name": "Push Multiple Files to Github Repo via Github REST API",
   "tags": [],

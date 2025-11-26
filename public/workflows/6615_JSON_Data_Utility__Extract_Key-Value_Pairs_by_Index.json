@@ -2,8 +2,7 @@
   "id": "LSZHMsAomkKlMfYR",
   "meta": {
     "name": "JSON Data Utility: Extract Key-Value Pairs by Index",
-    "id": 6615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6615
   },
   "name": "📄 Extract Key Value from JSON - n8n Workflow",
   "tags": [],

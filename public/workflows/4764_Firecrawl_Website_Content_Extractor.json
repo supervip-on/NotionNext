@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🌐 Firecrawl Website Content Extractor",
-    "id": 4764,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4764
   },
   "nodes": [
     {

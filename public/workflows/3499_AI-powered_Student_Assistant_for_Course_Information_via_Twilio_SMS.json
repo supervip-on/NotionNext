@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-powered Student Assistant for Course Information via Twilio SMS",
-    "id": 3499,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3499
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "3b1q6ZJTxeONrpUV",
   "meta": {
     "name": "🧠 FloWatch 👁️ Analyze and Diagnose n8n Workflow Errors via OpenAI and Email",
-    "id": 3595,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3595
   },
   "name": "Error Alert and Summarizer",
   "tags": [],

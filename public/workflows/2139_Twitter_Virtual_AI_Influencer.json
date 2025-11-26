@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Twitter Virtual AI Influencer",
-    "id": 2139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2139
   },
   "nodes": [
     {

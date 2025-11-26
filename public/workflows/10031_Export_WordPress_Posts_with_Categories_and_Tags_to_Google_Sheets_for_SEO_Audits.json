@@ -2,8 +2,7 @@
   "id": "XnO085uXrhMERPvb",
   "meta": {
     "name": "Export WordPress Posts with Categories and Tags to Google Sheets for SEO Audits",
-    "id": 10031,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10031
   },
   "name": "WordPress post data export to Google Sheets (based on WP Rest API)",
   "tags": [],

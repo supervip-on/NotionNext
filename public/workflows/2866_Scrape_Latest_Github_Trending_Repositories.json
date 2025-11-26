@@ -2,8 +2,7 @@
   "id": "BXfxO6faULfsy2JN",
   "meta": {
     "name": "Scrape Latest Github Trending Repositories",
-    "id": 2866,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2866
   },
   "name": "Scrape Today's Github Trend 13 Top Repositories",
   "tags": [],

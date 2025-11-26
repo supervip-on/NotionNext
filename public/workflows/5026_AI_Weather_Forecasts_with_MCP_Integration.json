@@ -2,8 +2,7 @@
   "id": "DtcpXZZBN3IgksKb",
   "meta": {
     "name": "AI Weather Forecasts with MCP Integration",
-    "id": 5026,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5026
   },
   "name": "WeatherTrax MCP Agent Demo",
   "tags": [],

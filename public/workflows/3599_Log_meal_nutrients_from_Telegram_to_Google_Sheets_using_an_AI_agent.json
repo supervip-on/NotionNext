@@ -654,8 +654,7 @@
   },
   "meta": {
     "name": "Log meal nutrients from Telegram to Google Sheets using an AI agent",
-    "id": 3599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3599
   },
   "id": "3599"
 }

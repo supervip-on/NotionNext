@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ SIGNL4 Tool MCP Server with both operations",
-    "id": 5089,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5089
   },
   "nodes": [
     {

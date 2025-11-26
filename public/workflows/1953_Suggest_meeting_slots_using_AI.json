@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Suggest meeting slots using AI",
-    "id": 1953,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1953
   },
   "nodes": [
     {

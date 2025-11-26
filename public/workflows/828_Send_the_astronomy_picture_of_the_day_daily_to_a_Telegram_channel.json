@@ -85,7 +85,6 @@
   },
   "meta": {
     "name": "Send the astronomy picture of the day daily to a Telegram channel",
-    "id": 828,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 828
   }
 }

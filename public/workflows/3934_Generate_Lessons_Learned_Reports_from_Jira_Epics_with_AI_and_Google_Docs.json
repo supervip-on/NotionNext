@@ -2,8 +2,7 @@
   "id": "U1xUqDLvBYYSU6EU",
   "meta": {
     "name": "Generate Lessons Learned Reports from Jira Epics with AI and Google Docs",
-    "id": 3934,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3934
   },
   "name": "Jira Retrospective",
   "tags": [],

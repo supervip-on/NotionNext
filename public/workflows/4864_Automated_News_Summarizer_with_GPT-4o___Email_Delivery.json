@@ -2,8 +2,7 @@
   "id": "0amwQfcJAlNBQvX6",
   "meta": {
     "name": "Automated News Summarizer with GPT-4o + Email Delivery",
-    "id": 4864,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4864
   },
   "name": "Daily News",
   "tags": [],

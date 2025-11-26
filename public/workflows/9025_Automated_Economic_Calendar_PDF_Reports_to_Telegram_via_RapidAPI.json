@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Economic Calendar PDF Reports to Telegram via RapidAPI",
-    "id": 9025,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9025
   },
   "nodes": [
     {

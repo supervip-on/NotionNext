@@ -556,7 +556,6 @@
   },
   "meta": {
     "name": "Create HubSpot contacts from LinkedIn post interactions",
-    "id": 1323,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1323
   }
 }

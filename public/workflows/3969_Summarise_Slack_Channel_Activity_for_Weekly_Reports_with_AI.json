@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Summarise Slack Channel Activity for Weekly Reports with AI",
-    "id": 3969,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3969
   },
   "nodes": [
     {

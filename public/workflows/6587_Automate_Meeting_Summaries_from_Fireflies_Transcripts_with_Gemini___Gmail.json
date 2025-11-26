@@ -2,8 +2,7 @@
   "id": "MBDLFA4yk0BfFQcM",
   "meta": {
     "name": "Automate Meeting Summaries from Fireflies Transcripts with Gemini & Gmail",
-    "id": 6587,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6587
   },
   "name": "Fireflies Meeting Transcript & Summary Automation",
   "tags": [],

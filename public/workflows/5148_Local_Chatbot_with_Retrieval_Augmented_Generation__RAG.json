@@ -2,8 +2,7 @@
   "id": "L9nteAq0NLYqIGxH",
   "meta": {
     "name": "Local Chatbot with Retrieval Augmented Generation (RAG)",
-    "id": 5148,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5148
   },
   "name": "RAG Pipeline",
   "tags": [],

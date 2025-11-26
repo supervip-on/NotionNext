@@ -94,8 +94,7 @@
   },
   "meta": {
     "name": "Download a file and upload it to an FTP Server",
-    "id": 663,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 663
   },
   "id": "663"
 }

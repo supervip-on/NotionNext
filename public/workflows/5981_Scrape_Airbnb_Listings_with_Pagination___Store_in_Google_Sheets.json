@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Scrape Airbnb Listings with Pagination & Store in Google Sheets",
-    "id": 5981,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5981
   },
   "nodes": [
     {

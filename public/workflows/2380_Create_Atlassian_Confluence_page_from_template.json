@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Atlassian Confluence page from template",
-    "id": 2380,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2380
   },
   "nodes": [
     {

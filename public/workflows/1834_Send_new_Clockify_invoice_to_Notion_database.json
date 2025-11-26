@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send new Clockify invoice to Notion database",
-    "id": 1834,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1834
   },
   "nodes": [
     {

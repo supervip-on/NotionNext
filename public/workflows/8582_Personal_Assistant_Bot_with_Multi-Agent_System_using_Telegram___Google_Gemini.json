@@ -2,8 +2,7 @@
   "id": "KQgZyhpU4EaFZaeQ",
   "meta": {
     "name": "Personal Assistant Bot with Multi-Agent System using Telegram & Google Gemini",
-    "id": 8582,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8582
   },
   "name": "Multi-Agent Telegram Bot",
   "tags": [],

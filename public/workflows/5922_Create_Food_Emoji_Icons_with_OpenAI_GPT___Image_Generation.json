@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create Food Emoji Icons with OpenAI GPT & Image Generation",
-    "id": 5922,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5922
   },
   "nodes": [
     {

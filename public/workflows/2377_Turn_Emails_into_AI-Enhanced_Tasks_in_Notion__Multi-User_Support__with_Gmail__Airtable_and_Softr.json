@@ -2,8 +2,7 @@
   "id": "30r9acI1XVIIwAMi",
   "meta": {
     "name": "Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr",
-    "id": 2377,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2377
   },
   "name": "mails2notion V2",
   "tags": [],

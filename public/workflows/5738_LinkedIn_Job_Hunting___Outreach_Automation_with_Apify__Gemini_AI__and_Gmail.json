@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Job Hunting & Outreach Automation with Apify, Gemini AI, and Gmail",
-    "id": 5738,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5738
   },
   "nodes": [
     {

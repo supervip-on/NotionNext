@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reddit Sentiment Analysis for Apple WWDC25 with Gemini AI and Google Sheets",
-    "id": 4980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4980
   },
   "nodes": [
     {

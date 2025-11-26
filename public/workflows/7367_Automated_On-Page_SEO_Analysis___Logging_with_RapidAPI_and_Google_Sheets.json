@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated On-Page SEO Analysis & Logging with RapidAPI and Google Sheets",
-    "id": 7367,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7367
   },
   "nodes": [
     {

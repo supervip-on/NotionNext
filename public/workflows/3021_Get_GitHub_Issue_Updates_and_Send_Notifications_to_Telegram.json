@@ -2,8 +2,7 @@
   "id": "okjjim5PVb2dZUgg",
   "meta": {
     "name": "Get GitHub Issue Updates and Send Notifications to Telegram",
-    "id": 3021,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3021
   },
   "name": "FetchGithubIssues",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "X (Twitter) Brand Sentiment Analysis with Gemini AI & Slack Alerts",
-    "id": 9400,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9400
   },
   "nodes": [
     {

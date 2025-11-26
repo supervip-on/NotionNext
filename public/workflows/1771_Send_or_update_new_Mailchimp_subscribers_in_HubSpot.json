@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Send or update new Mailchimp subscribers in HubSpot",
-    "id": 1771,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1771
   },
   "nodes": [
     {

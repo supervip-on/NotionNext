@@ -92,8 +92,7 @@
   },
   "meta": {
     "name": "Add Netlify Form submissions to Airtable",
-    "id": 1253,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1253
   },
   "id": "1253"
 }

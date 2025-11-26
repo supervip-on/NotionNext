@@ -2,8 +2,7 @@
   "id": "CJqyP1XrSN9su0g1",
   "meta": {
     "name": "Telegram Shopping Assistant: Amazon Product Search with Apify & OpenRouter AI",
-    "id": 6319,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6319
   },
   "name": "Amazone Scraper",
   "tags": [],

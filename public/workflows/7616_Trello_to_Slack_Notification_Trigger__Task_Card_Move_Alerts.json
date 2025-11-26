@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": " Trello to Slack Notification Trigger: Task/Card Move Alerts ",
-    "id": 7616,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7616
   },
   "nodes": [
     {

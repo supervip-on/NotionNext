@@ -2,8 +2,7 @@
   "id": "zM0fxJvPvaZkDzxW",
   "meta": {
     "name": "Create & Share Lip-Synced Avatar Videos with Infinitalk AI & Upload to TikTok/YouTube",
-    "id": 8912,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8912
   },
   "name": "Generates talking avatar video from a video and audio file",
   "tags": [],

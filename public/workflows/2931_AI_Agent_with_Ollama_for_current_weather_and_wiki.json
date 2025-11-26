@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Agent with Ollama for current weather and wiki",
-    "id": 2931,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2931
   },
   "nodes": [
     {

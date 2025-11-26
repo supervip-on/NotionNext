@@ -53,8 +53,7 @@
   },
   "meta": {
     "name": "Send a message on Mattermost when you get a reply in Emelia",
-    "id": 1039,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1039
   },
   "id": "1039"
 }

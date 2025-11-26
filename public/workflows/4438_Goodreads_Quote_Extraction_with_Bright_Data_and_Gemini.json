@@ -2,8 +2,7 @@
   "id": "lpCfR0fpgqHfgTDW",
   "meta": {
     "name": "Goodreads Quote Extraction with Bright Data and Gemini",
-    "id": 4438,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4438
   },
   "name": "Quotes Extract with Bright Data and Google Gemini",
   "tags": [

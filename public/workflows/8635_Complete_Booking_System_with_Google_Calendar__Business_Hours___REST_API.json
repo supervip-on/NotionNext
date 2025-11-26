@@ -2,8 +2,7 @@
   "id": "TEMPLATE_WORKFLOW_ID",
   "meta": {
     "name": "Complete Booking System with Google Calendar, Business Hours & REST API",
-    "id": 8635,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8635
   },
   "name": "Complete Booking System",
   "tags": [

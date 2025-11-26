@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Autonomous Blog Publishing from YouTube Videos with ChatGPT, Sheets, Apify, Pexels & WordPress",
-    "id": 7376,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7376
   },
   "nodes": [
     {

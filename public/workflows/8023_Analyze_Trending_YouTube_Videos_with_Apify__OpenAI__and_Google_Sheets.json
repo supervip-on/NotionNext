@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Trending YouTube Videos with Apify, OpenAI, and Google Sheets",
-    "id": 8023,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8023
   },
   "nodes": [
     {

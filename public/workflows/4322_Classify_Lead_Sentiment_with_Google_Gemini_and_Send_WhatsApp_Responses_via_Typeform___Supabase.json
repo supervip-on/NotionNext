@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Classify Lead Sentiment with Google Gemini and Send WhatsApp Responses via Typeform & Supabase",
-    "id": 4322,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4322
   },
   "name": "Lead Sentiment Qualifier",
   "tags": [],

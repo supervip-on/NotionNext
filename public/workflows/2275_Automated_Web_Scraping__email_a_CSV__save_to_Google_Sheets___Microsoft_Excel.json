@@ -2,8 +2,7 @@
   "id": "swaWgPkq0xW1Jk0o",
   "meta": {
     "name": "Automated Web Scraping: email a CSV, save to Google Sheets & Microsoft Excel",
-    "id": 2275,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2275
   },
   "name": "Automated Web Scraping: email a CSV, save to Google Sheets & Microsoft Excel",
   "tags": [],

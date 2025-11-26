@@ -2,8 +2,7 @@
   "id": "6kTlui6CDAIL3vNV",
   "meta": {
     "name": "Automate Call Center Sentiment Analysis with GPT-4o-mini and Google Sheets",
-    "id": 7624,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7624
   },
   "name": "call-center-transcription-sentiment-analysis-n8n",
   "tags": [],

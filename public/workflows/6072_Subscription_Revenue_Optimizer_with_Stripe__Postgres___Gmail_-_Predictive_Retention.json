@@ -421,8 +421,7 @@
   },
   "meta": {
     "name": "Subscription Revenue Optimizer with Stripe, Postgres & Gmail - Predictive Retention",
-    "id": 6072,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6072
   },
   "id": "6072"
 }

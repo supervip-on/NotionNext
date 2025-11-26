@@ -216,8 +216,7 @@
   },
   "meta": {
     "name": "Securely Call Private Google Cloud Run APIs with JWT Authentication (Simplified)",
-    "id": 7571,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7571
   },
   "id": "7571"
 }

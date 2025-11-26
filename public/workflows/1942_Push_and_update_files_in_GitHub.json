@@ -2,8 +2,7 @@
   "id": "kdqqvoh5qZaYawq1",
   "meta": {
     "name": "Push and update files in GitHub",
-    "id": 1942,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1942
   },
   "name": "Work with GitHub | examples",
   "tags": [

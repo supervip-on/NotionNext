@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Real-Time Crypto Price Bot for Telegram with Gemini AI & CoinGecko",
-    "id": 9230,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9230
   },
   "nodes": [
     {

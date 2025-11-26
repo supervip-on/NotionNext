@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Philips Hue Tool MCP Server 💪 all 4 operations",
-    "id": 5095,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5095
   },
   "nodes": [
     {

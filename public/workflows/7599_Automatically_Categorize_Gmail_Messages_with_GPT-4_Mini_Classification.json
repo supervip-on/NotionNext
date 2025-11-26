@@ -2,8 +2,7 @@
   "id": "GW8BgSXuDRHwmSI6",
   "meta": {
     "name": "Automatically Categorize Gmail Messages with GPT-4 Mini Classification",
-    "id": 7599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7599
   },
   "name": "Simple emails classifier",
   "tags": [],

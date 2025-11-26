@@ -2,8 +2,7 @@
   "id": "REDACTED_WORKFLOW_ID",
   "meta": {
     "name": "Automated Instagram Reels Workflow ",
-    "id": 5139,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5139
   },
   "name": "insta Reel publish",
   "tags": [],

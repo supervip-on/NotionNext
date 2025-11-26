@@ -2,8 +2,7 @@
   "id": "2XAcvf09RnGLlETE",
   "meta": {
     "name": "Send Personalized HTML Welcome Emails to New Xero Contacts via SMTP",
-    "id": 7587,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7587
   },
   "name": "Automated HTML Welcome Email for New Xero Contacts",
   "tags": [],

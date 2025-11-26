@@ -2,8 +2,7 @@
   "id": "pl3YbOUdHMsDTYFE",
   "meta": {
     "name": "Build a Text & Image Responding Telegram Bot with Google Gemini 2.5 Flash",
-    "id": 9265,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9265
   },
   "name": "TelegramBOT",
   "tags": [],

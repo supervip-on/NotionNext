@@ -2,8 +2,7 @@
   "id": "klsAKNm0Q07J8RXY",
   "meta": {
     "name": "Build Website Q&A Chatbot with RAG, OpenAI GPT-4o-mini and Supabase Vector DB",
-    "id": 6212,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6212
   },
   "name": "Build RAG Chatbot for Your Website Using Supabase",
   "tags": [],

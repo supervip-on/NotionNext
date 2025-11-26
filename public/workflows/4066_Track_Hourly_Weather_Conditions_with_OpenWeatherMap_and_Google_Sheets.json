@@ -2,8 +2,7 @@
   "id": "1yA5mcestRYljmFM",
   "meta": {
     "name": "Track Hourly Weather Conditions with OpenWeatherMap and Google Sheets",
-    "id": 4066,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4066
   },
   "name": "Track Hourly Weather Conditions with OpenWeatherMap → Google Sheets",
   "tags": [

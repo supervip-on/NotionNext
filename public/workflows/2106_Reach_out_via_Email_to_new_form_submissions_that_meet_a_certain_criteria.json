@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reach out via Email to new form submissions that meet a certain criteria",
-    "id": 2106,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2106
   },
   "nodes": [
     {

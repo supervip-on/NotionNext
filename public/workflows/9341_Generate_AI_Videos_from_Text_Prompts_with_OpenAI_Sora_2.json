@@ -2,8 +2,7 @@
   "id": "HHh4OQdlW0968mQl",
   "meta": {
     "name": "Generate AI Videos from Text Prompts with OpenAI Sora 2",
-    "id": 9341,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9341
   },
   "name": "Create Sora 2 Video",
   "tags": [],

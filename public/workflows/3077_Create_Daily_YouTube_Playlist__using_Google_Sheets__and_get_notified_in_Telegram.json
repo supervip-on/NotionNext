@@ -2,8 +2,7 @@
   "id": "2LFEJVoSkeZMndiM",
   "meta": {
     "name": "Create Daily YouTube Playlist, using Google Sheets, and get notified in Telegram",
-    "id": 3077,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3077
   },
   "name": "YT AI News Playlist Creator/AI News Form Updater",
   "tags": [],

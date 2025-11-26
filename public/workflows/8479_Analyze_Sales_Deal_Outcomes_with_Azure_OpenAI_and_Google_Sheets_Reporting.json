@@ -2,8 +2,7 @@
   "id": "INCHeFIxjP8eus8J",
   "meta": {
     "name": "Analyze Sales Deal Outcomes with Azure OpenAI and Google Sheets Reporting",
-    "id": 8479,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8479
   },
   "name": "Feedback save and report generation",
   "tags": [],

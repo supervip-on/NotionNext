@@ -145,8 +145,7 @@
   },
   "meta": {
     "name": "Send new YouTube channel videos to Telegram",
-    "id": 1599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1599
   },
   "id": "1599"
 }

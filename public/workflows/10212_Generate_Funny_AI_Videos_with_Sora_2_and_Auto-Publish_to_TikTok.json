@@ -2,8 +2,7 @@
   "id": "GLcUQFi471pOAy9l",
   "meta": {
     "name": "Generate Funny AI Videos with Sora 2 and Auto-Publish to TikTok",
-    "id": 10212,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10212
   },
   "name": "Generate AI Videos (with audio), using Sora 2 and Upload to TikTok",
   "tags": [],

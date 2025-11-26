@@ -2,8 +2,7 @@
   "id": "VhEwspDqzu7ssFVE",
   "meta": {
     "name": "Multi-Source RAG System with GPT-4 Turbo, News & Academic Papers Integration",
-    "id": 6691,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6691
   },
   "name": "My workflow 2",
   "tags": [

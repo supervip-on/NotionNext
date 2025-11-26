@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert Notion to Markdown and Back to Notion",
-    "id": 2901,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2901
   },
   "nodes": [
     {

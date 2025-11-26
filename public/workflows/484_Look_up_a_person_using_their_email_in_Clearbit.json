@@ -47,7 +47,6 @@
   },
   "meta": {
     "name": "Look up a person using their email in Clearbit",
-    "id": 484,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 484
   }
 }

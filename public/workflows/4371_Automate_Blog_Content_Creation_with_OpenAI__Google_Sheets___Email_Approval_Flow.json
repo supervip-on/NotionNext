@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Blog Content Creation with OpenAI, Google Sheets & Email Approval Flow",
-    "id": 4371,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4371
   },
   "nodes": [
     {

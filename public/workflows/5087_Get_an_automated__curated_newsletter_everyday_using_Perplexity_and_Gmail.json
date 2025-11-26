@@ -2,8 +2,7 @@
   "id": "3H9yJlSwjn8E3KpP",
   "meta": {
     "name": "Get an automated, curated newsletter everyday using Perplexity and Gmail",
-    "id": 5087,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5087
   },
   "name": "Perplexity Newsletter",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create or update Mautic contact on a new Calendly event",
-    "id": 1828,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1828
   },
   "nodes": [
     {

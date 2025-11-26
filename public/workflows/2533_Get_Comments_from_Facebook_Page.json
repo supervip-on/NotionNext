@@ -2,8 +2,7 @@
   "id": "5DiXT9FykJvuElc1",
   "meta": {
     "name": "Get Comments from Facebook Page",
-    "id": 2533,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2533
   },
   "name": "Get Comments from Facebook Page",
   "tags": [],

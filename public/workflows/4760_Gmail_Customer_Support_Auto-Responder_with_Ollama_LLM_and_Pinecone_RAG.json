@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": " Gmail Customer Support Auto-Responder with Ollama LLM and Pinecone RAG",
-    "id": 4760,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4760
   },
   "nodes": [
     {

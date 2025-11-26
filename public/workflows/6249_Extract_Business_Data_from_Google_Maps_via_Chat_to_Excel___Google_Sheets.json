@@ -282,7 +282,6 @@
   },
   "meta": {
     "name": "Extract Business Data from Google Maps via Chat to Excel & Google Sheets",
-    "id": 6249,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6249
   }
 }

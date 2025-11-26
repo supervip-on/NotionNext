@@ -2,8 +2,7 @@
   "id": "kGkBDcAuzlqqWeWP",
   "meta": {
     "name": "Automate Invoice Data Extraction from Google Drive to Airtable using Nanonets OCR & Command-R",
-    "id": 10405,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10405
   },
   "name": "fin_ocr_V1.3",
   "tags": [],

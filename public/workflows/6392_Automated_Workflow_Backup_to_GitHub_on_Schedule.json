@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Workflow Backup to GitHub on Schedule",
-    "id": 6392,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6392
   },
   "nodes": [
     {

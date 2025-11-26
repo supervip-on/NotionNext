@@ -2,8 +2,7 @@
   "id": "bNmpf7UcG9TAtpqw",
   "meta": {
     "name": "Verify Domain-Based Gmail Addresses for Outreach with EmailListVerify & Google Sheets",
-    "id": 10068,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10068
   },
   "name": "ELV find gmail email (to share)",
   "tags": [],

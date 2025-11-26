@@ -38,8 +38,7 @@
   },
   "meta": {
     "name": "Execute another workflow",
-    "id": 588,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 588
   },
   "id": "588"
 }

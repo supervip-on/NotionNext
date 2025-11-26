@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Resume Analysis & Candidate Screening with JotForm, Azure OCR, GPT-4.1, Zoho CRM",
-    "id": 9540,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9540
   },
   "nodes": [
     {

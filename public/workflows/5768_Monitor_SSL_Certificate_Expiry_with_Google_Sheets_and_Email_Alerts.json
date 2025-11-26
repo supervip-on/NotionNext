@@ -2,8 +2,7 @@
   "id": "KUuDj4PoKCazr0Wb",
   "meta": {
     "name": "Monitor SSL Certificate Expiry with Google Sheets and Email Alerts",
-    "id": 5768,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5768
   },
   "name": "SSL Monitoring",
   "tags": [],

@@ -463,8 +463,7 @@
   },
   "meta": {
     "name": "Send a random recipe once a day to Telegram",
-    "id": 1425,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1425
   },
   "id": "1425"
 }

@@ -2,8 +2,7 @@
   "id": "gVsYIc202VgqnM5S",
   "meta": {
     "name": "Send Automatic WhatsApp Order Confirmations from Shopify with Rapiwa API",
-    "id": 9262,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9262
   },
   "name": "Send Automatic WhatsApp Order Confirmations from Shopify with Rapiwa API",
   "tags": [],

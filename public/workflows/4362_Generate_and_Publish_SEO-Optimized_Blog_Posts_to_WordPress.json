@@ -2,8 +2,7 @@
   "id": "lZI2xknLPhHU6gZB",
   "meta": {
     "name": "Generate and Publish SEO-Optimized Blog Posts to WordPress",
-    "id": 4362,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4362
   },
   "name": "SEO friendly - Wordpress post generator",
   "tags": [],

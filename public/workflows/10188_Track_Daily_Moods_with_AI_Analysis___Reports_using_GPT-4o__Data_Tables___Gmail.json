@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Daily Moods with AI Analysis & Reports using GPT-4o, Data Tables & Gmail",
-    "id": 10188,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10188
   },
   "nodes": [
     {

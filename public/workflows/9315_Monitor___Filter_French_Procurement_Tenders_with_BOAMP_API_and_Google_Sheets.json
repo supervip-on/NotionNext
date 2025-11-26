@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor & Filter French Procurement Tenders with BOAMP API and Google Sheets",
-    "id": 9315,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9315
   },
   "nodes": [
     {

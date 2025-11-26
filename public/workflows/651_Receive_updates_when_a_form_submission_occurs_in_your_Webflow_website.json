@@ -25,7 +25,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates when a form submission occurs in your Webflow website",
-    "id": 651,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 651
   }
 }

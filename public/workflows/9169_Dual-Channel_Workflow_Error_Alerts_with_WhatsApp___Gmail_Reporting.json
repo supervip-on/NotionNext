@@ -2,8 +2,7 @@
   "id": "kCB3MCZsbPmxhXPU",
   "meta": {
     "name": "Dual-Channel Workflow Error Alerts with WhatsApp & Gmail Reporting",
-    "id": 9169,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9169
   },
   "name": "Error workflow",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "nD50vWafpH5ROZkE",
   "meta": {
     "name": "Jira Project Management Automation with Google Gemini & MCP Server",
-    "id": 8838,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8838
   },
   "name": "JiraMCP",
   "tags": [],

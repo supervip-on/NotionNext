@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Collect Conference Feedback with Forms and Log to Excel OneDrive with Outlook Notifications",
-    "id": 4389,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4389
   },
   "nodes": [
     {

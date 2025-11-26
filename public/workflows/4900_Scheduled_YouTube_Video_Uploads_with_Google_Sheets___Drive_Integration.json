@@ -2,8 +2,7 @@
   "id": "06o12GkCUGklKpVj",
   "meta": {
     "name": "Scheduled YouTube Video Uploads with Google Sheets & Drive Integration",
-    "id": 4900,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4900
   },
   "name": "YouTube Upload Automation",
   "tags": [],

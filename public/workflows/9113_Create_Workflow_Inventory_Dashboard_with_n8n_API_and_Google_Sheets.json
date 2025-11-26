@@ -392,8 +392,7 @@
   },
   "meta": {
     "name": "Create Workflow Inventory Dashboard with n8n API and Google Sheets",
-    "id": 9113,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9113
   },
   "id": "9113"
 }

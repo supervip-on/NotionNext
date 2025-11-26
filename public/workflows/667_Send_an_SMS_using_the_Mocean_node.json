@@ -47,7 +47,6 @@
   },
   "meta": {
     "name": "Send an SMS using the Mocean node",
-    "id": 667,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 667
   }
 }

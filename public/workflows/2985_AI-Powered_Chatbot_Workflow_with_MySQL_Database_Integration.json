@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Chatbot Workflow with MySQL Database Integration",
-    "id": 2985,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2985
   },
   "nodes": [
     {

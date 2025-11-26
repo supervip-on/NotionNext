@@ -2,8 +2,7 @@
   "id": "xVWb962oKTrPDnCW",
   "meta": {
     "name": "Automated ClickUp Time Tracking Reports & Task Performance Analytics via Gmail",
-    "id": 7570,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7570
   },
   "name": "Time logs Report Clickup (BDE)",
   "tags": [],

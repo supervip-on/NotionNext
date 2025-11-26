@@ -2,8 +2,7 @@
   "id": "ZI6iraWt5DF3ohnS",
   "meta": {
     "name": "Automated Workflow Test Runner with Google Drive, Sheets & ClickUp Result Logging",
-    "id": 9408,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9408
   },
   "name": "Automated Test Run and Status Update",
   "tags": [],

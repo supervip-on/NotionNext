@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Save Gmail Attachments to Google Drive",
-    "id": 6466,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6466
   },
   "nodes": [
     {

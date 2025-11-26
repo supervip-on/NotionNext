@@ -2,8 +2,7 @@
   "id": "y76cTME4BEhw95mU",
   "meta": {
     "name": "Birthday and Ephemeris Notification (Google Contact, Telegram & Home Assistant)",
-    "id": 4462,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4462
   },
   "name": "Birthday and Ephemeris Notification (Google Contact, Telegram & Home Assistant)",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Vision RAG and Image Embeddings using Cohere Command-A and Embed v4",
-    "id": 6961,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6961
   },
   "nodes": [
     {

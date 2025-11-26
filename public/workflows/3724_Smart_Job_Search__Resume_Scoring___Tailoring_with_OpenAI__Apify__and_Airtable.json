@@ -2,8 +2,7 @@
   "id": "JI81TaHdazYM3Wld",
   "meta": {
     "name": "Smart Job Search: Resume Scoring & Tailoring with OpenAI, Apify, and Airtable",
-    "id": 3724,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3724
   },
   "name": "Automate Job Search with AI Resume Scoring & Tailoring using OpenAI, Apify, and Airtable",
   "tags": [],

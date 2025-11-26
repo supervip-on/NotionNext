@@ -11008,8 +11008,7 @@
   },
   "meta": {
     "name": "Call analyzer with AssemblyAI transcription and OpenAI assistant integration",
-    "id": 2547,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2547
   },
   "id": "2547"
 }

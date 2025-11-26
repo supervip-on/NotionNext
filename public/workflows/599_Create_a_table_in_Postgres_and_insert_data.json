@@ -107,8 +107,7 @@
   },
   "meta": {
     "name": "Create a table in Postgres and insert data",
-    "id": 599,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 599
   },
   "id": "599"
 }

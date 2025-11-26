@@ -2,8 +2,7 @@
   "id": "VroevTqXeech3Gjo",
   "meta": {
     "name": "Copy Folder Structure Without Files in Google Drive",
-    "id": 4240,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4240
   },
   "name": "📁🔁 GDrive CopyFolderStructure (n8n)",
   "tags": [

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Chat with a Google Sheet using AI",
-    "id": 2085,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2085
   },
   "nodes": [
     {

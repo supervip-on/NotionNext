@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "PDF Proposal Knowledge Base with S3, OpenAI GPT-4o & Qdrant RAG Agent",
-    "id": 7667,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7667
   },
   "nodes": [
     {

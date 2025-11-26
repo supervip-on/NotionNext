@@ -2,8 +2,7 @@
   "id": "FmBx6nhuF6oBguoL",
   "meta": {
     "name": "Send Linkedin Connection Request with Airtop",
-    "id": 4253,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4253
   },
   "name": "Send LinkedIn Connection Request",
   "tags": [],

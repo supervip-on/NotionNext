@@ -2,8 +2,7 @@
   "id": "1dnr1k4MAVbDiBmO",
   "meta": {
     "name": "TwentyCRM event based updates on selective messaging channels with logs",
-    "id": 2509,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2509
   },
   "name": "Get event triggered notifications / updates on preferred messaging channels with TwentyCRM",
   "tags": [],

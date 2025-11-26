@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered HighLevel CRM Automation with GPT and MCP for Contact and Task Management",
-    "id": 7342,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7342
   },
   "nodes": [
     {

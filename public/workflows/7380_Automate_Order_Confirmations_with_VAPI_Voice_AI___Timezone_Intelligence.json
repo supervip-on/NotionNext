@@ -928,8 +928,7 @@
   "triggerCount": 2,
   "meta": {
     "name": "Automate Order Confirmations with VAPI Voice AI & Timezone Intelligence",
-    "id": 7380,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7380
   },
   "id": "7380"
 }

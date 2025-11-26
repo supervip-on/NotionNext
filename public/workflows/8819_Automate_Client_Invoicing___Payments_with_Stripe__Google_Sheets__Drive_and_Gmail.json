@@ -2,8 +2,7 @@
   "id": "vJ0wZhatRHwADMcn",
   "meta": {
     "name": "Automate Client Invoicing & Payments with Stripe, Google Sheets, Drive and Gmail",
-    "id": 8819,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8819
   },
   "name": "AutoInvoicing",
   "tags": [],

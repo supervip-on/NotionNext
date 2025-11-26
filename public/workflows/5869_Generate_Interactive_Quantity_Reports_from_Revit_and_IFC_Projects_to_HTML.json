@@ -2,8 +2,7 @@
   "id": "1PiujxH54akz4wxk",
   "meta": {
     "name": "Generate Interactive Quantity Reports from Revit and IFC Projects to HTML",
-    "id": 5869,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5869
   },
   "name": "n8n_9_CAD_BIM_Quantity_TakeOff_HTML_Report_Generator",
   "tags": [],

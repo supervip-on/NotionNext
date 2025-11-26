@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate AI Images in Bulk with Freepik, Google Sheets & Drive",
-    "id": 7334,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7334
   },
   "nodes": [
     {

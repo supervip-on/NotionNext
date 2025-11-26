@@ -164,8 +164,7 @@
   },
   "meta": {
     "name": "Automated Upwork Messages Alerts to Slack with Gmail and Google Gemini AI",
-    "id": 6600,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6600
   },
   "id": "6600"
 }

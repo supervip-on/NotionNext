@@ -71,7 +71,6 @@
   },
   "meta": {
     "name": "Get DNS entries of any domain with uProc",
-    "id": 862,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 862
   }
 }

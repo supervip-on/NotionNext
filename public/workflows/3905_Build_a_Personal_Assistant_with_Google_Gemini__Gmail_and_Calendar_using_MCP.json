@@ -2,8 +2,7 @@
   "id": "KhUd3rHKtZAImiXZ",
   "meta": {
     "name": "Build a Personal Assistant with Google Gemini, Gmail and Calendar using MCP",
-    "id": 3905,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3905
   },
   "name": "Personal Assistant MCP server",
   "tags": [],

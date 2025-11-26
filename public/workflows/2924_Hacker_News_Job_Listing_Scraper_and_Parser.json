@@ -2,8 +2,7 @@
   "id": "0JsHmmyeHw5Ffz5m",
   "meta": {
     "name": "Hacker News Job Listing Scraper and Parser",
-    "id": 2924,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2924
   },
   "name": "HN Who is Hiring Scrape",
   "tags": [],

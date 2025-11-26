@@ -2,8 +2,7 @@
   "id": "VqgG9dsRgPuxiNDW",
   "meta": {
     "name": "Create a Private Document Q&A System with Llama3, Postgres, Qdrant and Google Drive",
-    "id": 5508,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5508
   },
   "name": "n8n local test",
   "tags": [],

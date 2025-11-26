@@ -2,8 +2,7 @@
   "id": "wbY4XFrDGp8DBQgi",
   "meta": {
     "name": "Extract Business Emails from Google Maps Search Results to Google Sheets",
-    "id": 6085,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6085
   },
   "name": "Google Maps - Crawl Email By Keyword",
   "tags": [],

@@ -255,8 +255,7 @@
   },
   "meta": {
     "name": "Send alert when data is created in app/database",
-    "id": 1932,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1932
   },
   "id": "1932"
 }

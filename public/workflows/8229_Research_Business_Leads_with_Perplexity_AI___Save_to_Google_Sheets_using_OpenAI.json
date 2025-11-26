@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Research Business Leads with Perplexity AI & Save to Google Sheets using OpenAI",
-    "id": 8229,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8229
   },
   "nodes": [
     {

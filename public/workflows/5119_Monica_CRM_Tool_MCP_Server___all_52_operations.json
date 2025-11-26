@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "🛠️ Monica CRM Tool MCP Server 💪 all 52 operations",
-    "id": 5119,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5119
   },
   "nodes": [
     {

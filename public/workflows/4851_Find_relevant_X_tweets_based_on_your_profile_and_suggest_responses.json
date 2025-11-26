@@ -2,8 +2,7 @@
   "id": "kMKlrWsoDftOxsqE",
   "meta": {
     "name": "Find relevant X tweets based on your profile and suggest responses",
-    "id": 4851,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4851
   },
   "name": "X Tweet Suggestions",
   "tags": [],

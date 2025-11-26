@@ -147,8 +147,7 @@
   },
   "meta": {
     "name": "Detect toxic language in Telegram messages",
-    "id": 1216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1216
   },
   "id": "1216"
 }

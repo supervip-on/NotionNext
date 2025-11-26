@@ -2,8 +2,7 @@
   "id": "RiKOVQcW472o1Hfu",
   "meta": {
     "name": "Automate Prescription Delivery via Google Sheets to Email & WhatsApp",
-    "id": 7325,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7325
   },
   "name": "Send Prescription to Patients via Email & WhatsApp",
   "tags": [],

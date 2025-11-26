@@ -230,8 +230,7 @@
   },
   "meta": {
     "name": "Run weekly inventories on Shopify sales ",
-    "id": 1207,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1207
   },
   "id": "1207"
 }

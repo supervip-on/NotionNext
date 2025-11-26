@@ -2,8 +2,7 @@
   "id": "ao9ZV2CMJSI4HjOc",
   "meta": {
     "name": "Audio-to-Trello Task Bot",
-    "id": 5293,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5293
   },
   "name": "Telegram tasker bot",
   "tags": [],

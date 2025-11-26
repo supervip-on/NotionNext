@@ -2,8 +2,7 @@
   "id": "ZKVoifRi8EOLPfvj",
   "meta": {
     "name": "Collect Company Social Media Profiles with Extruct AI to Google Sheets",
-    "id": 5380,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5380
   },
   "name": "Social Presence Enrichment Flow",
   "tags": [],

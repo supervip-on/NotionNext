@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Market Research Reports from Google Maps Reviews with Gemini AI",
-    "id": 6928,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6928
   },
   "nodes": [
     {

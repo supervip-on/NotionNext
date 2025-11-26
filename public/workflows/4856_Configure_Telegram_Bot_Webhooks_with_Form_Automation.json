@@ -2,8 +2,7 @@
   "id": "BpTvf5dZvJNwRVzq",
   "meta": {
     "name": "Configure Telegram Bot Webhooks with Form Automation",
-    "id": 4856,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4856
   },
   "name": "🤖 Telegram Bot Webhook Configuration Tool",
   "tags": [],

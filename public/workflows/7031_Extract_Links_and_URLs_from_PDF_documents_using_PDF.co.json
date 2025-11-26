@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Links and URLs from PDF documents using PDF.co",
-    "id": 7031,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7031
   },
   "nodes": [
     {

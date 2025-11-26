@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "RAG Starter Template using Simple Vector Stores, Form trigger and OpenAI",
-    "id": 5010,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5010
   },
   "nodes": [
     {

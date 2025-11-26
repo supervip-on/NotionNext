@@ -2,8 +2,7 @@
   "id": "qfERlqqAvDjUMxQZ",
   "meta": {
     "name": "Automate PDF Purchase Orders to Sales Orders in Adobe Commerce with AI",
-    "id": 8388,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8388
   },
   "name": "PDF-to-order",
   "tags": [],

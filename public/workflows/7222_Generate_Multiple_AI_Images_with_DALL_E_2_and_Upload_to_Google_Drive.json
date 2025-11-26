@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Multiple AI Images with DALL·E 2 and Upload to Google Drive",
-    "id": 7222,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7222
   },
   "nodes": [
     {

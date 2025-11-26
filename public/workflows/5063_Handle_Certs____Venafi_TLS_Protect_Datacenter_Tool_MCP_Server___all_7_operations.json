@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Handle Certs 🛠️ Venafi TLS Protect Datacenter Tool MCP Server 💪 all 7 operations",
-    "id": 5063,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5063
   },
   "nodes": [
     {

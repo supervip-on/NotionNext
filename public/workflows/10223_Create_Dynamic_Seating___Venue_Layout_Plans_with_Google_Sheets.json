@@ -2,8 +2,7 @@
   "id": "XOs7YXaXmcGasosl",
   "meta": {
     "name": "Create Dynamic Seating & Venue Layout Plans with Google Sheets",
-    "id": 10223,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10223
   },
   "name": "Dynamic Seating & Venue Layout Planner",
   "tags": [],

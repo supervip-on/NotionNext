@@ -2,8 +2,7 @@
   "id": "b0EWHpE3oRHtGdwh",
   "meta": {
     "name": "Generate Academic Assignments with Google Gemini & Deliver via Telegram/PDF",
-    "id": 7369,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7369
   },
   "name": "AI-Powered Academic Assignment Generator",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "lLSGdfDV5YquV47C",
   "meta": {
     "name": "Generate Data Pipeline Blueprints with Claude 3.5, Slack, and Tavily Search",
-    "id": 5740,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5740
   },
   "name": "ArchitectureAgent",
   "tags": [],

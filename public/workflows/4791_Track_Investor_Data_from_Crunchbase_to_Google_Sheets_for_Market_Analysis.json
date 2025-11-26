@@ -2,8 +2,7 @@
   "id": "8hRFK0iEjVKmthLq",
   "meta": {
     "name": "Track Investor Data from Crunchbase to Google Sheets for Market Analysis",
-    "id": 4791,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4791
   },
   "name": "CrunchBase Invester Data",
   "tags": [],

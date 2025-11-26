@@ -2,8 +2,7 @@
   "id": "jHlW6EeIz7q0yHDz",
   "meta": {
     "name": "Extract LinkedIn Profiles with Apify & Auto-Generate Lead Data for Google Sheets CRM",
-    "id": 6116,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6116
   },
   "name": "LinkedIn Lead Generation & CRM Automation Suite\"",
   "tags": [],

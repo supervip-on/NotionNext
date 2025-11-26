@@ -2,8 +2,7 @@
   "id": "E1CD2pH99IVoXnwp",
   "meta": {
     "name": "Manage Personal Expenses with Webhooks and Google Sheets Automated Tracker",
-    "id": 5517,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5517
   },
   "name": "Personal expense tracker",
   "tags": [],

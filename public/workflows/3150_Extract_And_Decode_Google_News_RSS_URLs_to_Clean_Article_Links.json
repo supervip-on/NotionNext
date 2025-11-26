@@ -2,8 +2,7 @@
   "id": "3JsfhcDcjqxx0hr3",
   "meta": {
     "name": "Extract And Decode Google News RSS URLs to Clean Article Links",
-    "id": 3150,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3150
   },
   "name": "Extract And Decode Google News RSS URLs to Clean Article Links",
   "tags": [

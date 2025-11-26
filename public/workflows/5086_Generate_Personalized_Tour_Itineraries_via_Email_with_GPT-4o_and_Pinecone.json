@@ -2,8 +2,7 @@
   "id": "obE4a3B9M3SO2GcU",
   "meta": {
     "name": "Generate Personalized Tour Itineraries via Email with GPT-4o and Pinecone",
-    "id": 5086,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5086
   },
   "name": "AI-Based Tour Itineraries via Email Using OpenAI & Pinecone Vector Search",
   "tags": [

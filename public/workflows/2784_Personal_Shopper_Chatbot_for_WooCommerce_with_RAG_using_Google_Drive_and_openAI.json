@@ -2,8 +2,7 @@
   "id": "fqQcmSdoVqnPeGHj",
   "meta": {
     "name": "Personal Shopper Chatbot for WooCommerce with RAG using Google Drive and openAI ",
-    "id": 2784,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2784
   },
   "name": "OpenAI Personal Shopper with RAG and WooCommerce",
   "tags": [],

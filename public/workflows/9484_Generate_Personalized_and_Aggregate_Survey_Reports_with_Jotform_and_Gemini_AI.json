@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Personalized and Aggregate Survey Reports with Jotform and Gemini AI",
-    "id": 9484,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9484
   },
   "nodes": [
     {

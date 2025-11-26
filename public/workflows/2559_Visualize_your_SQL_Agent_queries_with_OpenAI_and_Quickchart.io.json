@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Visualize your SQL Agent queries with OpenAI and Quickchart.io",
-    "id": 2559,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2559
   },
   "nodes": [
     {

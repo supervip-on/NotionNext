@@ -2,8 +2,7 @@
   "id": "RFldRNPrwo9SKlfl",
   "meta": {
     "name": "Generate LinkedIn Posts with Gemini Content & Imagen Images for Instant Publishing",
-    "id": 6772,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6772
   },
   "name": "Final-Linkein-post with image copy",
   "tags": [],

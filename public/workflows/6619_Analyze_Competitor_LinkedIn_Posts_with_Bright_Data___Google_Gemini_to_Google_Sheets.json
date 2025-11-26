@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze Competitor LinkedIn Posts with Bright Data + Google Gemini to Google Sheets",
-    "id": 6619,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6619
   },
   "nodes": [
     {

@@ -132,7 +132,6 @@
   },
   "meta": {
     "name": "Upload video, create playlist and add video to playlist",
-    "id": 638,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 638
   }
 }

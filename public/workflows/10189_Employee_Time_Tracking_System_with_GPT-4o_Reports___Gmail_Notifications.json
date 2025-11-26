@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Employee Time Tracking System with GPT-4o Reports & Gmail Notifications",
-    "id": 10189,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10189
   },
   "nodes": [
     {

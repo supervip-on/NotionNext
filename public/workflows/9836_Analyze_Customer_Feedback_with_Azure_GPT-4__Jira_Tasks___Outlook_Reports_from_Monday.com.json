@@ -2,8 +2,7 @@
   "id": "lgj2XcZly50vMqKU",
   "meta": {
     "name": "Analyze Customer Feedback with Azure GPT-4, Jira Tasks & Outlook Reports from Monday.com",
-    "id": 9836,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9836
   },
   "name": "AI-Driven Feedback Classification and Reporting from Monday.com and Jira to Outlook",
   "tags": [],

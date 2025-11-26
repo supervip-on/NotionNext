@@ -2,8 +2,7 @@
   "id": "IwOOVikQC7cn9VTv",
   "meta": {
     "name": "Perform a domain search  with Icypeas (single)",
-    "id": 2012,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2012
   },
   "name": "Perform a domain search (single) with Icypeas",
   "tags": [],

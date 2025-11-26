@@ -2,8 +2,7 @@
   "id": "OGdHKG9jhEKDrZAC",
   "meta": {
     "name": "Generate Weekly Meta Ads Report with GPT-4 Insights and Slack Delivery",
-    "id": 5386,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5386
   },
   "name": "AI-Powered Meta Ads Weekly PDF Report –  Sends to your Slack or Email",
   "tags": [],

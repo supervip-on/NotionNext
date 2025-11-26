@@ -2,8 +2,7 @@
   "id": "39pmihe4FUZNNFnQ",
   "meta": {
     "name": "LLM Usage Tracker & Cost Monitor with Node-Level Analytics (v2)",
-    "id": 7398,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7398
   },
   "name": "LLM Cost Tracking",
   "tags": [],

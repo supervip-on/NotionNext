@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Free Udemy Courses Automatically with RapidAPI and Google Sheets",
-    "id": 8248,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8248
   },
   "nodes": [
     {

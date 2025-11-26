@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate SEO Keyword Search Volume Data using Google API",
-    "id": 2494,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2494
   },
   "nodes": [
     {

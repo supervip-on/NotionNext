@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Invoice Data Extraction with LlamaParse, Gemini 2.5 & Google Sheets",
-    "id": 5739,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5739
   },
   "nodes": [
     {

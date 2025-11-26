@@ -2,8 +2,7 @@
   "id": "tnR20GpQTEWVMayy",
   "meta": {
     "name": "Claude 3.7 Sonnet AI Chatbot Agent with Anthropic Web Search and Think Functions",
-    "id": 4036,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4036
   },
   "name": "Claude 3.7 Sonnet AI Agent with web search and Think functions",
   "tags": [],

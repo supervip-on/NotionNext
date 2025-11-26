@@ -2,8 +2,7 @@
   "id": "E7mxB80W3c9Uweby",
   "meta": {
     "name": "Automate Document Ingestion & RAG System with Google Drive, Sheets & OpenAI",
-    "id": 8312,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8312
   },
   "name": "IngestionDocs",
   "tags": [],

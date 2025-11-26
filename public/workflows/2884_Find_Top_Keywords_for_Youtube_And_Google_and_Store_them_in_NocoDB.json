@@ -2,8 +2,7 @@
   "id": "SHgOqN3ednIo5gNu",
   "meta": {
     "name": "Find Top Keywords for Youtube And Google and Store them in NocoDB",
-    "id": 2884,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2884
   },
   "name": "Find Top Keywords",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "cpuFyJYHKmjHTncz",
   "meta": {
     "name": "Adaptive RAG Strategy with Query Classification & Retrieval (Gemini & Qdrant)",
-    "id": 3459,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3459
   },
   "name": "Adaptive RAG",
   "tags": [],

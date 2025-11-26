@@ -692,7 +692,6 @@
   },
   "meta": {
     "name": "Automated Stock News Alerts with Google RSS, Gemini & Telegram Notifications",
-    "id": 5712,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5712
   }
 }

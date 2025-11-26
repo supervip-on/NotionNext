@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "LinkedIn Lead Generation with GPT-4o, Apify Scraping, and Automated Outreach",
-    "id": 7182,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7182
   },
   "nodes": [
     {

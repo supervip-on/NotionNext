@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create a Domains-Index API Server with Full Operation Access for AI Agents",
-    "id": 5495,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5495
   },
   "nodes": [
     {

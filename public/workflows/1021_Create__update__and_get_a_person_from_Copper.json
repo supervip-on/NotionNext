@@ -118,8 +118,7 @@
   },
   "meta": {
     "name": "Create, update, and get a person from Copper",
-    "id": 1021,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1021
   },
   "id": "1021"
 }

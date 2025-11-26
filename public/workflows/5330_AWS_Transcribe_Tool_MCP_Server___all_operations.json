@@ -2,8 +2,7 @@
   "id": "2LHnQy6dukuG0VBo",
   "meta": {
     "name": "🛠️ AWS Transcribe Tool MCP Server 💪 all operations",
-    "id": 5330,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5330
   },
   "name": "AWS Transcribe Tool MCP Server",
   "tags": [],

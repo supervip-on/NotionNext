@@ -2,8 +2,7 @@
   "id": "x6Okdw4fJBa0Rszr",
   "meta": {
     "name": "eBay Finances Data Access for AI Agents with MCP Server Integration",
-    "id": 5534,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5534
   },
   "name": "eBay Finances API MCP Server",
   "tags": [],

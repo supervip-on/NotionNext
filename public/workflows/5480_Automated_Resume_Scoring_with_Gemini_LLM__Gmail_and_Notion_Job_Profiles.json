@@ -2,8 +2,7 @@
   "id": "mvUbYpf0JBicQBvw",
   "meta": {
     "name": "Automated Resume Scoring with Gemini LLM, Gmail and Notion Job Profiles",
-    "id": 5480,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5480
   },
   "name": "Resume JD Matching",
   "tags": [],

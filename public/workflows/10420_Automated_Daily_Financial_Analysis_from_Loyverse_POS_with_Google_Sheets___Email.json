@@ -2,8 +2,7 @@
   "id": "LtlVKYumh3ovfRvp",
   "meta": {
     "name": "Automated Daily Financial Analysis from Loyverse POS with Google Sheets & Email",
-    "id": 10420,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10420
   },
   "name": "Loyverse Sales Report Agent",
   "tags": [

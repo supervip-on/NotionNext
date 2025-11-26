@@ -2,8 +2,7 @@
   "id": "W1xEzKKEd1qV2D7V",
   "meta": {
     "name": "Convert Gumroad Sales to Beehiiv Subscribers with Sheets & Telegram Alerts",
-    "id": 3715,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3715
   },
   "name": "2. Add Beehiiv newsletter subscribers from Gumroad sales",
   "tags": [

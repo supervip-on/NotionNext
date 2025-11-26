@@ -2,8 +2,7 @@
   "id": "60MChp5jIxapZVCq",
   "meta": {
     "name": "Automate IT Support: Convert Emails to Jira Tickets with AI Resolution",
-    "id": 6735,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6735
   },
   "name": "SmartSupport Flow: Auto-Handle IT Requests from Email to Jira with Slack notification",
   "tags": [],

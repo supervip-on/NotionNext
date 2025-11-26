@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI chat with any data source (using the n8n workflow tool)",
-    "id": 2026,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2026
   },
   "nodes": [
     {

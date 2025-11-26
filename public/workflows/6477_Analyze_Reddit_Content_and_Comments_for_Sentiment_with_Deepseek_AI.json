@@ -2,8 +2,7 @@
   "id": "TEMPLATE_WORKFLOW_ID",
   "meta": {
     "name": "Analyze Reddit Content and Comments for Sentiment with Deepseek AI",
-    "id": 6477,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6477
   },
   "name": "Reddit Sentiment Analysis",
   "tags": [],

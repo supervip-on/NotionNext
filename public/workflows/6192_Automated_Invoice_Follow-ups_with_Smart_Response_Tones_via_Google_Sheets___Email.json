@@ -2,8 +2,7 @@
   "id": "RdYMo0ozk6r4oyLm",
   "meta": {
     "name": "Automated Invoice Follow-ups with Smart Response Tones via Google Sheets & Email",
-    "id": 6192,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6192
   },
   "name": "Invoice Follow Up Agent",
   "tags": [],

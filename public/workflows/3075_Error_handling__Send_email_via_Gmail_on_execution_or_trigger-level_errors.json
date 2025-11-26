@@ -2,8 +2,7 @@
   "id": "vnhhf9aNsw0kzdBV",
   "meta": {
     "name": "Error handling: Send email via Gmail on execution or trigger-level errors",
-    "id": 3075,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3075
   },
   "name": "CV Evaluation - Error Handling",
   "tags": [

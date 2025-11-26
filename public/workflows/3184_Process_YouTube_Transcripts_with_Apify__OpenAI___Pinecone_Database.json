@@ -2,8 +2,7 @@
   "id": "Vlyhg8yXcCMMVq7k",
   "meta": {
     "name": "🚀 Process YouTube Transcripts with Apify, OpenAI & Pinecone Database",
-    "id": 3184,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3184
   },
   "name": "YT RAG Agent Backend Transcript-format-pineconeUpsert",
   "tags": [],

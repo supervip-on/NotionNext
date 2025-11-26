@@ -2,8 +2,7 @@
   "id": "KQbawPw1ywuc0eGO",
   "meta": {
     "name": "Generate Invoices and Send AI-Summarized Reminders with Jotform and QuickBooks",
-    "id": 9752,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9752
   },
   "name": "Generate Invoices and Send Reminders for Customers with Jotform and QuickBooks",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Daily Workflow Backups to Google Drive with Cleanup",
-    "id": 9779,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9779
   },
   "nodes": [
     {

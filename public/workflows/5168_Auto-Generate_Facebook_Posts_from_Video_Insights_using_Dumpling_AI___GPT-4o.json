@@ -2,8 +2,7 @@
   "id": "AKfISaE8hA8EZPhV",
   "meta": {
     "name": "Auto-Generate Facebook Posts from Video Insights using Dumpling AI + GPT-4o",
-    "id": 5168,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5168
   },
   "name": "Auto-Generate Facebook Posts from Video Insights with Dumpling AI + GPT-4o",
   "tags": [],

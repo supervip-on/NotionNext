@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Host your own Uptime Monitoring with Scheduled Triggers",
-    "id": 2327,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2327
   },
   "nodes": [
     {

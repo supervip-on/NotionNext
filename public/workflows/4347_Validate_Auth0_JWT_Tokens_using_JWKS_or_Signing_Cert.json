@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Validate Auth0 JWT Tokens using JWKS or Signing Cert",
-    "id": 4347,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4347
   },
   "nodes": [
     {

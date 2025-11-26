@@ -2,8 +2,7 @@
   "id": "wajtvVV6VdE7BApE",
   "meta": {
     "name": "Build a Personalized Birthday AI Companion with GPT-4 and PostgreSQL",
-    "id": 5721,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5721
   },
   "name": "FifiBirthdayFlow",
   "tags": [],

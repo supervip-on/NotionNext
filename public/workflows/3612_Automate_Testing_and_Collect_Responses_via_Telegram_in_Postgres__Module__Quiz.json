@@ -2,8 +2,7 @@
   "id": "Tetxh8UaZ85ELSAL",
   "meta": {
     "name": "Automate Testing and Collect Responses via Telegram in Postgres (Module \"Quiz\")",
-    "id": 3612,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3612
   },
   "name": "TG-Bot-Module-Quiz-v4-db-sell-full",
   "tags": [

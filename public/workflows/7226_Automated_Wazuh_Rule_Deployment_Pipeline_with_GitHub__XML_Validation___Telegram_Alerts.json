@@ -2,8 +2,7 @@
   "id": "ycZ4TnsQsex77CYk",
   "meta": {
     "name": "Automated Wazuh Rule Deployment Pipeline with GitHub, XML Validation & Telegram Alerts",
-    "id": 7226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7226
   },
   "name": "Wazuh RuleOpsX – Auto-Validate, Deploy & Elevate Detection",
   "tags": [],

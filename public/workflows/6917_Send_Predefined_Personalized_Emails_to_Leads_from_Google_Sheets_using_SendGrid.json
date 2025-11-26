@@ -2,8 +2,7 @@
   "id": "bRqE6ZhtVXke3fyU",
   "meta": {
     "name": "Send Predefined Personalized Emails to Leads from Google Sheets using SendGrid",
-    "id": 6917,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6917
   },
   "name": "Predefined Personalized Email Workflow",
   "tags": [],

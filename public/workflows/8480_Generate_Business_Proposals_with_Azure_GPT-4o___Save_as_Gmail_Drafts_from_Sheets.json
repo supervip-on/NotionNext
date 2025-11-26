@@ -2,8 +2,7 @@
   "id": "uM6YAMBuMgbu0VKt",
   "meta": {
     "name": "Generate Business Proposals with Azure GPT-4o & Save as Gmail Drafts from Sheets",
-    "id": 8480,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8480
   },
   "name": "Proposal generation_draft save automation",
   "tags": [],

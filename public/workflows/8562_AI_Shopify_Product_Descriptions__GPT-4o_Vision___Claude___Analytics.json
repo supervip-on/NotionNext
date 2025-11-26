@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Shopify Product Descriptions: GPT-4o Vision + Claude + Analytics",
-    "id": 8562,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8562
   },
   "nodes": [
     {

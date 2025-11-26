@@ -2,8 +2,7 @@
   "id": "guoSdgPOMDBnq6GW",
   "meta": {
     "name": "Automated Funding Intelligence: CrunchBase to Google Sheets Tracking Workflow",
-    "id": 4730,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4730
   },
   "name": "Crunchbase funding rounds",
   "tags": [],

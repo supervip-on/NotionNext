@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Lead Capture with AI Personalized WhatsApp Messages via Unipile & Google Sheets CRM",
-    "id": 5907,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5907
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "5910",
   "meta": {
     "name": "Auto-Generate and Post Instagram Reels with Veo3, OpenAI, and Blotato",
-    "id": 5910,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5910
   },
   "name": "Veo3 Instagram Agent Workflow",
   "tags": [],

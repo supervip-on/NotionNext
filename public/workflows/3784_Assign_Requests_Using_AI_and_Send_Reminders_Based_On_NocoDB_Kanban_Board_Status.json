@@ -2,8 +2,7 @@
   "id": "E2hq7z4ANLoL5vw1",
   "meta": {
     "name": "Assign Requests Using AI and Send Reminders Based On NocoDB Kanban Board Status",
-    "id": 3784,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3784
   },
   "name": "Noco Kanban Board with AI Prioritization",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "9DnO7e6sTnzOsBor",
   "meta": {
     "name": "Fetch Country-Specific Google Trends Reports via Telegram Bot",
-    "id": 6108,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6108
   },
   "name": "MS_TRENDS",
   "tags": [],

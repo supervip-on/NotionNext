@@ -2,8 +2,7 @@
   "id": "4LGHvpa2PjTNwGc1",
   "meta": {
     "name": "Create Daily Newsletter Digests from Gmail using GPT-4.1-mini",
-    "id": 7255,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7255
   },
   "name": "email → email public",
   "tags": [

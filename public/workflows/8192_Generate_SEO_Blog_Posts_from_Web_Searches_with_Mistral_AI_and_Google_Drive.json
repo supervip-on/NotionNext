@@ -2,8 +2,7 @@
   "id": "uAafXfQMgdewr4Nu",
   "meta": {
     "name": "Generate SEO Blog Posts from Web Searches with Mistral AI and Google Drive",
-    "id": 8192,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8192
   },
   "name": "scraping article on keyword",
   "tags": [],

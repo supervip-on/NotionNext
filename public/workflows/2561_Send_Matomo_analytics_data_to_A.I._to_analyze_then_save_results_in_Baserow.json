@@ -2,8 +2,7 @@
   "id": "PRQhetYFkuhxntVH",
   "meta": {
     "name": "Send Matomo analytics data to A.I. to analyze then save results in Baserow",
-    "id": 2561,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2561
   },
   "name": "Matomo Analytics Report",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "TzPKUZdrlcTUenHQ",
   "meta": {
     "name": "Match CVs to Job Descriptions with Gemini Analysis & Email Reports",
-    "id": 8637,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8637
   },
   "name": "AI CV Optimizer",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "SocialMediaSentimentDashboard2024",
   "meta": {
     "name": "Social Media Sentiment Analysis Dashboard with Custom AI for Twitter, Reddit & LinkedIn",
-    "id": 6430,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6430
   },
   "name": "Social Media Sentiment Dashboard",
   "tags": [

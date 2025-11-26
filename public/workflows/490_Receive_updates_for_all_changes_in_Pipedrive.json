@@ -21,7 +21,6 @@
   "connections": {},
   "meta": {
     "name": "Receive updates for all changes in Pipedrive",
-    "id": 490,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 490
   }
 }

@@ -2,8 +2,7 @@
   "id": "ug9yvyLsKpTuerra",
   "meta": {
     "name": "Scrape Google Maps leads to Google Sheets via Apify",
-    "id": 6634,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6634
   },
   "name": "Template Google Maps Scraper via Apify in Google Sheets",
   "tags": [],

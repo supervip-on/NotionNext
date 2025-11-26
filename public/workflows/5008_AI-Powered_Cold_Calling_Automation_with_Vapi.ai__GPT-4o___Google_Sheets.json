@@ -2,8 +2,7 @@
   "id": "w8kzaOLDAa5IlK5X",
   "meta": {
     "name": "AI-Powered Cold Calling Automation with Vapi.ai, GPT-4o & Google Sheets",
-    "id": 5008,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5008
   },
   "name": "Cold calling loop",
   "tags": [

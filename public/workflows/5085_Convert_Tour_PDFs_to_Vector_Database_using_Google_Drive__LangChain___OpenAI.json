@@ -2,8 +2,7 @@
   "id": "9wzQXONqaSbZWXqh",
   "meta": {
     "name": "Convert Tour PDFs to Vector Database using Google Drive, LangChain & OpenAI",
-    "id": 5085,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5085
   },
   "name": "Tour Package Recomendation Database - Process Tour PDF",
   "tags": [

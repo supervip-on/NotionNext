@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Monitor Brand Mentions on X with Gemini AI Visual Analysis & Telegram Alerts",
-    "id": 8355,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8355
   },
   "nodes": [
     {

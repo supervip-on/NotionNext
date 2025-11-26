@@ -2,8 +2,7 @@
   "id": "RVpmgXJQMYQlZLVC",
   "meta": {
     "name": "Inserting Brevo Contact Reports into NocoDB",
-    "id": 9364,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9364
   },
   "name": "Insert Brevo Contact Report into NocoDB",
   "tags": [

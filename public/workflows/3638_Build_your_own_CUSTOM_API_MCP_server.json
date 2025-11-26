@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build your own CUSTOM API MCP server",
-    "id": 3638,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3638
   },
   "nodes": [
     {

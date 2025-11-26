@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Image Validation Tasks using AI Vision",
-    "id": 2420,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2420
   },
   "nodes": [
     {

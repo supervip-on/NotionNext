@@ -2,8 +2,7 @@
   "id": "x4DcB7sVAeVmIrMD",
   "meta": {
     "name": "Extract Invoice Data from Google Drive to Sheets with Mistral OCR and Gemini",
-    "id": 4868,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4868
   },
   "name": "Invoice-Parser-Lite",
   "tags": [],

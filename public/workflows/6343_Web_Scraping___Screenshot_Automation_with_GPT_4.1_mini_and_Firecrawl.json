@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Web Scraping & Screenshot Automation with GPT 4.1 mini and Firecrawl",
-    "id": 6343,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6343
   },
   "nodes": [
     {

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Analyze USD/JPY Rates with AI and Tavily News Search for Email Reporting",
-    "id": 9550,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9550
   },
   "name": "Analyze USD/JPY rate and email results every 4 hours",
   "tags": [],

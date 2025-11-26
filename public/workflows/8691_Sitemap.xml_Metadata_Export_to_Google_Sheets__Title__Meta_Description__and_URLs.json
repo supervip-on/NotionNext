@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Sitemap.xml Metadata Export to Google Sheets (Title, Meta Description, and URLs)",
-    "id": 8691,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8691
   },
   "nodes": [
     {

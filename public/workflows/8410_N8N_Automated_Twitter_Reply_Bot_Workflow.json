@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "N8N Automated Twitter Reply Bot Workflow",
-    "id": 8410,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8410
   },
   "nodes": [
     {

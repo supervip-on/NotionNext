@@ -2,8 +2,7 @@
   "id": "Nhz3FZFOC8cVSIgl",
   "meta": {
     "name": "Validate n8n JSON Workflows with GPT-4 & LangChain: Google Drive to Sheets",
-    "id": 6368,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6368
   },
   "name": "Json check automation",
   "tags": [],

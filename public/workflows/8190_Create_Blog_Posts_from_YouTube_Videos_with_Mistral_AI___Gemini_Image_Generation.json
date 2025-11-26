@@ -2,8 +2,7 @@
   "id": "Om4qDYsgc5ktgxvZ",
   "meta": {
     "name": "Create Blog Posts from YouTube Videos with Mistral AI & Gemini Image Generation",
-    "id": 8190,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8190
   },
   "name": "youtube video se blog",
   "tags": [],

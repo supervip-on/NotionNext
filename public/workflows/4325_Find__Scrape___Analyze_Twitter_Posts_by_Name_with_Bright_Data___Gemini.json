@@ -2,8 +2,7 @@
   "id": "AbtPK2RrW116HBH3",
   "meta": {
     "name": "Find, Scrape & Analyze Twitter Posts by Name with Bright Data & Gemini",
-    "id": 4325,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4325
   },
   "name": "Find Twitter Profile by Name, Scrape Posts & Analyze Content with AI, save in Google Sheets.",
   "tags": [],

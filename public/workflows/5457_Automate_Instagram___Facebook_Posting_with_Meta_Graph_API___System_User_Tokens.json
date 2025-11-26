@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Instagram & Facebook Posting with Meta Graph API & System User Tokens",
-    "id": 5457,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5457
   },
   "nodes": [
     {

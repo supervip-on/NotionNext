@@ -92,8 +92,7 @@
   },
   "meta": {
     "name": "Sync data between multiple Google Spreadsheets",
-    "id": 6,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6
   },
   "id": "6"
 }

@@ -46,7 +46,6 @@
   },
   "meta": {
     "name": "Create a ticket in Zendesk",
-    "id": 496,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 496
   }
 }

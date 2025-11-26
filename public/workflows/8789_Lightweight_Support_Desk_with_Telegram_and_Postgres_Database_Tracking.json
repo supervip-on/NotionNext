@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Lightweight Support Desk with Telegram and Postgres Database Tracking",
-    "id": 8789,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8789
   },
   "nodes": [
     {

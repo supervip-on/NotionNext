@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Landing Page Conversion Optimizer with Gemini 2.5-pro & Telegram",
-    "id": 6962,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6962
   },
   "nodes": [
     {

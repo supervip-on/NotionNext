@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate RSS Content to Blog Posts with GPT-4o, WordPress & LinkedIn Publishing",
-    "id": 4226,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4226
   },
   "nodes": [
     {

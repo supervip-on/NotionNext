@@ -2,8 +2,7 @@
   "id": "amcM1ga8xVDcFEbm",
   "meta": {
     "name": "Monitor VPS Security with GPT-4 Mini Analysis via SSH and Telegram Alerts",
-    "id": 8792,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8792
   },
   "name": "ProcessMonitor2",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "gAzsjTGbfWuvAObi",
   "meta": {
     "name": "Automated End-to-End Fine-Tuning of OpenAI Models with Google Drive Integration",
-    "id": 2781,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2781
   },
   "name": "Fine-tuning with OpenAI models",
   "tags": [

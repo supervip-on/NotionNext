@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatically Close Cold HubSpot Deals with Gmail Feedback & Slack Notifications",
-    "id": 9096,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9096
   },
   "name": "Cold Deal Closure Workflow",
   "tags": [],

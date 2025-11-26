@@ -2,8 +2,7 @@
   "id": "PcVz6j5XLU7Z9MPN",
   "meta": {
     "name": "Daily Personalized Air & Pollen Health Alerts with Ambee API and AI via Email",
-    "id": 3699,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3699
   },
   "name": "AirQuality Scheduler",
   "tags": [],

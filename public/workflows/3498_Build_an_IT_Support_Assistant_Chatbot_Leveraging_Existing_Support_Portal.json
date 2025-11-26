@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build an IT Support Assistant Chatbot Leveraging Existing Support Portal",
-    "id": 3498,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3498
   },
   "nodes": [
     {

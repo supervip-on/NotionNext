@@ -2,8 +2,7 @@
   "id": "jCs5Yhd71bxr5Ktc",
   "meta": {
     "name": "Summarize youtube videos from transcript for social media",
-    "id": 5292,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5292
   },
   "name": "Summarize youtube videos from transcript for social media",
   "tags": [

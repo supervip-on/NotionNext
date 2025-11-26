@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Security Reconnaissance with Google Dorks, Parsera Scraping, and Gmail Reports",
-    "id": 5980,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5980
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "DMhzwW0cXxIdPi3r",
   "meta": {
     "name": "Build a RAG-powered AI Assistant with OpenAI, Google Drive & Supabase Vector DB",
-    "id": 3250,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3250
   },
   "name": "Template Supabase Postgres",
   "tags": [],

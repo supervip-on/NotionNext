@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Dynamic MongoDB Knowledge Base Chatbot with OpenAI GPT",
-    "id": 6622,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6622
   },
   "nodes": [
     {

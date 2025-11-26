@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Gmail Email Triage with Eisenhower Matrix and GPT-4.1-mini",
-    "id": 7753,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7753
   },
   "nodes": [
     {

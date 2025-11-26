@@ -54,8 +54,7 @@
   },
   "meta": {
     "name": "Serve a static HTML page when a link is accessed",
-    "id": 1306,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1306
   },
   "id": "1306"
 }

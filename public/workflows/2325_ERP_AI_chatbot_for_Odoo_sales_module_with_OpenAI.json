@@ -2,8 +2,7 @@
   "id": "n8cwEZfJLGn15Lqx",
   "meta": {
     "name": "ERP AI chatbot for Odoo sales module with OpenAI",
-    "id": 2325,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2325
   },
   "name": "ERP AI chatbot for Odoo sales module",
   "tags": [],

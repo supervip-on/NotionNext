@@ -2,8 +2,7 @@
   "id": "Jd7X52ywyO4xTZoE",
   "meta": {
     "name": "Automatically Transcribe Telegram Voice Messages with OpenAI Whisper & Google Workspace",
-    "id": 7123,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7123
   },
   "name": "🎙️ VoiceScribe AI: Telegram Audio Message Auto Transcription with OpenAI Whisper",
   "tags": [

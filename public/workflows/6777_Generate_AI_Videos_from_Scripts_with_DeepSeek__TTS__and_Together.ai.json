@@ -2,8 +2,7 @@
   "id": "p6ZGlBlqg4mNUqot",
   "meta": {
     "name": "Generate AI Videos from Scripts with DeepSeek, TTS, and Together.ai",
-    "id": 6777,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6777
   },
   "name": "automated-video-generator",
   "tags": [],

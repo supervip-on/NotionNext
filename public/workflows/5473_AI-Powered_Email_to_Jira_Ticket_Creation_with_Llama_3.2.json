@@ -2,8 +2,7 @@
   "id": "IIsrIl8ZXuHxxrrN",
   "meta": {
     "name": "AI-Powered Email to Jira Ticket Creation with Llama 3.2",
-    "id": 5473,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5473
   },
   "name": "Email-to-Jira Auto Ticket Creator (AI-powered) with n8n",
   "tags": [],

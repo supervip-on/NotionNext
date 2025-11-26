@@ -45,8 +45,7 @@
   },
   "meta": {
     "name": "Create a PayPal batch payout",
-    "id": 438,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 438
   },
   "id": "438"
 }

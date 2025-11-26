@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Web Browsing & Extraction with Airtop and AI-Prompted Queries",
-    "id": 6710,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6710
   },
   "nodes": [
     {

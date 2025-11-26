@@ -2,8 +2,7 @@
   "id": "Ds5H7wm74GpWPQNC",
   "meta": {
     "name": "Scrape TikTok Profile & Transcript with Dumpling AI and Save to Google Sheets",
-    "id": 4328,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4328
   },
   "name": "Scrape TikTok Profile & Transcript with Dumpling AI and Save to Google Sheets",
   "tags": [],

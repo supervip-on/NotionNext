@@ -2,8 +2,7 @@
   "id": "JgekNtar5mXcPtGd",
   "meta": {
     "name": "Generate Job-Specific ATS Resumes with Perplexity AI and PDF Export",
-    "id": 7637,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7637
   },
   "name": "ATS resume maker accoding to JD",
   "tags": [],

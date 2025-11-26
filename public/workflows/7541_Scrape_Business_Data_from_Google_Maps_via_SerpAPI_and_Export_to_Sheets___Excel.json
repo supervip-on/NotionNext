@@ -229,7 +229,6 @@
   },
   "meta": {
     "name": "Scrape Business Data from Google Maps via SerpAPI and Export to Sheets & Excel",
-    "id": 7541,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7541
   }
 }

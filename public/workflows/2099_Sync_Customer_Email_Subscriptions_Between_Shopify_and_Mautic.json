@@ -2,8 +2,7 @@
   "id": "JiSesGjDIXIPYtbt",
   "meta": {
     "name": "Sync Customer Email Subscriptions Between Shopify and Mautic",
-    "id": 2099,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2099
   },
   "name": "Shopify + Mautic",
   "tags": [],

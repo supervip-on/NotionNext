@@ -2,8 +2,7 @@
   "id": "tSvYrl1nDEQAakeo",
   "meta": {
     "name": "Parse & Track Orders from Email with Gemini/GPT & Notion Database Sync",
-    "id": 9689,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9689
   },
   "name": "order management template",
   "tags": [],

@@ -2,8 +2,7 @@
   "id": "aZSJ2BZQhNduZZ8w",
   "meta": {
     "name": "Get Airtable data via AI and Obsidian Notes",
-    "id": 2615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2615
   },
   "name": "Get Airtable data in Obsidian Notes",
   "tags": [

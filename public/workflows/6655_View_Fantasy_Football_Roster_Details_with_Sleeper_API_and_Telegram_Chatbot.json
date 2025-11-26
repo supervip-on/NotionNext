@@ -2,8 +2,7 @@
   "id": "6655",
   "meta": {
     "name": "View Fantasy Football Roster Details with Sleeper API and Telegram Chatbot",
-    "id": 6655,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6655
   },
   "name": "Sleeper NFL Chatbot Starter",
   "tags": [

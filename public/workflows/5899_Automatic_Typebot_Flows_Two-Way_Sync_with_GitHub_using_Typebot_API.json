@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automatic Typebot Flows Two-Way Sync with GitHub using Typebot API",
-    "id": 5899,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5899
   },
   "nodes": [
     {

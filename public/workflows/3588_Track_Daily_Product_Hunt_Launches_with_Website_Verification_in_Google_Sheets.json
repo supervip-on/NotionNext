@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Daily Product Hunt Launches with Website Verification in Google Sheets",
-    "id": 3588,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3588
   },
   "nodes": [
     {

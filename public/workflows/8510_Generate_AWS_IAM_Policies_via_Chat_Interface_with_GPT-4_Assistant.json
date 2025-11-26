@@ -2,8 +2,7 @@
   "id": "VGQLouOsaXvTC33w",
   "meta": {
     "name": "Generate AWS IAM Policies via Chat Interface with GPT-4 Assistant",
-    "id": 8510,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8510
   },
   "name": "Chat-Based AWS IAM Policy Generator with AI Agent (OpenAI)",
   "tags": [

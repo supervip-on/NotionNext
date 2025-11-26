@@ -2,8 +2,7 @@
   "id": "y1V3XxzVnhP0R4eC",
   "meta": {
     "name": "Starred Slack Messages to Notion Database with AI Auto-Tagging",
-    "id": 4502,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4502
   },
   "name": "Slack Msg Added to Notion",
   "tags": [],

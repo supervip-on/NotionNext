@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Telegram Chat Summarizer with AI - using @telepilotco/n8n-nodes-telepilot",
-    "id": 4461,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4461
   },
   "nodes": [
     {

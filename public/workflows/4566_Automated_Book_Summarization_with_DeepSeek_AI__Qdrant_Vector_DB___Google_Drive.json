@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Book Summarization with DeepSeek AI, Qdrant Vector DB & Google Drive",
-    "id": 4566,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4566
   },
   "nodes": [
     {

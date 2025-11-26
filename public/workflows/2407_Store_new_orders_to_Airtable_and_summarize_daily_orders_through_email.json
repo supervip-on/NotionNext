@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Store new orders to Airtable and summarize daily orders through email",
-    "id": 2407,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2407
   },
   "nodes": [
     {

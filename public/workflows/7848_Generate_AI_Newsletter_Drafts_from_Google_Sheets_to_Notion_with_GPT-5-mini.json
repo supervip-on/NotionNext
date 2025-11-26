@@ -2,8 +2,7 @@
   "id": "zr4Sw6kh7nyjbwHU",
   "meta": {
     "name": "Generate AI Newsletter Drafts from Google Sheets to Notion with GPT-5-mini",
-    "id": 7848,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7848
   },
   "name": "Newsletter Automation",
   "tags": [],

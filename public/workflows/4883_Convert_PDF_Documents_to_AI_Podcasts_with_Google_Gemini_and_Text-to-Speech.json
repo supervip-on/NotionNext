@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Convert PDF Documents to AI Podcasts with Google Gemini and Text-to-Speech",
-    "id": 4883,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4883
   },
   "nodes": [
     {

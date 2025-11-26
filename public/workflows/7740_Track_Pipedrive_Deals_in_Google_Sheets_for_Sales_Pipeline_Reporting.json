@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Track Pipedrive Deals in Google Sheets for Sales Pipeline Reporting",
-    "id": 7740,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7740
   },
   "nodes": [
     {

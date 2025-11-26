@@ -89,8 +89,7 @@
   },
   "meta": {
     "name": "Create, update, and get a webinar in GoToWebinar",
-    "id": 960,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 960
   },
   "id": "960"
 }

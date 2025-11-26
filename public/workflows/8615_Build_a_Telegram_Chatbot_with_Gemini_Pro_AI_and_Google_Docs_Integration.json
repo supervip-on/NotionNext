@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Build a Telegram Chatbot with Gemini Pro AI and Google Docs Integration",
-    "id": 8615,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8615
   },
   "nodes": [
     {

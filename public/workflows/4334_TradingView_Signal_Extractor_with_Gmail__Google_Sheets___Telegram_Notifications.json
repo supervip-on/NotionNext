@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "TradingView Signal Extractor with Gmail, Google Sheets & Telegram Notifications",
-    "id": 4334,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4334
   },
   "nodes": [
     {

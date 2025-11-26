@@ -2,8 +2,7 @@
   "id": "7el5prnIFj3s0DOI",
   "meta": {
     "name": "AI-Powered Credit Card Recommendation System with OpenAI GPT, Telegram & Google Sheets",
-    "id": 7714,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7714
   },
   "name": "Credit Card with Chatgpt Agent Prompt checks",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI-Powered Interview Preparation System using Local LLM for Campus Placements",
-    "id": 4761,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4761
   },
   "nodes": [
     {

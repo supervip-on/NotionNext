@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract Seed-Funded Startup Data with RSS, GPT-4.1-MINI & BrightData to Excel",
-    "id": 6775,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6775
   },
   "nodes": [
     {

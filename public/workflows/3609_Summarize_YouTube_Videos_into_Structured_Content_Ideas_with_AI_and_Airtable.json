@@ -2,8 +2,7 @@
   "id": "6bMVzmrbPexvBe6q",
   "meta": {
     "name": "Summarize YouTube Videos into Structured Content Ideas with AI and Airtable",
-    "id": 3609,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3609
   },
   "name": "YouTube to Airtable Anonym",
   "tags": [

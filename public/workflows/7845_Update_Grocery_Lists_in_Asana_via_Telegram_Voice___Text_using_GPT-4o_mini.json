@@ -2,8 +2,7 @@
   "id": "vGvH6zfx9LuwHfoC",
   "meta": {
     "name": "🍎 Update Grocery Lists in Asana via Telegram Voice & Text using GPT-4o mini",
-    "id": 7845,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7845
   },
   "name": "🍎 Grocery Agent Workflow",
   "tags": [],

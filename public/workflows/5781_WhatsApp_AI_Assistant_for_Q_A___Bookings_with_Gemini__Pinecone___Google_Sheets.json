@@ -2,8 +2,7 @@
   "id": "GPUqBzML5NY8PRlJ",
   "meta": {
     "name": "WhatsApp AI Assistant for Q&A & Bookings with Gemini, Pinecone & Google Sheets",
-    "id": 5781,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5781
   },
   "name": "My workflow",
   "tags": [],

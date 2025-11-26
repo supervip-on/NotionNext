@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated News Monitoring with Claude 4 AI Analysis for Discord & Google News",
-    "id": 8452,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8452
   },
   "nodes": [
     {

@@ -2,8 +2,7 @@
   "id": "VwU1zMhcgzgPS9ak",
   "meta": {
     "name": "Build Lists of Profiles from Any Platform using Airtop and Google Sheets",
-    "id": 3479,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3479
   },
   "name": "List Builder",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "pPwYYgTXLQzH7fv4",
   "meta": {
     "name": "Scheduled Automation for X and Google Sheets Services",
-    "id": 9758,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9758
   },
   "name": "Auto Like and Repost X Accounts from Google Sheet",
   "tags": [],

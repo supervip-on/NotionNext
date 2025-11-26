@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Repository Migration from GitLab Groups to Gitea Organizations",
-    "id": 4947,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4947
   },
   "nodes": [
     {

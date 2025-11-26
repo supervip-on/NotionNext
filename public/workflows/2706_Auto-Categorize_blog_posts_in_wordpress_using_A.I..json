@@ -2,8 +2,7 @@
   "id": "caaf1WFANPKAikiH",
   "meta": {
     "name": "Auto-Categorize blog posts in wordpress using A.I.",
-    "id": 2706,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2706
   },
   "name": "Auto categorize wordpress template",
   "tags": [],

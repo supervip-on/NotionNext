@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Extract and Organize Contract Details from PDFs with Slack, GPT-4o, and Google Sheets",
-    "id": 8440,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8440
   },
   "nodes": [
     {

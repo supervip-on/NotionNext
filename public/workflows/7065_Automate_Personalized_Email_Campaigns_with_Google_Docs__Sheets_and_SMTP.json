@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automate Personalized Email Campaigns with Google Docs, Sheets and SMTP",
-    "id": 7065,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7065
   },
   "nodes": [
     {

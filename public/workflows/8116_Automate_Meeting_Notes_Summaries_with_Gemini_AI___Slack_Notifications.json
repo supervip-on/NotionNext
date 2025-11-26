@@ -2,8 +2,7 @@
   "id": "6nKbFj90W1K6L90c",
   "meta": {
     "name": "Automate Meeting Notes Summaries with Gemini AI & Slack Notifications",
-    "id": 8116,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8116
   },
   "name": "Meeting notes notification",
   "tags": [],

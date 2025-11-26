@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Cybersecurity Assistant with GPT-4, Telegram Bot & Command Execution",
-    "id": 7023,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7023
   },
   "nodes": [
     {

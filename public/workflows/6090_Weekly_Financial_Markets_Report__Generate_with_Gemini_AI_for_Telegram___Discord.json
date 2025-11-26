@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Weekly Financial Markets Report: Generate with Gemini AI for Telegram & Discord",
-    "id": 6090,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6090
   },
   "nodes": [
     {

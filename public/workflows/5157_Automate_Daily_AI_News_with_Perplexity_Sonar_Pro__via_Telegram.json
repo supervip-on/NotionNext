@@ -2,8 +2,7 @@
   "id": "ZizcyYq82q3P2ImX",
   "meta": {
     "name": "Automate Daily AI News with Perplexity Sonar Pro (via Telegram)",
-    "id": 5157,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5157
   },
   "name": "Perplexity Powered AI News Search",
   "tags": [],

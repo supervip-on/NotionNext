@@ -2,8 +2,7 @@
   "id": "2U39UTr0dJ0Kp81K",
   "meta": {
     "name": "IP2WHOIS Domain Lookup MCP Server",
-    "id": 5583,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5583
   },
   "name": "IP2WHOIS Domain Lookup MCP Server",
   "tags": [],

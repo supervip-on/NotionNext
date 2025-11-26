@@ -2,8 +2,7 @@
   "id": "TmP9EhlzHlU4r1wS",
   "meta": {
     "name": "Automated MySQL to Google Sheets Sync with Duplicate Prevention",
-    "id": 6261,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6261
   },
   "name": "Sync MySQL Rows to Google Sheet",
   "tags": [],

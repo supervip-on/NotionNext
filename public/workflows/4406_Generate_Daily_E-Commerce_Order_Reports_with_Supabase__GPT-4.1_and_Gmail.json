@@ -2,8 +2,7 @@
   "id": "vlxb4BmzckG852jg",
   "meta": {
     "name": "Generate Daily E-Commerce Order Reports with Supabase, GPT-4.1 and Gmail",
-    "id": 4406,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4406
   },
   "name": "Daily order report AI agent using Supabase",
   "tags": [],

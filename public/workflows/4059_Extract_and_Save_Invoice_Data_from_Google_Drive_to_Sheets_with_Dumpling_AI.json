@@ -2,8 +2,7 @@
   "id": "Q9K6tDu4TJpqtRQ1",
   "meta": {
     "name": "Extract and Save Invoice Data from Google Drive to Sheets with Dumpling AI",
-    "id": 4059,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4059
   },
   "name": "Extract and Save Invoice Data from Google Drive to Sheets with Dumpling AI",
   "tags": [],

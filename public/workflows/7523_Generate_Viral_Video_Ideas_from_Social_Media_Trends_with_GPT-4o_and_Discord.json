@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Viral Video Ideas from Social Media Trends with GPT-4o and Discord",
-    "id": 7523,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7523
   },
   "nodes": [
     {

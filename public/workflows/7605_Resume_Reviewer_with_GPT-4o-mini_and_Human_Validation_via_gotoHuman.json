@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Resume Reviewer with GPT-4o-mini and Human Validation via gotoHuman",
-    "id": 7605,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7605
   },
   "nodes": [
     {

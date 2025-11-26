@@ -2,8 +2,7 @@
   "id": "uPrkBTcWYNleMzSM",
   "meta": {
     "name": "Book Appointments with Voice Using VAPI & Cal.com",
-    "id": 6895,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6895
   },
   "name": "Appointment Booking Voice Agent",
   "tags": [],

@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Enrich Seller Data with Email & Domain Lookup using Bright Data & Google Search",
-    "id": 4072,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4072
   },
   "nodes": [
     {

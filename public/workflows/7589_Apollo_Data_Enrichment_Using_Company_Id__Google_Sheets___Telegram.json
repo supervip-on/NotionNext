@@ -2,8 +2,7 @@
   "id": "qaJfgkpdXGb8k24x",
   "meta": {
     "name": "Apollo Data Enrichment Using Company Id, Google Sheets & Telegram",
-    "id": 7589,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7589
   },
   "name": "Apollo Data Enrichment Based Using Company Id",
   "tags": [],

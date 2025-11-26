@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Use any LangChain module in n8n (with the LangChain code node)",
-    "id": 2082,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2082
   },
   "nodes": [
     {

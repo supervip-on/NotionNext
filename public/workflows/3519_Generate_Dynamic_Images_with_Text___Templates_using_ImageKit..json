@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Dynamic Images with Text & Templates using ImageKit.",
-    "id": 3519,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3519
   },
   "nodes": [
     {

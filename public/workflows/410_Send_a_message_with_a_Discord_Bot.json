@@ -43,7 +43,6 @@
   },
   "meta": {
     "name": "Send a message with a Discord Bot",
-    "id": 410,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 410
   }
 }

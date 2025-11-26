@@ -2,8 +2,7 @@
   "id": "Csa8xD9gpSNYMfJv",
   "meta": {
     "name": "Analyze Images from Forms using GPT-4o-mini Vision and Deliver to Telegram",
-    "id": 5507,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5507
   },
   "name": "Form Image Analysis & Telegram Delivery",
   "tags": [],

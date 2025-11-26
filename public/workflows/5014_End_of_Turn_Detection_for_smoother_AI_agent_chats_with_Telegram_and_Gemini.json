@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "End of Turn Detection for smoother AI agent chats with Telegram and Gemini",
-    "id": 5014,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5014
   },
   "nodes": [
     {

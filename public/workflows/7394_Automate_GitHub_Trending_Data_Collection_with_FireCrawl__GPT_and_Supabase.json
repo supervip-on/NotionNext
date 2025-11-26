@@ -2,8 +2,7 @@
   "id": "4WG3MooFcMpSGdlq",
   "meta": {
     "name": "Automate GitHub Trending Data Collection with FireCrawl, GPT and Supabase",
-    "id": 7394,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7394
   },
   "name": "GitHub Trending to Supabase (Daily, Weekly, Monthly)",
   "tags": [],

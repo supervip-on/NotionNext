@@ -2,8 +2,7 @@
   "id": "xyLfWaqdIoZmbTfv",
   "meta": {
     "name": "LinkedIn Company ICP Scoring Automation with Airtop & Google Sheets",
-    "id": 3475,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3475
   },
   "name": "ICP Company Scoring",
   "tags": [

@@ -2,8 +2,7 @@
   "id": "qXu0tfPcXDGpUc78",
   "meta": {
     "name": "Send Daily 4K Bluray Preorder Updates from Blu-ray.com to Discord",
-    "id": 6830,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6830
   },
   "name": "New 4k Blurays",
   "tags": [

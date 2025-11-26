@@ -2,8 +2,7 @@
   "id": "SPMdOPACsv0whzC1",
   "meta": {
     "name": "Curate Learning Content from Reddit & RSS with GPT-4.1-mini and Google Sheets",
-    "id": 10007,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10007
   },
   "name": "Personalized Learning Content Aggregator with AI Filtering",
   "tags": [],

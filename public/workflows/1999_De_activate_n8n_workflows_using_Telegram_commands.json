@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "(De)activate n8n workflows using Telegram commands",
-    "id": 1999,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1999
   },
   "nodes": [
     {

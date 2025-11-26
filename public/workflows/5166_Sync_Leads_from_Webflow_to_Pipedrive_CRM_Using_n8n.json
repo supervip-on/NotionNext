@@ -2,8 +2,7 @@
   "id": "uAdVHL23IJrOK6rq",
   "meta": {
     "name": "Sync Leads from Webflow to Pipedrive CRM Using n8n",
-    "id": 5166,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5166
   },
   "name": "Webflow -> Pipedrive",
   "tags": [

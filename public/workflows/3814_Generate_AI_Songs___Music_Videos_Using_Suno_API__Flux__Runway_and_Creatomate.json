@@ -2,8 +2,7 @@
   "id": "QQsOnD3baLLwrBUw",
   "meta": {
     "name": "Generate AI Songs + Music Videos Using Suno API, Flux, Runway and Creatomate",
-    "id": 3814,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3814
   },
   "name": "Music Generation Workflow",
   "tags": [],

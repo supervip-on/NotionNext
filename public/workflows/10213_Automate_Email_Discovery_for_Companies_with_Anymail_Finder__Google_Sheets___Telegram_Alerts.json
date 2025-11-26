@@ -2,8 +2,7 @@
   "id": "8WkZpiRCYlakSpNY",
   "meta": {
     "name": "Automate Email Discovery for Companies with Anymail Finder, Google Sheets & Telegram Alerts",
-    "id": 10213,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10213
   },
   "name": "Find email by company name with Anymail Finder",
   "tags": [],

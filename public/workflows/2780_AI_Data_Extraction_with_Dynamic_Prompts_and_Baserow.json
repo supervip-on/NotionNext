@@ -1299,8 +1299,7 @@
   },
   "meta": {
     "name": "AI Data Extraction with Dynamic Prompts and Baserow",
-    "id": 2780,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2780
   },
   "id": "2780"
 }

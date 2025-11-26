@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Create AI Videos with OpenAI Scripts, Leonardo Images & HeyGen Avatars",
-    "id": 4107,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4107
   },
   "nodes": [
     {

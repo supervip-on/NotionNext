@@ -2,8 +2,7 @@
   "id": "J617rBUQYkh2SaEZ",
   "meta": {
     "name": "Auto-Call New Typeform Submissions with Vapi Voice Assistant",
-    "id": 6573,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6573
   },
   "name": "Start an outbound Vapi phone call from a new Typeform submission",
   "tags": [],

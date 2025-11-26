@@ -2,8 +2,7 @@
   "id": "VhN3CX6QPBkX77pZ",
   "meta": {
     "name": "Use OpenRouter in n8n versions <1.78",
-    "id": 2897,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2897
   },
   "name": "Use any LLM-Model via OpenRouter",
   "tags": [

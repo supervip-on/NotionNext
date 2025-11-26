@@ -339,8 +339,7 @@
   },
   "meta": {
     "name": "Create an RSS feed based on a website's content",
-    "id": 1418,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1418
   },
   "id": "1418"
 }

@@ -2,8 +2,7 @@
   "id": "3nvbG23fEvkCCBSy",
   "meta": {
     "name": "AI Hairstyle Preview Generator with OpenAI and LINE Group Sharing",
-    "id": 7535,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7535
   },
   "name": "export_hairstyle-preview",
   "tags": [],

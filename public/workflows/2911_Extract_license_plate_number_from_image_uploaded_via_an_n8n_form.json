@@ -2,8 +2,7 @@
   "id": "B37wvB0tdKgjuabw",
   "meta": {
     "name": "Extract license plate number from image uploaded via an n8n form",
-    "id": 2911,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2911
   },
   "name": "Image to license plate number",
   "tags": [],

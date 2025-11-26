@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Reddit Content Q&A Chatbot with GPT-4o and Reddit API",
-    "id": 7798,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7798
   },
   "nodes": [
     {

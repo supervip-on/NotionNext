@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Daily Bitcoin On-Chain Metrics PDF Report with NASDAQ Data",
-    "id": 7836,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7836
   },
   "nodes": [
     {

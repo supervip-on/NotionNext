@@ -2,8 +2,7 @@
   "id": "JesDh3ZSPdpcLzKe",
   "meta": {
     "name": "Capture and Store Website Screenshots from Google Sheets to Drive using Dumpling AI",
-    "id": 6949,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6949
   },
   "name": "Capture and Store Website Screenshots from Google Sheets using Dumpling AI",
   "tags": [],

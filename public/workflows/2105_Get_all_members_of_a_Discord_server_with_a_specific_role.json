@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Get all members of a Discord server with a specific role",
-    "id": 2105,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2105
   },
   "nodes": [
     {

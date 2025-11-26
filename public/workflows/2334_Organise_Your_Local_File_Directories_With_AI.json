@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Organise Your Local File Directories With AI",
-    "id": 2334,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2334
   },
   "nodes": [
     {

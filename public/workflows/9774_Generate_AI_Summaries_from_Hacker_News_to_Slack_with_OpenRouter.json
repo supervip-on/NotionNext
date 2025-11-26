@@ -2,8 +2,7 @@
   "id": "HLup1R1WiyVLVn5s",
   "meta": {
     "name": "Generate AI Summaries from Hacker News to Slack with OpenRouter",
-    "id": 9774,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 9774
   },
   "name": "Summarize news articles for specific keywords and post to Slack",
   "tags": [

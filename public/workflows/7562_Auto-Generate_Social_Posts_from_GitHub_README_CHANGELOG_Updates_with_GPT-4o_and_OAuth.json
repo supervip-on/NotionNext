@@ -2,8 +2,7 @@
   "id": "zMl1xguA65ATPxMh",
   "meta": {
     "name": "Auto-Generate Social Posts from GitHub README/CHANGELOG Updates with GPT-4o and OAuth",
-    "id": 7562,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 7562
   },
   "name": "Generate social posts from GitHub pushes to Twitter and LinkedIn",
   "tags": [],

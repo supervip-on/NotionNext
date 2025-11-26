@@ -2,8 +2,7 @@
   "id": "HIRlPkEHIs6MDsy1",
   "meta": {
     "name": "Connect AI Agents to EPA Clean Air Act Data with MCP Integration",
-    "id": 5624,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5624
   },
   "name": "U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act MCP Server",
   "tags": [],

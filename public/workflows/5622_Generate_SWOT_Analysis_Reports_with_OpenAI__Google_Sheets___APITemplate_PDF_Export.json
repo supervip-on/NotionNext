@@ -2,8 +2,7 @@
   "id": "z5I7hevqasiIz2qD",
   "meta": {
     "name": "Generate SWOT Analysis Reports with OpenAI, Google Sheets & APITemplate PDF Export",
-    "id": 5622,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 5622
   },
   "name": "SWOT Analysis Generator That Produces PDF Reports",
   "tags": [

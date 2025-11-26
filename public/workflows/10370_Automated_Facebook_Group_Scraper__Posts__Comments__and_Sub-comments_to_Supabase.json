@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Automated Facebook Group Scraper: Posts, Comments, and Sub-comments to Supabase",
-    "id": 10370,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 10370
   },
   "nodes": [
     {

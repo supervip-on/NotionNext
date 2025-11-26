@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Customer Authentication for Chat Support with OpenAI and Redis Session Management",
-    "id": 4216,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4216
   },
   "nodes": [
     {

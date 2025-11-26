@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Categorize Support Tickets with Gemini AI, Typeform, and Google Sheets Reporting",
-    "id": 4447,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 4447
   },
   "nodes": [
     {

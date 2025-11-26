@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "AI Email Triage & Alert System with GPT-4 and Telegram Notifications",
-    "id": 3968,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 3968
   },
   "nodes": [
     {

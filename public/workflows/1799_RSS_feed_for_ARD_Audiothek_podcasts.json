@@ -307,8 +307,7 @@
   },
   "meta": {
     "name": "RSS feed for ARD Audiothek podcasts",
-    "id": 1799,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 1799
   },
   "id": "1799"
 }

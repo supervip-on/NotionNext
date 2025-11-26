@@ -2,8 +2,7 @@
   "id": "IgdFJTPyiQgcyuZ0",
   "meta": {
     "name": "Automatic Invoice Due Date Reminders from Stripe to Google Calendar",
-    "id": 8948,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 8948
   },
   "name": "Invoice Reminders Calendar",
   "tags": [],

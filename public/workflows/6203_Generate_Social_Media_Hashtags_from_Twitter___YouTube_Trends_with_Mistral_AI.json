@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Generate Social Media Hashtags from Twitter & YouTube Trends with Mistral AI",
-    "id": 6203,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 6203
   },
   "nodes": [
     {

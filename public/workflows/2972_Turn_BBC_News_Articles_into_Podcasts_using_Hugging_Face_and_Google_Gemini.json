@@ -1,8 +1,7 @@
 {
   "meta": {
     "name": "Turn BBC News Articles into Podcasts using Hugging Face and Google Gemini",
-    "id": 2972,
-    "site": "https://github.com/zengfr/n8n-workflow-all-templates"
+    "id": 2972
   },
   "nodes": [
     {
