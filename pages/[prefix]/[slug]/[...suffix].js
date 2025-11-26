@@ -31,6 +31,7 @@ export async function getStaticPaths() {
   const { allPages } = await getGlobalData({ from })
   const paths = allPages
     ?.filter(row => checkSlugHasMorThanTwoSlash(row))
+    .filter(row => !row.slug.startsWith('workflows/'))  // 排除 workflows 路径
     .map(row => ({
       params: {
         prefix: row.slug.split('/')[0],
