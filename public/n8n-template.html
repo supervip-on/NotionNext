@@ -1313,73 +1313,14 @@
             
             // 检查文件是否存在
             async function checkFileExists(filename) {
-                // 先尝试根目录（保持原有性能）
+                // 所有文件现在都在根目录，直接检查
                 try {
                     const response = await fetch(`/workflows/${filename}`, { method: 'HEAD' });
                     if (response.ok) {
                         return { exists: true, path: `/workflows/${filename}` };
                     }
                 } catch (error) {
-                    console.error('检查根目录文件时出错:', error);
-                }
-
-                // 如果根目录没有，搜索子目录
-                const subDirectories = [
-                    '00/00', '00/01', '00/02', '00/03', '00/04', '00/05', '00/06', '00/07', '00/08', '00/09',
-                    '01/00', '01/01', '01/02', '01/03', '01/04',
-                    '02/00', '02/01', '02/02', '02/03', '02/04',
-                    '03/00', '03/01', '03/02', '03/03', '03/04',
-                    '04/00', '04/01', '04/02', '04/03', '04/04',
-                    '05/00', '05/01', '05/02', '05/03', '05/04',
-                    '06/00', '06/01', '06/02', '06/03', '06/04',
-                    '07/00', '07/01', '07/02', '07/03', '07/04',
-                    '08/00', '08/01', '08/02', '08/03', '08/04',
-                    '09/00', '09/01', '09/02', '09/03', '09/04'
-                ];
-
-                // 根据文件名智能判断可能所在的目录
-                let priorityDirs = [];
-                const fileNum = parseInt(filename.split('_')[0]);
-                if (!isNaN(fileNum)) {
-                    // 根据文件名前缀判断目录
-                    if (fileNum < 1000) {
-                        priorityDirs = ['00/00'];
-                    } else if (fileNum < 2000) {
-                        priorityDirs = ['00/01'];
-                    } else if (fileNum < 3000) {
-                        priorityDirs = ['00/02'];
-                    } else if (fileNum < 4000) {
-                        priorityDirs = ['00/03'];
-                    } else if (fileNum < 5000) {
-                        priorityDirs = ['00/04'];
-                    } else if (fileNum < 6000) {
-                        priorityDirs = ['00/05'];
-                    } else if (fileNum < 7000) {
-                        priorityDirs = ['00/06'];
-                    } else if (fileNum < 8000) {
-                        priorityDirs = ['00/07'];
-                    } else if (fileNum < 9000) {
-                        priorityDirs = ['00/08'];
-                    } else if (fileNum < 10000) {
-                        priorityDirs = ['00/09'];
-                    } else if (fileNum < 11000) {
-                        priorityDirs = ['01/00', '01/01', '01/02', '01/03', '01/04'];
-                    }
-                }
-
-                // 合并优先目录和其他目录
-                const searchDirs = [...priorityDirs, ...subDirectories.filter(dir => !priorityDirs.includes(dir))];
-
-                // 搜索文件
-                for (const dir of searchDirs) {
-                    try {
-                        const response = await fetch(`/workflows/${dir}/${filename}`, { method: 'HEAD' });
-                        if (response.ok) {
-                            return { exists: true, path: `/workflows/${dir}/${filename}` };
-                        }
-                    } catch (error) {
-                        // 继续搜索下一个目录
-                    }
+                    console.error('检查文件时出错:', error);
                 }
 
                 return { exists: false, path: null };
@@ -1413,6 +1354,11 @@
                     // 检查文件是否存在
                     const fileResult = await checkFileExists(filename);
                     
+                    // 添加调试信息
+                    console.log('=== 下载调试信息 ===');
+                    console.log('文件名:', filename);
+                    console.log('文件存在检查结果:', fileResult);
+                    
                     if (!fileResult.exists) {
                         // 文件不存在，显示错误弹窗
                         showErrorModal();
@@ -1431,9 +1377,39 @@
                     }
                     
                     // 获取文件内容（使用实际路径）
+                    console.log('请求路径:', fileResult.path);
                     const response = await fetch(fileResult.path);
+                    
+                    // 添加详细的响应调试信息
+                    console.log('=== 响应调试信息 ===');
+                    console.log('响应状态码:', response.status);
+                    console.log('响应状态文本:', response.statusText);
+                    console.log('响应头:', [...response.headers.entries()]);
+                    console.log('Content-Type:', response.headers.get('content-type'));
+                    
                     if (!response.ok) {
                         throw new Error(`下载失败: ${response.status}`);
+                    }
+                    
+                    // 检查响应内容类型
+                    const contentType = response.headers.get('content-type');
+                    console.log('Content-Type:', contentType);
+                    
+                    if (contentType && contentType.includes('text/html')) {
+                        console.warn('警告：响应内容是 HTML，不是 JSON 文件！');
+                        console.log('响应内容预览（前200字符）:');
+                        const text = await response.text();
+                        console.log(text.substring(0, 200));
+                        
+                        // 显示错误弹窗
+                        showErrorModal();
+                        // 恢复按钮状态
+                        if (downloadBtn) {
+                            downloadBtn.classList.remove('downloading');
+                            downloadBtn.innerHTML = '📥 下载模板';
+                            downloadBtn.disabled = false;
+                        }
+                        return;
                     }
                     
                     const blob = await response.blob();
@@ -1453,12 +1429,13 @@
                     // 恢复按钮状态
                     if (downloadBtn) {
                         downloadBtn.classList.remove('downloading');
-                        downloadBtn.innerHTML = '📥 下载模板';
+                        downloadBtn.innerHTML = 'debug: 下载成功';
                         downloadBtn.disabled = false;
                     }
                     
                 } catch (error) {
                     console.error('下载出错:', error);
+                    console.log('错误详情:', error.stack);
                     // 显示错误弹窗
                     showErrorModal();
                     // 恢复按钮状态
