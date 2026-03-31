@@ -4,7 +4,7 @@ import { fetchGlobalAllData } from '@/lib/db/SiteDataApi'
 import { DynamicLayout } from '@/themes/theme'
 
 const NoFound = props => {
-   return <Layout404 {...props} />
+  return <DynamicLayout layoutName="Layout404" {...props} />
 }
 
 export async function getStaticProps(req) {
