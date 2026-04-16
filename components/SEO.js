@@ -28,13 +28,12 @@ const SEO = props => {
       'js'
     ).then(url => {
       const WebFont = window?.WebFont
-      if (WebFont) {
-        // console.log('LoadWebFont', webFontUrl)
+      if (WebFont && webFontUrl && webFontUrl.length > 0) {
         WebFont.load({
           custom: {
-            // families: ['"LXGW WenKai"'],
             urls: webFontUrl
-          }
+          },
+          timeout: 3000 // 3秒超时，避免字体加载阻塞页面
         })
       }
     })
@@ -48,7 +47,7 @@ const SEO = props => {
   }
   if (meta) {
     url = `${url}/${meta.slug}`
-    image = 'https://aigc.feiqin.eu.org/wechat.png'
+    image = post?.pageCoverThumbnail || siteInfo?.pageCover || `${LINK}/wechat-share.jpg`
   }
   const TITLE = siteConfig('TITLE')
   const title = meta?.title || TITLE
@@ -201,14 +200,19 @@ const SEO = props => {
         }}
       />
 
-      {/* DNS预取和预连接 */}
-      <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-      <link rel='dns-prefetch' href='//www.google-analytics.com' />
-      <link rel='dns-prefetch' href='//www.googletagmanager.com' />
-      <link rel='preconnect' href='https://fonts.gstatic.com' crossOrigin='anonymous' />
-
-      {/* 预加载关键资源 */}
-      <link rel='preload' href='/fonts/inter-var.woff2' as='font' type='font/woff2' crossOrigin='anonymous' />
+      {/* DNS预取和预连接 - 仅在配置了对应服务时才预取 */}
+      {webFontUrl && webFontUrl.some(url => url.includes('fonts.googleapis.com')) && (
+        <>
+          <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+          <link rel='preconnect' href='https://fonts.gstatic.com' crossOrigin='anonymous' />
+        </>
+      )}
+      {siteConfig('ANALYTICS_GOOGLE_ID', null, NOTION_CONFIG) && (
+        <link rel='dns-prefetch' href='//www.google-analytics.com' />
+      )}
+      {siteConfig('ANALYTICS_GOOGLE_ID', null, NOTION_CONFIG) && (
+        <link rel='dns-prefetch' href='//www.googletagmanager.com' />
+      )}
 
       {children}
     </Head>

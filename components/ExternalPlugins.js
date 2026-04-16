@@ -132,12 +132,15 @@ const ExternalPlugin = props => {
   const UMAMI_HOST = siteConfig('UMAMI_HOST', null, NOTION_CONFIG)
   const UMAMI_ID = siteConfig('UMAMI_ID', null, NOTION_CONFIG)
 
-  // 自定义样式css和js引入
+  // 自定义样式css和js引入（仅在文件存在时加载，避免404请求）
   if (isBrowser) {
-    // 初始化AOS动画
-    // 静态导入本地自定义样式
-    loadExternalResource('/css/custom.css', 'css')
-    loadExternalResource('/js/custom.js', 'js')
+    // 使用fetch检测文件是否存在，避免不必要的404请求
+    fetch('/css/custom.css', { method: 'HEAD' }).then(res => {
+      if (res.ok) loadExternalResource('/css/custom.css', 'css')
+    }).catch(() => {})
+    fetch('/js/custom.js', { method: 'HEAD' }).then(res => {
+      if (res.ok) loadExternalResource('/js/custom.js', 'js')
+    }).catch(() => {})
 
     // 自动添加图片阴影
     if (IMG_SHADOW) {
@@ -218,9 +221,11 @@ const ExternalPlugin = props => {
       {WEB_WHIZ_ENABLED && <WebWhiz />}
       {AD_WWADS_BLOCK_DETECT && <AdBlockDetect />}
       {TIANLI_KEY && <TianliGPT />}
-      <VConsole />
+      {/* 生产环境不加载VConsole调试工具，节省资源 */}
+      {process.env.NODE_ENV !== 'production' && <VConsole />}
       {ENABLE_NPROGRSS && <LoadingProgress />}
-      <AosAnimation />
+      {/* AOS动画仅在配置开启时加载 */}
+      {siteConfig('ENABLE_AOS', true, NOTION_CONFIG) !== false && <AosAnimation />}
       {ANALYTICS_51LA_ID && ANALYTICS_51LA_CK && <LA51 />}
       {COZE_BOT_ID && <Coze />}
 
