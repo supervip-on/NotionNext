@@ -49,7 +49,7 @@ class MyDocument extends Document {
           <link rel='preconnect' href='https://fonts.loli.net' crossOrigin='anonymous' />
           <link rel='dns-prefetch' href='//busuanzi.ibruce.info' />
 
-          {/* 预加载字体 - 移动端延迟加载以加快首屏渲染 */}
+          {/* 预加载Font Awesome图标字体 */}
           {BLOG.FONT_AWESOME && (
             <>
               <link
@@ -58,14 +58,11 @@ class MyDocument extends Document {
                 as='style'
                 crossOrigin='anonymous'
               />
-              {/* 移动端使用media属性延迟加载，桌面端立即加载 */}
               <link
                 rel='stylesheet'
                 href={BLOG.FONT_AWESOME}
                 crossOrigin='anonymous'
                 referrerPolicy='no-referrer'
-                media='print'
-                onLoad="this.media='all'"
               />
             </>
           )}

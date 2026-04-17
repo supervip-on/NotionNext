@@ -48,7 +48,8 @@ const BlogPostCard = ({ index, post, showSummary, siteInfo }) => {
             <SmartLink href={post?.href}>
               <>
                 <LazyImage
-                  priority={index === 1}
+                  // 移动端全部懒加载，桌面端仅第一张预加载
+                  priority={typeof window !== 'undefined' && window.innerWidth >= 768 && index === 0}
                   alt={post?.title}
                   src={post?.pageCoverThumbnail}
                   className='h-56 w-full object-cover object-center group-hover:scale-110 duration-500'
