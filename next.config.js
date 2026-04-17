@@ -117,8 +117,8 @@ const nextConfig = {
   images: {
     // 图片压缩和格式优化
     formats: ['image/avif', 'image/webp'],
-    // 图片尺寸优化 - 精简为常用尺寸，减少预生成图片数量
-    deviceSizes: [640, 828, 1080, 1200, 1920],
+    // 图片尺寸优化 - 包含移动端常用尺寸
+    deviceSizes: [320, 480, 640, 828, 1080, 1200, 1920],
     imageSizes: [16, 32, 64, 96, 128, 256],
     // 允许next/image加载的图片 域名
     domains: [

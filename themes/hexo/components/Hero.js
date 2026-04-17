@@ -92,6 +92,8 @@ const Hero = props => {
         alt={siteInfo?.title}
         src={siteInfo?.pageCover}
         className={`header-cover w-full h-screen object-cover object-center ${siteConfig('HEXO_HOME_NAV_BACKGROUND_IMG_FIXED', null, CONFIG) ? 'fixed' : ''}`}
+        // 移动端使用更低优先级，优先显示文字内容
+        priority={typeof window !== 'undefined' && window.innerWidth >= 768}
       />
     </header>
   )

@@ -175,6 +175,7 @@ export default function LazyImage({
 
 /**
  * 根据窗口尺寸决定压缩图片宽度
+ * 移动端使用更小的图片尺寸以加快加载
  * @param {*} src
  * @param {*} maxWidth
  * @returns
@@ -183,11 +184,25 @@ const adjustImgSize = (src, maxWidth) => {
   if (!src) {
     return null
   }
+
+  // 移动端检测：使用更小的图片尺寸
+  const isMobile = typeof window !== 'undefined' && window.innerWidth < 768
+  const mobileMaxWidth = 400 // 移动端最大图片宽度
+  const effectiveMaxWidth = isMobile ? mobileMaxWidth : maxWidth
+
   const screenWidth =
-    (typeof window !== 'undefined' && window?.screen?.width) || maxWidth
+    (typeof window !== 'undefined' && window?.screen?.width) || effectiveMaxWidth
 
   // 屏幕尺寸大于默认图片尺寸，没必要再压缩
-  if (screenWidth > maxWidth) {
+  if (screenWidth > effectiveMaxWidth) {
+    // 移动端始终压缩到 mobileMaxWidth
+    if (isMobile) {
+      const widthRegex = /width=\d+/
+      const wRegex = /w=\d+/
+      return src
+        .replace(widthRegex, `width=${mobileMaxWidth}`)
+        .replace(wRegex, `w=${mobileMaxWidth}`)
+    }
     return src
   }
 

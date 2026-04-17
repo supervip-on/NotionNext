@@ -148,7 +148,17 @@ const ExternalPlugin = props => {
     }
 
     if (ANIMATE_CSS_URL) {
-      loadExternalResource(ANIMATE_CSS_URL, 'css')
+      // 移动端延迟加载animate.css，减少首屏渲染阻塞
+      const isMobile = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile/i.test(navigator.userAgent)
+      if (isMobile) {
+        // 移动端：使用requestIdleCallback在空闲时加载
+        const loadWhenIdle = window.requestIdleCallback || ((cb) => setTimeout(cb, 2000))
+        loadWhenIdle(() => {
+          loadExternalResource(ANIMATE_CSS_URL, 'css')
+        })
+      } else {
+        loadExternalResource(ANIMATE_CSS_URL, 'css')
+      }
     }
 
     // 导入外部自定义脚本

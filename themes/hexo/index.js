@@ -26,7 +26,7 @@ import Hero from './components/Hero'
 import PostHero from './components/PostHero'
 import RightFloatArea from './components/RightFloatArea'
 import SearchNav from './components/SearchNav'
-import SideRight from './components/SideRight'
+const SideRight = dynamic(() => import('./components/SideRight'), { ssr: true })
 import SlotBar from './components/SlotBar'
 import TagItemMini from './components/TagItemMini'
 import TocDrawer from './components/TocDrawer'

@@ -52,3 +52,6 @@ package-lock.json
 # yarn.lock
 
 .notion-api-lock
+
+# 本地技术参考文档（不提交）
+/NOTION_INTEGRATION_GUIDE.md

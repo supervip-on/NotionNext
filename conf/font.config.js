@@ -9,10 +9,9 @@ module.exports = {
   FONT_STYLE: process.env.NEXT_PUBLIC_FONT_STYLE || 'font-sans font-light',
   // 字体CSS - 使用国内镜像加速（原Google Fonts国内无法访问）
   // 如需使用原版Google Fonts，将 fonts.loli.net 替换为 fonts.googleapis.com
+  // 注意：网站使用font-sans（无衬线），Noto Serif SC已移除以减少加载量
   FONT_URL: [
-    'https://fonts.loli.net/css?family=Bitter:300,400,700&display=swap',
-    'https://fonts.loli.net/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap',
-    'https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@300;400;500;700&display=swap'
+    'https://fonts.loli.net/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap'
   ],
 
   // 字体优化配置
