@@ -15,6 +15,7 @@ let wrapperTop = 0
  */
 const Hero = props => {
   const [typed, changeType] = useState()
+  const [isMobile, setIsMobile] = useState(false)
   const { siteInfo } = props
   const { locale } = useGlobal()
   const scrollToWrapper = () => {
@@ -22,10 +23,15 @@ const Hero = props => {
   }
 
   const GREETING_WORDS = siteConfig('GREETING_WORDS').split(',')
+  
   useEffect(() => {
+    // 检测移动端
+    setIsMobile(window.innerWidth < 768)
+    
     updateHeaderHeight()
 
-    if (!typed && window && document.getElementById('typed')) {
+    // 移动端不加载typed.js打字效果，节省资源
+    if (!typed && window && document.getElementById('typed') && window.innerWidth >= 768) {
       loadExternalResource('/js/typed.min.js', 'js').then(() => {
         if (window.Typed) {
           changeType(
@@ -59,7 +65,8 @@ const Hero = props => {
     <header
       id='header'
       style={{ zIndex: 1 }}
-      className='w-full h-screen relative bg-black'>
+      // 移动端Hero区域高度减半，加快首屏内容展示
+      className={`w-full relative bg-black ${isMobile ? 'h-[50vh]' : 'h-screen'}`}>
       <div className='text-white absolute bottom-0 flex flex-col h-full items-center justify-center w-full '>
         {/* 站点标题 */}
         <div className='font-black text-4xl md:text-5xl shadow-text'>
@@ -91,9 +98,10 @@ const Hero = props => {
         id='header-cover'
         alt={siteInfo?.title}
         src={siteInfo?.pageCover}
-        className={`header-cover w-full h-screen object-cover object-center ${siteConfig('HEXO_HOME_NAV_BACKGROUND_IMG_FIXED', null, CONFIG) ? 'fixed' : ''}`}
-        // 移动端使用更低优先级，优先显示文字内容
-        priority={typeof window !== 'undefined' && window.innerWidth >= 768}
+        // 移动端Hero高度减半
+        className={`header-cover w-full ${isMobile ? 'h-[50vh]' : 'h-screen'} object-cover object-center ${siteConfig('HEXO_HOME_NAV_BACKGROUND_IMG_FIXED', null, CONFIG) ? 'fixed' : ''}`}
+        // 移动端使用更低优先级，图片会懒加载
+        priority={!isMobile}
       />
     </header>
   )
