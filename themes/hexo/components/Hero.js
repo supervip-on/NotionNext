@@ -22,10 +22,22 @@ const Hero = props => {
   }
 
   const GREETING_WORDS = siteConfig('GREETING_WORDS').split(',')
+  const firstGreeting = GREETING_WORDS[0] || ''
   useEffect(() => {
     updateHeaderHeight()
 
-    if (!typed && window && document.getElementById('typed')) {
+    // 移动端和减少动效偏好直接展示首句，省掉打字脚本与持续重绘
+    const reduceMotion = window.matchMedia?.(
+      '(prefers-reduced-motion: reduce)'
+    )?.matches
+    const isMobile = window.innerWidth < 768
+
+    if (
+      !typed &&
+      !reduceMotion &&
+      !isMobile &&
+      document.getElementById('typed')
+    ) {
       loadExternalResource('/js/typed.min.js', 'js').then(() => {
         if (window.Typed) {
           changeType(
@@ -68,7 +80,7 @@ const Hero = props => {
         </div>
         {/* 站点欢迎语 */}
         <div className='mt-2 h-12 items-center text-center font-medium shadow-text text-lg'>
-          <span id='typed' />
+          <span id='typed'>{firstGreeting}</span>
         </div>
 
         {/* 首页导航大按钮 */}

@@ -1,4 +1,7 @@
 const CONFIG = {
+  // 侧边栏头像；默认本地压缩图。设为空字符串则回退到 Notion 站点头像
+  HEXO_AUTHOR_AVATAR:
+    process.env.NEXT_PUBLIC_AUTHOR_AVATAR || '/images/avatar.jpg',
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   HEXO_HOME_BANNER_GREETINGS: [

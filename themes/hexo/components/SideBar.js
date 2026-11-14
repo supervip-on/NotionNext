@@ -1,6 +1,7 @@
 import LazyImage from '@/components/LazyImage'
 import { siteConfig } from '@/lib/config'
 import { useRouter } from 'next/router'
+import CONFIG from '../config'
 import MenuGroupCard from './MenuGroupCard'
 import { MenuListSide } from './MenuListSide'
 
@@ -25,9 +26,10 @@ const SideBar = props => {
             className='justify-center items-center flex hover:rotate-45 py-6 hover:scale-105 dark:text-gray-100  transform duration-200 cursor-pointer'>
             {/* 头像 */}
             <LazyImage
-              src={siteInfo?.icon}
+              src={siteConfig('HEXO_AUTHOR_AVATAR', null, CONFIG) || siteInfo?.icon}
               className='rounded-full'
               width={80}
+              height={80}
               alt={siteConfig('AUTHOR')}
             />
           </div>
