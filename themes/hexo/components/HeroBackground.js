@@ -117,17 +117,27 @@ export default function HeroBackground() {
 
     const onVisibilityChange = () => {
       if (document.hidden) stop()
-      else start()
+      else if (ready) start()
     }
 
     resize()
-    start()
+
+    // 首屏先让 CSS 极光完成绘制，粒子动画等空闲时再启动
+    let ready = false
+    const useIdle = typeof window.requestIdleCallback === 'function'
+    const begin = () => {
+      ready = true
+      if (!document.hidden) start()
+    }
+    const idleId = useIdle
+      ? window.requestIdleCallback(begin, { timeout: 1500 })
+      : setTimeout(begin, 300)
 
     const observer =
       typeof IntersectionObserver !== 'undefined'
         ? new IntersectionObserver(
             ([entry]) => {
-              if (entry.isIntersecting && !document.hidden) start()
+              if (ready && entry.isIntersecting && !document.hidden) start()
               else stop()
             },
             { threshold: 0 }
@@ -145,6 +155,8 @@ export default function HeroBackground() {
 
     return () => {
       stop()
+      if (useIdle) window.cancelIdleCallback(idleId)
+      else clearTimeout(idleId)
       observer?.disconnect()
       resizeObserver?.disconnect()
       window.removeEventListener('resize', resize)

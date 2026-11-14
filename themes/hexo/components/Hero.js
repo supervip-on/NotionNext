@@ -2,7 +2,7 @@
 import { siteConfig } from '@/lib/config'
 import { useGlobal } from '@/lib/global'
 import { loadExternalResource } from '@/lib/utils'
-import { useEffect, useState } from 'react'
+import { useEffect, useRef } from 'react'
 import CONFIG from '../config'
 import HeroBackground from './HeroBackground'
 import NavButtonGroup from './NavButtonGroup'
@@ -14,7 +14,7 @@ let wrapperTop = 0
  * @returns
  */
 const Hero = props => {
-  const [typed, changeType] = useState()
+  const typedRef = useRef()
   const { siteInfo } = props
   const { locale } = useGlobal()
   const scrollToWrapper = () => {
@@ -25,40 +25,49 @@ const Hero = props => {
   const firstGreeting = GREETING_WORDS[0] || ''
   useEffect(() => {
     updateHeaderHeight()
+    window.addEventListener('resize', updateHeaderHeight)
 
-    // 移动端和减少动效偏好直接展示首句，省掉打字脚本与持续重绘
     const reduceMotion = window.matchMedia?.(
       '(prefers-reduced-motion: reduce)'
     )?.matches
-    const isMobile = window.innerWidth < 768
+    let idleId
+    let cancelled = false
+    const useIdle = typeof window.requestIdleCallback === 'function'
 
-    if (
-      !typed &&
-      !reduceMotion &&
-      !isMobile &&
-      document.getElementById('typed')
-    ) {
-      loadExternalResource('/js/typed.min.js', 'js').then(() => {
-        if (window.Typed) {
-          changeType(
-            new window.Typed('#typed', {
-              strings: GREETING_WORDS,
-              typeSpeed: 200,
-              backSpeed: 100,
-              backDelay: 400,
-              showCursor: true,
-              smartBackspace: true
-            })
-          )
-        }
-      })
+    // 首句先由 SSR 直接展示，打字脚本在空闲时才加载，避免拖慢首屏
+    if (!reduceMotion && document.getElementById('typed')) {
+      const startTyping = () => {
+        if (cancelled) return
+        loadExternalResource('/js/typed.min.js', 'js').then(() => {
+          if (cancelled || typedRef.current || !window.Typed) return
+          typedRef.current = new window.Typed('#typed', {
+            strings: siteConfig('GREETING_WORDS').split(','),
+            typeSpeed: 200,
+            backSpeed: 100,
+            backDelay: 400,
+            showCursor: true,
+            smartBackspace: true
+          })
+        })
+      }
+      if (useIdle) {
+        idleId = window.requestIdleCallback(startTyping, { timeout: 1200 })
+      } else {
+        idleId = setTimeout(startTyping, 300)
+      }
     }
 
-    window.addEventListener('resize', updateHeaderHeight)
     return () => {
+      cancelled = true
       window.removeEventListener('resize', updateHeaderHeight)
+      if (idleId) {
+        if (useIdle) window.cancelIdleCallback(idleId)
+        else clearTimeout(idleId)
+      }
+      typedRef.current?.destroy?.()
+      typedRef.current = null
     }
-  })
+  }, [])
 
   function updateHeaderHeight() {
     requestAnimationFrame(() => {

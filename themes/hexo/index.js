@@ -1,7 +1,4 @@
-import Comment from '@/components/Comment'
 import replaceSearchResult from '@/components/Mark'
-import NotionPage from '@/components/NotionPage'
-import ShareBar from '@/components/ShareBar'
 import { siteConfig } from '@/lib/config'
 import { useGlobal } from '@/lib/global'
 import { isBrowser } from '@/lib/utils'
@@ -10,29 +7,38 @@ import dynamic from 'next/dynamic'
 import SmartLink from '@/components/SmartLink'
 import { useRouter } from 'next/router'
 import { createContext, useContext, useEffect, useRef } from 'react'
-import ArticleAdjacent from './components/ArticleAdjacent'
-import ArticleCopyright from './components/ArticleCopyright'
-import { ArticleLock } from './components/ArticleLock'
-import ArticleRecommend from './components/ArticleRecommend'
-import BlogPostArchive from './components/BlogPostArchive'
 import BlogPostListPage from './components/BlogPostListPage'
 import BlogPostListScroll from './components/BlogPostListScroll'
-import ButtonJumpToComment from './components/ButtonJumpToComment'
 import ButtonRandomPostMini from './components/ButtonRandomPostMini'
 import Card from './components/Card'
 import Footer from './components/Footer'
 import Header from './components/Header'
 import Hero from './components/Hero'
-import PostHero from './components/PostHero'
 import RightFloatArea from './components/RightFloatArea'
-import SearchNav from './components/SearchNav'
-const SideRight = dynamic(() => import('./components/SideRight'), { ssr: true })
 import SlotBar from './components/SlotBar'
 import TagItemMini from './components/TagItemMini'
-import TocDrawer from './components/TocDrawer'
-import TocDrawerButton from './components/TocDrawerButton'
 import CONFIG from './config'
 import { Style } from './style'
+
+// 文章详情、归档、搜索等重组件按需加载，避免首页首屏携带 react-notion-x、评论等依赖
+const Comment = dynamic(() => import('@/components/Comment'))
+const NotionPage = dynamic(() => import('@/components/NotionPage'))
+const ShareBar = dynamic(() => import('@/components/ShareBar'))
+const ArticleAdjacent = dynamic(() => import('./components/ArticleAdjacent'))
+const ArticleCopyright = dynamic(() => import('./components/ArticleCopyright'))
+const ArticleLock = dynamic(() =>
+  import('./components/ArticleLock').then(m => m.ArticleLock)
+)
+const ArticleRecommend = dynamic(() => import('./components/ArticleRecommend'))
+const BlogPostArchive = dynamic(() => import('./components/BlogPostArchive'))
+const PostHero = dynamic(() => import('./components/PostHero'))
+const SearchNav = dynamic(() => import('./components/SearchNav'))
+const TocDrawer = dynamic(() => import('./components/TocDrawer'))
+const TocDrawerButton = dynamic(() => import('./components/TocDrawerButton'))
+const ButtonJumpToComment = dynamic(() =>
+  import('./components/ButtonJumpToComment')
+)
+const SideRight = dynamic(() => import('./components/SideRight'), { ssr: true })
 
 const AlgoliaSearchModal = dynamic(
   () => import('@/components/AlgoliaSearchModal'),
@@ -98,7 +104,7 @@ const LayoutBase = props => {
         {/* 顶部嵌入 */}
         <Transition
           show={!onLoading}
-          appear={true}
+          appear={false}
           enter='transition ease-in-out duration-700 transform order-first'
           enterFrom='opacity-0 -translate-y-16'
           enterTo='opacity-100'
@@ -125,7 +131,7 @@ const LayoutBase = props => {
               className={`${className || ''} w-full ${fullWidth ? '' : 'max-w-4xl'} h-full overflow-hidden`}>
               <Transition
                 show={!onLoading}
-                appear={true}
+                appear={false}
                 enter='transition ease-in-out duration-700 transform order-first'
                 enterFrom='opacity-0 translate-y-16'
                 enterTo='opacity-100'
@@ -146,7 +152,9 @@ const LayoutBase = props => {
         </main>
 
         <div className='block lg:hidden'>
-          <TocDrawer post={post} cRef={drawerRight} targetRef={tocRef} />
+          {post && (
+            <TocDrawer post={post} cRef={drawerRight} targetRef={tocRef} />
+          )}
         </div>
 
         {/* 悬浮菜单 */}

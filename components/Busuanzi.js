@@ -2,7 +2,6 @@ import busuanzi from '@/lib/plugins/busuanzi'
 import { siteConfig } from '@/lib/config'
 import { useRouter } from 'next/router'
 import { useGlobal } from '@/lib/global'
-// import { useRouter } from 'next/router'
 import { useEffect } from 'react'
 
 let path = ''
@@ -24,18 +23,30 @@ const loadStats = () => {
 export default function Busuanzi () {
   const { theme } = useGlobal()
   const router = useRouter()
-  router.events.on('routeChangeComplete', (url, option) => {
-    if (url !== path) {
-      path = url
-      loadStats()
-    }
-  })
 
-  // 更换主题时更新
+  // 统计数值在首屏之外，空闲时再请求，避免和页面渲染抢资源
   useEffect(() => {
-    if (theme) {
-      loadStats()
+    if (!theme) return undefined
+    const useIdle = typeof window.requestIdleCallback === 'function'
+    const idleId = useIdle
+      ? window.requestIdleCallback(loadStats, { timeout: 2000 })
+      : setTimeout(loadStats, 1200)
+    return () => {
+      if (useIdle) window.cancelIdleCallback(idleId)
+      else clearTimeout(idleId)
     }
   }, [theme])
+
+  useEffect(() => {
+    const handleRouteChange = url => {
+      if (url !== path) {
+        path = url
+        loadStats()
+      }
+    }
+    router.events.on('routeChangeComplete', handleRouteChange)
+    return () => router.events.off('routeChangeComplete', handleRouteChange)
+  }, [router.events])
+
   return null
 }

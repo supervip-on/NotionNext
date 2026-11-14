@@ -1,10 +1,13 @@
 import NotionIcon from '@/components/NotionIcon'
-import NotionPage from '@/components/NotionPage'
 import TwikooCommentCount from '@/components/TwikooCommentCount'
 import { siteConfig } from '@/lib/config'
 import { formatDateFmt } from '@/lib/utils/formatDate'
+import dynamic from 'next/dynamic'
 import SmartLink from '@/components/SmartLink'
 import TagItemMini from './TagItemMini'
+
+// 列表预览才需要正文渲染器，首页默认不加载 react-notion-x
+const NotionPage = dynamic(() => import('@/components/NotionPage'))
 
 /**
  * 博客列表的文字内容

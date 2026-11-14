@@ -263,28 +263,8 @@ const nextConfig = {
     )
 
     // 性能优化配置
-    if (!dev) {
-      // 生产环境优化
-      config.optimization = {
-        ...config.optimization,
-        splitChunks: {
-          chunks: 'all',
-          cacheGroups: {
-            vendor: {
-              test: /[\\/]node_modules[\\/]/,
-              name: 'vendors',
-              chunks: 'all',
-            },
-            common: {
-              name: 'common',
-              minChunks: 2,
-              chunks: 'all',
-              enforce: true,
-            },
-          },
-        },
-      }
-    }
+    // 注意：不要把所有 node_modules 合并成单个 vendors 包，
+    // 否则首页会被迫加载文章正文、评论等无关依赖，首屏体积显著变大。
 
     // Enable source maps in development mode
     if (dev || process.env.NODE_ENV_API === 'development') {
