@@ -52,8 +52,7 @@ module.exports = {
     '"Apple Color Emoji"'
   ],
   FONT_AWESOME:
-    process.env.NEXT_PUBLIC_FONT_AWESOME_PATH ||
-    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' // font-awesome 字体图标地址; 可选 /css/all.min.css ， https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.min.css
+    process.env.NEXT_PUBLIC_FONT_AWESOME_PATH || '/fonts/fa/all.min.css' // font-awesome 字体图标地址，默认使用本地托管版本，避免境外 CDN 拖慢首屏
 
   // END ************网站字体*****************
 }

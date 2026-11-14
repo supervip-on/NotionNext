@@ -13,6 +13,8 @@ import WebWhiz from './Webwhiz'
 import { useGlobal } from '@/lib/global'
 import IconFont from './IconFont'
 
+let customAssetsChecked = false
+
 /**
  * 各种插件脚本
  * @param {*} props
@@ -133,7 +135,9 @@ const ExternalPlugin = props => {
   const UMAMI_ID = siteConfig('UMAMI_ID', null, NOTION_CONFIG)
 
   // 自定义样式css和js引入（仅在文件存在时加载，避免404请求）
-  if (isBrowser) {
+  // 只执行一次，避免组件重渲染时重复发起 HEAD 请求
+  if (isBrowser && !customAssetsChecked) {
+    customAssetsChecked = true
     // 使用fetch检测文件是否存在，避免不必要的404请求
     fetch('/css/custom.css', { method: 'HEAD' }).then(res => {
       if (res.ok) loadExternalResource('/css/custom.css', 'css')

@@ -56,12 +56,17 @@ export async function getStaticProps(req) {
     }
   }
 
-  // 生成robotTxt
-  generateRobotsTxt(props)
-  // 生成Feed订阅
-  generateRss(props)
-  // 生成
-  generateSitemapXml(props)
+  // 静态文件只在构建阶段生成；运行时 ISR 重新验证写入只读文件系统会失败，
+  // 且 RSS 会额外抓取文章正文，拖慢每次重新验证
+  const isBuild = process.env.npm_lifecycle_event === 'build'
+  if (isBuild) {
+    // 生成robotTxt
+    generateRobotsTxt(props)
+    // 生成Feed订阅
+    generateRss(props)
+    // 生成
+    generateSitemapXml(props)
+  }
   // 检查数据是否需要从algolia删除
   checkDataFromAlgolia(props)
   if (siteConfig('UUID_REDIRECT', false, props?.NOTION_CONFIG)) {

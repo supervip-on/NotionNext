@@ -7,7 +7,7 @@ const filterDOMProps = props => {
   return rest
 }
 
-const SmartLink = ({ href, children, ...rest }) => {
+const SmartLink = ({ href, children, prefetch = false, ...rest }) => {
   const LINK = siteConfig('LINK')
 
   // 获取 URL 字符串用于判断是否是外链
@@ -42,8 +42,9 @@ const SmartLink = ({ href, children, ...rest }) => {
   }
 
   // 内部链接（可为对象形式）
+  // 默认关闭预取：文章页 props 较大，前台预取会消耗大量带宽和请求数
   return (
-    <Link href={href} {...rest}>
+    <Link href={href} prefetch={prefetch} {...rest}>
       {children}
     </Link>
   )

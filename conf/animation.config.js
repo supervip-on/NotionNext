@@ -31,6 +31,5 @@ module.exports = {
   STARRY_SKY: process.env.NEXT_PUBLIC_STARRY_SKY || false, // 开关
   // ANIMATE.css 动画
   ANIMATE_CSS_URL:
-    process.env.NEXT_PUBLIC_ANIMATE_CSS_URL ||
-    'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css' // 动画CDN
+    process.env.NEXT_PUBLIC_ANIMATE_CSS_URL || '/fonts/animate.min.css' // 动画样式，默认本地托管
 }

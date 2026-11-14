@@ -32,7 +32,7 @@ export const getServerSideProps = async ctx => {
   // 缓存
   ctx.res.setHeader(
     'Cache-Control',
-    'public, max-age=3600, stale-while-revalidate=59'
+    'public, max-age=3600, s-maxage=21600, stale-while-revalidate=86400'
   )
   return getServerSideSitemap(ctx, fields)
 }

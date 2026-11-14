@@ -22,20 +22,12 @@ const SEO = props => {
   const webFontUrl = siteConfig('FONT_URL')
 
   useEffect(() => {
-    // 使用WebFontLoader字体加载
-    loadExternalResource(
-      'https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js',
-      'js'
-    ).then(url => {
-      const WebFont = window?.WebFont
-      if (WebFont && webFontUrl && webFontUrl.length > 0) {
-        WebFont.load({
-          custom: {
-            urls: webFontUrl
-          },
-          timeout: 3000 // 3秒超时，避免字体加载阻塞页面
-        })
-      }
+    // 直接异步注入字体样式，省去额外的 webfontloader 脚本请求
+    if (!webFontUrl || webFontUrl.length === 0) {
+      return
+    }
+    webFontUrl.forEach(url => {
+      loadExternalResource(url, 'css')
     })
   }, [])
 
