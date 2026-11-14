@@ -1,4 +1,6 @@
 const CONFIG = {
+  // 首页全屏背景图；留空则使用 Notion 站点封面。默认使用本地压缩图，避免远距离加载大图
+  HEXO_HOME_COVER: process.env.NEXT_PUBLIC_HOME_COVER || '/images/hero-cover.jpg',
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   HEXO_HOME_BANNER_GREETINGS: [
