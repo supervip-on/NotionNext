@@ -1,6 +1,7 @@
 import { siteConfig } from '@/lib/config'
+import { buildImageCandidates } from '@/lib/utils/randomImage'
 import Head from 'next/head'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 
 /**
  * 图片懒加载
@@ -24,9 +25,18 @@ export default function LazyImage({
   const maxWidth = siteConfig('IMAGE_COMPRESS_WIDTH')
   const defaultPlaceholderSrc = siteConfig('IMG_LAZY_LOAD_PLACEHOLDER')
   const imageRef = useRef(null)
+  const candidates = useMemo(() => buildImageCandidates(src), [src])
+  const [candidateIndex, setCandidateIndex] = useState(0)
   const [currentSrc, setCurrentSrc] = useState(
     placeholderSrc || defaultPlaceholderSrc
   )
+  const activeSrc =
+    candidates[Math.min(candidateIndex, candidates.length - 1)] || src
+
+  // 图片地址变化时重新从第一个渠道开始尝试
+  useEffect(() => {
+    setCandidateIndex(0)
+  }, [src])
 
   /**
    * 占位图加载成功
@@ -47,50 +57,50 @@ export default function LazyImage({
     }
   }
   /**
-   * 图片加载失败回调
+   * 图片加载失败回调：依次尝试下一个随机图渠道
    */
   const handleImageError = () => {
-    if (imageRef.current) {
-      // 尝试加载 placeholderSrc，如果失败则加载 defaultPlaceholderSrc
-      if (imageRef.current.src !== placeholderSrc && placeholderSrc) {
-        imageRef.current.src = placeholderSrc
-      } else {
-        imageRef.current.src = defaultPlaceholderSrc
+    setCandidateIndex(index => {
+      if (index < candidates.length - 1) {
+        return index + 1
       }
-      // 移除占位符类名
+      // 所有渠道都失败，退回占位图
+      setCurrentSrc(placeholderSrc || defaultPlaceholderSrc)
       if (imageRef.current) {
         imageRef.current.classList.remove('lazy-image-placeholder')
       }
-    }
+      return index
+    })
   }
 
   useEffect(() => {
     const adjustedImageSrc =
-      adjustImgSize(src, maxWidth) || defaultPlaceholderSrc
+      adjustImgSize(activeSrc, maxWidth) || defaultPlaceholderSrc
+    let cancelled = false
 
-    // 如果是优先级图片，直接加载
-    if (priority) {
+    const preload = () => {
       const img = new Image()
+      // 设置图片解码优先级
+      if ('decoding' in img) {
+        img.decoding = 'async'
+      }
       img.src = adjustedImageSrc
       img.onload = () => {
+        if (cancelled) return
         setCurrentSrc(adjustedImageSrc)
         handleImageLoaded(adjustedImageSrc)
       }
-      img.onerror = handleImageError
-      return
+      img.onerror = () => {
+        if (!cancelled) handleImageError()
+      }
     }
 
-    // 检查浏览器是否支持IntersectionObserver
-    if (!window.IntersectionObserver) {
-      // 降级处理：直接加载图片
-      const img = new Image()
-      img.src = adjustedImageSrc
-      img.onload = () => {
-        setCurrentSrc(adjustedImageSrc)
-        handleImageLoaded(adjustedImageSrc)
+    // 优先级图片或不支持 IntersectionObserver 时直接加载
+    if (priority || !window.IntersectionObserver) {
+      preload()
+      return () => {
+        cancelled = true
       }
-      img.onerror = handleImageError
-      return
     }
 
     const observer = new IntersectionObserver(
@@ -98,18 +108,7 @@ export default function LazyImage({
         entries.forEach(entry => {
           if (entry.isIntersecting) {
             // 预加载图片
-            const img = new Image()
-            // 设置图片解码优先级
-            if ('decoding' in img) {
-              img.decoding = 'async'
-            }
-            img.src = adjustedImageSrc
-            img.onload = () => {
-              setCurrentSrc(adjustedImageSrc)
-              handleImageLoaded(adjustedImageSrc)
-            }
-            img.onerror = handleImageError
-
+            preload()
             observer.unobserve(entry.target)
           }
         })
@@ -125,11 +124,12 @@ export default function LazyImage({
     }
 
     return () => {
+      cancelled = true
       if (imageRef.current) {
         observer.unobserve(imageRef.current)
       }
     }
-  }, [src, maxWidth, priority])
+  }, [activeSrc, maxWidth, priority])
 
   // 动态添加width、height和className属性，仅在它们为有效值时添加
   const imgProps = {
