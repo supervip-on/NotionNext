@@ -3,6 +3,8 @@
  */
 module.exports = {
   ANALYTICS_VERCEL: process.env.NEXT_PUBLIC_ANALYTICS_VERCEL || false, // vercel自带的统计 https://vercel.com/docs/concepts/analytics/quickstart https://github.com/tangly1024/NotionNext/issues/897
+  ANALYTICS_VERCEL_SPEED_INSIGHTS:
+    process.env.NEXT_PUBLIC_ANALYTICS_VERCEL_SPEED_INSIGHTS || true, // Vercel Speed Insights 真实用户性能指标（LCP/INP/CLS）
   ANALYTICS_BUSUANZI_ENABLE:
     process.env.NEXT_PUBLIC_ANALYTICS_BUSUANZI_ENABLE || true, // 展示网站阅读量、访问数 see http://busuanzi.ibruce.info/
   // 展示基数：页面显示值 = 真实统计 + 基数，只影响显示；设为 0 则显示真实值

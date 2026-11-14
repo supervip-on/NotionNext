@@ -33,6 +33,11 @@ const ExternalPlugin = props => {
     NOTION_CONFIG
   )
   const ANALYTICS_VERCEL = siteConfig('ANALYTICS_VERCEL', null, NOTION_CONFIG)
+  const ANALYTICS_VERCEL_SPEED_INSIGHTS = siteConfig(
+    'ANALYTICS_VERCEL_SPEED_INSIGHTS',
+    null,
+    NOTION_CONFIG
+  )
   const ANALYTICS_BUSUANZI_ENABLE = siteConfig(
     'ANALYTICS_BUSUANZI_ENABLE',
     null,
@@ -219,6 +224,7 @@ const ExternalPlugin = props => {
       {ANALYTICS_ACKEE_TRACKER && <Ackee />}
       {ANALYTICS_GOOGLE_ID && <Gtag />}
       {ANALYTICS_VERCEL && <Analytics />}
+      {ANALYTICS_VERCEL_SPEED_INSIGHTS && <SpeedInsights />}
       {ANALYTICS_BUSUANZI_ENABLE && <Busuanzi />}
       {FACEBOOK_APP_ID && FACEBOOK_PAGE_ID && <Messenger />}
       {FIREWORKS && <Fireworks />}
@@ -506,6 +512,10 @@ const Analytics = dynamic(
     import('@vercel/analytics/react').then(m => {
       return m.Analytics
     }),
+  { ssr: false }
+)
+const SpeedInsights = dynamic(
+  () => import('@/components/VercelSpeedInsights'),
   { ssr: false }
 )
 const MusicPlayer = dynamic(() => import('@/components/Player'), { ssr: false })
