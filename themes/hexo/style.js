@@ -185,22 +185,141 @@ const Style = () => {
         color: var(--theme-color) !important;
       }
 
-      /* 设置了从上到下的渐变黑色 */
-      #theme-hexo .header-cover::before {
-        content: '';
+      /* 首页代码背景：极光渐变 + 粒子，无需图片 */
+      #theme-hexo .hero-aurora {
+        background: #05070f;
+      }
+      #theme-hexo .aurora-blob {
         position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: linear-gradient(
-          to bottom,
-          rgba(0, 0, 0, 0.5) 0%,
-          rgba(0, 0, 0, 0.2) 10%,
-          rgba(0, 0, 0, 0) 25%,
-          rgba(0, 0, 0, 0.2) 75%,
-          rgba(0, 0, 0, 0.5) 100%
+        border-radius: 9999px;
+        filter: blur(80px);
+        opacity: 0.5;
+        transform: translate3d(0, 0, 0);
+        will-change: transform;
+      }
+      #theme-hexo .aurora-blob-1 {
+        width: 58vmax;
+        height: 58vmax;
+        left: -14vmax;
+        top: -20vmax;
+        background: radial-gradient(
+          circle,
+          rgba(92, 102, 255, 0.9) 0%,
+          rgba(92, 102, 255, 0) 68%
         );
+      }
+      #theme-hexo .aurora-blob-2 {
+        width: 52vmax;
+        height: 52vmax;
+        right: -14vmax;
+        top: 6vmax;
+        background: radial-gradient(
+          circle,
+          rgba(34, 211, 238, 0.72) 0%,
+          rgba(34, 211, 238, 0) 70%
+        );
+      }
+      #theme-hexo .aurora-blob-3 {
+        width: 64vmax;
+        height: 44vmax;
+        left: 12vmax;
+        bottom: -22vmax;
+        background: radial-gradient(
+          circle,
+          rgba(168, 85, 247, 0.66) 0%,
+          rgba(168, 85, 247, 0) 70%
+        );
+      }
+      #theme-hexo .aurora-grid {
+        position: absolute;
+        inset: 0;
+        opacity: 0.55;
+        background-image: linear-gradient(
+            rgba(255, 255, 255, 0.05) 1px,
+            transparent 1px
+          ),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+        background-size: 64px 64px;
+        -webkit-mask-image: radial-gradient(
+          ellipse at 50% 40%,
+          #000 0%,
+          transparent 72%
+        );
+        mask-image: radial-gradient(
+          ellipse at 50% 40%,
+          #000 0%,
+          transparent 72%
+        );
+      }
+      #theme-hexo .aurora-grain {
+        position: absolute;
+        inset: 0;
+        opacity: 0.05;
+        mix-blend-mode: overlay;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+      }
+      #theme-hexo .aurora-particles {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        opacity: 0.8;
+      }
+      #theme-hexo .aurora-shade {
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(
+            ellipse at 50% 45%,
+            rgba(3, 5, 10, 0) 0%,
+            rgba(3, 5, 10, 0.32) 78%,
+            rgba(3, 5, 10, 0.55) 100%
+          ),
+          linear-gradient(
+            to bottom,
+            rgba(3, 5, 10, 0.45) 0%,
+            rgba(3, 5, 10, 0.12) 20%,
+            rgba(3, 5, 10, 0.05) 55%,
+            rgba(3, 5, 10, 0.85) 100%
+          );
+      }
+      @keyframes aurora-float-1 {
+        from {
+          transform: translate3d(0, 0, 0) scale(1);
+        }
+        to {
+          transform: translate3d(8vmax, 6vmax, 0) scale(1.15);
+        }
+      }
+      @keyframes aurora-float-2 {
+        from {
+          transform: translate3d(0, 0, 0) scale(1.05);
+        }
+        to {
+          transform: translate3d(-6vmax, 8vmax, 0) scale(0.95);
+        }
+      }
+      @keyframes aurora-float-3 {
+        from {
+          transform: translate3d(0, 0, 0) scale(1);
+        }
+        to {
+          transform: translate3d(5vmax, -7vmax, 0) scale(1.2);
+        }
+      }
+      @media (min-width: 768px) {
+        #theme-hexo .aurora-blob-1 {
+          animation: aurora-float-1 42s ease-in-out infinite alternate;
+        }
+        #theme-hexo .aurora-blob-2 {
+          animation: aurora-float-2 52s ease-in-out infinite alternate;
+        }
+        #theme-hexo .aurora-blob-3 {
+          animation: aurora-float-3 60s ease-in-out infinite alternate;
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        #theme-hexo .aurora-blob {
+          animation: none !important;
+        }
       }
 
       /* Custem */

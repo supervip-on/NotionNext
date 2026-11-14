@@ -1,10 +1,10 @@
 // import Image from 'next/image'
-import LazyImage from '@/components/LazyImage'
 import { siteConfig } from '@/lib/config'
 import { useGlobal } from '@/lib/global'
 import { loadExternalResource } from '@/lib/utils'
 import { useEffect, useState } from 'react'
 import CONFIG from '../config'
+import HeroBackground from './HeroBackground'
 import NavButtonGroup from './NavButtonGroup'
 
 let wrapperTop = 0
@@ -60,7 +60,8 @@ const Hero = props => {
       id='header'
       style={{ zIndex: 1 }}
       className='w-full h-screen relative bg-black'>
-      <div className='text-white absolute bottom-0 flex flex-col h-full items-center justify-center w-full '>
+      <HeroBackground />
+      <div className='text-white absolute bottom-0 z-10 flex flex-col h-full items-center justify-center w-full '>
         {/* 站点标题 */}
         <div className='font-black text-4xl md:text-5xl shadow-text'>
           {siteInfo?.title || siteConfig('TITLE')}
@@ -87,16 +88,6 @@ const Hero = props => {
         </div>
       </div>
 
-      <LazyImage
-        id='header-cover'
-        alt={siteInfo?.title}
-        src={
-          siteConfig('HEXO_HOME_COVER', null, CONFIG) || siteInfo?.pageCover
-        }
-        className={`header-cover w-full h-screen object-cover object-center ${siteConfig('HEXO_HOME_NAV_BACKGROUND_IMG_FIXED', null, CONFIG) ? 'fixed' : ''}`}
-        // 移动端使用更低优先级，优先显示文字内容
-        priority={typeof window !== 'undefined' && window.innerWidth >= 768}
-      />
     </header>
   )
 }
