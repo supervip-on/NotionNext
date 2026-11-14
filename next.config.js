@@ -149,6 +149,17 @@ const nextConfig = {
             source: '/feed',
             destination: '/rss/feed.xml',
             permanent: true
+          },
+          // 搜索改为前端过滤，避免任意关键词触发生成与全文扫描
+          {
+            source: '/search/:keyword/page/:page',
+            destination: '/search?s=:keyword',
+            permanent: false
+          },
+          {
+            source: '/search/:keyword',
+            destination: '/search?s=:keyword',
+            permanent: false
           }
         ]
       },

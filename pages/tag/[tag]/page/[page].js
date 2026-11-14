@@ -11,6 +11,24 @@ const Tag = props => {
 export async function getStaticProps({ params: { tag, page }, locale }) {
   const from = 'tag-page-props'
   const props = await fetchGlobalAllData({ from, locale })
+  const revalidate = process.env.EXPORT
+    ? undefined
+    : siteConfig(
+        'NEXT_REVALIDATE_SECOND',
+        BLOG.NEXT_REVALIDATE_SECOND,
+        props.NOTION_CONFIG
+      )
+  const pageNumber = Number(page)
+  if (
+    !Number.isInteger(pageNumber) ||
+    pageNumber < 1 ||
+    (Array.isArray(props?.tagOptions) &&
+      props.tagOptions.length > 0 &&
+      !props.tagOptions.some(t => t.name === tag))
+  ) {
+    return { notFound: true, revalidate }
+  }
+
   // 过滤状态、标签
   props.posts = props.allPages
     ?.filter(page => page.type === 'Post' && page.status === 'Published')
@@ -18,25 +36,20 @@ export async function getStaticProps({ params: { tag, page }, locale }) {
   // 处理文章数
   props.postCount = props.posts.length
   const POSTS_PER_PAGE = siteConfig('POSTS_PER_PAGE', 12, props?.NOTION_CONFIG)
+  const totalPages = Math.ceil(props.postCount / POSTS_PER_PAGE)
+  if (totalPages > 0 && pageNumber > totalPages) {
+    return { notFound: true, revalidate }
+  }
   // 处理分页
   props.posts = props.posts.slice(
-    POSTS_PER_PAGE * (page - 1),
-    POSTS_PER_PAGE * page
+    POSTS_PER_PAGE * (pageNumber - 1),
+    POSTS_PER_PAGE * pageNumber
   )
 
   props.tag = tag
   props.page = page
   delete props.allPages
-  return {
-    props,
-    revalidate: process.env.EXPORT
-      ? undefined
-      : siteConfig(
-          'NEXT_REVALIDATE_SECOND',
-          BLOG.NEXT_REVALIDATE_SECOND,
-          props.NOTION_CONFIG
-        )
-  }
+  return { props, revalidate }
 }
 
 export async function getStaticPaths() {

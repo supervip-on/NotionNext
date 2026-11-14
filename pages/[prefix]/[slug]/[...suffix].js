@@ -60,17 +60,18 @@ export async function getStaticProps({
     suffix,
     locale,
   })
-
-  return {
-    props,
-    revalidate: process.env.EXPORT
-      ? undefined
-      : siteConfig(
-        'NEXT_REVALIDATE_SECOND',
-        BLOG.NEXT_REVALIDATE_SECOND,
-        props.NOTION_CONFIG
-      )
+  const revalidate = process.env.EXPORT
+    ? undefined
+    : siteConfig(
+      'NEXT_REVALIDATE_SECOND',
+      BLOG.NEXT_REVALIDATE_SECOND,
+      props.NOTION_CONFIG
+    )
+  if (!props?.post && props?.postCount > 1) {
+    return { notFound: true, revalidate }
   }
+
+  return { props, revalidate }
 }
 
 export default PrefixSlug

@@ -42,10 +42,26 @@ export async function getStaticProps({ params: { page }, locale }) {
     page => page.type === 'Post' && page.status === 'Published'
   )
   const POSTS_PER_PAGE = siteConfig('POSTS_PER_PAGE', 12, props?.NOTION_CONFIG)
+  const revalidate = process.env.EXPORT
+    ? undefined
+    : siteConfig(
+        'NEXT_REVALIDATE_SECOND',
+        BLOG.NEXT_REVALIDATE_SECOND,
+        props.NOTION_CONFIG
+      )
+  const pageNumber = Number(page)
+  const totalPages = Math.ceil(props.postCount / POSTS_PER_PAGE)
+  if (
+    !Number.isInteger(pageNumber) ||
+    pageNumber < 1 ||
+    (props.postCount > POSTS_PER_PAGE && pageNumber > totalPages)
+  ) {
+    return { notFound: true, revalidate }
+  }
   // 处理分页
   props.posts = allPosts.slice(
-    POSTS_PER_PAGE * (page - 1),
-    POSTS_PER_PAGE * page
+    POSTS_PER_PAGE * (pageNumber - 1),
+    POSTS_PER_PAGE * pageNumber
   )
   props.page = page
 
@@ -61,16 +77,7 @@ export async function getStaticProps({ params: { page }, locale }) {
   }
 
   delete props.allPages
-  return {
-    props,
-    revalidate: process.env.EXPORT
-      ? undefined
-      : siteConfig(
-          'NEXT_REVALIDATE_SECOND',
-          BLOG.NEXT_REVALIDATE_SECOND,
-          props.NOTION_CONFIG
-        )
-  }
+  return { props, revalidate }
 }
 
 export default Page

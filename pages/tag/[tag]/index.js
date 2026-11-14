@@ -16,6 +16,22 @@ const Tag = props => {
 export async function getStaticProps({ params: { tag }, locale }) {
   const from = 'tag-props'
   const props = await fetchGlobalAllData({ from, locale })
+  const revalidate = process.env.EXPORT
+    ? undefined
+    : siteConfig(
+        'NEXT_REVALIDATE_SECOND',
+        BLOG.NEXT_REVALIDATE_SECOND,
+        props.NOTION_CONFIG
+      )
+
+  // 不存在的标签直接 404，并缓存该结果，避免随机路径触发生成
+  if (
+    Array.isArray(props?.tagOptions) &&
+    props.tagOptions.length > 0 &&
+    !props.tagOptions.some(t => t.name === tag)
+  ) {
+    return { notFound: true, revalidate }
+  }
 
   // 过滤状态
   props.posts = props.allPages
@@ -37,16 +53,7 @@ export async function getStaticProps({ params: { tag }, locale }) {
 
   props.tag = tag
   delete props.allPages
-  return {
-    props,
-    revalidate: process.env.EXPORT
-      ? undefined
-      : siteConfig(
-          'NEXT_REVALIDATE_SECOND',
-          BLOG.NEXT_REVALIDATE_SECOND,
-          props.NOTION_CONFIG
-        )
-  }
+  return { props, revalidate }
 }
 
 /**

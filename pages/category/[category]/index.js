@@ -16,6 +16,22 @@ export default function Category(props) {
 export async function getStaticProps({ params: { category }, locale }) {
   const from = 'category-props'
   let props = await fetchGlobalAllData({ from, locale })
+  const revalidate = process.env.EXPORT
+    ? undefined
+    : siteConfig(
+        'NEXT_REVALIDATE_SECOND',
+        BLOG.NEXT_REVALIDATE_SECOND,
+        props.NOTION_CONFIG
+      )
+
+  // 不存在的分类直接 404，并缓存该结果
+  if (
+    Array.isArray(props?.categoryOptions) &&
+    props.categoryOptions.length > 0 &&
+    !props.categoryOptions.some(c => c.name === category)
+  ) {
+    return { notFound: true, revalidate }
+  }
 
   // 过滤状态
   props.posts = props.allPages?.filter(
@@ -41,16 +57,7 @@ export async function getStaticProps({ params: { category }, locale }) {
 
   props = { ...props, category }
 
-  return {
-    props,
-    revalidate: process.env.EXPORT
-      ? undefined
-      : siteConfig(
-          'NEXT_REVALIDATE_SECOND',
-          BLOG.NEXT_REVALIDATE_SECOND,
-          props.NOTION_CONFIG
-        )
-  }
+  return { props, revalidate }
 }
 
 export async function getStaticPaths() {
