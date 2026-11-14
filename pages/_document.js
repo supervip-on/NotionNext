@@ -45,7 +45,6 @@ class MyDocument extends Document {
         <Head>
           {/* 预连接关键CDN域名，减少移动端DNS查询延迟 */}
           <link rel='preconnect' href='https://cdn.jsdelivr.net' crossOrigin='anonymous' />
-          <link rel='preconnect' href='https://fonts.loli.net' crossOrigin='anonymous' />
           <link rel='dns-prefetch' href='//busuanzi.ibruce.info' />
 
           {/* 预加载Font Awesome图标字体 */}
