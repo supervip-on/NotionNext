@@ -1,4 +1,6 @@
 import SmartLink from '@/components/SmartLink'
+import { useGlobal } from '@/lib/global'
+import { getMenuLabel } from '@/lib/utils/menuLabel'
 import { useState } from 'react'
 /**
  * 支持二级展开的菜单
@@ -6,6 +8,7 @@ import { useState } from 'react'
  * @returns
  */
 export const MenuItemDrop = ({ link }) => {
+  const { lang } = useGlobal()
   const [show, changeShow] = useState(false)
   const hasSubMenu = link?.subMenus?.length > 0
 
@@ -22,7 +25,8 @@ export const MenuItemDrop = ({ link }) => {
           href={link?.href}
           target={link?.target}
           className=' menu-link pl-2 pr-4 no-underline tracking-widest pb-1'>
-          {link?.icon && <i className={link?.icon} />} {link?.name}
+          {link?.icon && <i className={link?.icon} />}{' '}
+          {getMenuLabel(link?.name, lang)}
           {hasSubMenu && <i className='px-2 fa fa-angle-down'></i>}
         </SmartLink>
       )}
@@ -30,7 +34,8 @@ export const MenuItemDrop = ({ link }) => {
       {hasSubMenu && (
         <>
           <div className='cursor-pointer menu-link pl-2 pr-4 no-underline tracking-widest pb-1 relative'>
-            {link?.icon && <i className={link?.icon} />} {link?.name}
+            {link?.icon && <i className={link?.icon} />}{' '}
+            {getMenuLabel(link?.name, lang)}
             <i
               className={`px-2 fa fa-angle-down duration-300  ${show ? 'rotate-180' : 'rotate-0'}`}></i>
             {/* 主菜单下方的安全区域 */}
@@ -54,7 +59,7 @@ export const MenuItemDrop = ({ link }) => {
                 <SmartLink href={sLink.href} target={link?.target}>
                   <span className='text-sm text-nowrap font-extralight'>
                     {link?.icon && <i className={sLink?.icon}> &nbsp; </i>}
-                    {sLink.title}
+                    {getMenuLabel(sLink.title, lang)}
                   </span>
                 </SmartLink>
               </li>

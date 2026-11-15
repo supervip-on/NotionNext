@@ -7,6 +7,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import CONFIG from '../config'
 import ButtonRandomPost from './ButtonRandomPost'
 import CategoryGroup from './CategoryGroup'
+import LanguageSwitch from './LanguageSwitch'
 import Logo from './Logo'
 import { MenuListTop } from './MenuListTop'
 import SearchButton from './SearchButton'
@@ -175,6 +176,7 @@ const Header = props => {
             </div>
             {showSearchButton && <SearchButton />}
             {showRandomButton && <ButtonRandomPost {...props} />}
+            <LanguageSwitch />
           </div>
         </div>
       </div>

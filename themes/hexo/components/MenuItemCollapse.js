@@ -1,5 +1,7 @@
 import Collapse from '@/components/Collapse'
 import SmartLink from '@/components/SmartLink'
+import { useGlobal } from '@/lib/global'
+import { getMenuLabel } from '@/lib/utils/menuLabel'
 import { useState } from 'react'
 
 /**
@@ -9,6 +11,7 @@ import { useState } from 'react'
  */
 export const MenuItemCollapse = props => {
   const { link } = props
+  const { lang } = useGlobal()
   const [show, changeShow] = useState(false)
   const hasSubMenu = link?.subMenus?.length > 0
 
@@ -38,7 +41,7 @@ export const MenuItemCollapse = props => {
             className=' font-extralight flex justify-between pl-2 pr-4 dark:text-gray-200 no-underline tracking-widest pb-1'>
             <span className=' transition-all items-center duration-200'>
               {link?.icon && <i className={link.icon + ' mr-4'} />}
-              {link?.name}
+              {getMenuLabel(link?.name, lang)}
             </span>
           </SmartLink>
         )}
@@ -48,7 +51,7 @@ export const MenuItemCollapse = props => {
             className='font-extralight flex items-center justify-between pl-2 pr-4 cursor-pointer  dark:text-gray-200 no-underline tracking-widest pb-1'>
             <span className='transition-all items-center duration-200'>
               {link?.icon && <i className={link.icon + ' mr-4'} />}
-              {link?.name}
+              {getMenuLabel(link?.name, lang)}
             </span>
             <i
               className={`px-2 fas fa-chevron-left transition-all duration-200 ${isOpen ? '-rotate-90' : ''} text-gray-400`}></i>
@@ -67,7 +70,7 @@ export const MenuItemCollapse = props => {
                 <SmartLink href={sLink.href} target={link?.target}>
                   <span className='text-sm ml-4 whitespace-nowrap'>
                     {link?.icon && <i className={sLink.icon + ' mr-2'} />}{' '}
-                    {sLink.title}
+                    {getMenuLabel(sLink.title, lang)}
                   </span>
                 </SmartLink>
               </div>
